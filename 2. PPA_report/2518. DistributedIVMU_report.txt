@@ -1,0 +1,20 @@
+PPA Report for DistributedIVMU
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 24
+FF Count: 28
+IO Count: 154
+Cell Count: 266
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 826.45 MHz
+Reg-to-Reg Critical Path Delay: 0.988 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.492 W

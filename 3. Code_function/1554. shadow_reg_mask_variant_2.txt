@@ -1,0 +1,1 @@
+Masked register with shadow storage

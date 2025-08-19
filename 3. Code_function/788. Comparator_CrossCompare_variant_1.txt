@@ -1,0 +1,1 @@
+Dual-input equality checker with AND

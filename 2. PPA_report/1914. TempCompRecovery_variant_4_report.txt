@@ -1,0 +1,20 @@
+PPA Report for TempCompRecovery.v (Module: TempCompRecovery)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 24
+FF Count: 23
+IO Count: 37
+Cell Count: 148
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 264.58 MHz
+Reg-to-Reg Critical Path Delay: 3.430 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 9.005 W

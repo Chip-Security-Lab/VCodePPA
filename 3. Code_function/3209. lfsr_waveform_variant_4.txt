@@ -1,0 +1,1 @@
+Handshaked LFSR random number generator

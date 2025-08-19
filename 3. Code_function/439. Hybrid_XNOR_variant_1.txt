@@ -1,0 +1,1 @@
+XNOR pattern generator with AXI-Stream

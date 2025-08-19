@@ -1,0 +1,1 @@
+Parameterized synchronous register with reset

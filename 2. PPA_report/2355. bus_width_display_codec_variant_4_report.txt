@@ -1,0 +1,20 @@
+PPA Report for bus_width_display_codec.v (Module: bus_width_display_codec)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 15
+FF Count: 17
+IO Count: 42
+Cell Count: 131
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 343.57 MHz
+Reg-to-Reg Critical Path Delay: 2.386 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.456 W

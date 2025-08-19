@@ -1,0 +1,20 @@
+PPA Report for bit_interleaver.v (Module: bit_interleaver)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 1
+FF Count: 34
+IO Count: 36
+Cell Count: 112
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1020.41 MHz
+Reg-to-Reg Critical Path Delay: 0.830 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.455 W

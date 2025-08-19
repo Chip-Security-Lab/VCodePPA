@@ -1,0 +1,1 @@
+XNOR using Baugh-Wooley multiplier

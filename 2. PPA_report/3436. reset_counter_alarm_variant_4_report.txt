@@ -1,0 +1,20 @@
+PPA Report for reset_counter_alarm.v (Module: reset_counter_alarm)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 4
+FF Count: 14
+IO Count: 8
+Cell Count: 38
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 297.28 MHz
+Reg-to-Reg Critical Path Delay: 3.152 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 1.211 W

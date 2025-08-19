@@ -1,0 +1,22 @@
+PPA Report for 2926. usb_interrupt_handler.sv (Module: usb_interrupt_handler)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 134
+FF Count: 95
+IO Count: 42
+Cell Count: 369
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 388.35 MHz
+End-to-End Path Delay: N/A (No valid path found) ns
+Reg-to-Reg Critical Path Delay: 2.271 ns
+Detected Clock Signals: clk
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.455 W

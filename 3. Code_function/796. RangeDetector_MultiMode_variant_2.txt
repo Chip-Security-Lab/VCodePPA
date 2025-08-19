@@ -1,0 +1,1 @@
+Pipelined multimode range comparison detector

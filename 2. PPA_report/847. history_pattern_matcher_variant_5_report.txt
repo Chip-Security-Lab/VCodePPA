@@ -1,0 +1,20 @@
+PPA Report for history_pattern_matcher.v (Module: history_pattern_matcher)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 5
+FF Count: 35
+IO Count: 19
+Cell Count: 98
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 779.42 MHz
+Reg-to-Reg Critical Path Delay: 1.164 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

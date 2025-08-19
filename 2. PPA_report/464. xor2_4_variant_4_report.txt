@@ -1,0 +1,20 @@
+PPA Report for xor2_4.v (Module: xor2_4)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 52
+FF Count: 111
+IO Count: 92
+Cell Count: 363
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 607.90 MHz
+Reg-to-Reg Critical Path Delay: 1.366 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.467 W

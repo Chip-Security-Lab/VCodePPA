@@ -1,0 +1,20 @@
+PPA Report for reset_timeout_monitor.v (Module: reset_timeout_monitor)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 28
+FF Count: 35
+IO Count: 59
+Cell Count: 170
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 659.63 MHz
+Reg-to-Reg Critical Path Delay: 1.283 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.461 W

@@ -1,0 +1,20 @@
+PPA Report for comparator_pipelined.v (Module: comparator_pipelined)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 7
+FF Count: 24
+IO Count: 13
+Cell Count: 70
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 981.35 MHz
+Reg-to-Reg Critical Path Delay: 0.874 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

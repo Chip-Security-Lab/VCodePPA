@@ -1,0 +1,20 @@
+PPA Report for int_ctrl_pipe5.v (Module: int_ctrl_pipe5)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 17
+FF Count: 29
+IO Count: 23
+Cell Count: 113
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 868.06 MHz
+Reg-to-Reg Critical Path Delay: 1.002 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

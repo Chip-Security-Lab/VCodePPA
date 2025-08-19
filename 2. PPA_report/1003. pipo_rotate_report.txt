@@ -1,0 +1,22 @@
+PPA Report for 1003. pipo_rotate.sv (Module: pipo_rotate)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 17
+FF Count: 16
+IO Count: 37
+Cell Count: 114
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1018.33 MHz
+End-to-End Path Delay: N/A (No valid path found) ns
+Reg-to-Reg Critical Path Delay: 0.831 ns
+Detected Clock Signals: i_clk
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.456 W

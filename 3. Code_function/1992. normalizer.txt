@@ -1,0 +1,1 @@
+Normalizes data with leading bit

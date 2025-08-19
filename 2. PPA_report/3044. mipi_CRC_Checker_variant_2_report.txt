@@ -1,0 +1,20 @@
+PPA Report for MIPI_CRC_Checker.v (Module: MIPI_CRC_Checker)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 13
+FF Count: 43
+IO Count: 44
+Cell Count: 127
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 656.17 MHz
+Reg-to-Reg Critical Path Delay: 1.331 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.469 W

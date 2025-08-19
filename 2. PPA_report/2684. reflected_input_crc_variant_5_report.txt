@@ -1,0 +1,20 @@
+PPA Report for reflected_input_crc.v (Module: reflected_input_crc)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 14
+FF Count: 16
+IO Count: 20
+Cell Count: 65
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 527.43 MHz
+Reg-to-Reg Critical Path Delay: 1.729 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.464 W

@@ -1,0 +1,20 @@
+PPA Report for config_direction_comp
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 10
+FF Count: 3
+IO Count: 14
+Cell Count: 53
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 323.21 MHz
+Reg-to-Reg Critical Path Delay: 2.394 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

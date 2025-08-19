@@ -1,0 +1,20 @@
+PPA Report for thermometer_to_binary.v (Module: thermometer_to_binary)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 13
+FF Count: 27
+IO Count: 12
+Cell Count: 76
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 794.28 MHz
+Reg-to-Reg Critical Path Delay: 1.112 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

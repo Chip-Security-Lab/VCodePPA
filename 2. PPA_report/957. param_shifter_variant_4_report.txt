@@ -1,0 +1,19 @@
+PPA Report for param_shifter.v (Module: param_shifter)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 0
+FF Count: 13
+IO Count: 15
+Cell Count: 37
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+
+POWER METRICS:
+-------------
+Total Power Consumption: 2.724 W

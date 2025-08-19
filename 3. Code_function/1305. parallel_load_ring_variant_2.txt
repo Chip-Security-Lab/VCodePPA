@@ -1,0 +1,1 @@
+Handshaked parallel-load ring shifter

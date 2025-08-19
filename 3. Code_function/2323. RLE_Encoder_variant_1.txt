@@ -1,0 +1,1 @@
+Pipelined run-length encoder

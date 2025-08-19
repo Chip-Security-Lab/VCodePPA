@@ -1,0 +1,20 @@
+PPA Report for Tri-State Bus Arbiter
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 19
+FF Count: 6
+IO Count: 58
+Cell Count: 193
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 631.31 MHz
+Reg-to-Reg Critical Path Delay: 1.293 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.471 W

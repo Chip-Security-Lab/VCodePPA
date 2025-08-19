@@ -1,0 +1,20 @@
+PPA Report for mode_selectable_comparator
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 44
+FF Count: 0
+IO Count: 36
+Cell Count: 185
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+End-to-End Path Delay: 6.241 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 1.847 W

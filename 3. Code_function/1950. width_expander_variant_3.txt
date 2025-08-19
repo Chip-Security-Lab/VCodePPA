@@ -1,0 +1,1 @@
+Pipelined narrow-to-wide data converter

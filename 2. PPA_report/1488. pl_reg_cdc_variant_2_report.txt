@@ -1,0 +1,20 @@
+PPA Report for pl_reg_cdc.v (Module: pl_reg_cdc)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 0
+FF Count: 24
+IO Count: 18
+Cell Count: 67
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 316.26 MHz
+Reg-to-Reg Critical Path Delay: 1.136 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.454 W

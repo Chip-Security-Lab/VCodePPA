@@ -1,0 +1,1 @@
+LUT-based NOR gate implementation

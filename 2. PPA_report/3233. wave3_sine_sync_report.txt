@@ -1,0 +1,20 @@
+PPA Report for 3233. wave3_sine_sync.sv (Module: wave3_sine_sync)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 1
+FF Count: 6
+IO Count: 10
+Cell Count: 28
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 892.86 MHz
+Longest Path Delay: 0.697 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.458 W

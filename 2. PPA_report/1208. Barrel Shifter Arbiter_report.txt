@@ -1,0 +1,20 @@
+PPA Report for Barrel Shifter Arbiter
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 37
+FF Count: 3
+IO Count: 21
+Cell Count: 94
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 621.12 MHz
+Reg-to-Reg Critical Path Delay: 1.413 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.455 W

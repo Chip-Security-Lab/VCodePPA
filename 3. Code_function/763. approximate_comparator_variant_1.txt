@@ -1,0 +1,1 @@
+Approximate value comparator with tolerance

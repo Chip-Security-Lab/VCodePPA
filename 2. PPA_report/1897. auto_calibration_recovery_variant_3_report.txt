@@ -1,0 +1,20 @@
+PPA Report for auto_calibration_recovery.v (Module: auto_calibration_recovery)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 22
+FF Count: 41
+IO Count: 33
+Cell Count: 149
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 762.78 MHz
+Reg-to-Reg Critical Path Delay: 1.115 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.459 W

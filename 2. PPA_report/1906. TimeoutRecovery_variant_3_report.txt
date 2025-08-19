@@ -1,0 +1,20 @@
+PPA Report for TimeoutRecovery.v (Module: TimeoutRecovery)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 45
+FF Count: 176
+IO Count: 19
+Cell Count: 293
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 592.77 MHz
+Reg-to-Reg Critical Path Delay: 1.463 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.454 W

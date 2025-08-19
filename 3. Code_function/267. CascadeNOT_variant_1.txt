@@ -1,0 +1,1 @@
+Parameterized 4-bit NOT gate cascade

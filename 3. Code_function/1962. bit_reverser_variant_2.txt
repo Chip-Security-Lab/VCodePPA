@@ -1,0 +1,1 @@
+Reverses bits then subtracts constant

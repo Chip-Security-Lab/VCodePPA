@@ -1,0 +1,19 @@
+PPA Report for bbs_rng
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 184
+FF Count: 16
+IO Count: 10
+Cell Count: 346
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+
+POWER METRICS:
+-------------
+Total Power Consumption: 10.837 W

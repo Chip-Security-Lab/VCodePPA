@@ -1,0 +1,20 @@
+PPA Report for DistributedITRC.v (Module: DistributedITRC)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 7
+FF Count: 22
+IO Count: 17
+Cell Count: 77
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 966.18 MHz
+Reg-to-Reg Critical Path Delay: 0.894 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

@@ -1,0 +1,21 @@
+PPA Report for sync_reset_regfile.v (Module: sync_reset_regfile)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 320
+FF Count: 1062
+IO Count: 77
+Cell Count: 1682
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 343.41 MHz
+End-to-End Path Delay: 6.564 ns
+Reg-to-Reg Critical Path Delay: 2.612 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.491 W

@@ -1,0 +1,20 @@
+PPA Report for debug_crc8.v (Module: debug_crc8)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 8
+FF Count: 20
+IO Count: 18
+Cell Count: 60
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 655.31 MHz
+Reg-to-Reg Critical Path Delay: 1.389 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.461 W

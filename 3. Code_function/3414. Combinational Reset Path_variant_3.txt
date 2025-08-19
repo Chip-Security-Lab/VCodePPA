@@ -1,0 +1,1 @@
+Negates input with reset control

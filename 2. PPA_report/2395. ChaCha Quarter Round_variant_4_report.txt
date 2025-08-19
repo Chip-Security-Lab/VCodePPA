@@ -1,0 +1,20 @@
+PPA Report for chacha_quarter_round.v (Module: chacha_quarter_round)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 152
+FF Count: 0
+IO Count: 256
+Cell Count: 678
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+End-to-End Path Delay: 8.572 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 163.079 W

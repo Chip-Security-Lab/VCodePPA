@@ -1,0 +1,20 @@
+PPA Report for prog_freq_divider.v (Module: prog_freq_divider)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 46
+FF Count: 33
+IO Count: 20
+Cell Count: 149
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 293.73 MHz
+Reg-to-Reg Critical Path Delay: 3.140 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 1.076 W

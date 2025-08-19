@@ -1,0 +1,1 @@
+Power-on reset circuit with synchronization

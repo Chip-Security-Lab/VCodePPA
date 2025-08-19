@@ -1,0 +1,20 @@
+PPA Report for serial_in_ring_counter.v (Module: serial_in_ring_counter)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 0
+FF Count: 7
+IO Count: 7
+Cell Count: 23
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1180.64 MHz
+Reg-to-Reg Critical Path Delay: 0.728 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

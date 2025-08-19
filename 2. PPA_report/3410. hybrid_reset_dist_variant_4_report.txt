@@ -1,0 +1,20 @@
+PPA Report for hybrid_reset_dist.v (Module: hybrid_reset_dist)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 2
+FF Count: 15
+IO Count: 11
+Cell Count: 47
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1103.75 MHz
+Reg-to-Reg Critical Path Delay: 0.768 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

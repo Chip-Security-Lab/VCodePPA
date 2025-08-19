@@ -1,0 +1,20 @@
+PPA Report for reset_propagation_monitor.v (Module: reset_propagation_monitor)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 11
+FF Count: 12
+IO Count: 7
+Cell Count: 49
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 648.09 MHz
+Reg-to-Reg Critical Path Delay: 1.324 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.451 W

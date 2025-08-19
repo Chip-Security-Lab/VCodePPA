@@ -1,0 +1,20 @@
+PPA Report for add_shift_right.v (Module: add_shift_right)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 22
+FF Count: 0
+IO Count: 35
+Cell Count: 101
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+End-to-End Path Delay: 5.804 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 5.969 W

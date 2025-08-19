@@ -1,0 +1,1 @@
+Pipelined serial CRC8 calculator

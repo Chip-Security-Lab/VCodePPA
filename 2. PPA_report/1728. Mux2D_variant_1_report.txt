@@ -1,0 +1,20 @@
+PPA Report for Mux2D.v (Module: Mux2D)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 7
+FF Count: 34
+IO Count: 24
+Cell Count: 114
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1000.00 MHz
+Reg-to-Reg Critical Path Delay: 0.873 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

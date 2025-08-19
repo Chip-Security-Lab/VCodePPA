@@ -1,0 +1,20 @@
+PPA Report for ICMU_ShadowHybrid
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 49
+FF Count: 34
+IO Count: 66
+Cell Count: 271
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 731.53 MHz
+Reg-to-Reg Critical Path Delay: 1.100 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.476 W

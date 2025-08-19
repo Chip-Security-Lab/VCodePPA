@@ -1,0 +1,20 @@
+PPA Report for config_reg_decoder.v (Module: config_reg_decoder)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 2
+FF Count: 4
+IO Count: 7
+Cell Count: 25
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 537.92 MHz
+Reg-to-Reg Critical Path Delay: 1.767 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

@@ -1,0 +1,20 @@
+PPA Report for parallel_codec.v (Module: parallel_codec)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 49
+FF Count: 171
+IO Count: 37
+Cell Count: 321
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 502.01 MHz
+Reg-to-Reg Critical Path Delay: 1.717 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.458 W

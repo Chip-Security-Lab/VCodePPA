@@ -1,0 +1,1 @@
+Masked register with shadowed output

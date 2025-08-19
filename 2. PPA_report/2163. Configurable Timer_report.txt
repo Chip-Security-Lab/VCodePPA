@@ -1,0 +1,20 @@
+PPA Report for Configurable Timer
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 22
+FF Count: 32
+IO Count: 60
+Cell Count: 196
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 136.22 MHz
+Reg-to-Reg Critical Path Delay: 6.641 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 5.954 W

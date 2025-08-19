@@ -1,0 +1,1 @@
+Synchronous clock gating with test-mode

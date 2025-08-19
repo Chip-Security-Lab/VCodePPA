@@ -1,0 +1,19 @@
+PPA Report for key_encoder_axi4lite.v (Module: key_encoder_axi4lite)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 37
+FF Count: 21
+IO Count: 96
+Cell Count: 272
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+
+POWER METRICS:
+-------------
+Total Power Consumption: 6.666 W

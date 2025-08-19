@@ -1,0 +1,21 @@
+PPA Report for sync_enable_clock_gate.v (Module: sync_enable_clock_gate)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 2
+FF Count: 1
+IO Count: 4
+Cell Count: 15
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 554.66 MHz
+End-to-End Path Delay: 4.952 ns
+Reg-to-Reg Critical Path Delay: 1.697 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.454 W

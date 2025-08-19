@@ -1,0 +1,21 @@
+PPA Report for rng_cnt_xor_11_axis.v (Module: rng_cnt_xor_11_axis)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 11
+FF Count: 9
+IO Count: 15
+Cell Count: 52
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 732.60 MHz
+End-to-End Path Delay: 4.809 ns
+Reg-to-Reg Critical Path Delay: 1.215 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.454 W

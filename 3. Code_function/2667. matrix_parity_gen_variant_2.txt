@@ -1,0 +1,1 @@
+Matrix parity generator for rows/columns

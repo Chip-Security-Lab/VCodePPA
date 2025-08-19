@@ -1,0 +1,1 @@
+Multi-bit clock domain crossing synchronizer

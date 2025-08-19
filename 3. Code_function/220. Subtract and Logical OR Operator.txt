@@ -1,0 +1,1 @@
+Subtraction and right-shifting operations

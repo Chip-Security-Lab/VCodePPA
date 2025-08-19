@@ -1,0 +1,20 @@
+PPA Report for rising_edge_detector.v (Module: rising_edge_detector)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 6
+FF Count: 9
+IO Count: 7
+Cell Count: 33
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 255.22 MHz
+Reg-to-Reg Critical Path Delay: 3.116 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 1.056 W

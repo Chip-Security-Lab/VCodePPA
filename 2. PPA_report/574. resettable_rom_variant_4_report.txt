@@ -1,0 +1,20 @@
+PPA Report for resettable_rom.v (Module: resettable_rom)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 4
+FF Count: 20
+IO Count: 14
+Cell Count: 57
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1162.79 MHz
+Reg-to-Reg Critical Path Delay: 0.714 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.454 W

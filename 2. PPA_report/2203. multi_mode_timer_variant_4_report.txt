@@ -1,0 +1,20 @@
+PPA Report for multi_mode_timer.v (Module: multi_mode_timer)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 47
+FF Count: 42
+IO Count: 21
+Cell Count: 183
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 378.21 MHz
+Reg-to-Reg Critical Path Delay: 2.419 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

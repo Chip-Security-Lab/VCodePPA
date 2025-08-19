@@ -1,0 +1,1 @@
+Multicore interrupt controller prioritizes IPIs

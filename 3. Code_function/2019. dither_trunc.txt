@@ -1,0 +1,1 @@
+Dithered digital signal truncation

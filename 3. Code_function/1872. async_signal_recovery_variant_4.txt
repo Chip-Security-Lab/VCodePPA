@@ -1,0 +1,1 @@
+Pipelined noisy signal threshold detector

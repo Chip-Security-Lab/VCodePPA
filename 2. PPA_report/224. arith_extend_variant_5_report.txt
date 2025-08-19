@@ -1,0 +1,20 @@
+PPA Report for arith_extend.v (Module: arith_extend)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 5
+FF Count: 0
+IO Count: 14
+Cell Count: 31
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+End-to-End Path Delay: 5.053 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 2.420 W

@@ -1,0 +1,20 @@
+PPA Report for Programmable Masks Controller
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 10
+FF Count: 12
+IO Count: 23
+Cell Count: 87
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 259.07 MHz
+Reg-to-Reg Critical Path Delay: 3.160 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 1.636 W

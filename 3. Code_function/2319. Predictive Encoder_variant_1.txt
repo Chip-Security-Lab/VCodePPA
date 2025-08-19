@@ -1,0 +1,1 @@
+Predictive coding with residual calculation

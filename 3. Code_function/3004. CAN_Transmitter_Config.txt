@@ -1,0 +1,1 @@
+Configurable CAN data transmitter module

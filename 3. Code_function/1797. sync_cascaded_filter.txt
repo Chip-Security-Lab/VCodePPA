@@ -1,0 +1,1 @@
+Cascaded highpass-lowpass filter implementation

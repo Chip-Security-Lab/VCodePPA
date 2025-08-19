@@ -1,0 +1,1 @@
+Priority encoder finds highest bit

@@ -1,0 +1,20 @@
+PPA Report for level_triggered_intr_ctrl.v (Module: level_triggered_intr_ctrl)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 9
+FF Count: 7
+IO Count: 18
+Cell Count: 63
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 361.18 MHz
+Reg-to-Reg Critical Path Delay: 2.674 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

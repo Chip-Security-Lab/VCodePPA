@@ -1,0 +1,21 @@
+PPA Report for Sync_AND.v (Module: Sync_AND)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 11
+FF Count: 35
+IO Count: 30
+Cell Count: 119
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1022.49 MHz
+End-to-End Path Delay: 4.752 ns
+Reg-to-Reg Critical Path Delay: 0.843 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

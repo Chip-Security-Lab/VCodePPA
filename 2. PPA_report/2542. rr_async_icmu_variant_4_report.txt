@@ -1,0 +1,20 @@
+PPA Report for rr_async_icmu.v (Module: rr_async_icmu)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 17
+FF Count: 3
+IO Count: 22
+Cell Count: 70
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+End-to-End Path Delay: 6.202 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 4.346 W

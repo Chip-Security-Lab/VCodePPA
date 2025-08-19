@@ -1,0 +1,21 @@
+PPA Report for 2602. ITRC_AsyncLevel.sv (Module: ITRC_AsyncLevel)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 12
+FF Count: 0
+IO Count: 20
+Cell Count: 68
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A
+End-to-End Path Delay: 5.363 ns
+Detected Clock Signals: clk
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

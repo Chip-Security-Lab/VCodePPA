@@ -1,0 +1,1 @@
+Two-input NAND gate circuit

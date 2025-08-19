@@ -1,0 +1,1 @@
+Sample differentiator with optimized adder

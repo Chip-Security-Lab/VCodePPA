@@ -1,0 +1,22 @@
+PPA Report for 1652. Round Robin Arbiter.sv (Module: round_robin_arbiter)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 39
+FF Count: 12
+IO Count: 19
+Cell Count: 103
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 485.20 MHz
+End-to-End Path Delay: N/A (No valid path found) ns
+Reg-to-Reg Critical Path Delay: 1.883 ns
+Detected Clock Signals: clock
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.454 W

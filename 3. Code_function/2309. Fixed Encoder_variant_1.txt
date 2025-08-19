@@ -1,0 +1,1 @@
+Encoder with sequential binary multiplier

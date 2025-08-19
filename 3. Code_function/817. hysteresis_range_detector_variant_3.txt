@@ -1,0 +1,1 @@
+Hysteresis range detector with thresholds

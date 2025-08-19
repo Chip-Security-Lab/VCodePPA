@@ -1,0 +1,1 @@
+Handshake-controlled ring counter circuit

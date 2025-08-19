@@ -1,0 +1,1 @@
+Buffered D flip-flop with reset

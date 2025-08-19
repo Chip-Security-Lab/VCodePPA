@@ -1,0 +1,1 @@
+Pipelined rotate register with load

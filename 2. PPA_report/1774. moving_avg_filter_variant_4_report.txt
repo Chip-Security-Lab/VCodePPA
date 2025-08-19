@@ -1,0 +1,20 @@
+PPA Report for moving_avg_filter.v (Module: moving_avg_filter)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 27
+FF Count: 48
+IO Count: 20
+Cell Count: 136
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 538.21 MHz
+Reg-to-Reg Critical Path Delay: 1.718 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.458 W

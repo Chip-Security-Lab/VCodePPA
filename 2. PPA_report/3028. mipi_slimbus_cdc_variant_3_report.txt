@@ -1,0 +1,20 @@
+PPA Report for mipi_slimbus_cdc_axi4lite.v (Module: mipi_slimbus_cdc_axi4lite)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 3
+FF Count: 3
+IO Count: 46
+Cell Count: 67
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1083.42 MHz
+Reg-to-Reg Critical Path Delay: 0.804 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.462 W

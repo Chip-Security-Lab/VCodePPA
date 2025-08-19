@@ -1,0 +1,20 @@
+PPA Report for and_or_gate.v (Module: and_or_gate)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 3
+FF Count: 5
+IO Count: 6
+Cell Count: 27
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 543.71 MHz
+Reg-to-Reg Critical Path Delay: 3.162 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.698 W

@@ -1,0 +1,20 @@
+PPA Report for can_bus_monitor.v (Module: can_bus_monitor)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 984
+FF Count: 91
+IO Count: 61
+Cell Count: 1324
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 45.21 MHz
+Reg-to-Reg Critical Path Delay: 22.281 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.484 W

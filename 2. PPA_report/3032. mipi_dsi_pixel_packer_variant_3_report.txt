@@ -1,0 +1,20 @@
+PPA Report for mipi_dsi_pixel_packer.v (Module: mipi_dsi_pixel_packer)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 1
+FF Count: 50
+IO Count: 60
+Cell Count: 169
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1490.31 MHz
+Reg-to-Reg Critical Path Delay: 0.552 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.471 W

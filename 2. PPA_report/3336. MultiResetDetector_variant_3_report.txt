@@ -1,0 +1,20 @@
+PPA Report for MultiResetDetector_AXIStream.v (Module: MultiResetDetector_AXIStream)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 3
+FF Count: 3
+IO Count: 7
+Cell Count: 25
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 925.07 MHz
+Reg-to-Reg Critical Path Delay: 0.951 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

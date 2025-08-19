@@ -1,0 +1,1 @@
+UART baud rate auto-detection circuit

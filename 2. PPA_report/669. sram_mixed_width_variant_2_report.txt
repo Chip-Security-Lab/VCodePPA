@@ -1,0 +1,20 @@
+PPA Report for sram_mixed_width.v (Module: sram_mixed_width)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 1981
+FF Count: 1620
+IO Count: 137
+Cell Count: 4383
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 364.70 MHz
+Reg-to-Reg Critical Path Delay: 2.526 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.501 W

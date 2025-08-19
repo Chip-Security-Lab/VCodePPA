@@ -1,0 +1,22 @@
+PPA Report for 2877. i2c_low_power.sv (Module: i2c_low_power)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 8
+FF Count: 8
+IO Count: 4
+Cell Count: 32
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 263.09 MHz
+End-to-End Path Delay: N/A (No valid path found) ns
+Reg-to-Reg Critical Path Delay: 3.101 ns
+Detected Clock Signals: clk clk_
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.746 W

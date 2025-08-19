@@ -1,0 +1,22 @@
+PPA Report for 1478. pl_reg_dual_edge.sv (Module: pl_reg_dual_edge)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 5
+FF Count: 16
+IO Count: 19
+Cell Count: 68
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 329.49 MHz
+End-to-End Path Delay: 4.969 ns
+Reg-to-Reg Critical Path Delay: 2.335 ns
+Detected Clock Signals: clk
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.475 W

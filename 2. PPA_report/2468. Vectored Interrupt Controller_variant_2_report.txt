@@ -1,0 +1,20 @@
+PPA Report for vectored_intr_ctrl.v (Module: vectored_intr_ctrl)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 46
+FF Count: 14
+IO Count: 155
+Cell Count: 540
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 905.80 MHz
+Reg-to-Reg Critical Path Delay: 0.900 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.456 W

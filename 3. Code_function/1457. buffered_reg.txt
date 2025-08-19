@@ -1,0 +1,1 @@
+Two-stage 16-bit data register

@@ -1,0 +1,20 @@
+PPA Report for MAF.v (Module: MAF)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 24
+FF Count: 46
+IO Count: 19
+Cell Count: 130
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 537.92 MHz
+Reg-to-Reg Critical Path Delay: 1.722 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.458 W

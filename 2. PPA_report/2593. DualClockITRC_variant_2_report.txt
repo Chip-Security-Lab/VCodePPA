@@ -1,0 +1,20 @@
+PPA Report for DualClockITRC.v (Module: DualClockITRC)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 6
+FF Count: 11
+IO Count: 12
+Cell Count: 52
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 293.82 MHz
+Reg-to-Reg Critical Path Delay: 3.131 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 1.052 W

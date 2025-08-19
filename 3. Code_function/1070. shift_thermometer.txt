@@ -1,0 +1,1 @@
+Directional thermometer bit shifter

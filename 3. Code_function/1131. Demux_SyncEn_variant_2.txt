@@ -1,0 +1,1 @@
+Synchronous demux with enable signal

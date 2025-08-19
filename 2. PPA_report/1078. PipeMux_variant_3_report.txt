@@ -1,0 +1,20 @@
+PPA Report for PipeMux.v (Module: PipeMux)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 44
+FF Count: 19
+IO Count: 142
+Cell Count: 505
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 987.17 MHz
+Reg-to-Reg Critical Path Delay: 0.825 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.457 W

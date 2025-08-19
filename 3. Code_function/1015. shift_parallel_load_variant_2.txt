@@ -1,0 +1,1 @@
+Pipelined parallel-load shift register

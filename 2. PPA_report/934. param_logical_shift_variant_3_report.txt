@@ -1,0 +1,20 @@
+PPA Report for param_logical_shift.v (Module: param_logical_shift)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 28
+FF Count: 52
+IO Count: 38
+Cell Count: 170
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 585.82 MHz
+Reg-to-Reg Critical Path Delay: 1.530 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.457 W

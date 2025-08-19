@@ -1,0 +1,21 @@
+PPA Report for dequantizer_valid_ready.v (Module: dequantizer_valid_ready)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 329
+FF Count: 51
+IO Count: 54
+Cell Count: 657
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 175.35 MHz
+End-to-End Path Delay: 3.729 ns
+Reg-to-Reg Critical Path Delay: 5.552 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.464 W

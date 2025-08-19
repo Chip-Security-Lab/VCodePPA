@@ -1,0 +1,1 @@
+Parallel CRC-32 checksum calculator

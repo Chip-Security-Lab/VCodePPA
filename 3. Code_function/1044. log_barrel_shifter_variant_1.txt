@@ -1,0 +1,1 @@
+Logarithmic-based left barrel shifter

@@ -1,0 +1,20 @@
+PPA Report for Comparator_Extremum
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 74
+FF Count: 0
+IO Count: 52
+Cell Count: 226
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+End-to-End Path Delay: 7.549 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 13.368 W

@@ -1,0 +1,1 @@
+Pipelined counter-mode encryption/decryption circuit

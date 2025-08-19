@@ -1,0 +1,20 @@
+PPA Report for single_pulse_gen.v (Module: single_pulse_gen)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 45
+FF Count: 34
+IO Count: 3
+Cell Count: 95
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 298.45 MHz
+Reg-to-Reg Critical Path Delay: 3.020 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.585 W

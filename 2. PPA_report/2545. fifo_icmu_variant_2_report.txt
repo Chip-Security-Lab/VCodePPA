@@ -1,0 +1,20 @@
+PPA Report for fifo_icmu.v (Module: fifo_icmu)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 185
+FF Count: 641
+IO Count: 154
+Cell Count: 1228
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 409.33 MHz
+Reg-to-Reg Critical Path Delay: 2.155 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.532 W

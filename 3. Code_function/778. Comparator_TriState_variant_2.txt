@@ -1,0 +1,1 @@
+Tri-state number equality comparator

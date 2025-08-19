@@ -1,0 +1,1 @@
+Differential Manchester encoder/decoder with AXI4-Lite

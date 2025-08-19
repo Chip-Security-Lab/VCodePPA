@@ -1,0 +1,19 @@
+PPA Report for mult_unrolled_axi_lite.v (Module: mult_unrolled_axi_lite)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 33
+FF Count: 33
+IO Count: 60
+Cell Count: 176
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+
+POWER METRICS:
+-------------
+Total Power Consumption: 1.813 W

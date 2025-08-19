@@ -1,0 +1,20 @@
+PPA Report for radix4_booth.v (Module: radix4_booth)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 159
+FF Count: 0
+IO Count: 32
+Cell Count: 250
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+End-to-End Path Delay: 11.607 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 16.399 W

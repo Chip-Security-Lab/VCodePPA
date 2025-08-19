@@ -1,0 +1,20 @@
+PPA Report for pl_reg_async_load.v (Module: pl_reg_async_load)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 31
+FF Count: 48
+IO Count: 23
+Cell Count: 149
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 827.13 MHz
+Reg-to-Reg Critical Path Delay: 1.069 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

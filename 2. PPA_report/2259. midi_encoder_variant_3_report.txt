@@ -1,0 +1,19 @@
+PPA Report for midi_encoder.v (Module: midi_encoder)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 26
+FF Count: 46
+IO Count: 71
+Cell Count: 192
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+
+POWER METRICS:
+-------------
+Total Power Consumption: 4.140 W

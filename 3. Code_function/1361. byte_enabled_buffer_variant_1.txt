@@ -1,0 +1,1 @@
+Byte-enabled pipelined data buffer

@@ -1,0 +1,20 @@
+PPA Report for golomb_encoder.v (Module: golomb_encoder)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 12
+FF Count: 45
+IO Count: 49
+Cell Count: 137
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 716.85 MHz
+Reg-to-Reg Critical Path Delay: 1.095 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.469 W

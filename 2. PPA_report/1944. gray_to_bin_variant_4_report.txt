@@ -1,0 +1,20 @@
+PPA Report for gray_to_bin.v (Module: gray_to_bin)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 5
+FF Count: 0
+IO Count: 16
+Cell Count: 39
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+End-to-End Path Delay: 5.413 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 4.524 W

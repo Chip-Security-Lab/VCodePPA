@@ -1,0 +1,20 @@
+PPA Report for usb_sof_generator.v (Module: usb_sof_generator)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 35
+FF Count: 40
+IO Count: 43
+Cell Count: 161
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 462.96 MHz
+Reg-to-Reg Critical Path Delay: 1.884 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.455 W

@@ -1,0 +1,20 @@
+PPA Report for HysteresisFilter.v (Module: HysteresisFilter)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 10
+FF Count: 9
+IO Count: 10
+Cell Count: 51
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 571.10 MHz
+Reg-to-Reg Critical Path Delay: 1.458 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

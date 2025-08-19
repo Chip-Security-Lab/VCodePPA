@@ -1,0 +1,1 @@
+Reset signal synchronizer two-stage

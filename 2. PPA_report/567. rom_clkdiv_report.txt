@@ -1,0 +1,20 @@
+PPA Report for rom_clkdiv
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 8
+FF Count: 27
+IO Count: 2
+Cell Count: 48
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 672.95 MHz
+Reg-to-Reg Critical Path Delay: 1.243 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

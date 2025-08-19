@@ -1,0 +1,20 @@
+PPA Report for UART_SyncFIFO.v (Module: UART_SyncFIFO)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 29
+FF Count: 52
+IO Count: 6
+Cell Count: 106
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 780.64 MHz
+Reg-to-Reg Critical Path Delay: 1.137 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

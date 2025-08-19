@@ -1,0 +1,1 @@
+One-hot counter with skip capability

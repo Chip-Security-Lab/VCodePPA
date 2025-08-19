@@ -1,0 +1,21 @@
+PPA Report for asymmetric_regfile.v (Module: asymmetric_regfile)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 56
+FF Count: 0
+IO Count: 105
+Cell Count: 371
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 367.76 MHz
+End-to-End Path Delay: 6.315 ns
+Reg-to-Reg Critical Path Delay: 2.543 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.481 W

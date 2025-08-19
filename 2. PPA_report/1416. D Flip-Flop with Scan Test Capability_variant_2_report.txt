@@ -1,0 +1,20 @@
+PPA Report for scan_d_ff.v (Module: scan_d_ff)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 2
+FF Count: 1
+IO Count: 7
+Cell Count: 23
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 527.01 MHz
+Reg-to-Reg Critical Path Delay: 3.042 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.989 W

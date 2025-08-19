@@ -1,0 +1,20 @@
+PPA Report for byte_enable_regfile_pipeline.v (Module: byte_enable_regfile_pipeline)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 24
+FF Count: 44
+IO Count: 76
+Cell Count: 253
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 528.54 MHz
+Reg-to-Reg Critical Path Delay: 1.328 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.490 W

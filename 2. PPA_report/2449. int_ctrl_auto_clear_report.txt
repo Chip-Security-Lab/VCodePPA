@@ -1,0 +1,20 @@
+PPA Report for int_ctrl_auto_clear
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 8
+FF Count: 16
+IO Count: 34
+Cell Count: 106
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1054.85 MHz
+Reg-to-Reg Critical Path Delay: 0.829 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.459 W

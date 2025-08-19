@@ -1,0 +1,1 @@
+Signal auto-calibration with offset correction

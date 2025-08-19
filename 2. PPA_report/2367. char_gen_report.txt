@@ -1,0 +1,20 @@
+PPA Report for char_gen
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 6
+FF Count: 1
+IO Count: 23
+Cell Count: 76
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 333.22 MHz
+Reg-to-Reg Critical Path Delay: 2.301 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

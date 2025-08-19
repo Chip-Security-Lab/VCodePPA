@@ -1,0 +1,20 @@
+PPA Report for xor_or_nand_gate.v (Module: xor_or_nand_gate)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 3
+FF Count: 3
+IO Count: 6
+Cell Count: 26
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1233.05 MHz
+Reg-to-Reg Critical Path Delay: 0.693 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.451 W

@@ -1,0 +1,20 @@
+PPA Report for BasicIVMU.v (Module: BasicIVMU)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 7
+FF Count: 13
+IO Count: 43
+Cell Count: 89
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 533.62 MHz
+Reg-to-Reg Critical Path Delay: 1.734 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.462 W

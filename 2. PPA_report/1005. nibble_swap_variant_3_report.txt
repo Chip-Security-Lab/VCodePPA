@@ -1,0 +1,20 @@
+PPA Report for nibble_swap_valid_ready.v (Module: nibble_swap_valid_ready)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 14
+FF Count: 36
+IO Count: 39
+Cell Count: 142
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 859.85 MHz
+Reg-to-Reg Critical Path Delay: 0.948 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

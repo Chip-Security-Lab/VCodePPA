@@ -1,0 +1,22 @@
+PPA Report for 1000. siso_shifter.sv (Module: siso_shifter)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 0
+FF Count: 4
+IO Count: 4
+Cell Count: 17
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1261.03 MHz
+End-to-End Path Delay: N/A (No valid path found) ns
+Reg-to-Reg Critical Path Delay: 0.674 ns
+Detected Clock Signals: clock
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.451 W

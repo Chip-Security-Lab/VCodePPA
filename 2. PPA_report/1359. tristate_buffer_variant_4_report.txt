@@ -1,0 +1,20 @@
+PPA Report for tristate_buffer.v (Module: tristate_buffer)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 26
+FF Count: 58
+IO Count: 35
+Cell Count: 169
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 924.21 MHz
+Reg-to-Reg Critical Path Delay: 0.863 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

@@ -1,0 +1,1 @@
+UART with automatic baud detection

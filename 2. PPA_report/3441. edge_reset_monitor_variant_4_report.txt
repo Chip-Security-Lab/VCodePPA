@@ -1,0 +1,21 @@
+PPA Report for edge_reset_monitor.v (Module: edge_reset_monitor)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 1
+FF Count: 1
+IO Count: 3
+Cell Count: 15
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 435.81 MHz
+End-to-End Path Delay: 4.817 ns
+Reg-to-Reg Critical Path Delay: 1.740 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.451 W

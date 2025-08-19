@@ -1,0 +1,1 @@
+CRC error detection and recovery

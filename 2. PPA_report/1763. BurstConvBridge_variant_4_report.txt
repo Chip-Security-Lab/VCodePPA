@@ -1,0 +1,20 @@
+PPA Report for BurstConvBridge.v (Module: BurstConvBridge)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 24
+FF Count: 44
+IO Count: 78
+Cell Count: 247
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 286.24 MHz
+Reg-to-Reg Critical Path Delay: 2.638 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 22.240 W

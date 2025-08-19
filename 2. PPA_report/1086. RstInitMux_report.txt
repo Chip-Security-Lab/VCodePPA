@@ -1,0 +1,20 @@
+PPA Report for RstInitMux
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 24
+FF Count: 8
+IO Count: 77
+Cell Count: 251
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 305.81 MHz
+Reg-to-Reg Critical Path Delay: 2.570 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.460 W

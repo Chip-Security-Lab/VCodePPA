@@ -1,0 +1,19 @@
+PPA Report for LowPowerIVMU
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 23
+FF Count: 6
+IO Count: 68
+Cell Count: 174
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+
+POWER METRICS:
+-------------
+Total Power Consumption: 3.209 W

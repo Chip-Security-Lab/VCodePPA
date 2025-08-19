@@ -1,0 +1,20 @@
+PPA Report for pwm_codec.v (Module: pwm_codec)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 12
+FF Count: 22
+IO Count: 13
+Cell Count: 86
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 678.89 MHz
+Reg-to-Reg Critical Path Delay: 1.281 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

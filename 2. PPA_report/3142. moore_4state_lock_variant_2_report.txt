@@ -1,0 +1,20 @@
+PPA Report for moore_4state_lock.v (Module: moore_4state_lock)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 2
+FF Count: 3
+IO Count: 4
+Cell Count: 20
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 513.61 MHz
+Reg-to-Reg Critical Path Delay: 1.828 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.451 W

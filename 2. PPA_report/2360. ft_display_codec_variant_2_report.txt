@@ -1,0 +1,20 @@
+PPA Report for ft_display_codec.v (Module: ft_display_codec)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 43
+FF Count: 110
+IO Count: 57
+Cell Count: 257
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 595.24 MHz
+Reg-to-Reg Critical Path Delay: 1.499 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.482 W

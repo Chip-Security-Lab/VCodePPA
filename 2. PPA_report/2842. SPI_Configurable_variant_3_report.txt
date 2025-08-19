@@ -1,0 +1,20 @@
+PPA Report for SPI_Configurable_AXI4Lite.v (Module: SPI_Configurable_AXI4Lite)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 69
+FF Count: 204
+IO Count: 64
+Cell Count: 453
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 237.80 MHz
+Reg-to-Reg Critical Path Delay: 2.536 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 12.248 W

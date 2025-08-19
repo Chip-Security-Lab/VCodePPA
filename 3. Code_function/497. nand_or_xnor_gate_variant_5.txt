@@ -1,0 +1,1 @@
+Pipelined NAND-OR-XNOR logic circuit

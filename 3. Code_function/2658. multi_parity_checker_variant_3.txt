@@ -1,0 +1,1 @@
+Multiplies data and checks parity

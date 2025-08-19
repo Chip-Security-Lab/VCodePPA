@@ -1,0 +1,21 @@
+PPA Report for spi_master_apb.v (Module: spi_master_apb)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 103
+FF Count: 141
+IO Count: 80
+Cell Count: 454
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 447.83 MHz
+End-to-End Path Delay: 5.145 ns
+Reg-to-Reg Critical Path Delay: 1.966 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.469 W

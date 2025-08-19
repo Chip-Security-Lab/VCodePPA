@@ -1,0 +1,1 @@
+Segmented XNOR with handshaking protocol

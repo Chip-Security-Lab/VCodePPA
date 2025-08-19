@@ -1,0 +1,20 @@
+PPA Report for pulse_width_measure.v (Module: pulse_width_measure)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 36
+FF Count: 104
+IO Count: 37
+Cell Count: 195
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 598.09 MHz
+Reg-to-Reg Critical Path Delay: 1.404 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.465 W

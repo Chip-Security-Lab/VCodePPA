@@ -1,0 +1,1 @@
+Selectable clock frequency divider circuit.

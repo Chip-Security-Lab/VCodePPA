@@ -1,0 +1,20 @@
+PPA Report for crc_error_injection.v (Module: crc_error_injection)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 10
+FF Count: 32
+IO Count: 25
+Cell Count: 96
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 676.13 MHz
+Reg-to-Reg Critical Path Delay: 1.307 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.461 W

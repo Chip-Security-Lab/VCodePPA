@@ -1,0 +1,1 @@
+Thermometer encoder using borrow subtraction.

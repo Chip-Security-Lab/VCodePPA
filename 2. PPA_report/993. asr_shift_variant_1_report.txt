@@ -1,0 +1,21 @@
+PPA Report for asr_shift_axi_stream.v (Module: asr_shift_axi_stream)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 40
+FF Count: 33
+IO Count: 26
+Cell Count: 143
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 523.01 MHz
+End-to-End Path Delay: 4.751 ns
+Reg-to-Reg Critical Path Delay: 1.703 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.454 W

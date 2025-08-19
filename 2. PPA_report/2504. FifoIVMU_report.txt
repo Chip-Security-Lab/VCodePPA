@@ -1,0 +1,20 @@
+PPA Report for FifoIVMU
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 24
+FF Count: 18
+IO Count: 44
+Cell Count: 115
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 461.68 MHz
+Reg-to-Reg Critical Path Delay: 1.935 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.466 W

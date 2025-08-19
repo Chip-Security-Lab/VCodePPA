@@ -1,0 +1,19 @@
+PPA Report for cascaded_reset_dist.v (Module: cascaded_reset_dist)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 21
+FF Count: 28
+IO Count: 62
+Cell Count: 150
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+
+POWER METRICS:
+-------------
+Total Power Consumption: 1.837 W

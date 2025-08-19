@@ -1,0 +1,1 @@
+Asynchronous parity generator with pipeline

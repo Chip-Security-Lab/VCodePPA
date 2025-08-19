@@ -1,0 +1,1 @@
+Adaptive contrast video stream processor

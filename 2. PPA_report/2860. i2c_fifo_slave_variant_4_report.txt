@@ -1,0 +1,20 @@
+PPA Report for i2c_fifo_slave.v (Module: i2c_fifo_slave)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 39
+FF Count: 66
+IO Count: 15
+Cell Count: 145
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 504.80 MHz
+Reg-to-Reg Critical Path Delay: 1.700 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

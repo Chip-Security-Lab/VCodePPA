@@ -1,0 +1,20 @@
+PPA Report for usb_split_handler.v (Module: usb_split_handler)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 5
+FF Count: 48
+IO Count: 33
+Cell Count: 119
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 634.92 MHz
+Reg-to-Reg Critical Path Delay: 1.315 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

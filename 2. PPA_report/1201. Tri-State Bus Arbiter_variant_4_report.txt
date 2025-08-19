@@ -1,0 +1,21 @@
+PPA Report for tristate_bus_arbiter.v (Module: tristate_bus_arbiter)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 18
+FF Count: 20
+IO Count: 58
+Cell Count: 206
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 707.71 MHz
+End-to-End Path Delay: 3.783 ns
+Reg-to-Reg Critical Path Delay: 1.169 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.469 W

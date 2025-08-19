@@ -1,0 +1,20 @@
+PPA Report for IVMU_AutoClear_Pipelined.v (Module: IVMU_AutoClear_Pipelined)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 11
+FF Count: 20
+IO Count: 21
+Cell Count: 80
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1072.96 MHz
+Reg-to-Reg Critical Path Delay: 0.790 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

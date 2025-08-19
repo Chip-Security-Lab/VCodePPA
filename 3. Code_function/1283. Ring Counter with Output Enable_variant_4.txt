@@ -1,0 +1,1 @@
+Output-enabled 4-bit ring counter

@@ -1,0 +1,1 @@
+Digital noise filter using AND

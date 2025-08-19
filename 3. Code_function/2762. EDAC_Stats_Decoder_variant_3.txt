@@ -1,0 +1,1 @@
+Hamming decoder with error statistics

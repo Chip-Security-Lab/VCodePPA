@@ -1,0 +1,20 @@
+PPA Report for gray_div.v (Module: gray_div)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 6
+FF Count: 21
+IO Count: 3
+Cell Count: 42
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 884.17 MHz
+Reg-to-Reg Critical Path Delay: 0.927 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

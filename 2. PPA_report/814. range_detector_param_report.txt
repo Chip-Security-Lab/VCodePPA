@@ -1,0 +1,21 @@
+PPA Report for 814. range_detector_param.sv (Module: range_detector_param)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 33
+FF Count: 0
+IO Count: 97
+Cell Count: 361
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+End-to-End Path Delay: 5.152 ns
+Detected Clock Signals: None
+
+POWER METRICS:
+-------------
+Total Power Consumption: 2.124 W

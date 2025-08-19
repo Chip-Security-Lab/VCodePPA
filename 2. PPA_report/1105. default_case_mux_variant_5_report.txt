@@ -1,0 +1,21 @@
+PPA Report for valid_ready_mux.v (Module: valid_ready_mux)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 38
+FF Count: 17
+IO Count: 113
+Cell Count: 354
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 326.42 MHz
+End-to-End Path Delay: 4.510 ns
+Reg-to-Reg Critical Path Delay: 3.193 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.464 W

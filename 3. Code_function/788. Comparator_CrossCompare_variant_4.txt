@@ -1,0 +1,1 @@
+Two-pair equality comparator module

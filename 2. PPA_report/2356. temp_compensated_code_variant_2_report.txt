@@ -1,0 +1,20 @@
+PPA Report for temp_compensated_codec.v (Module: temp_compensated_codec)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 112
+FF Count: 68
+IO Count: 55
+Cell Count: 348
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 430.48 MHz
+Reg-to-Reg Critical Path Delay: 2.147 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.463 W

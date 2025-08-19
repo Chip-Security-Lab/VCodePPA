@@ -1,0 +1,1 @@
+Synchronous resettable data buffer register

@@ -1,0 +1,20 @@
+PPA Report for CrcCheckBridge.v (Module: CrcCheckBridge)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 58
+FF Count: 74
+IO Count: 68
+Cell Count: 290
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 978.47 MHz
+Reg-to-Reg Critical Path Delay: 0.810 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.475 W

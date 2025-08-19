@@ -1,0 +1,1 @@
+Interrupt coalescer with priority encoding

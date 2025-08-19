@@ -1,0 +1,1 @@
+Majority-based glitch filter circuit

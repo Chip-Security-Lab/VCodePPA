@@ -1,0 +1,1 @@
+Pipelined rotate-left bit shifter

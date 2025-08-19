@@ -1,0 +1,1 @@
+Triangle-based sine wave approximator

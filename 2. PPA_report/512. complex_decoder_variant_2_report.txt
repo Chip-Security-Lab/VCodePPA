@@ -1,0 +1,20 @@
+PPA Report for complex_decoder.v (Module: complex_decoder)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 6
+FF Count: 19
+IO Count: 13
+Cell Count: 54
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 283.91 MHz
+Reg-to-Reg Critical Path Delay: 3.340 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 1.495 W

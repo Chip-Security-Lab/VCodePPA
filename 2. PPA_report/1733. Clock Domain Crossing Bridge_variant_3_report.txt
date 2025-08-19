@@ -1,0 +1,20 @@
+PPA Report for cdc_bus_bridge.v (Module: cdc_bus_bridge)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 5
+FF Count: 169
+IO Count: 71
+Cell Count: 323
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 325.73 MHz
+Reg-to-Reg Critical Path Delay: 2.333 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.466 W

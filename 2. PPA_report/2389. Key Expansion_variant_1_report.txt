@@ -1,0 +1,19 @@
+PPA Report for key_expansion.v (Module: key_expansion)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 0
+FF Count: 0
+IO Count: 129
+Cell Count: 130
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.481 W

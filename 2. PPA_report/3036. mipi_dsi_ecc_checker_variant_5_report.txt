@@ -1,0 +1,20 @@
+PPA Report for mipi_dsi_ecc_checker.v (Module: mipi_dsi_ecc_checker)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 20
+FF Count: 12
+IO Count: 44
+Cell Count: 151
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1175.09 MHz
+Reg-to-Reg Critical Path Delay: 0.733 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.454 W

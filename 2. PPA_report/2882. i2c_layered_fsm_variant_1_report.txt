@@ -1,0 +1,20 @@
+PPA Report for i2c_layered_fsm.v (Module: i2c_layered_fsm)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 7
+FF Count: 10
+IO Count: 12
+Cell Count: 43
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 697.84 MHz
+Reg-to-Reg Critical Path Delay: 1.297 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

@@ -1,0 +1,1 @@
+Parameterizable modulo counter with overflow

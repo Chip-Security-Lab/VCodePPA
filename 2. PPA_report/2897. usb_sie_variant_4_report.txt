@@ -1,0 +1,20 @@
+PPA Report for usb_sie_axis.v (Module: usb_sie_axis)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 12
+FF Count: 49
+IO Count: 26
+Cell Count: 117
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 689.18 MHz
+Reg-to-Reg Critical Path Delay: 1.143 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.455 W

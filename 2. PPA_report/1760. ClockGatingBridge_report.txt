@@ -1,0 +1,22 @@
+PPA Report for 1760. ClockGatingBridge.sv (Module: ClockGatingBridge)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 1
+FF Count: 1
+IO Count: 3
+Cell Count: 13
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 97.44 MHz
+End-to-End Path Delay: 4.804 ns
+Reg-to-Reg Critical Path Delay: 0.254 ns
+Detected Clock Signals: clk
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.454 W

@@ -1,0 +1,1 @@
+Reset clock domain crossing synchronizer

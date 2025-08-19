@@ -1,0 +1,22 @@
+PPA Report for 2473. FIFO-Based Controller.sv (Module: fifo_intr_ctrl)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 45
+FF Count: 45
+IO Count: 16
+Cell Count: 148
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 477.10 MHz
+End-to-End Path Delay: N/A (No valid path found) ns
+Reg-to-Reg Critical Path Delay: 1.818 ns
+Detected Clock Signals: clk
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.454 W

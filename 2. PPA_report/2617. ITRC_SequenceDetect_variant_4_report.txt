@@ -1,0 +1,20 @@
+PPA Report for ITRC_SequenceDetect.v (Module: ITRC_SequenceDetect)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 2
+FF Count: 10
+IO Count: 4
+Cell Count: 26
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 513.32 MHz
+Reg-to-Reg Critical Path Delay: 2.957 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.591 W

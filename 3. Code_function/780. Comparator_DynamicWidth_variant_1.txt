@@ -1,0 +1,1 @@
+Variable-width number equality comparator

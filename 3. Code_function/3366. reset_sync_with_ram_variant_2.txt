@@ -1,0 +1,1 @@
+Reset-synchronized memory pipeline controller

@@ -1,0 +1,20 @@
+PPA Report for list2array_pipeline.v (Module: list2array_pipeline)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 7
+FF Count: 82
+IO Count: 83
+Cell Count: 206
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 793.65 MHz
+Reg-to-Reg Critical Path Delay: 1.117 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.484 W

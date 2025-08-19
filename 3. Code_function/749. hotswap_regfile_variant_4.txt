@@ -1,0 +1,1 @@
+Selectively-enabled register file with defaults

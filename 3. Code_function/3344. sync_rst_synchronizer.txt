@@ -1,0 +1,1 @@
+Synchronizes async/sync reset signals.

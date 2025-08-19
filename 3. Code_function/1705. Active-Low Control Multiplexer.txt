@@ -1,0 +1,1 @@
+Active-low enabled 2:1 multiplexer

@@ -1,0 +1,1 @@
+Bit rotation with pipelined implementation

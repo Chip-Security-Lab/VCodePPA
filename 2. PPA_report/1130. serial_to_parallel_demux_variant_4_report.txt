@@ -1,0 +1,20 @@
+PPA Report for serial_to_parallel_demux.v (Module: serial_to_parallel_demux)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 6
+FF Count: 13
+IO Count: 12
+Cell Count: 50
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 609.01 MHz
+Reg-to-Reg Critical Path Delay: 1.416 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

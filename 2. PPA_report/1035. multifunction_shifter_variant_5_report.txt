@@ -1,0 +1,21 @@
+PPA Report for multifunction_shifter_valid_ready.v (Module: multifunction_shifter_valid_ready)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 216
+FF Count: 72
+IO Count: 77
+Cell Count: 508
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 440.72 MHz
+End-to-End Path Delay: 4.711 ns
+Reg-to-Reg Critical Path Delay: 2.079 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.473 W

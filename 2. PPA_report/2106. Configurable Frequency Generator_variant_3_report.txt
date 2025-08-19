@@ -1,0 +1,20 @@
+PPA Report for config_freq_gen_req_ack.v (Module: config_freq_gen_req_ack)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 11
+FF Count: 11
+IO Count: 13
+Cell Count: 72
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 556.79 MHz
+Reg-to-Reg Critical Path Delay: 1.620 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

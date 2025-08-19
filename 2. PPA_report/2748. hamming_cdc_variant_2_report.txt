@@ -1,0 +1,20 @@
+PPA Report for hamming_cdc.v (Module: hamming_cdc)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 3
+FF Count: 21
+IO Count: 14
+Cell Count: 57
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 187.02 MHz
+Reg-to-Reg Critical Path Delay: 3.212 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 2.572 W

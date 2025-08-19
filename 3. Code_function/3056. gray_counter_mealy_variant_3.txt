@@ -1,0 +1,1 @@
+Bidirectional Gray counter with handshaking

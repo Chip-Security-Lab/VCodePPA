@@ -1,0 +1,20 @@
+PPA Report for i2c_burst_master.v (Module: i2c_burst_master)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 30
+FF Count: 20
+IO Count: 43
+Cell Count: 136
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 653.17 MHz
+Reg-to-Reg Critical Path Delay: 1.306 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

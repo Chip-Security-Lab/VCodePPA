@@ -1,0 +1,20 @@
+PPA Report for clk_gated_rst_sync.v (Module: clk_gated_rst_sync)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 2
+FF Count: 5
+IO Count: 7
+Cell Count: 25
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 107.74 MHz
+Reg-to-Reg Critical Path Delay: 7.017 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.451 W

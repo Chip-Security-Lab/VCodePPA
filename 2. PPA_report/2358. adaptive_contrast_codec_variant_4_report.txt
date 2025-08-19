@@ -1,0 +1,21 @@
+PPA Report for adaptive_contrast_codec.v (Module: adaptive_contrast_codec)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 229
+FF Count: 97
+IO Count: 41
+Cell Count: 476
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 102.33 MHz
+End-to-End Path Delay: 4.704 ns
+Reg-to-Reg Critical Path Delay: 9.582 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.456 W

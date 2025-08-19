@@ -1,0 +1,1 @@
+Pipelined binary-to-gray code converter

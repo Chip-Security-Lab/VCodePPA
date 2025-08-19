@@ -1,0 +1,19 @@
+PPA Report for subtractor_8bit_axi4lite.v (Module: subtractor_8bit_axi4lite)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 29
+FF Count: 41
+IO Count: 64
+Cell Count: 187
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+
+POWER METRICS:
+-------------
+Total Power Consumption: 3.128 W

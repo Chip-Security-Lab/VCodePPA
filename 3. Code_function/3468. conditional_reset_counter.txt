@@ -1,0 +1,1 @@
+Conditional resettable width-parameterized counter

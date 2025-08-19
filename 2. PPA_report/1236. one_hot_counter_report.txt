@@ -1,0 +1,22 @@
+PPA Report for 1236. one_hot_counter.sv (Module: one_hot_counter)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 1
+FF Count: 8
+IO Count: 10
+Cell Count: 26
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1133.79 MHz
+End-to-End Path Delay: N/A (No valid path found) ns
+Reg-to-Reg Critical Path Delay: 0.763 ns
+Detected Clock Signals: clock
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

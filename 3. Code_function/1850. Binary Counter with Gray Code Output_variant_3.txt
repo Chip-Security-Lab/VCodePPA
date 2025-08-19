@@ -1,0 +1,1 @@
+Bidirectional binary-to-gray counter module

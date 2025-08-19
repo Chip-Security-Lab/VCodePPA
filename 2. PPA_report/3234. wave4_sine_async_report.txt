@@ -1,0 +1,20 @@
+PPA Report for 3234. wave4_sine_async.sv (Module: wave4_sine_async)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 0
+FF Count: 0
+IO Count: 13
+Cell Count: 24
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+Longest Path Delay: 4.395 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.451 W

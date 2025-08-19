@@ -1,0 +1,20 @@
+PPA Report for PriorityITRC.v (Module: PriorityITRC)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 7
+FF Count: 7
+IO Count: 23
+Cell Count: 64
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 829.88 MHz
+Reg-to-Reg Critical Path Delay: 0.970 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.451 W

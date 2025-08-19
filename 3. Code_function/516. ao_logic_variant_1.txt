@@ -1,0 +1,1 @@
+AND-OR logic with XNOR implementation

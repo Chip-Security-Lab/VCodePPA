@@ -1,0 +1,1 @@
+Pipelined async reset counter

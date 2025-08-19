@@ -1,0 +1,20 @@
+PPA Report for moore_4state_ring.v (Module: moore_4state_ring)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 3
+FF Count: 8
+IO Count: 6
+Cell Count: 30
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1140.25 MHz
+Reg-to-Reg Critical Path Delay: 0.740 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

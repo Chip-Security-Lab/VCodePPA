@@ -1,0 +1,22 @@
+PPA Report for 2240. ethernet_phy_codec.sv (Module: ethernet_phy_codec)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 6
+FF Count: 7
+IO Count: 24
+Cell Count: 61
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1805.05 MHz
+End-to-End Path Delay: N/A (No valid path found) ns
+Reg-to-Reg Critical Path Delay: 0.435 ns
+Detected Clock Signals: clk
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.457 W

@@ -1,0 +1,20 @@
+PPA Report for watchdog_reset_detector.v (Module: watchdog_reset_detector)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 20
+FF Count: 25
+IO Count: 8
+Cell Count: 77
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 665.34 MHz
+Reg-to-Reg Critical Path Delay: 1.350 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

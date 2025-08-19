@@ -1,0 +1,19 @@
+PPA Report for int_ctrl_timeout.v (Module: int_ctrl_timeout)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 19
+FF Count: 29
+IO Count: 14
+Cell Count: 90
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.869 W

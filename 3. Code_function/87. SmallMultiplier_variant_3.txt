@@ -1,0 +1,1 @@
+2-bit multiplier with registered output

@@ -1,0 +1,21 @@
+PPA Report for ShiftSubDiv.v (Module: ShiftSubDiv)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 46
+FF Count: 56
+IO Count: 38
+Cell Count: 200
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 461.68 MHz
+End-to-End Path Delay: 4.839 ns
+Reg-to-Reg Critical Path Delay: 1.979 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

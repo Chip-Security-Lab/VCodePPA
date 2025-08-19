@@ -1,0 +1,20 @@
+PPA Report for periodic_status_sync_pipeline.v (Module: periodic_status_sync_pipeline)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 4
+FF Count: 72
+IO Count: 35
+Cell Count: 155
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 256.34 MHz
+Reg-to-Reg Critical Path Delay: 2.416 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.454 W

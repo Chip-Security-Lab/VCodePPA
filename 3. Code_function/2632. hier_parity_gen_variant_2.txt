@@ -1,0 +1,1 @@
+Hierarchical 32-bit parity generator

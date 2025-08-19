@@ -1,0 +1,20 @@
+PPA Report for Synchronous Multiplexer with Pipelined Output
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 17
+FF Count: 32
+IO Count: 84
+Cell Count: 272
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1084.60 MHz
+Reg-to-Reg Critical Path Delay: 0.792 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.468 W

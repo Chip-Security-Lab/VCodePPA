@@ -1,0 +1,20 @@
+PPA Report for pattern_detector_reset.v (Module: pattern_detector_reset)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 2
+FF Count: 8
+IO Count: 4
+Cell Count: 23
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 809.06 MHz
+Reg-to-Reg Critical Path Delay: 1.099 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.451 W

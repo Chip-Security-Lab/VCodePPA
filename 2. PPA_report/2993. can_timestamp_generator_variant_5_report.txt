@@ -1,0 +1,20 @@
+PPA Report for can_timestamp_generator.v (Module: can_timestamp_generator)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 37
+FF Count: 76
+IO Count: 69
+Cell Count: 210
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 317.36 MHz
+Reg-to-Reg Critical Path Delay: 2.992 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.478 W

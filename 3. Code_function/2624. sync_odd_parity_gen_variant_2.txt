@@ -1,0 +1,1 @@
+Synchronous odd parity generator

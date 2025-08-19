@@ -1,0 +1,20 @@
+PPA Report for programmable_timeout_reset_pipeline.v (Module: programmable_timeout_reset_pipeline)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 79
+FF Count: 105
+IO Count: 37
+Cell Count: 344
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 366.42 MHz
+Reg-to-Reg Critical Path Delay: 3.621 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 1.418 W

@@ -1,0 +1,20 @@
+PPA Report for prefix_level1.v (Module: prefix_level1)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 3
+FF Count: 0
+IO Count: 16
+Cell Count: 38
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+End-to-End Path Delay: 4.985 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 2.062 W

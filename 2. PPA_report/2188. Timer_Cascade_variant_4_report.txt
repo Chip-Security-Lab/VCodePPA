@@ -1,0 +1,21 @@
+PPA Report for Timer_Cascade.v (Module: Timer_Cascade)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 7
+FF Count: 11
+IO Count: 4
+Cell Count: 35
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 911.58 MHz
+End-to-End Path Delay: 4.466 ns
+Reg-to-Reg Critical Path Delay: 0.961 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.451 W

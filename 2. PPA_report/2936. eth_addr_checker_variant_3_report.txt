@@ -1,0 +1,20 @@
+PPA Report for eth_addr_checker.v (Module: eth_addr_checker)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 28
+FF Count: 3
+IO Count: 102
+Cell Count: 339
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 267.93 MHz
+Reg-to-Reg Critical Path Delay: 2.761 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

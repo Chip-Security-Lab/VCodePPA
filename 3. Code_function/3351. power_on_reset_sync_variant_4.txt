@@ -1,0 +1,1 @@
+Synchronized power-on reset controller

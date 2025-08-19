@@ -1,0 +1,20 @@
+PPA Report for round_robin_arbiter.v (Module: round_robin_arbiter)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 7
+FF Count: 7
+IO Count: 10
+Cell Count: 40
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 746.83 MHz
+Reg-to-Reg Critical Path Delay: 1.220 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

@@ -1,0 +1,20 @@
+PPA Report for square_wave_gen.v (Module: square_wave_gen)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 21
+FF Count: 9
+IO Count: 11
+Cell Count: 72
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 464.47 MHz
+Reg-to-Reg Critical Path Delay: 1.871 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.451 W

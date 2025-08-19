@@ -1,0 +1,1 @@
+Two-bit pipelined OR circuit

@@ -1,0 +1,36 @@
+# HVMS配置文件
+
+# Claude API配置
+agent:
+  api_key: "sk-QH95zut9TmvlmV2QzY4jOqQ0qxKq1IWfKyuJkmeX8zigFPmW"
+  model: "[额度]claude-3-7-sonnet"
+  timeout: 60
+  max_retries: 3
+
+# HVMS搜索配置
+mcts:
+  max_depth: 3                # 每条路径的最大搜索深度
+  ppa_threshold: 0.1          # PPA变化阈值
+  c_param: 1.414              # UCT公式参数
+  max_iterations: 1000        # 最大迭代次数
+  variations_per_seed: 2     # 每个种子的目标变异数
+  num_workers: 2              # 并行工作进程数
+  paths_per_batch: 2          # 每批次探索路径数
+
+# 数据路径配置
+paths:
+  seed_verilog: "D:/tcl/verilog_code"
+  seed_ppa: "D:/tcl/PPA_report1"
+  output_verilog: "D:/tcl/HVMS_code"
+  output_ppa: "D:/tcl/HVMS_report"
+
+# Vivado配置
+vivado:
+  path: "D:/Xilinx/Vivado/2018.3/bin/vivado.bat"
+  tcl_script: "D:/tcl/vivado_synth.tcl"
+  fpga_part: "xcku3p-ffva676-2-e"
+
+# 日志配置
+logging:
+  level: "INFO"
+  file: "logs/hvms.log"

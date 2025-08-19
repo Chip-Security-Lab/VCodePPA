@@ -1,0 +1,22 @@
+PPA Report for 976. MultiPhaseShiftReg.sv (Module: MultiPhaseShiftReg)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 4
+FF Count: 4
+IO Count: 9
+Cell Count: 34
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1610.31 MHz
+End-to-End Path Delay: N/A (No valid path found) ns
+Reg-to-Reg Critical Path Delay: 0.445 ns
+Detected Clock Signals: phase_clk
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

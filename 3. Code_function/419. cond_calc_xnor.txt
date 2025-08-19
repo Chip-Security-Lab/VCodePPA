@@ -1,0 +1,1 @@
+Controlled XNOR or OR

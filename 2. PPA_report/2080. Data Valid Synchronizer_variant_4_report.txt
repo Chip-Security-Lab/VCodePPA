@@ -1,0 +1,20 @@
+PPA Report for data_valid_sync_pipelined.v (Module: data_valid_sync_pipelined)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 4
+FF Count: 137
+IO Count: 71
+Cell Count: 291
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 441.70 MHz
+Reg-to-Reg Critical Path Delay: 1.535 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.463 W

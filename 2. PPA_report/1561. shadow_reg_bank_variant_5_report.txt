@@ -1,0 +1,20 @@
+PPA Report for shadow_reg_bank.v (Module: shadow_reg_bank)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 49
+FF Count: 151
+IO Count: 25
+Cell Count: 285
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 492.13 MHz
+Reg-to-Reg Critical Path Delay: 1.764 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.455 W

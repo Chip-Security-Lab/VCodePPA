@@ -1,0 +1,20 @@
+PPA Report for shift_queue.v (Module: shift_queue)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 28
+FF Count: 40
+IO Count: 43
+Cell Count: 185
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1166.86 MHz
+Reg-to-Reg Critical Path Delay: 0.682 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

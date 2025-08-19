@@ -1,0 +1,20 @@
+PPA Report for clk_gate_div
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 1
+FF Count: 2
+IO Count: 3
+Cell Count: 15
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1103.75 MHz
+Reg-to-Reg Critical Path Delay: 0.787 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

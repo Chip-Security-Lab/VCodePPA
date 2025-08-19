@@ -1,0 +1,1 @@
+Synchronized inverter with register pipeline

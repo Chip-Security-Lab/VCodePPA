@@ -1,0 +1,20 @@
+PPA Report for SimpleCAM_8bit
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 4
+FF Count: 9
+IO Count: 20
+Cell Count: 57
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 896.86 MHz
+Reg-to-Reg Critical Path Delay: 0.979 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

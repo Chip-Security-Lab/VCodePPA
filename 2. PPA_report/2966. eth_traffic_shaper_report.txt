@@ -1,0 +1,20 @@
+PPA Report for eth_traffic_shaper
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 108
+FF Count: 63
+IO Count: 21
+Cell Count: 244
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 368.32 MHz
+Reg-to-Reg Critical Path Delay: 2.422 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

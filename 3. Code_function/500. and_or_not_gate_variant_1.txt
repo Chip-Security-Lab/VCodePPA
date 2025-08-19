@@ -1,0 +1,1 @@
+Pipelined De Morgan logic gate

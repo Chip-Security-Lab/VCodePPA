@@ -1,0 +1,20 @@
+PPA Report for DynChanMux.v (Module: DynChanMux)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 22
+FF Count: 8
+IO Count: 84
+Cell Count: 264
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 260.41 MHz
+Reg-to-Reg Critical Path Delay: 4.156 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.457 W

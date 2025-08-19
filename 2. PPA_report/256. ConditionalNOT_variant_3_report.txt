@@ -1,0 +1,20 @@
+PPA Report for ConditionalNOT.v (Module: ConditionalNOT)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 56
+FF Count: 98
+IO Count: 66
+Cell Count: 307
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 986.19 MHz
+Reg-to-Reg Critical Path Delay: 0.861 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.475 W

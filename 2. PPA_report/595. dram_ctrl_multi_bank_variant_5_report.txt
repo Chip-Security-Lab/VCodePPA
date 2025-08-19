@@ -1,0 +1,20 @@
+PPA Report for dram_ctrl_multi_bank.v (Module: dram_ctrl_multi_bank)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 14
+FF Count: 16
+IO Count: 13
+Cell Count: 62
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 576.04 MHz
+Reg-to-Reg Critical Path Delay: 1.454 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

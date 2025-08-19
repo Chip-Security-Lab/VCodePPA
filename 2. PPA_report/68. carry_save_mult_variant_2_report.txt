@@ -1,0 +1,20 @@
+PPA Report for carry_save_mult.v (Module: carry_save_mult)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 17
+FF Count: 0
+IO Count: 16
+Cell Count: 57
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+End-to-End Path Delay: 5.552 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 3.085 W

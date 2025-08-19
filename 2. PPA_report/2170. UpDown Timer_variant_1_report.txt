@@ -1,0 +1,20 @@
+PPA Report for updown_timer.v (Module: updown_timer)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 42
+FF Count: 121
+IO Count: 39
+Cell Count: 253
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 610.87 MHz
+Reg-to-Reg Critical Path Delay: 1.401 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.456 W

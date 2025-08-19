@@ -1,0 +1,20 @@
+PPA Report for cascadable_priority_comp
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 6
+FF Count: 0
+IO Count: 16
+Cell Count: 47
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+End-to-End Path Delay: 5.428 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 1.025 W

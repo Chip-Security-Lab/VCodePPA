@@ -1,0 +1,1 @@
+Synchronous D-latch with reset

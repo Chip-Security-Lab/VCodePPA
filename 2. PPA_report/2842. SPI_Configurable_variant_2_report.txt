@@ -1,0 +1,20 @@
+PPA Report for SPI_Configurable.v (Module: SPI_Configurable)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 35
+FF Count: 18
+IO Count: 22
+Cell Count: 127
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 499.00 MHz
+Reg-to-Reg Critical Path Delay: 1.811 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

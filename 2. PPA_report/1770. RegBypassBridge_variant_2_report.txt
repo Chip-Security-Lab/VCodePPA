@@ -1,0 +1,21 @@
+PPA Report for RegBypassBridge.v (Module: RegBypassBridge)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 4
+FF Count: 101
+IO Count: 71
+Cell Count: 252
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 919.96 MHz
+End-to-End Path Delay: 3.634 ns
+Reg-to-Reg Critical Path Delay: 0.864 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.469 W

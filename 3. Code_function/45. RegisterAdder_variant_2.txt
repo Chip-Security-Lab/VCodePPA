@@ -1,0 +1,1 @@
+Registered Han-Carlson parallel prefix adder

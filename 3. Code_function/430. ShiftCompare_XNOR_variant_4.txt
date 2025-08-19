@@ -1,0 +1,1 @@
+Shift-based XNOR with base

@@ -1,0 +1,20 @@
+PPA Report for width_expander
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 3
+FF Count: 59
+IO Count: 44
+Cell Count: 133
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 761.61 MHz
+Reg-to-Reg Critical Path Delay: 1.035 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.465 W

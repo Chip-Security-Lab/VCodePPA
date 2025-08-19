@@ -1,0 +1,20 @@
+PPA Report for modbus_decoder.v (Module: modbus_decoder)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 15
+FF Count: 30
+IO Count: 12
+Cell Count: 74
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 677.51 MHz
+Reg-to-Reg Critical Path Delay: 1.267 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

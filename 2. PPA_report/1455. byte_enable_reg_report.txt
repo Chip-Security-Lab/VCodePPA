@@ -1,0 +1,22 @@
+PPA Report for 1455. byte_enable_reg.sv (Module: byte_enable_reg)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 5
+FF Count: 32
+IO Count: 71
+Cell Count: 188
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 383.44 MHz
+End-to-End Path Delay: N/A (No valid path found) ns
+Reg-to-Reg Critical Path Delay: 1.908 ns
+Detected Clock Signals: clock
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.464 W

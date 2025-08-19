@@ -1,0 +1,1 @@
+Pipelined polarity or offset converter

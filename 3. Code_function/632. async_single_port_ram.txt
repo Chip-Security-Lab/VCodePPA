@@ -1,0 +1,1 @@
+Asynchronous single-port RAM memory.

@@ -1,0 +1,20 @@
+PPA Report for jkff_dual_axi4lite.v (Module: jkff_dual_axi4lite)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 19
+FF Count: 22
+IO Count: 60
+Cell Count: 144
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+End-to-End Path Delay: 4.765 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 2.866 W

@@ -1,0 +1,20 @@
+PPA Report for sync_bus_bridge.v (Module: sync_bus_bridge)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 11
+FF Count: 22
+IO Count: 46
+Cell Count: 110
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 569.80 MHz
+Reg-to-Reg Critical Path Delay: 1.544 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.461 W

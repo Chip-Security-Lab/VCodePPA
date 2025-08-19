@@ -1,0 +1,20 @@
+PPA Report for pipelined_parity_gen.v (Module: pipelined_parity_gen)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 12
+FF Count: 43
+IO Count: 37
+Cell Count: 165
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 847.46 MHz
+Reg-to-Reg Critical Path Delay: 1.037 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

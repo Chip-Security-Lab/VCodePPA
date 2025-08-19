@@ -1,0 +1,1 @@
+Clock-gated multi-stage flip-flop

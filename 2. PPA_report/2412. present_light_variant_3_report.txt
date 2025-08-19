@@ -1,0 +1,20 @@
+PPA Report for present_light.v (Module: present_light)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 1
+FF Count: 131
+IO Count: 132
+Cell Count: 401
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 936.33 MHz
+Reg-to-Reg Critical Path Delay: 0.801 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.498 W

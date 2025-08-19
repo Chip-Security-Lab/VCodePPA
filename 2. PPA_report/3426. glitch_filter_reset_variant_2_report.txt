@@ -1,0 +1,20 @@
+PPA Report for glitch_filter_reset.v (Module: glitch_filter_reset)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 6
+FF Count: 6
+IO Count: 3
+Cell Count: 25
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 670.24 MHz
+Reg-to-Reg Critical Path Delay: 1.277 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.451 W

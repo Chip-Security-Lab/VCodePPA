@@ -1,0 +1,19 @@
+PPA Report for reset_stability_monitor.v (Module: reset_stability_monitor)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 29
+FF Count: 44
+IO Count: 63
+Cell Count: 186
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+
+POWER METRICS:
+-------------
+Total Power Consumption: 5.447 W

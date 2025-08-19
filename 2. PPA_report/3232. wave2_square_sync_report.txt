@@ -1,0 +1,20 @@
+PPA Report for wave2_square_sync
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 2
+FF Count: 4
+IO Count: 3
+Cell Count: 18
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 805.15 MHz
+Reg-to-Reg Critical Path Delay: 1.124 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.451 W

@@ -1,0 +1,1 @@
+Configurable 8-bit parity generator

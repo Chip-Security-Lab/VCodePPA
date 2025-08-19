@@ -1,0 +1,22 @@
+PPA Report for 2715. crc_quad_input.sv (Module: crc_quad_input)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 96
+FF Count: 96
+IO Count: 229
+Cell Count: 626
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1383.13 MHz
+End-to-End Path Delay: N/A (No valid path found) ns
+Reg-to-Reg Critical Path Delay: 0.605 ns
+Detected Clock Signals: clk
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.650 W

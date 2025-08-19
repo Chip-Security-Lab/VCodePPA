@@ -1,0 +1,1 @@
+Manchester encoder and decoder circuit

@@ -1,0 +1,22 @@
+PPA Report for 2854. i2c_multi_addr_slave.sv (Module: i2c_multi_addr_slave)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 21
+FF Count: 28
+IO Count: 27
+Cell Count: 121
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 610.13 MHz
+End-to-End Path Delay: N/A (No valid path found) ns
+Reg-to-Reg Critical Path Delay: 1.374 ns
+Detected Clock Signals: clk
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

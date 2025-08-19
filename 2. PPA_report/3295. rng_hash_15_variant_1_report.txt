@@ -1,0 +1,20 @@
+PPA Report for rng_hash_15.v (Module: rng_hash_15)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 6
+FF Count: 24
+IO Count: 11
+Cell Count: 53
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 969.93 MHz
+Reg-to-Reg Critical Path Delay: 0.894 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.458 W

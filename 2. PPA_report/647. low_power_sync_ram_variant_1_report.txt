@@ -1,0 +1,20 @@
+PPA Report for low_power_sync_ram_pipelined.v (Module: low_power_sync_ram_pipelined)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 847
+FF Count: 2108
+IO Count: 28
+Cell Count: 3474
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 232.07 MHz
+Reg-to-Reg Critical Path Delay: 4.039 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.465 W

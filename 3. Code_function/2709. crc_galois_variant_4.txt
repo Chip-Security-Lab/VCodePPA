@@ -1,0 +1,1 @@
+Pipelined CRC-8 Galois implementation

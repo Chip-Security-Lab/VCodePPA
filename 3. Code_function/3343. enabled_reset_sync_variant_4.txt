@@ -1,0 +1,1 @@
+Synchronized reset control AXI stream

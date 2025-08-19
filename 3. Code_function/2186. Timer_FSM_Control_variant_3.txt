@@ -1,0 +1,1 @@
+Timer FSM with 100-cycle countdown

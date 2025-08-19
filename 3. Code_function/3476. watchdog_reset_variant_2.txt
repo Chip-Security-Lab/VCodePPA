@@ -1,0 +1,1 @@
+Watchdog timer with reset functionality

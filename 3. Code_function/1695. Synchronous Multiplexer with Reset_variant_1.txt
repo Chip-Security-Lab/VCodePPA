@@ -1,0 +1,1 @@
+Synchronized multiplexer with handshaking protocol

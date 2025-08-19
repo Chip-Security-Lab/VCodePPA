@@ -1,0 +1,19 @@
+PPA Report for i2c_register_slave_axi4lite.v (Module: i2c_register_slave_axi4lite)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 62
+FF Count: 149
+IO Count: 73
+Cell Count: 362
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+
+POWER METRICS:
+-------------
+Total Power Consumption: 3.598 W

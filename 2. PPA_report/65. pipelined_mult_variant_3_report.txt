@@ -1,0 +1,20 @@
+PPA Report for wallace_mult.v (Module: wallace_mult)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 125
+FF Count: 401
+IO Count: 65
+Cell Count: 673
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 639.39 MHz
+Reg-to-Reg Critical Path Delay: 1.394 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.506 W

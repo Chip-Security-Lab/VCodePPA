@@ -1,0 +1,1 @@
+Shifts inputs, compares equality

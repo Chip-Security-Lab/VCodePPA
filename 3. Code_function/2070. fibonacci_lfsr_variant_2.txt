@@ -1,0 +1,1 @@
+Configurable LFSR with conditional subtraction

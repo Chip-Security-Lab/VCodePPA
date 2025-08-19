@@ -1,0 +1,20 @@
+PPA Report for frame_assembler.v (Module: frame_assembler)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 9
+FF Count: 20
+IO Count: 20
+Cell Count: 79
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 777.00 MHz
+Reg-to-Reg Critical Path Delay: 1.015 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

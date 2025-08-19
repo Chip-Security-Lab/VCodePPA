@@ -1,0 +1,20 @@
+PPA Report for usb_speed_negotiation
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 47
+FF Count: 29
+IO Count: 16
+Cell Count: 121
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 425.35 MHz
+Reg-to-Reg Critical Path Delay: 2.048 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.454 W

@@ -1,0 +1,20 @@
+PPA Report for alias_add.v (Module: alias_add)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 9
+FF Count: 0
+IO Count: 19
+Cell Count: 55
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+End-to-End Path Delay: 5.860 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 3.564 W

@@ -1,0 +1,20 @@
+PPA Report for ptp_timestamp_system.v (Module: ptp_timestamp_system)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 128
+FF Count: 192
+IO Count: 164
+Cell Count: 644
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 401.12 MHz
+Reg-to-Reg Critical Path Delay: 2.234 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.553 W

@@ -1,0 +1,20 @@
+PPA Report for split_trans_bridge.v (Module: split_trans_bridge)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 84
+FF Count: 363
+IO Count: 200
+Cell Count: 887
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 488.76 MHz
+Reg-to-Reg Critical Path Delay: 1.678 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.481 W

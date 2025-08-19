@@ -1,0 +1,20 @@
+PPA Report for Comparator_DualEdge.v (Module: Comparator_DualEdge)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 13
+FF Count: 14
+IO Count: 21
+Cell Count: 93
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 954.20 MHz
+Reg-to-Reg Critical Path Delay: 0.875 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

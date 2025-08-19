@@ -1,0 +1,20 @@
+PPA Report for rng_triple_lfsr_19_axi_stream.v (Module: rng_triple_lfsr_19_axi_stream)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 13
+FF Count: 33
+IO Count: 13
+Cell Count: 70
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 869.57 MHz
+Reg-to-Reg Critical Path Delay: 0.846 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.455 W

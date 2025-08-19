@@ -1,0 +1,20 @@
+PPA Report for ms_jk_flip_flop.v (Module: ms_jk_flip_flop)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 1
+FF Count: 3
+IO Count: 4
+Cell Count: 18
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 178.86 MHz
+Reg-to-Reg Critical Path Delay: 0.261 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

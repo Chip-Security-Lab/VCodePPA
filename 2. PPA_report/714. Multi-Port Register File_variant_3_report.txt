@@ -1,0 +1,20 @@
+PPA Report for multi_port_regfile_pipeline.v (Module: multi_port_regfile_pipeline)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 907
+FF Count: 1141
+IO Count: 151
+Cell Count: 2696
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 325.31 MHz
+Reg-to-Reg Critical Path Delay: 2.879 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.565 W

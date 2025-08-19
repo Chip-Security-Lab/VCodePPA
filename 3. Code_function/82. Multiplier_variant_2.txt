@@ -1,0 +1,1 @@
+Shift-based binary multiplication circuit

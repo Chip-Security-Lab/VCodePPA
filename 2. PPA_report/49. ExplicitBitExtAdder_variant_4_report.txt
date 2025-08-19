@@ -1,0 +1,20 @@
+PPA Report for bitwise_add_pipelined.v (Module: bitwise_add_pipelined)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 8
+FF Count: 24
+IO Count: 12
+Cell Count: 66
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 868.81 MHz
+Reg-to-Reg Critical Path Delay: 1.002 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

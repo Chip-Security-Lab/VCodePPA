@@ -1,0 +1,20 @@
+PPA Report for i2c_repeated_start_slave_axi4lite.v (Module: i2c_repeated_start_slave_axi4lite)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 19
+FF Count: 35
+IO Count: 63
+Cell Count: 167
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 513.61 MHz
+Reg-to-Reg Critical Path Delay: 1.676 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.463 W

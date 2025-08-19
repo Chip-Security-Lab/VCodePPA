@@ -1,0 +1,20 @@
+PPA Report for TimeDivMux.v (Module: TimeDivMux)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 9
+FF Count: 10
+IO Count: 42
+Cell Count: 133
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 916.59 MHz
+Reg-to-Reg Critical Path Delay: 0.958 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.458 W

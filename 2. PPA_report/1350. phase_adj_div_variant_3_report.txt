@@ -1,0 +1,20 @@
+PPA Report for phase_adj_div.v (Module: phase_adj_div)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 27
+FF Count: 17
+IO Count: 4
+Cell Count: 72
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 475.06 MHz
+Reg-to-Reg Critical Path Delay: 1.824 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

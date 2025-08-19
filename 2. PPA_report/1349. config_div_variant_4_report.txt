@@ -1,0 +1,20 @@
+PPA Report for config_div.v (Module: config_div)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 68
+FF Count: 21
+IO Count: 3
+Cell Count: 140
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 225.48 MHz
+Reg-to-Reg Critical Path Delay: 4.251 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.455 W

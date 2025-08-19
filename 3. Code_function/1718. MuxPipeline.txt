@@ -1,0 +1,1 @@
+Two-stage multiplexer pipeline register

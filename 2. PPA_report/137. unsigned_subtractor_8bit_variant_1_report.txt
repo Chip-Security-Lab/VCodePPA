@@ -1,0 +1,20 @@
+PPA Report for unsigned_subtractor_8bit.v (Module: unsigned_subtractor_8bit)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 9
+FF Count: 32
+IO Count: 26
+Cell Count: 108
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 767.46 MHz
+Reg-to-Reg Critical Path Delay: 1.184 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.455 W

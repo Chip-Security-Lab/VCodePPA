@@ -1,0 +1,1 @@
+Hamming SECDED encoder with parity

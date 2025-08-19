@@ -1,0 +1,20 @@
+PPA Report for srff_safe
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 2
+FF Count: 1
+IO Count: 4
+Cell Count: 16
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 359.32 MHz
+Reg-to-Reg Critical Path Delay: 2.083 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.451 W

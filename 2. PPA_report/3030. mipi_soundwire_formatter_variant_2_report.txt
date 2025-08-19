@@ -1,0 +1,20 @@
+PPA Report for mipi_soundwire_formatter.v (Module: mipi_soundwire_formatter)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 32
+FF Count: 39
+IO Count: 68
+Cell Count: 223
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 843.17 MHz
+Reg-to-Reg Critical Path Delay: 1.054 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.479 W

@@ -1,0 +1,20 @@
+PPA Report for i2c_codec.v (Module: i2c_codec)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 54
+FF Count: 84
+IO Count: 31
+Cell Count: 227
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 498.01 MHz
+Reg-to-Reg Critical Path Delay: 1.850 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.455 W

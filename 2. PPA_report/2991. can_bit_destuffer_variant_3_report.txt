@@ -1,0 +1,21 @@
+PPA Report for can_bit_destuffer.v (Module: can_bit_destuffer)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 10
+FF Count: 8
+IO Count: 10
+Cell Count: 49
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 461.25 MHz
+End-to-End Path Delay: 4.932 ns
+Reg-to-Reg Critical Path Delay: 1.940 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

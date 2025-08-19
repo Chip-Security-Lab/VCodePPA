@@ -1,0 +1,20 @@
+PPA Report for Hamming31_26_Pipelined.v (Module: Hamming31_26_Pipelined)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 53
+FF Count: 135
+IO Count: 110
+Cell Count: 408
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 671.59 MHz
+Reg-to-Reg Critical Path Delay: 1.291 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.501 W

@@ -1,0 +1,20 @@
+PPA Report for pipelined_ashift.v (Module: pipelined_ashift)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 93
+FF Count: 110
+IO Count: 71
+Cell Count: 393
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 469.04 MHz
+Reg-to-Reg Critical Path Delay: 1.941 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.484 W

@@ -1,0 +1,21 @@
+PPA Report for dual_output_decoder.v (Module: dual_output_decoder)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 54
+FF Count: 58
+IO Count: 50
+Cell Count: 241
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 521.38 MHz
+End-to-End Path Delay: 5.718 ns
+Reg-to-Reg Critical Path Delay: 1.799 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.454 W

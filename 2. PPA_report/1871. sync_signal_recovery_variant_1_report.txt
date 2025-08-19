@@ -1,0 +1,20 @@
+PPA Report for sync_signal_recovery.v (Module: sync_signal_recovery)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 43
+FF Count: 99
+IO Count: 121
+Cell Count: 435
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 591.72 MHz
+Reg-to-Reg Critical Path Delay: 1.429 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.468 W

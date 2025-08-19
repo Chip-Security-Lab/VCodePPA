@@ -1,0 +1,19 @@
+PPA Report for barrel_shifter_axi4lite.v (Module: barrel_shifter_axi4lite)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 94
+FF Count: 66
+IO Count: 58
+Cell Count: 308
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+
+POWER METRICS:
+-------------
+Total Power Consumption: 6.577 W

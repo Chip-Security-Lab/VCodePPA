@@ -1,0 +1,19 @@
+PPA Report for q_format_converter_15_to_31_axi4lite.v (Module: q_format_converter_15_to_31_axi4lite)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 44
+FF Count: 210
+IO Count: 74
+Cell Count: 398
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+
+POWER METRICS:
+-------------
+Total Power Consumption: 7.770 W

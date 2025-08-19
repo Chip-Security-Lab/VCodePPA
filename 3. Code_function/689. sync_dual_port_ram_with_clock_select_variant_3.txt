@@ -1,0 +1,1 @@
+Dual-clock synchronous dual-port RAM

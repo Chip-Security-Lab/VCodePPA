@@ -1,0 +1,21 @@
+PPA Report for TimeSliceArbiter.v (Module: TimeSliceArbiter)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 11
+FF Count: 8
+IO Count: 10
+Cell Count: 50
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 789.89 MHz
+End-to-End Path Delay: 4.857 ns
+Reg-to-Reg Critical Path Delay: 1.121 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

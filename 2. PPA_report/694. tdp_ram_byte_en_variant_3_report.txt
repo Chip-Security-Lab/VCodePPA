@@ -1,0 +1,20 @@
+PPA Report for tdp_ram_byte_en.v (Module: tdp_ram_byte_en)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 0
+FF Count: 0
+IO Count: 157
+Cell Count: 348
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 97.51 MHz
+Reg-to-Reg Critical Path Delay: 2.641 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.553 W

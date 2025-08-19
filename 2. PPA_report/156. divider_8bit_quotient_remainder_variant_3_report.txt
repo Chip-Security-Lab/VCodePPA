@@ -1,0 +1,20 @@
+PPA Report for divider_8bit_quotient_remainder.v (Module: divider_8bit_quotient_remainder)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 144
+FF Count: 48
+IO Count: 34
+Cell Count: 309
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 160.46 MHz
+Reg-to-Reg Critical Path Delay: 6.064 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.465 W

@@ -1,0 +1,1 @@
+Range detector with selectable bounds

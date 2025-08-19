@@ -1,0 +1,19 @@
+PPA Report for signed_divider_8bit.v (Module: signed_divider_8bit)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 43
+FF Count: 76
+IO Count: 32
+Cell Count: 234
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+
+POWER METRICS:
+-------------
+Total Power Consumption: 6.497 W

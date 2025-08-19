@@ -1,0 +1,20 @@
+PPA Report for conditional_reset_counter.v (Module: conditional_reset_counter)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 16
+FF Count: 15
+IO Count: 16
+Cell Count: 62
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 637.76 MHz
+Reg-to-Reg Critical Path Delay: 1.422 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

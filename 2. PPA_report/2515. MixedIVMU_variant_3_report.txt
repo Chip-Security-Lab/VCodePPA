@@ -1,0 +1,20 @@
+PPA Report for MixedIVMU.v (Module: MixedIVMU)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 13
+FF Count: 16
+IO Count: 44
+Cell Count: 102
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 630.91 MHz
+Reg-to-Reg Critical Path Delay: 1.346 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.461 W

@@ -1,0 +1,21 @@
+PPA Report for DualEdgeLatch.v (Module: DualEdgeLatch)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 57
+FF Count: 64
+IO Count: 33
+Cell Count: 231
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 87.17 MHz
+End-to-End Path Delay: 10.205 ns
+Reg-to-Reg Critical Path Delay: 0.742 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.502 W

@@ -1,0 +1,20 @@
+PPA Report for hierarchical_reset_dist.v (Module: hierarchical_reset_dist)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 1
+FF Count: 6
+IO Count: 12
+Cell Count: 32
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 782.47 MHz
+Reg-to-Reg Critical Path Delay: 1.137 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

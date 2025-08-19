@@ -1,0 +1,20 @@
+PPA Report for multiply_and_operator.v (Module: multiply_and_operator)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 81
+FF Count: 27
+IO Count: 44
+Cell Count: 224
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 626.57 MHz
+Reg-to-Reg Critical Path Delay: 1.290 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.456 W

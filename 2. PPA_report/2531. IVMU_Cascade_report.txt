@@ -1,0 +1,21 @@
+PPA Report for 2531. IVMU_Cascade.sv (Module: IVMU_Cascade)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 4
+FF Count: 0
+IO Count: 12
+Cell Count: 32
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+End-to-End Path Delay: 5.246 ns
+Detected Clock Signals: None
+
+POWER METRICS:
+-------------
+Total Power Consumption: 1.347 W

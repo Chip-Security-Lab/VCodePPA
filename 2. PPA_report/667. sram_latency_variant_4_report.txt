@@ -1,0 +1,20 @@
+PPA Report for sram_latency.v (Module: sram_latency)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 22
+FF Count: 11
+IO Count: 23
+Cell Count: 103
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1132.50 MHz
+Reg-to-Reg Critical Path Delay: 0.650 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

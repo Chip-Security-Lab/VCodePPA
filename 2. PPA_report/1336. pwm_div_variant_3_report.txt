@@ -1,0 +1,20 @@
+PPA Report for pwm_div.v (Module: pwm_div)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 9
+FF Count: 10
+IO Count: 3
+Cell Count: 32
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 571.76 MHz
+Reg-to-Reg Critical Path Delay: 1.618 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.451 W

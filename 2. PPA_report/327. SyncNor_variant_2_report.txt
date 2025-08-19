@@ -1,0 +1,20 @@
+PPA Report for SyncNor_Pipelined.v (Module: SyncNor_Pipelined)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 1
+FF Count: 5
+IO Count: 7
+Cell Count: 26
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1100.11 MHz
+Reg-to-Reg Critical Path Delay: 0.767 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

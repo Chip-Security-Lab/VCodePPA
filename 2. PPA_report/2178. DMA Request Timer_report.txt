@@ -1,0 +1,20 @@
+PPA Report for DMA Request Timer
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 66
+FF Count: 26
+IO Count: 76
+Cell Count: 284
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 391.08 MHz
+Reg-to-Reg Critical Path Delay: 2.314 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.472 W

@@ -1,0 +1,20 @@
+PPA Report for adaptive_clock_gate.v (Module: adaptive_clock_gate)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 4
+FF Count: 1
+IO Count: 11
+Cell Count: 39
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A
+End-to-End Path Delay: 4.623 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.711 W

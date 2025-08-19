@@ -1,0 +1,20 @@
+PPA Report for fuzzy_pattern_matcher.v (Module: fuzzy_pattern_matcher)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 7
+FF Count: 0
+IO Count: 17
+Cell Count: 56
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+End-to-End Path Delay: 5.560 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.955 W

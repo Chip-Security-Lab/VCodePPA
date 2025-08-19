@@ -1,0 +1,1 @@
+Selective shadow register with masking

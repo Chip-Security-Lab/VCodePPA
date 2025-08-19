@@ -1,0 +1,20 @@
+PPA Report for AsyncMaskITRC.v (Module: AsyncMaskITRC)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 5
+FF Count: 0
+IO Count: 15
+Cell Count: 38
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+End-to-End Path Delay: 4.983 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 1.822 W

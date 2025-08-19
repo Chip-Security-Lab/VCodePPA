@@ -1,0 +1,20 @@
+PPA Report for true_dual_port_ram.v (Module: true_dual_port_ram)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 0
+FF Count: 0
+IO Count: 84
+Cell Count: 194
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 381.81 MHz
+Reg-to-Reg Critical Path Delay: 3.664 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 57.521 W

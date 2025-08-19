@@ -1,0 +1,1 @@
+Power-gated Hamming encoder with sleep

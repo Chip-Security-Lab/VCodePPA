@@ -1,0 +1,1 @@
+Selectively enabled parallel shift register

@@ -1,0 +1,20 @@
+PPA Report for jk_ff_enable.v (Module: jk_ff_enable)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 2
+FF Count: 12
+IO Count: 8
+Cell Count: 37
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 300.72 MHz
+Reg-to-Reg Critical Path Delay: 3.198 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.764 W

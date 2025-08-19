@@ -1,0 +1,20 @@
+PPA Report for float_lerp_axi_stream.v (Module: float_lerp_axi_stream)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 77
+FF Count: 53
+IO Count: 64
+Cell Count: 352
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 117.04 MHz
+Reg-to-Reg Critical Path Delay: 8.366 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.459 W

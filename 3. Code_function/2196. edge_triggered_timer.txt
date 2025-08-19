@@ -1,0 +1,1 @@
+Edge-triggered configurable duration timer

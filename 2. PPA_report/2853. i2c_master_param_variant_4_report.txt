@@ -1,0 +1,20 @@
+PPA Report for i2c_master_axi4lite.v (Module: i2c_master_axi4lite)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 22
+FF Count: 40
+IO Count: 65
+Cell Count: 181
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 145.34 MHz
+Reg-to-Reg Critical Path Delay: 3.130 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 3.112 W

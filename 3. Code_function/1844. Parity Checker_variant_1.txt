@@ -1,0 +1,1 @@
+Efficient parity checking with detection

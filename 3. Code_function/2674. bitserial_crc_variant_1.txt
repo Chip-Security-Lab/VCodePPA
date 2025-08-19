@@ -1,0 +1,1 @@
+Pipelined 8-bit CRC calculator

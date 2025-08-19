@@ -1,0 +1,20 @@
+PPA Report for TTBridge.v (Module: TTBridge)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 44
+FF Count: 65
+IO Count: 35
+Cell Count: 226
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 819.67 MHz
+Reg-to-Reg Critical Path Delay: 1.082 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

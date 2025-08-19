@@ -1,0 +1,1 @@
+UART synchronous FIFO buffer controller

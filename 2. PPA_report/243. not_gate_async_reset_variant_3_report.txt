@@ -1,0 +1,20 @@
+PPA Report for not_gate_pipeline.v (Module: not_gate_pipeline)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 1
+FF Count: 4
+IO Count: 6
+Cell Count: 22
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1067.24 MHz
+Reg-to-Reg Critical Path Delay: 0.719 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.451 W

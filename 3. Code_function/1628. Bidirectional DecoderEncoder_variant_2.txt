@@ -1,0 +1,1 @@
+Bidirectional onehot encoder/decoder module

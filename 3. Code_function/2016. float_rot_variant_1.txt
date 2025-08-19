@@ -1,0 +1,1 @@
+Rotates floating-point mantissa bits

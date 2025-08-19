@@ -1,0 +1,20 @@
+PPA Report for elias_gamma.v (Module: elias_gamma)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 76
+FF Count: 123
+IO Count: 60
+Cell Count: 317
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 589.62 MHz
+Reg-to-Reg Critical Path Delay: 1.509 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.474 W

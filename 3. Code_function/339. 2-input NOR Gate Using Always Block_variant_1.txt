@@ -1,0 +1,1 @@
+NOR-based binary multiplication circuit

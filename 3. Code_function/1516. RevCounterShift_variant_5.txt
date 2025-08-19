@@ -1,0 +1,1 @@
+Bidirectional circular shift register counter

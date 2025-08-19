@@ -1,0 +1,20 @@
+PPA Report for sram_parity.v (Module: sram_parity)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 81
+FF Count: 194
+IO Count: 25
+Cell Count: 370
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 497.27 MHz
+Reg-to-Reg Critical Path Delay: 1.717 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.455 W

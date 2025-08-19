@@ -1,0 +1,22 @@
+PPA Report for 2874. i2c_master_multiwidth.sv (Module: i2c_master_multiwidth)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 5
+FF Count: 1
+IO Count: 14
+Cell Count: 30
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1117.32 MHz
+End-to-End Path Delay: N/A (No valid path found) ns
+Reg-to-Reg Critical Path Delay: 0.776 ns
+Detected Clock Signals: clk
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.451 W

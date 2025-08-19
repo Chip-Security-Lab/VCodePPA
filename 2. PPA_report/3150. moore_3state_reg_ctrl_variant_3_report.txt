@@ -1,0 +1,20 @@
+PPA Report for moore_3state_reg_ctrl.v (Module: moore_3state_reg_ctrl)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 6
+FF Count: 11
+IO Count: 19
+Cell Count: 68
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 675.22 MHz
+Reg-to-Reg Critical Path Delay: 1.249 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.451 W

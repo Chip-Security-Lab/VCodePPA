@@ -1,0 +1,20 @@
+PPA Report for crc64_pipelined
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 138
+FF Count: 204
+IO Count: 130
+Cell Count: 656
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 749.63 MHz
+Reg-to-Reg Critical Path Delay: 1.116 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.564 W

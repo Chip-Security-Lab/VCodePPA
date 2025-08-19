@@ -1,0 +1,21 @@
+PPA Report for ClockGating.v (Module: ClockGating)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 3
+FF Count: 3
+IO Count: 5
+Cell Count: 22
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 171.53 MHz
+End-to-End Path Delay: 4.787 ns
+Reg-to-Reg Critical Path Delay: 0.461 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.454 W

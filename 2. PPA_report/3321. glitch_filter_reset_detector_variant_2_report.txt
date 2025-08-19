@@ -1,0 +1,19 @@
+PPA Report for glitch_filter_reset_detector_axi4lite.v (Module: glitch_filter_reset_detector_axi4lite)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 19
+FF Count: 51
+IO Count: 57
+Cell Count: 167
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+
+POWER METRICS:
+-------------
+Total Power Consumption: 2.359 W

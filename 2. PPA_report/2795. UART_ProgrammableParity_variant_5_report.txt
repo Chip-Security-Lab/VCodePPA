@@ -1,0 +1,20 @@
+PPA Report for UART_ProgrammableParity.v (Module: UART_ProgrammableParity)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 6
+FF Count: 25
+IO Count: 30
+Cell Count: 104
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 968.99 MHz
+Reg-to-Reg Critical Path Delay: 0.887 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.455 W

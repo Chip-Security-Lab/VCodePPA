@@ -1,0 +1,20 @@
+PPA Report for prio_enc_latch_sync.v (Module: prio_enc_latch_sync)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 5
+FF Count: 9
+IO Count: 12
+Cell Count: 48
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 814.33 MHz
+Reg-to-Reg Critical Path Delay: 0.982 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

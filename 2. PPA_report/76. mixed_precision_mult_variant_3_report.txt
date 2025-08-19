@@ -1,0 +1,20 @@
+PPA Report for mixed_precision_mult.v (Module: mixed_precision_mult)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 37
+FF Count: 13
+IO Count: 28
+Cell Count: 117
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 791.14 MHz
+Reg-to-Reg Critical Path Delay: 0.978 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.455 W

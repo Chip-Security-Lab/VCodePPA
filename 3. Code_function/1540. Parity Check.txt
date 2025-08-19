@@ -1,0 +1,1 @@
+Parity-checked shadow register with error-detection

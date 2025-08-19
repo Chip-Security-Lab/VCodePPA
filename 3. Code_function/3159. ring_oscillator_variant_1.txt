@@ -1,0 +1,1 @@
+Pipelined ring oscillator clock generator

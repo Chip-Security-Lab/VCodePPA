@@ -1,0 +1,20 @@
+PPA Report for IVMU_ErrorFeedback_pipelined.v (Module: IVMU_ErrorFeedback_pipelined)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 0
+FF Count: 3
+IO Count: 6
+Cell Count: 19
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1189.06 MHz
+Reg-to-Reg Critical Path Delay: 0.722 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

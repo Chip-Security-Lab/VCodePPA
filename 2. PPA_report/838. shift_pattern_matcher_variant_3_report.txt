@@ -1,0 +1,20 @@
+PPA Report for shift_pattern_matcher.v (Module: shift_pattern_matcher)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 6
+FF Count: 8
+IO Count: 12
+Cell Count: 51
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 617.28 MHz
+Reg-to-Reg Critical Path Delay: 1.483 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.451 W

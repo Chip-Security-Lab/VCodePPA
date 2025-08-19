@@ -1,0 +1,1 @@
+Asynchronous NAND with active-low reset

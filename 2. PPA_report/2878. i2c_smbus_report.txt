@@ -1,0 +1,22 @@
+PPA Report for 2878. i2c_smbus.sv (Module: i2c_smbus)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 12
+FF Count: 33
+IO Count: 28
+Cell Count: 104
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 480.08 MHz
+End-to-End Path Delay: 4.795 ns
+Reg-to-Reg Critical Path Delay: 1.892 ns
+Detected Clock Signals: clk
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

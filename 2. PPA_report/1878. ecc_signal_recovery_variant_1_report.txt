@@ -1,0 +1,21 @@
+PPA Report for ecc_signal_recovery.v (Module: ecc_signal_recovery)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 20
+FF Count: 22
+IO Count: 18
+Cell Count: 90
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 837.52 MHz
+End-to-End Path Delay: 5.453 ns
+Reg-to-Reg Critical Path Delay: 0.901 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

@@ -1,0 +1,19 @@
+PPA Report for can_error_detector_axi.v (Module: can_error_detector_axi)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 31
+FF Count: 34
+IO Count: 57
+Cell Count: 168
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+
+POWER METRICS:
+-------------
+Total Power Consumption: 3.102 W

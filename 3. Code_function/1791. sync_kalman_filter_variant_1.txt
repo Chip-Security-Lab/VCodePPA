@@ -1,0 +1,1 @@
+Synchronized Kalman filter implementation

@@ -1,0 +1,1 @@
+Magnitude comparator with priority encoder

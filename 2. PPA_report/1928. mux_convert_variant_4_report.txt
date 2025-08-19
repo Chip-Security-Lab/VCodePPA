@@ -1,0 +1,20 @@
+PPA Report for mux_convert.v (Module: mux_convert)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 13
+FF Count: 0
+IO Count: 43
+Cell Count: 130
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+End-to-End Path Delay: 8.109 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 1.355 W

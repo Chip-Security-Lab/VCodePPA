@@ -1,0 +1,20 @@
+PPA Report for prio_enc_pipe_stage.v (Module: prio_enc_pipe_stage)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 76
+FF Count: 37
+IO Count: 39
+Cell Count: 239
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 440.33 MHz
+Reg-to-Reg Critical Path Delay: 2.134 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

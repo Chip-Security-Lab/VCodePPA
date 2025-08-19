@@ -1,0 +1,20 @@
+PPA Report for DynamicWeightArbiter.v (Module: DynamicWeightArbiter)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 61
+FF Count: 72
+IO Count: 42
+Cell Count: 307
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 577.70 MHz
+Reg-to-Reg Critical Path Delay: 1.539 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.454 W

@@ -1,0 +1,20 @@
+PPA Report for nrzi_codec.v (Module: nrzi_codec)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 5
+FF Count: 12
+IO Count: 7
+Cell Count: 36
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 909.09 MHz
+Reg-to-Reg Critical Path Delay: 0.970 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

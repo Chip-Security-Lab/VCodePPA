@@ -1,0 +1,1 @@
+Threshold-based analog-to-binary signal converter

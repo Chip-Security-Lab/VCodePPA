@@ -1,0 +1,1 @@
+Pipelined voltage brownout reset detector

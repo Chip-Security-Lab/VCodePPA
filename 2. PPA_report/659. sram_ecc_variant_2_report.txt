@@ -1,0 +1,21 @@
+PPA Report for sram_ecc.v (Module: sram_ecc)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 100
+FF Count: 0
+IO Count: 80
+Cell Count: 342
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 275.07 MHz
+End-to-End Path Delay: 7.705 ns
+Reg-to-Reg Critical Path Delay: 3.052 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.486 W

@@ -1,0 +1,1 @@
+Crossbar selector with parity calculation

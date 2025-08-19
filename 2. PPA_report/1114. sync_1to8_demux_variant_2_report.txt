@@ -1,0 +1,20 @@
+PPA Report for sync_1to8_demux.v (Module: sync_1to8_demux)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 8
+FF Count: 29
+IO Count: 14
+Cell Count: 74
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 939.85 MHz
+Reg-to-Reg Critical Path Delay: 0.934 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

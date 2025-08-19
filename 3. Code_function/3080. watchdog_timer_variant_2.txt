@@ -1,0 +1,1 @@
+Configurable watchdog timer with warnings

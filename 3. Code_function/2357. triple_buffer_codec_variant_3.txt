@@ -1,0 +1,1 @@
+Triple buffer image processing controller

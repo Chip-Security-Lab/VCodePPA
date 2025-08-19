@@ -1,0 +1,20 @@
+PPA Report for crossbar_monitor
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 12
+FF Count: 64
+IO Count: 97
+Cell Count: 252
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 641.44 MHz
+Reg-to-Reg Critical Path Delay: 1.416 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.502 W

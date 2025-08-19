@@ -1,0 +1,20 @@
+PPA Report for ChannelEqualizer.v (Module: ChannelEqualizer)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 58
+FF Count: 40
+IO Count: 17
+Cell Count: 151
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 472.14 MHz
+Reg-to-Reg Critical Path Delay: 1.973 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.458 W

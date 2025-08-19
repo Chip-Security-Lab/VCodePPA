@@ -1,0 +1,19 @@
+PPA Report for d_latch_sync_rst.v (Module: d_latch_sync_rst)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 0
+FF Count: 1
+IO Count: 4
+Cell Count: 13
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.554 W

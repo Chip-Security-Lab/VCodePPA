@@ -1,0 +1,20 @@
+PPA Report for 3010. CANFD_ExtFrame.sv (Module: CANFD_ExtFrame)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 122
+FF Count: 294
+IO Count: 195
+Cell Count: 881
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 408.50 MHz
+Longest Path Delay: 2.205 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.486 W

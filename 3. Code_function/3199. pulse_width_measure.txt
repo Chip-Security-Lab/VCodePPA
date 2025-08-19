@@ -1,0 +1,1 @@
+Measures pulse width in clocks

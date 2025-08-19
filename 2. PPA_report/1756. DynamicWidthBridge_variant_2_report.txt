@@ -1,0 +1,20 @@
+PPA Report for DynamicWidthBridge.v (Module: DynamicWidthBridge)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 5
+FF Count: 197
+IO Count: 100
+Cell Count: 375
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 663.57 MHz
+Reg-to-Reg Critical Path Delay: 1.236 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.485 W

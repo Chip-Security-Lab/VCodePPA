@@ -1,0 +1,20 @@
+PPA Report for sync_binary_decoder.v (Module: sync_binary_decoder)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 9
+FF Count: 61
+IO Count: 24
+Cell Count: 119
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 437.48 MHz
+Reg-to-Reg Critical Path Delay: 3.318 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 1.999 W

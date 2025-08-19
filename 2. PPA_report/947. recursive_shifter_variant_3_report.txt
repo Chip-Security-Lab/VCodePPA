@@ -1,0 +1,19 @@
+PPA Report for recursive_shifter.v (Module: recursive_shifter)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 33
+FF Count: 90
+IO Count: 38
+Cell Count: 240
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+
+POWER METRICS:
+-------------
+Total Power Consumption: 7.719 W

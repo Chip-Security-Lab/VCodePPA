@@ -1,0 +1,20 @@
+PPA Report for ser2par_pipelined.v (Module: ser2par_pipelined)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 8
+FF Count: 34
+IO Count: 13
+Cell Count: 71
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 776.40 MHz
+Reg-to-Reg Critical Path Delay: 0.992 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

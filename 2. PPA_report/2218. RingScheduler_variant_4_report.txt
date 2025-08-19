@@ -1,0 +1,20 @@
+PPA Report for RingScheduler.v (Module: RingScheduler)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 9
+FF Count: 8
+IO Count: 10
+Cell Count: 36
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1006.04 MHz
+Reg-to-Reg Critical Path Delay: 0.763 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

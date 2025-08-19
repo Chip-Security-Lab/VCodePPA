@@ -1,0 +1,1 @@
+Pipelined atomic arithmetic/logic operations

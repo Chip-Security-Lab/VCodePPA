@@ -1,0 +1,1 @@
+Gray-coded clock frequency divider

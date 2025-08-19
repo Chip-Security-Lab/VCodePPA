@@ -1,0 +1,20 @@
+PPA Report for can_ack_handler.v (Module: can_ack_handler)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 6
+FF Count: 9
+IO Count: 12
+Cell Count: 48
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 690.13 MHz
+Reg-to-Reg Critical Path Delay: 1.227 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

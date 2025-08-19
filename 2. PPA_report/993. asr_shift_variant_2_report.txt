@@ -1,0 +1,20 @@
+PPA Report for asr_shift_pipeline.v (Module: asr_shift_pipeline)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 75
+FF Count: 66
+IO Count: 76
+Cell Count: 326
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A
+End-to-End Path Delay: 4.495 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 5.153 W

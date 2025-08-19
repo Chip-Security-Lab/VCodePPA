@@ -1,0 +1,20 @@
+PPA Report for reflected_output_crc32.v (Module: reflected_output_crc32)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 39
+FF Count: 32
+IO Count: 36
+Cell Count: 124
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1027.75 MHz
+Reg-to-Reg Critical Path Delay: 0.834 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.514 W

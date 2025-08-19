@@ -1,0 +1,20 @@
+PPA Report for error_flagging_range_detector_axi_lite.v (Module: error_flagging_range_detector_axi_lite)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 136
+FF Count: 140
+IO Count: 144
+Cell Count: 703
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 503.27 MHz
+Reg-to-Reg Critical Path Delay: 1.750 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.471 W

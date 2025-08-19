@@ -1,0 +1,1 @@
+Fast parallel 4-bit adder circuit

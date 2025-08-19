@@ -1,0 +1,1 @@
+Range checker with error detection

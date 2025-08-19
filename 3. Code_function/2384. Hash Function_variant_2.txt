@@ -1,0 +1,1 @@
+Simplified hash calculation with XOR

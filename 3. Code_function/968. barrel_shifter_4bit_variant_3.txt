@@ -1,0 +1,1 @@
+Bidirectional 4-bit barrel shifter

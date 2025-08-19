@@ -1,0 +1,1 @@
+Reconfigurable Hamming encoder with pipeline

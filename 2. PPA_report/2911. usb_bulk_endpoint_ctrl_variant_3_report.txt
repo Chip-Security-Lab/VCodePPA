@@ -1,0 +1,20 @@
+PPA Report for usb_bulk_endpoint_ctrl.v (Module: usb_bulk_endpoint_ctrl)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 39
+FF Count: 124
+IO Count: 26
+Cell Count: 231
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 273.66 MHz
+Reg-to-Reg Critical Path Delay: 3.298 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 2.863 W

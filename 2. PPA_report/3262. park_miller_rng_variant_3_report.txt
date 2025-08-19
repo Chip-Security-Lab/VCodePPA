@@ -1,0 +1,20 @@
+PPA Report for park_miller_rng_axi_stream.v (Module: park_miller_rng_axi_stream)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 813
+FF Count: 128
+IO Count: 37
+Cell Count: 1249
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 142.53 MHz
+Reg-to-Reg Critical Path Delay: 6.820 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.505 W

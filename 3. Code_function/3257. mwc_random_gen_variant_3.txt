@@ -1,0 +1,1 @@
+Pipelined hardware random number generator

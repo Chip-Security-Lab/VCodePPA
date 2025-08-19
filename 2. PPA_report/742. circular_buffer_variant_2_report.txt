@@ -1,0 +1,20 @@
+PPA Report for circular_buffer_pipeline.v (Module: circular_buffer_pipeline)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 24
+FF Count: 25
+IO Count: 38
+Cell Count: 153
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 723.07 MHz
+Reg-to-Reg Critical Path Delay: 1.253 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.456 W

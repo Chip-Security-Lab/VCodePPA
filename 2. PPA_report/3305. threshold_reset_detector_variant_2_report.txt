@@ -1,0 +1,20 @@
+PPA Report for threshold_reset_detector.v (Module: threshold_reset_detector)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 8
+FF Count: 4
+IO Count: 19
+Cell Count: 78
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1047.12 MHz
+Reg-to-Reg Critical Path Delay: 0.836 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

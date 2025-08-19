@@ -1,0 +1,19 @@
+PPA Report for capture_timer.v (Module: capture_timer)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 44
+FF Count: 220
+IO Count: 67
+Cell Count: 393
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+
+POWER METRICS:
+-------------
+Total Power Consumption: 7.551 W

@@ -1,0 +1,20 @@
+PPA Report for cam_valid_mask.v (Module: cam_valid_mask)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 450
+FF Count: 972
+IO Count: 160
+Cell Count: 1780
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 394.48 MHz
+Reg-to-Reg Critical Path Delay: 2.360 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.472 W

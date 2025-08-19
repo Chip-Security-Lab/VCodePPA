@@ -1,0 +1,1 @@
+Time-sliced arbiter with rotating priority

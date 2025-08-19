@@ -1,0 +1,20 @@
+PPA Report for decade_counter.v (Module: decade_counter)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 3
+FF Count: 6
+IO Count: 9
+Cell Count: 29
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 848.90 MHz
+Reg-to-Reg Critical Path Delay: 1.060 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.454 W

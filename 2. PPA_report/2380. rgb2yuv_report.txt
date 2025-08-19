@@ -1,0 +1,20 @@
+PPA Report for rgb2yuv
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 172
+FF Count: 0
+IO Count: 48
+Cell Count: 324
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+End-to-End Path Delay: 7.876 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 21.031 W

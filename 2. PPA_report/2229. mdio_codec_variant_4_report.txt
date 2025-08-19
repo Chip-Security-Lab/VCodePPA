@@ -1,0 +1,20 @@
+PPA Report for mdio_codec.v (Module: mdio_codec)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 60
+FF Count: 119
+IO Count: 51
+Cell Count: 310
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 591.02 MHz
+Reg-to-Reg Critical Path Delay: 1.433 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.459 W

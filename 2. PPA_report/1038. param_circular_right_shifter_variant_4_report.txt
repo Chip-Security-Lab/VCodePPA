@@ -1,0 +1,20 @@
+PPA Report for param_circular_right_shifter.v (Module: param_circular_right_shifter)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 16
+FF Count: 0
+IO Count: 19
+Cell Count: 65
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+End-to-End Path Delay: 5.865 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 3.479 W

@@ -1,0 +1,20 @@
+PPA Report for rotate_carry.v (Module: rotate_carry)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 13
+FF Count: 26
+IO Count: 19
+Cell Count: 86
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 689.18 MHz
+Reg-to-Reg Critical Path Delay: 1.262 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.454 W

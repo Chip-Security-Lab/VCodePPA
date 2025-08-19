@@ -1,0 +1,20 @@
+PPA Report for sync_rotate_right_shifter.v (Module: sync_rotate_right_shifter)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 83
+FF Count: 39
+IO Count: 75
+Cell Count: 297
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A
+End-to-End Path Delay: 4.743 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 26.669 W

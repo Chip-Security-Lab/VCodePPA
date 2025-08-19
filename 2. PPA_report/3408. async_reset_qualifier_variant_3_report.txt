@@ -1,0 +1,20 @@
+PPA Report for async_reset_qualifier.v (Module: async_reset_qualifier)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 2
+FF Count: 10
+IO Count: 10
+Cell Count: 40
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1236.09 MHz
+Reg-to-Reg Critical Path Delay: 0.690 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.451 W

@@ -1,0 +1,20 @@
+PPA Report for ICMU_ECCProtect.v (Module: ICMU_ECCProtect)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 1
+FF Count: 65
+IO Count: 132
+Cell Count: 335
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 436.85 MHz
+Reg-to-Reg Critical Path Delay: 2.566 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.485 W

@@ -1,0 +1,1 @@
+Power-optimized CRC calculation with handshaking

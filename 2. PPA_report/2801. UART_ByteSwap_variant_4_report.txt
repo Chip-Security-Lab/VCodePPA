@@ -1,0 +1,21 @@
+PPA Report for UART_ByteSwap.v (Module: UART_ByteSwap)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 8
+FF Count: 16
+IO Count: 35
+Cell Count: 108
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1145.48 MHz
+End-to-End Path Delay: 5.760 ns
+Reg-to-Reg Critical Path Delay: 0.743 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.456 W

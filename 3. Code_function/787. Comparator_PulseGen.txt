@@ -1,0 +1,1 @@
+Equality change pulse generator

@@ -1,0 +1,20 @@
+PPA Report for simple_hamming32.v (Module: simple_hamming32)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 4
+FF Count: 34
+IO Count: 77
+Cell Count: 191
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 927.64 MHz
+Reg-to-Reg Critical Path Delay: 0.854 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.470 W

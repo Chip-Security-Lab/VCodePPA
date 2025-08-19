@@ -1,0 +1,20 @@
+PPA Report for window_comparator_range_detector.v (Module: window_comparator_range_detector)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 35
+FF Count: 0
+IO Count: 30
+Cell Count: 146
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+End-to-End Path Delay: 7.018 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 1.792 W

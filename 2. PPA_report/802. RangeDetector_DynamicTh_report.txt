@@ -1,0 +1,20 @@
+PPA Report for RangeDetector_DynamicTh
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 9
+FF Count: 17
+IO Count: 27
+Cell Count: 120
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 928.51 MHz
+Reg-to-Reg Critical Path Delay: 0.928 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

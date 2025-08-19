@@ -1,0 +1,20 @@
+PPA Report for des_cbc_async.v (Module: des_cbc_async)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 101
+FF Count: 195
+IO Count: 230
+Cell Count: 859
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 607.90 MHz
+Reg-to-Reg Critical Path Delay: 1.437 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.471 W

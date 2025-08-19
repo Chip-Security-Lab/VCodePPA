@@ -1,0 +1,1 @@
+Variable-width barrel shifter with register

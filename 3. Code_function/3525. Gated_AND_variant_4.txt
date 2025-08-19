@@ -1,0 +1,1 @@
+Gated 4-bit binary multiplier

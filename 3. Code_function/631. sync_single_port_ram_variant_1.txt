@@ -1,0 +1,1 @@
+Synchronous single-port RAM with FSM

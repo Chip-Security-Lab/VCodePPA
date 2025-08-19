@@ -1,0 +1,20 @@
+PPA Report for sync_arithmetic_right_shifter.v (Module: sync_arithmetic_right_shifter)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 142
+FF Count: 109
+IO Count: 74
+Cell Count: 423
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 261.76 MHz
+Reg-to-Reg Critical Path Delay: 2.396 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 39.283 W

@@ -1,0 +1,1 @@
+Pipelined parity bit generator

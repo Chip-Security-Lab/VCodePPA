@@ -1,0 +1,20 @@
+PPA Report for signed_multiply_subtract.v (Module: signed_multiply_subtract)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 93
+FF Count: 0
+IO Count: 40
+Cell Count: 207
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+End-to-End Path Delay: 8.569 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 13.192 W

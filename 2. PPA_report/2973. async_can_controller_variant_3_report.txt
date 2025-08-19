@@ -1,0 +1,19 @@
+PPA Report for async_can_controller.v (Module: async_can_controller)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 106
+FF Count: 351
+IO Count: 98
+Cell Count: 689
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+
+POWER METRICS:
+-------------
+Total Power Consumption: 6.290 W

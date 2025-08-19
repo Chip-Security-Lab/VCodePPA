@@ -1,0 +1,20 @@
+PPA Report for ITRC_Timeout.v (Module: ITRC_Timeout)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 12
+FF Count: 12
+IO Count: 5
+Cell Count: 50
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 684.46 MHz
+Reg-to-Reg Critical Path Delay: 1.256 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.451 W

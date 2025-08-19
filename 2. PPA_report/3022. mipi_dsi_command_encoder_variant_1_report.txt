@@ -1,0 +1,19 @@
+PPA Report for mipi_dsi_command_encoder.v (Module: mipi_dsi_command_encoder)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 52
+FF Count: 121
+IO Count: 114
+Cell Count: 380
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+
+POWER METRICS:
+-------------
+Total Power Consumption: 3.966 W

@@ -1,0 +1,1 @@
+Binary counter with Gray code

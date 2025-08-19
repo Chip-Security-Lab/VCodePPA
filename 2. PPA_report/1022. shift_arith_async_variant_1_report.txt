@@ -1,0 +1,20 @@
+PPA Report for shift_arith_async.v (Module: shift_arith_async)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 11
+FF Count: 0
+IO Count: 19
+Cell Count: 54
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+End-to-End Path Delay: 5.418 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 2.973 W

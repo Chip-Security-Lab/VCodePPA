@@ -1,0 +1,20 @@
+PPA Report for data_en_sync.v (Module: data_en_sync)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 0
+FF Count: 18
+IO Count: 19
+Cell Count: 64
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 296.38 MHz
+Reg-to-Reg Critical Path Delay: 1.342 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.454 W

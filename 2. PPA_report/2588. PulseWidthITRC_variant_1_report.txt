@@ -1,0 +1,20 @@
+PPA Report for PulseWidthITRC.v (Module: PulseWidthITRC)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 20
+FF Count: 27
+IO Count: 9
+Cell Count: 80
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 762.20 MHz
+Reg-to-Reg Critical Path Delay: 1.063 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

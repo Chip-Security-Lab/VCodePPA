@@ -1,0 +1,22 @@
+PPA Report for 1281. Ring Counter with Multiple Taps.sv (Module: tapped_ring_counter)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 0
+FF Count: 4
+IO Count: 8
+Cell Count: 19
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1148.11 MHz
+End-to-End Path Delay: N/A (No valid path found) ns
+Reg-to-Reg Critical Path Delay: 0.752 ns
+Detected Clock Signals: clock
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

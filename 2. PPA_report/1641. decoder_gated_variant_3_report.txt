@@ -1,0 +1,20 @@
+PPA Report for decoder_gated.v (Module: decoder_gated)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 4
+FF Count: 16
+IO Count: 13
+Cell Count: 51
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 959.69 MHz
+Reg-to-Reg Critical Path Delay: 0.906 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

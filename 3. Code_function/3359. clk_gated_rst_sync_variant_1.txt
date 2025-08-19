@@ -1,0 +1,1 @@
+Clock-gated reset synchronization circuit

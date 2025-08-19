@@ -1,0 +1,1 @@
+Loadable 8-bit shift register

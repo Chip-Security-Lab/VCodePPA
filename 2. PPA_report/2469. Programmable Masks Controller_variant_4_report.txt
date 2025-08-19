@@ -1,0 +1,19 @@
+PPA Report for prog_mask_intr_ctrl.v (Module: prog_mask_intr_ctrl)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 10
+FF Count: 12
+IO Count: 23
+Cell Count: 87
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+
+POWER METRICS:
+-------------
+Total Power Consumption: 1.636 W

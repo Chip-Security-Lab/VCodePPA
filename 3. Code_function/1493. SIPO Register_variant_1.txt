@@ -1,0 +1,1 @@
+Serial-in parallel-out with subtractor

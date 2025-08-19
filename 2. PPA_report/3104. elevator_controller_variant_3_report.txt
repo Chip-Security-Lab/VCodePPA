@@ -1,0 +1,20 @@
+PPA Report for karatsuba_multiplier_4bit_pipelined.v (Module: karatsuba_multiplier_4bit_pipelined)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 22
+FF Count: 46
+IO Count: 18
+Cell Count: 119
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 613.87 MHz
+Reg-to-Reg Critical Path Delay: 1.486 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.456 W

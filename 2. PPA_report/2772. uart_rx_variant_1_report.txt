@@ -1,0 +1,20 @@
+PPA Report for uart_rx.v (Module: uart_rx)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 14
+FF Count: 52
+IO Count: 13
+Cell Count: 94
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 463.82 MHz
+Reg-to-Reg Critical Path Delay: 1.895 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

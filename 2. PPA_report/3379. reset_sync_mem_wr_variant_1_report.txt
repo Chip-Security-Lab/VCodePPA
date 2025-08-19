@@ -1,0 +1,21 @@
+PPA Report for reset_sync_mem_wr.v (Module: reset_sync_mem_wr)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 6
+FF Count: 8
+IO Count: 8
+Cell Count: 37
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 854.70 MHz
+End-to-End Path Delay: 5.136 ns
+Reg-to-Reg Critical Path Delay: 0.938 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

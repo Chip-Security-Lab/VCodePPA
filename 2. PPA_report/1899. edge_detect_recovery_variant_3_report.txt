@@ -1,0 +1,20 @@
+PPA Report for edge_detect_recovery.v (Module: edge_detect_recovery)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 9
+FF Count: 26
+IO Count: 13
+Cell Count: 61
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 756.43 MHz
+Reg-to-Reg Critical Path Delay: 1.171 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.456 W

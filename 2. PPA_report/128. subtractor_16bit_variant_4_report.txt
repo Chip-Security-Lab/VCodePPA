@@ -1,0 +1,20 @@
+PPA Report for subtractor_16bit.v (Module: subtractor_16bit)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 17
+FF Count: 48
+IO Count: 50
+Cell Count: 190
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 745.16 MHz
+Reg-to-Reg Critical Path Delay: 1.147 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.461 W

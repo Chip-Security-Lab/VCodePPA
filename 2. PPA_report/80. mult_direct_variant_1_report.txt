@@ -1,0 +1,20 @@
+PPA Report for mult_direct.v (Module: mult_direct)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 42
+FF Count: 81
+IO Count: 34
+Cell Count: 216
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 563.70 MHz
+Reg-to-Reg Critical Path Delay: 1.581 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.461 W

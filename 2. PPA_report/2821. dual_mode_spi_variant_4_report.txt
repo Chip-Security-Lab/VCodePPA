@@ -1,0 +1,20 @@
+PPA Report for dual_mode_spi.v (Module: dual_mode_spi)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 31
+FF Count: 70
+IO Count: 25
+Cell Count: 164
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 575.71 MHz
+Reg-to-Reg Critical Path Delay: 1.432 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.454 W

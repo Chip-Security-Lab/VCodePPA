@@ -1,0 +1,1 @@
+Ethernet duplex flow control module

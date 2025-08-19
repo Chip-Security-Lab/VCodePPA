@@ -1,0 +1,20 @@
+PPA Report for i2c_multi_master.v (Module: i2c_multi_master)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 31
+FF Count: 66
+IO Count: 25
+Cell Count: 162
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 446.23 MHz
+Reg-to-Reg Critical Path Delay: 2.048 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

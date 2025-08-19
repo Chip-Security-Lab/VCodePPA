@@ -1,0 +1,1 @@
+Ethernet CRC32 generation circuit

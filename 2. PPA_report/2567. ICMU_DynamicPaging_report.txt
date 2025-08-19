@@ -1,0 +1,20 @@
+PPA Report for ICMU_DynamicPaging
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 36
+FF Count: 130
+IO Count: 68
+Cell Count: 309
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 641.85 MHz
+Reg-to-Reg Critical Path Delay: 1.278 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.476 W

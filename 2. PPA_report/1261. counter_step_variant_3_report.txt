@@ -1,0 +1,20 @@
+PPA Report for counter_step.v (Module: counter_step)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 3
+FF Count: 8
+IO Count: 8
+Cell Count: 30
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1109.88 MHz
+Reg-to-Reg Critical Path Delay: 0.764 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

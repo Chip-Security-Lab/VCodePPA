@@ -1,0 +1,20 @@
+PPA Report for uart_error_detect.v (Module: uart_error_detect)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 19
+FF Count: 55
+IO Count: 17
+Cell Count: 110
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 307.02 MHz
+Reg-to-Reg Critical Path Delay: 3.179 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 1.089 W

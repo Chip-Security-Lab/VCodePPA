@@ -1,0 +1,1 @@
+Interleaves bits then subtracts result

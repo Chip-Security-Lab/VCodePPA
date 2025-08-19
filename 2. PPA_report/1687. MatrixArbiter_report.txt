@@ -1,0 +1,22 @@
+PPA Report for 1687. MatrixArbiter.sv (Module: MatrixArbiter)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 9
+FF Count: 18
+IO Count: 10
+Cell Count: 53
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1108.65 MHz
+End-to-End Path Delay: 4.823 ns
+Reg-to-Reg Critical Path Delay: 0.783 ns
+Detected Clock Signals: clk
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

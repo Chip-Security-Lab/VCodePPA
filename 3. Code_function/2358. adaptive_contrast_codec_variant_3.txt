@@ -1,0 +1,1 @@
+Pipelined adaptive contrast enhancement processor

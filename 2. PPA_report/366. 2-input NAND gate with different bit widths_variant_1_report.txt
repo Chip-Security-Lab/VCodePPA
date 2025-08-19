@@ -1,0 +1,20 @@
+PPA Report for nand2_9.v (Module: nand2_9)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 13
+FF Count: 20
+IO Count: 14
+Cell Count: 70
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 973.71 MHz
+Reg-to-Reg Critical Path Delay: 0.908 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

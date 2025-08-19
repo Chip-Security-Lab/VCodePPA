@@ -1,0 +1,20 @@
+PPA Report for serial_shifter
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 10
+FF Count: 8
+IO Count: 22
+Cell Count: 70
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1014.20 MHz
+Reg-to-Reg Critical Path Delay: 0.867 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

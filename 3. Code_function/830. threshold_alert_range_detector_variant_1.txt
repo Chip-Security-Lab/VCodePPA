@@ -1,0 +1,1 @@
+Pipelined multi-threshold range detector

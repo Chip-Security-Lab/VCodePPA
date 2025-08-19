@@ -1,0 +1,20 @@
+PPA Report for nibble_rotation_shifter.v (Module: nibble_rotation_shifter)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 32
+FF Count: 0
+IO Count: 38
+Cell Count: 114
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+End-to-End Path Delay: 5.951 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 6.209 W

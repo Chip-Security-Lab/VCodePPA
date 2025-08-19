@@ -1,0 +1,1 @@
+Pipelined adjustable duty cycle generator

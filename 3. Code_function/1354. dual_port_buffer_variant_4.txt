@@ -1,0 +1,1 @@
+Buffered read-write data register

@@ -1,0 +1,1 @@
+Synchronous toggle flip-flop with reset

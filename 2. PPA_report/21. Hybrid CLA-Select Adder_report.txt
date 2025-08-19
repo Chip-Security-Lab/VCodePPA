@@ -1,0 +1,21 @@
+PPA Report for 21. Hybrid CLA-Select Adder.sv (Module: hybrid_adder)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 10
+FF Count: 0
+IO Count: 26
+Cell Count: 75
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+End-to-End Path Delay: 6.651 ns
+Detected Clock Signals: None
+
+POWER METRICS:
+-------------
+Total Power Consumption: 4.886 W

@@ -1,0 +1,1 @@
+Pipelined signal peak detection circuit

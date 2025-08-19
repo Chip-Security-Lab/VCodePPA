@@ -1,0 +1,20 @@
+PPA Report for GatedDiv.v (Module: GatedDiv)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 275
+FF Count: 16
+IO Count: 50
+Cell Count: 477
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 61.31 MHz
+Reg-to-Reg Critical Path Delay: 14.827 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.468 W

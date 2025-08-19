@@ -1,0 +1,1 @@
+Variable right shift with saturation

@@ -1,0 +1,1 @@
+Masked vector pipelined accumulator processor

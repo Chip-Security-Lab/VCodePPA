@@ -1,0 +1,20 @@
+PPA Report for wave19_beep.v (Module: wave19_beep)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 8
+FF Count: 10
+IO Count: 3
+Cell Count: 33
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 611.25 MHz
+Reg-to-Reg Critical Path Delay: 1.492 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.451 W

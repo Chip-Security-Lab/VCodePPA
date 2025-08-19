@@ -1,0 +1,20 @@
+PPA Report for parking_counter.v (Module: parking_counter)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 11
+FF Count: 10
+IO Count: 12
+Cell Count: 49
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 788.02 MHz
+Reg-to-Reg Critical Path Delay: 1.133 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

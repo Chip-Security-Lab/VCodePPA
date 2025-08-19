@@ -1,0 +1,1 @@
+CAN protocol bit stuffing implementation

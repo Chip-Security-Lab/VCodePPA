@@ -1,0 +1,1 @@
+Modbus serial receiver with CRC

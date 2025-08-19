@@ -1,0 +1,1 @@
+Parameterized data latch with hold

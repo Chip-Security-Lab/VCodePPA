@@ -1,0 +1,1 @@
+Pipelined weighted moving average filter

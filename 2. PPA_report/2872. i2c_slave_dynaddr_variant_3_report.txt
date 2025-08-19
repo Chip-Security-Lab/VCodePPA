@@ -1,0 +1,20 @@
+PPA Report for i2c_slave_dynaddr.v (Module: i2c_slave_dynaddr)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 32
+FF Count: 53
+IO Count: 20
+Cell Count: 138
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 580.05 MHz
+Reg-to-Reg Critical Path Delay: 1.415 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

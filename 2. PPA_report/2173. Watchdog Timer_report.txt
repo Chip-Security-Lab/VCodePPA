@@ -1,0 +1,20 @@
+PPA Report for Watchdog Timer
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 16
+FF Count: 26
+IO Count: 29
+Cell Count: 149
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 242.66 MHz
+Reg-to-Reg Critical Path Delay: 3.421 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.933 W

@@ -1,0 +1,20 @@
+PPA Report for subtractor_pipeline.v (Module: subtractor_pipeline)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 14
+FF Count: 38
+IO Count: 30
+Cell Count: 128
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 600.24 MHz
+Reg-to-Reg Critical Path Delay: 1.390 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.454 W

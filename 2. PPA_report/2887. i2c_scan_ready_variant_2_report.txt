@@ -1,0 +1,20 @@
+PPA Report for i2c_scan_ready.v (Module: i2c_scan_ready)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 2
+FF Count: 6
+IO Count: 7
+Cell Count: 28
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 300.53 MHz
+Reg-to-Reg Critical Path Delay: 2.061 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

@@ -1,0 +1,1 @@
+Synchronized noise-filtering majority voter

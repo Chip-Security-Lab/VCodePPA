@@ -1,0 +1,20 @@
+PPA Report for poly1305_mac.v (Module: poly1305_mac)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 3
+FF Count: 7
+IO Count: 38
+Cell Count: 60
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 238.61 MHz
+Reg-to-Reg Critical Path Delay: 3.123 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.689 W

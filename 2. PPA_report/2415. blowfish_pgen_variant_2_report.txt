@@ -1,0 +1,20 @@
+PPA Report for blowfish_pgen.v (Module: blowfish_pgen)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 242
+FF Count: 390
+IO Count: 43
+Cell Count: 811
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 410.51 MHz
+Reg-to-Reg Critical Path Delay: 2.205 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.476 W

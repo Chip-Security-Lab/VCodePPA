@@ -1,0 +1,20 @@
+PPA Report for reset_freq_counter.v (Module: reset_freq_counter)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 15
+FF Count: 24
+IO Count: 21
+Cell Count: 78
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 763.36 MHz
+Reg-to-Reg Critical Path Delay: 1.178 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

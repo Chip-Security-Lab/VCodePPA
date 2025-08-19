@@ -1,0 +1,20 @@
+PPA Report for parity_ring_counter.v (Module: parity_ring_counter)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 2
+FF Count: 6
+IO Count: 7
+Cell Count: 22
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1025.64 MHz
+Reg-to-Reg Critical Path Delay: 0.856 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

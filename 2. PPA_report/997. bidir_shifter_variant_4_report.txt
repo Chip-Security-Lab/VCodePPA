@@ -1,0 +1,20 @@
+PPA Report for bidir_shifter_pipeline.v (Module: bidir_shifter_pipeline)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 51
+FF Count: 66
+IO Count: 26
+Cell Count: 195
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 658.76 MHz
+Reg-to-Reg Critical Path Delay: 1.339 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

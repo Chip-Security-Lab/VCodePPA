@@ -1,0 +1,20 @@
+PPA Report for scoreboard_arbiter.v (Module: scoreboard_arbiter)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 87
+FF Count: 38
+IO Count: 10
+Cell Count: 179
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 380.66 MHz
+Reg-to-Reg Critical Path Delay: 2.483 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.455 W

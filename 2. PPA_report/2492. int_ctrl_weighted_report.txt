@@ -1,0 +1,22 @@
+PPA Report for 2492. int_ctrl_weighted.sv (Module: int_ctrl_weighted)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 62
+FF Count: 36
+IO Count: 26
+Cell Count: 191
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 518.13 MHz
+End-to-End Path Delay: N/A (No valid path found) ns
+Reg-to-Reg Critical Path Delay: 1.668 ns
+Detected Clock Signals: clk
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

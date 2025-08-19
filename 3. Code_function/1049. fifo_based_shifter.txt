@@ -1,0 +1,1 @@
+Circular buffer with variable-shift readout

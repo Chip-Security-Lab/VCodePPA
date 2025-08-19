@@ -1,0 +1,20 @@
+PPA Report for dual_hamming_encoder.v (Module: dual_hamming_encoder)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 8
+FF Count: 26
+IO Count: 28
+Cell Count: 90
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 691.56 MHz
+Reg-to-Reg Critical Path Delay: 1.137 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.456 W

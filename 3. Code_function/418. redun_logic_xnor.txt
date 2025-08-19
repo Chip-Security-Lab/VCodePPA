@@ -1,0 +1,1 @@
+XNOR of balanced XOR pairs

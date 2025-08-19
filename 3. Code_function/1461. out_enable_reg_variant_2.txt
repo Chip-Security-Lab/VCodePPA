@@ -1,0 +1,1 @@
+Tri-state register with enable

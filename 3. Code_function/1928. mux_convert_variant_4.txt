@@ -1,0 +1,1 @@
+Multiplexed data with conditional multiplication

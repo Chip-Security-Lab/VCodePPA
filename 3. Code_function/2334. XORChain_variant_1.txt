@@ -1,0 +1,1 @@
+Pipelined XOR of sequential inputs

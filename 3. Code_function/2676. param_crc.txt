@@ -1,0 +1,1 @@
+Parameterizable CRC calculation module

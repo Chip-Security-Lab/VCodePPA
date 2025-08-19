@@ -1,0 +1,20 @@
+PPA Report for enc_8b10b.v (Module: enc_8b10b)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 5
+FF Count: 48
+IO Count: 43
+Cell Count: 144
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 677.97 MHz
+Reg-to-Reg Critical Path Delay: 1.181 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.454 W

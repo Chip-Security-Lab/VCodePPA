@@ -1,0 +1,20 @@
+PPA Report for multi_clk_rom
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 4
+FF Count: 6
+IO Count: 22
+Cell Count: 51
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 255.95 MHz
+Reg-to-Reg Critical Path Delay: 3.207 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 3.278 W

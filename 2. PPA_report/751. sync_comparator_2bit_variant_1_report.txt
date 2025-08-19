@@ -1,0 +1,19 @@
+PPA Report for sync_comparator_2bit_axi_lite.v (Module: sync_comparator_2bit_axi_lite)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 30
+FF Count: 20
+IO Count: 114
+Cell Count: 317
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+
+POWER METRICS:
+-------------
+Total Power Consumption: 3.317 W

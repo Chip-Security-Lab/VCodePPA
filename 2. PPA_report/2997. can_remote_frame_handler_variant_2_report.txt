@@ -1,0 +1,20 @@
+PPA Report for can_remote_frame_handler.v (Module: can_remote_frame_handler)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 8
+FF Count: 8
+IO Count: 28
+Cell Count: 78
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 949.67 MHz
+Reg-to-Reg Critical Path Delay: 0.843 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.451 W

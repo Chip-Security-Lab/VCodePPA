@@ -1,0 +1,1 @@
+Midpoint averager with binary complement

@@ -1,0 +1,20 @@
+PPA Report for multichannel_buffer.v (Module: multichannel_buffer)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 8
+FF Count: 21
+IO Count: 22
+Cell Count: 92
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 837.52 MHz
+Reg-to-Reg Critical Path Delay: 0.835 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

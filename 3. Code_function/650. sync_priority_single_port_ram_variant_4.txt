@@ -1,0 +1,1 @@
+Dual-input RAM with priority arbitration

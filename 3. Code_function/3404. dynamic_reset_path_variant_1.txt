@@ -1,0 +1,1 @@
+Multiplexed reset pipeline with validation

@@ -1,0 +1,20 @@
+PPA Report for sram_clock_gated.v (Module: sram_clock_gated)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 18
+FF Count: 63
+IO Count: 15
+Cell Count: 127
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 364.07 MHz
+Reg-to-Reg Critical Path Delay: 3.305 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 1.641 W

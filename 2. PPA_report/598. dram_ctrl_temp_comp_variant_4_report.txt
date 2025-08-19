@@ -1,0 +1,20 @@
+PPA Report for dram_ctrl_temp_comp.v (Module: dram_ctrl_temp_comp)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 52
+FF Count: 126
+IO Count: 11
+Cell Count: 257
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 628.14 MHz
+Reg-to-Reg Critical Path Delay: 1.433 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.454 W

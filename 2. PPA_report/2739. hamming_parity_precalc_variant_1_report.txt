@@ -1,0 +1,20 @@
+PPA Report for hamming_parity_precalc.v (Module: hamming_parity_precalc)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 2
+FF Count: 10
+IO Count: 13
+Cell Count: 44
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1197.60 MHz
+Reg-to-Reg Critical Path Delay: 0.699 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

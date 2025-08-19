@@ -1,0 +1,20 @@
+PPA Report for temp_reset_detector.v (Module: temp_reset_detector)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 7
+FF Count: 5
+IO Count: 12
+Cell Count: 54
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 683.06 MHz
+Reg-to-Reg Critical Path Delay: 1.316 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

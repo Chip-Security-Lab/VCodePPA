@@ -1,0 +1,21 @@
+PPA Report for serial_receiver.v (Module: serial_receiver)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 11
+FF Count: 23
+IO Count: 12
+Cell Count: 57
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 644.33 MHz
+End-to-End Path Delay: 4.781 ns
+Reg-to-Reg Critical Path Delay: 1.307 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.451 W

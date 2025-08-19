@@ -1,0 +1,20 @@
+PPA Report for compact_hamming.v (Module: compact_hamming)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 3
+FF Count: 26
+IO Count: 15
+Cell Count: 61
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 825.08 MHz
+Reg-to-Reg Critical Path Delay: 1.079 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.454 W

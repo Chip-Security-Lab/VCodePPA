@@ -1,0 +1,1 @@
+Masked data-pattern comparison circuit

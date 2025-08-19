@@ -1,0 +1,1 @@
+Dual-port RAM with negated writes

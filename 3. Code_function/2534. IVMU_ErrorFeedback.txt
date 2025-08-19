@@ -1,0 +1,1 @@
+Error signal handler with code

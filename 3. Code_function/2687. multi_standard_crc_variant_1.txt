@@ -1,0 +1,1 @@
+Multi-standard pipelined CRC calculator

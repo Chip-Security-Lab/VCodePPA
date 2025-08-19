@@ -1,0 +1,20 @@
+PPA Report for crossbar_lut
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 70
+FF Count: 32
+IO Count: 81
+Cell Count: 291
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 277.93 MHz
+Reg-to-Reg Critical Path Delay: 2.898 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.473 W

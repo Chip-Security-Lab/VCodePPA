@@ -1,0 +1,19 @@
+PPA Report for can_frame_assembler.v (Module: can_frame_assembler)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 88
+FF Count: 253
+IO Count: 197
+Cell Count: 632
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+
+POWER METRICS:
+-------------
+Total Power Consumption: 3.954 W

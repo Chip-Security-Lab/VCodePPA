@@ -1,0 +1,20 @@
+PPA Report for pipelined_barrel_shifter_axi4lite.v (Module: pipelined_barrel_shifter_axi4lite)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 44
+FF Count: 75
+IO Count: 92
+Cell Count: 319
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 638.16 MHz
+Reg-to-Reg Critical Path Delay: 1.217 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.467 W

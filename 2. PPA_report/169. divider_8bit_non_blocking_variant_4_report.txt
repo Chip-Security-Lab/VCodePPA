@@ -1,0 +1,20 @@
+PPA Report for divider_8bit_non_blocking.v (Module: divider_8bit_non_blocking)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 122
+FF Count: 0
+IO Count: 32
+Cell Count: 224
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+End-to-End Path Delay: 13.649 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 12.651 W

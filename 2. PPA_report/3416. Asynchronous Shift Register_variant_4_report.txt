@@ -1,0 +1,21 @@
+PPA Report for RD6.v (Module: RD6)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 9
+FF Count: 45
+IO Count: 22
+Cell Count: 105
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 621.12 MHz
+End-to-End Path Delay: 5.473 ns
+Reg-to-Reg Critical Path Delay: 1.340 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

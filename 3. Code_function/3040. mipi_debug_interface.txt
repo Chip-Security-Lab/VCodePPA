@@ -1,0 +1,1 @@
+MIPI debug register interface

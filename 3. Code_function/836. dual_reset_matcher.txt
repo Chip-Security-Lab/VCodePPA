@@ -1,0 +1,1 @@
+Data template matcher with resets.

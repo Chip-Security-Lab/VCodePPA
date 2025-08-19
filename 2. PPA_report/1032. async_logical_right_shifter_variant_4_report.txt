@@ -1,0 +1,20 @@
+PPA Report for async_logical_right_shifter.v (Module: async_logical_right_shifter)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 28
+FF Count: 52
+IO Count: 38
+Cell Count: 170
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 595.59 MHz
+Reg-to-Reg Critical Path Delay: 1.544 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.457 W

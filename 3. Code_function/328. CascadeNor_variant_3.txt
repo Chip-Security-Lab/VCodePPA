@@ -1,0 +1,1 @@
+Cascaded NOR with AND-NOT gate

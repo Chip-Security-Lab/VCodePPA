@@ -1,0 +1,1 @@
+Pipelined reset synchronizer with validation

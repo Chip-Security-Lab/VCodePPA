@@ -1,0 +1,1 @@
+Synchronous register with enable reset

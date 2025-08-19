@@ -1,0 +1,20 @@
+PPA Report for spi_with_parity.v (Module: spi_with_parity)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 23
+FF Count: 34
+IO Count: 25
+Cell Count: 122
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 563.06 MHz
+Reg-to-Reg Critical Path Delay: 1.602 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

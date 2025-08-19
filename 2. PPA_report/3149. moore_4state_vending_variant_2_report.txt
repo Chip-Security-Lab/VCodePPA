@@ -1,0 +1,19 @@
+PPA Report for moore_4state_vending.v (Module: moore_4state_vending)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 2
+FF Count: 2
+IO Count: 5
+Cell Count: 21
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+
+POWER METRICS:
+-------------
+Total Power Consumption: 1.069 W

@@ -1,0 +1,20 @@
+PPA Report for hdr_to_sdr_codec.v (Module: hdr_to_sdr_codec)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 64
+FF Count: 58
+IO Count: 76
+Cell Count: 295
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 313.87 MHz
+Reg-to-Reg Critical Path Delay: 3.008 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.464 W

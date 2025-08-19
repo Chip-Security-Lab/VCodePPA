@@ -1,0 +1,1 @@
+Configurable 16-bit LFSR with taps

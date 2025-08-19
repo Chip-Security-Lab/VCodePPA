@@ -1,0 +1,20 @@
+PPA Report for right_logical_shifter.v (Module: right_logical_shifter)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 17
+FF Count: 16
+IO Count: 37
+Cell Count: 115
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 423.62 MHz
+Reg-to-Reg Critical Path Delay: 2.540 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.454 W

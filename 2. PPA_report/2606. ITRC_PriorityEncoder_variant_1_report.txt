@@ -1,0 +1,20 @@
+PPA Report for ITRC_PriorityEncoder.v (Module: ITRC_PriorityEncoder)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 14
+FF Count: 18
+IO Count: 13
+Cell Count: 70
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 625.00 MHz
+Reg-to-Reg Critical Path Delay: 1.456 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

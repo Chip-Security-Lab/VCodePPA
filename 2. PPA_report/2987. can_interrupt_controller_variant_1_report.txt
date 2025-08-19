@@ -1,0 +1,21 @@
+PPA Report for can_interrupt_controller.v (Module: can_interrupt_controller)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 7
+FF Count: 13
+IO Count: 23
+Cell Count: 71
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 799.36 MHz
+End-to-End Path Delay: 4.456 ns
+Reg-to-Reg Critical Path Delay: 1.132 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

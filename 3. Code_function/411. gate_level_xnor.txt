@@ -1,0 +1,1 @@
+Two-input XNOR gate implementation

@@ -1,0 +1,20 @@
+PPA Report for caesar_cipher
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 32
+FF Count: 8
+IO Count: 18
+Cell Count: 94
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 197.55 MHz
+Reg-to-Reg Critical Path Delay: 4.362 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

@@ -1,0 +1,19 @@
+PPA Report for eth_fifo
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 62
+FF Count: 149
+IO Count: 22
+Cell Count: 289
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+
+POWER METRICS:
+-------------
+Total Power Consumption: 4.141 W

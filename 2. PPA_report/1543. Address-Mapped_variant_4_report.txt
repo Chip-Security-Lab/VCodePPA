@@ -1,0 +1,20 @@
+PPA Report for address_shadow_reg.v (Module: address_shadow_reg)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 20
+FF Count: 166
+IO Count: 103
+Cell Count: 387
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 599.52 MHz
+Reg-to-Reg Critical Path Delay: 1.378 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.472 W

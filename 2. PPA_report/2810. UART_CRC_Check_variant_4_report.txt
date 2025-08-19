@@ -1,0 +1,20 @@
+PPA Report for UART_CRC_Check.v (Module: UART_CRC_Check)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 27
+FF Count: 58
+IO Count: 38
+Cell Count: 216
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 643.92 MHz
+Reg-to-Reg Critical Path Delay: 1.248 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

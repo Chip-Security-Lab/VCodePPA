@@ -1,0 +1,20 @@
+PPA Report for tff_clear.v (Module: tff_clear)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 1
+FF Count: 4
+IO Count: 5
+Cell Count: 20
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1035.20 MHz
+Reg-to-Reg Critical Path Delay: 0.848 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

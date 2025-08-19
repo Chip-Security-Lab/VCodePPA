@@ -1,0 +1,20 @@
+PPA Report for age_based_arbiter.v (Module: age_based_arbiter)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 50
+FF Count: 30
+IO Count: 14
+Cell Count: 133
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 389.50 MHz
+Reg-to-Reg Critical Path Delay: 5.838 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 2.039 W

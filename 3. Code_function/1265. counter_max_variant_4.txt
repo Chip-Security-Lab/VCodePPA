@@ -1,0 +1,1 @@
+Parameterized counter with maximum limit

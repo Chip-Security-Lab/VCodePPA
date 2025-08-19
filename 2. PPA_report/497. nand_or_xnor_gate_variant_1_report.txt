@@ -1,0 +1,20 @@
+PPA Report for nand_or_xnor_gate.v (Module: nand_or_xnor_gate)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 3
+FF Count: 4
+IO Count: 6
+Cell Count: 27
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1121.08 MHz
+Reg-to-Reg Critical Path Delay: 0.759 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.451 W

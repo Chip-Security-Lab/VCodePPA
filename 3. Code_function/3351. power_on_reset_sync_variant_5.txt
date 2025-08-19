@@ -1,0 +1,1 @@
+Synchronized pipelined power-on reset

@@ -1,0 +1,1 @@
+Synchronous RAM with subtraction pipeline

@@ -1,0 +1,20 @@
+PPA Report for MIPI_LaneController.v (Module: MIPI_LaneController)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 6
+FF Count: 44
+IO Count: 51
+Cell Count: 135
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 836.12 MHz
+Reg-to-Reg Critical Path Delay: 0.893 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.465 W

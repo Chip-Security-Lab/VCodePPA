@@ -1,0 +1,1 @@
+Six-stage pipelined 4-bit adder

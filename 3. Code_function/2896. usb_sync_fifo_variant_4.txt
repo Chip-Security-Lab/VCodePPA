@@ -1,0 +1,1 @@
+Synchronous FIFO with reset capability

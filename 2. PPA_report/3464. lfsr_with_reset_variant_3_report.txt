@@ -1,0 +1,20 @@
+PPA Report for lfsr_with_reset.v (Module: lfsr_with_reset)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 14
+FF Count: 37
+IO Count: 13
+Cell Count: 79
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 611.25 MHz
+Reg-to-Reg Critical Path Delay: 1.442 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.458 W

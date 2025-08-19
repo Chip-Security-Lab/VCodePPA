@@ -1,0 +1,1 @@
+Enabled asynchronous RAM with write

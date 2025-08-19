@@ -1,0 +1,20 @@
+PPA Report for rom_cdc_pipeline.v (Module: rom_cdc_pipeline)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 4
+FF Count: 8
+IO Count: 69
+Cell Count: 95
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1116.07 MHz
+Reg-to-Reg Critical Path Delay: 0.648 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.472 W

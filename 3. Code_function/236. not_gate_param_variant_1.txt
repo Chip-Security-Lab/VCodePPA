@@ -1,0 +1,1 @@
+Pipelined NOT gate with handshaking

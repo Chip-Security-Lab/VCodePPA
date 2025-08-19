@@ -1,0 +1,20 @@
+PPA Report for config_polarity_reset.v (Module: config_polarity_reset)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 2
+FF Count: 13
+IO Count: 10
+Cell Count: 49
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1127.40 MHz
+Reg-to-Reg Critical Path Delay: 0.748 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

@@ -1,0 +1,1 @@
+Selective bit register with reset

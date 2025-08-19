@@ -1,0 +1,1 @@
+Variable-step left shifter register

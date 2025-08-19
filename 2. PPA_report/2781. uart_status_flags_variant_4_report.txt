@@ -1,0 +1,20 @@
+PPA Report for uart_status_flags.v (Module: uart_status_flags)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 39
+FF Count: 60
+IO Count: 30
+Cell Count: 166
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 507.61 MHz
+Reg-to-Reg Critical Path Delay: 1.703 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

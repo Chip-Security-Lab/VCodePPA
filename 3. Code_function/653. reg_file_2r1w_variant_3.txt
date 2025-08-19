@@ -1,0 +1,1 @@
+Pipelined dual-read single-write register file

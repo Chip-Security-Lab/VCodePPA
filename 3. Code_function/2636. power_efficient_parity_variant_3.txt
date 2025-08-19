@@ -1,0 +1,1 @@
+Split parity for 16-bit word

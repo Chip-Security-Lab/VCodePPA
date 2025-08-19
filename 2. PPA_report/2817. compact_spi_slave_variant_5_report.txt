@@ -1,0 +1,20 @@
+PPA Report for compact_spi_slave.v (Module: compact_spi_slave)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 27
+FF Count: 43
+IO Count: 20
+Cell Count: 133
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 672.49 MHz
+Reg-to-Reg Critical Path Delay: 1.294 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

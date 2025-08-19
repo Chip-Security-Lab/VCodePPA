@@ -1,0 +1,20 @@
+PPA Report for bidir_arith_logical_shifter.v (Module: bidir_arith_logical_shifter)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 182
+FF Count: 0
+IO Count: 71
+Cell Count: 348
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+End-to-End Path Delay: 5.352 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 29.598 W

@@ -1,0 +1,1 @@
+Right-shifts input by variable amount

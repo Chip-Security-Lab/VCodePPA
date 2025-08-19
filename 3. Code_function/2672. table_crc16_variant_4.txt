@@ -1,0 +1,1 @@
+Pipelined table-based CRC16 calculator

@@ -1,0 +1,20 @@
+PPA Report for variable_pulse_gen
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 18
+FF Count: 11
+IO Count: 23
+Cell Count: 117
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 261.57 MHz
+Reg-to-Reg Critical Path Delay: 3.123 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.935 W

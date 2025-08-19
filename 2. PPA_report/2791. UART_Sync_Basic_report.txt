@@ -1,0 +1,22 @@
+PPA Report for 2791. UART_Sync_Basic.sv (Module: UART_Sync_Basic)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 35
+FF Count: 30
+IO Count: 22
+Cell Count: 125
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 475.74 MHz
+End-to-End Path Delay: N/A (No valid path found) ns
+Reg-to-Reg Critical Path Delay: 1.869 ns
+Detected Clock Signals: clk
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

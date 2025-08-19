@@ -1,0 +1,20 @@
+PPA Report for serial_to_parallel.v (Module: serial_to_parallel)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 5
+FF Count: 15
+IO Count: 13
+Cell Count: 51
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 955.11 MHz
+Reg-to-Reg Critical Path Delay: 0.860 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

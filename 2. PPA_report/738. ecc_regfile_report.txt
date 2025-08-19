@@ -1,0 +1,22 @@
+PPA Report for 738. ecc_regfile.sv (Module: ecc_regfile)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 170
+FF Count: 562
+IO Count: 72
+Cell Count: 993
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 607.16 MHz
+End-to-End Path Delay: N/A (No valid path found) ns
+Reg-to-Reg Critical Path Delay: 1.440 ns
+Detected Clock Signals: clk
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.488 W

@@ -1,0 +1,20 @@
+PPA Report for out_enable_reg.v (Module: out_enable_reg)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 1
+FF Count: 34
+IO Count: 36
+Cell Count: 114
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 920.81 MHz
+Reg-to-Reg Critical Path Delay: 0.949 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

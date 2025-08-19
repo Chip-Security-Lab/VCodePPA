@@ -1,0 +1,20 @@
+PPA Report for mipi_protocol_converter.v (Module: mipi_protocol_converter)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 37
+FF Count: 36
+IO Count: 79
+Cell Count: 250
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 483.33 MHz
+Reg-to-Reg Critical Path Delay: 1.734 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.464 W

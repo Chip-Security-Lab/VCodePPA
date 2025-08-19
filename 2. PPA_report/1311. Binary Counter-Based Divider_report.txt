@@ -1,0 +1,20 @@
+PPA Report for Binary Counter-Based Divider
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 3
+FF Count: 4
+IO Count: 3
+Cell Count: 19
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 265.32 MHz
+Reg-to-Reg Critical Path Delay: 3.069 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.696 W

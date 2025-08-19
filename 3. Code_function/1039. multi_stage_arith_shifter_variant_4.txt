@@ -1,0 +1,1 @@
+Multi-stage arithmetic right shifter pipeline

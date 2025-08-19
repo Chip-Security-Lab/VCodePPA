@@ -1,0 +1,20 @@
+PPA Report for usb_nrzi_encoder.v (Module: usb_nrzi_encoder)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 1
+FF Count: 3
+IO Count: 6
+Cell Count: 22
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1228.50 MHz
+Reg-to-Reg Critical Path Delay: 0.696 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

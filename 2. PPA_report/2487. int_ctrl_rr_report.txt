@@ -1,0 +1,22 @@
+PPA Report for 2487. int_ctrl_rr.sv (Module: int_ctrl_rr)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 8
+FF Count: 7
+IO Count: 11
+Cell Count: 41
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 800.00 MHz
+End-to-End Path Delay: N/A (No valid path found) ns
+Reg-to-Reg Critical Path Delay: 1.119 ns
+Detected Clock Signals: clk
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

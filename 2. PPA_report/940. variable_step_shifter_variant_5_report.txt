@@ -1,0 +1,19 @@
+PPA Report for variable_step_shifter.v (Module: variable_step_shifter)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 100
+FF Count: 144
+IO Count: 72
+Cell Count: 396
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+
+POWER METRICS:
+-------------
+Total Power Consumption: 2.257 W

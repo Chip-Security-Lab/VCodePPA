@@ -1,0 +1,20 @@
+PPA Report for pipelined_shifter.v (Module: pipelined_shifter)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 17
+FF Count: 32
+IO Count: 20
+Cell Count: 111
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1030.93 MHz
+Reg-to-Reg Critical Path Delay: 0.794 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

@@ -1,0 +1,1 @@
+USB speed detection state machine

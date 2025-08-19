@@ -1,0 +1,22 @@
+PPA Report for 1380. transparent_buffer.sv (Module: transparent_buffer)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 0
+FF Count: 8
+IO Count: 17
+Cell Count: 46
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 238.32 MHz
+End-to-End Path Delay: N/A (No valid path found) ns
+Reg-to-Reg Critical Path Delay: 3.496 ns
+Detected Clock Signals: clk
+
+POWER METRICS:
+-------------
+Total Power Consumption: 1.265 W

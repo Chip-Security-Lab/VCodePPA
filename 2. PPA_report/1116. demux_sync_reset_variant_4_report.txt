@@ -1,0 +1,21 @@
+PPA Report for demux_axi_stream.v (Module: demux_axi_stream)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 4
+FF Count: 10
+IO Count: 13
+Cell Count: 48
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 757.58 MHz
+End-to-End Path Delay: 4.703 ns
+Reg-to-Reg Critical Path Delay: 1.091 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

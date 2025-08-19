@@ -1,0 +1,20 @@
+PPA Report for signed_multiplier.v (Module: signed_multiplier)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 400
+FF Count: 0
+IO Count: 64
+Cell Count: 626
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+End-to-End Path Delay: 10.517 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 59.627 W

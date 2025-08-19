@@ -1,0 +1,20 @@
+PPA Report for rgb_async_convert.v (Module: rgb_async_convert)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 1
+FF Count: 51
+IO Count: 36
+Cell Count: 129
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1131.22 MHz
+Reg-to-Reg Critical Path Delay: 0.749 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.455 W

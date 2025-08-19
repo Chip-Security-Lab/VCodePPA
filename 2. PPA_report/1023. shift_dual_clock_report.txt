@@ -1,0 +1,20 @@
+PPA Report for shift_dual_clock
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 0
+FF Count: 14
+IO Count: 17
+Cell Count: 54
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 252.02 MHz
+Reg-to-Reg Critical Path Delay: 3.268 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 1.833 W

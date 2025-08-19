@@ -1,0 +1,20 @@
+PPA Report for noise_filter_recovery.v (Module: noise_filter_recovery)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 25
+FF Count: 74
+IO Count: 23
+Cell Count: 169
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 461.25 MHz
+Reg-to-Reg Critical Path Delay: 1.996 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.456 W

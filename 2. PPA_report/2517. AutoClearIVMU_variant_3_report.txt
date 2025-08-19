@@ -1,0 +1,20 @@
+PPA Report for AutoClearIVMU.v (Module: AutoClearIVMU)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 19
+FF Count: 13
+IO Count: 44
+Cell Count: 108
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 552.49 MHz
+Reg-to-Reg Critical Path Delay: 1.612 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.461 W

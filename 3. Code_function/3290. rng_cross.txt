@@ -1,0 +1,1 @@
+Cross-coupled 8-bit random generator

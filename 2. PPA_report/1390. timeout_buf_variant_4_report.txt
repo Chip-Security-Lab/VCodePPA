@@ -1,0 +1,20 @@
+PPA Report for timeout_buf.v (Module: timeout_buf)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 9
+FF Count: 16
+IO Count: 21
+Cell Count: 76
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 737.46 MHz
+Reg-to-Reg Critical Path Delay: 1.219 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.454 W

@@ -1,0 +1,1 @@
+Window comparator detects value range

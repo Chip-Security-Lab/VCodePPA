@@ -1,0 +1,20 @@
+PPA Report for param_decoder.v (Module: param_decoder)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 17
+FF Count: 41
+IO Count: 26
+Cell Count: 119
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 896.06 MHz
+Reg-to-Reg Critical Path Delay: 0.966 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

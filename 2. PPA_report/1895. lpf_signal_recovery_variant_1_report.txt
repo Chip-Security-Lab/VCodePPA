@@ -1,0 +1,20 @@
+PPA Report for lpf_signal_recovery.v (Module: lpf_signal_recovery)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 38
+FF Count: 57
+IO Count: 25
+Cell Count: 160
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 543.48 MHz
+Reg-to-Reg Critical Path Delay: 1.588 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.460 W

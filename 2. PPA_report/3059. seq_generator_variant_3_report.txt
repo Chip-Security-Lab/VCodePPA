@@ -1,0 +1,20 @@
+PPA Report for seq_generator.v (Module: seq_generator)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 6
+FF Count: 14
+IO Count: 10
+Cell Count: 51
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 857.63 MHz
+Reg-to-Reg Critical Path Delay: 0.946 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

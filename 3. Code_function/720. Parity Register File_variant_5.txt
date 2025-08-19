@@ -1,0 +1,1 @@
+Parity-protected register file with detection

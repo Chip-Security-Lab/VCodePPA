@@ -1,0 +1,20 @@
+PPA Report for async_rst_rotator.v (Module: async_rst_rotator)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 12
+FF Count: 8
+IO Count: 22
+Cell Count: 76
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 294.11 MHz
+Reg-to-Reg Critical Path Delay: 2.899 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.455 W

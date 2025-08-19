@@ -1,0 +1,1 @@
+Synchronized NOR with register inputs

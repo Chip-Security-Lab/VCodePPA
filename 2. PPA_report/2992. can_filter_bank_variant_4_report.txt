@@ -1,0 +1,20 @@
+PPA Report for can_filter_bank.v (Module: can_filter_bank)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 88
+FF Count: 202
+IO Count: 111
+Cell Count: 638
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 667.56 MHz
+Reg-to-Reg Critical Path Delay: 1.304 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.455 W

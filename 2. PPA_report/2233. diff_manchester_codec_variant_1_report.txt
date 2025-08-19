@@ -1,0 +1,20 @@
+PPA Report for diff_manchester_codec.v (Module: diff_manchester_codec)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 24
+FF Count: 37
+IO Count: 69
+Cell Count: 188
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 654.88 MHz
+Reg-to-Reg Critical Path Delay: 1.345 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.464 W

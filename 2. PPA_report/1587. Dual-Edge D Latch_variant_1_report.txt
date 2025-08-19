@@ -1,0 +1,20 @@
+PPA Report for dual_edge_d_latch_pipelined.v (Module: dual_edge_d_latch_pipelined)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 1
+FF Count: 6
+IO Count: 5
+Cell Count: 21
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 177.46 MHz
+Reg-to-Reg Critical Path Delay: 0.298 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.451 W

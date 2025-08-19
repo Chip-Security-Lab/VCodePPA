@@ -1,0 +1,1 @@
+Loadable 6-bit counter with reset

@@ -1,0 +1,20 @@
+PPA Report for CAN_Multi_Mailbox.v (Module: CAN_Multi_Mailbox)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 14
+FF Count: 48
+IO Count: 48
+Cell Count: 138
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 609.76 MHz
+Reg-to-Reg Critical Path Delay: 1.368 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.457 W

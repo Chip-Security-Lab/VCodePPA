@@ -1,0 +1,20 @@
+PPA Report for ICMU_LZ77Compress.v (Module: ICMU_LZ77Compress)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 1
+FF Count: 39
+IO Count: 44
+Cell Count: 116
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1189.06 MHz
+Reg-to-Reg Critical Path Delay: 0.695 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.464 W

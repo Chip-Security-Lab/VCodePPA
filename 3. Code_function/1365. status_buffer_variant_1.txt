@@ -1,0 +1,1 @@
+Status buffer with handshake protocol

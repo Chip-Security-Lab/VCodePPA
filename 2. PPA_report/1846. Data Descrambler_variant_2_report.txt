@@ -1,0 +1,20 @@
+PPA Report for data_descrambler.v (Module: data_descrambler)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 9
+FF Count: 12
+IO Count: 19
+Cell Count: 82
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 185.08 MHz
+Reg-to-Reg Critical Path Delay: 3.080 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 1.047 W

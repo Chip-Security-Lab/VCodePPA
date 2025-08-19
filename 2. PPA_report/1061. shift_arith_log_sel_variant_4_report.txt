@@ -1,0 +1,20 @@
+PPA Report for shift_arith_log_sel.v (Module: shift_arith_log_sel)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 23
+FF Count: 24
+IO Count: 22
+Cell Count: 108
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 825.08 MHz
+Reg-to-Reg Critical Path Delay: 1.067 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.454 W

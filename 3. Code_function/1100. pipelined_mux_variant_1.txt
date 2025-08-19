@@ -1,0 +1,1 @@
+Pipelined AXI4-Lite register interface

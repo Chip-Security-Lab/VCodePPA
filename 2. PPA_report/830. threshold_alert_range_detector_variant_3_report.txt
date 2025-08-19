@@ -1,0 +1,20 @@
+PPA Report for threshold_alert_range_detector.v (Module: threshold_alert_range_detector)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 43
+FF Count: 24
+IO Count: 84
+Cell Count: 360
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1119.82 MHz
+Reg-to-Reg Critical Path Delay: 0.690 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.454 W

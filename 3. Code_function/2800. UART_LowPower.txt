@@ -1,0 +1,1 @@
+UART low-power activity detection circuit

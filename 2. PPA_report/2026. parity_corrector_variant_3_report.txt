@@ -1,0 +1,20 @@
+PPA Report for parity_corrector.v (Module: parity_corrector)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 7
+FF Count: 27
+IO Count: 19
+Cell Count: 80
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 924.21 MHz
+Reg-to-Reg Critical Path Delay: 0.946 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.455 W

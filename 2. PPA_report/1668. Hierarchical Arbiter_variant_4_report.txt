@@ -1,0 +1,20 @@
+PPA Report for hierarchical_arbiter.v (Module: hierarchical_arbiter)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 17
+FF Count: 22
+IO Count: 18
+Cell Count: 81
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 599.52 MHz
+Reg-to-Reg Critical Path Delay: 1.373 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

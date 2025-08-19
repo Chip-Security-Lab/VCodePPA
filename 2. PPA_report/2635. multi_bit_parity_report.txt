@@ -1,0 +1,20 @@
+PPA Report for multi_bit_parity
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 4
+FF Count: 0
+IO Count: 18
+Cell Count: 54
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+End-to-End Path Delay: 5.328 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 1.926 W

@@ -1,0 +1,20 @@
+PPA Report for Div1.v (Module: Div1)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 155
+FF Count: 0
+IO Count: 23
+Cell Count: 312
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+End-to-End Path Delay: 19.763 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 8.860 W

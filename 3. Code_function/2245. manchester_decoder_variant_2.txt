@@ -1,0 +1,1 @@
+Pipelined Manchester decoder with clock

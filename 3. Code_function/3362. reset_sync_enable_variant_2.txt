@@ -1,0 +1,1 @@
+Synchronized reset with enable gate

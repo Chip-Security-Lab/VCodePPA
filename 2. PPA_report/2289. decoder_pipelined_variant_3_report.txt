@@ -1,0 +1,20 @@
+PPA Report for decoder_pipelined_axi.v (Module: decoder_pipelined_axi)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 37
+FF Count: 51
+IO Count: 84
+Cell Count: 248
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 698.32 MHz
+Reg-to-Reg Critical Path Delay: 1.232 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.469 W

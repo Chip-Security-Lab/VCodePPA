@@ -1,0 +1,1 @@
+Parameterized four-input AND gate

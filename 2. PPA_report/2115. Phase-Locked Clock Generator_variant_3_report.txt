@@ -1,0 +1,20 @@
+PPA Report for phase_locked_clk.v (Module: phase_locked_clk)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 2
+FF Count: 6
+IO Count: 5
+Cell Count: 24
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 300.53 MHz
+Reg-to-Reg Critical Path Delay: 2.935 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 1.963 W

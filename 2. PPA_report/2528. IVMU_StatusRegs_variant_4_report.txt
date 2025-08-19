@@ -1,0 +1,20 @@
+PPA Report for IVMU_StatusRegs_pipelined.v (Module: IVMU_StatusRegs_pipelined)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 8
+FF Count: 18
+IO Count: 20
+Cell Count: 71
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 931.10 MHz
+Reg-to-Reg Critical Path Delay: 0.955 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.451 W

@@ -1,0 +1,20 @@
+PPA Report for tdp_ram_bist
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 38167
+FF Count: 8332
+IO Count: 165
+Cell Count: 52981
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 127.23 MHz
+Reg-to-Reg Critical Path Delay: 7.506 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 1.017 W

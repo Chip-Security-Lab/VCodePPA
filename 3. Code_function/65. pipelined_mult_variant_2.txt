@@ -1,0 +1,1 @@
+Six-stage pipelined 16x16 multiplier

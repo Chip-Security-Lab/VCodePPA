@@ -1,0 +1,20 @@
+PPA Report for MultiCoreIVMU.v (Module: MultiCoreIVMU)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 79
+FF Count: 117
+IO Count: 153
+Cell Count: 420
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 525.21 MHz
+Reg-to-Reg Critical Path Delay: 1.594 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.491 W

@@ -1,0 +1,20 @@
+PPA Report for pipelined_hamming_enc.v (Module: pipelined_hamming_enc)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 6
+FF Count: 46
+IO Count: 22
+Cell Count: 97
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 820.34 MHz
+Reg-to-Reg Critical Path Delay: 1.100 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.455 W

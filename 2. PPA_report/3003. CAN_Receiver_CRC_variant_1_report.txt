@@ -1,0 +1,20 @@
+PPA Report for CAN_Receiver_CRC.v (Module: CAN_Receiver_CRC)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 12
+FF Count: 34
+IO Count: 13
+Cell Count: 73
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 656.17 MHz
+Reg-to-Reg Critical Path Delay: 1.307 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

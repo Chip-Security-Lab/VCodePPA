@@ -1,0 +1,20 @@
+PPA Report for therm2bin.v (Module: therm2bin)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 3
+FF Count: 0
+IO Count: 10
+Cell Count: 28
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+End-to-End Path Delay: 5.146 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 1.494 W

@@ -1,0 +1,1 @@
+Serial-to-parallel register with shadow

@@ -1,0 +1,1 @@
+Lockable data snapshot register

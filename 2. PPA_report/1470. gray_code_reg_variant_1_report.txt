@@ -1,0 +1,20 @@
+PPA Report for gray_code_reg.v (Module: gray_code_reg)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 4
+FF Count: 16
+IO Count: 20
+Cell Count: 69
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 955.11 MHz
+Reg-to-Reg Critical Path Delay: 0.909 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.454 W

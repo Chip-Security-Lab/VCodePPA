@@ -1,0 +1,1 @@
+Hierarchical priority encoder selects highest-bit

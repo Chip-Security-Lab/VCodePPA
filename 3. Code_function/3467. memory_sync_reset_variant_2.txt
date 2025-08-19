@@ -1,0 +1,1 @@
+Synchronous memory with reset functionality

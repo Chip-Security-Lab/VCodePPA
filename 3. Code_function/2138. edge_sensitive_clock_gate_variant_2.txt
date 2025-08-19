@@ -1,0 +1,1 @@
+Rising-edge controlled clock gating

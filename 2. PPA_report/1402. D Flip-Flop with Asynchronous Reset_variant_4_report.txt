@@ -1,0 +1,20 @@
+PPA Report for d_ff_async_reset_axi.v (Module: d_ff_async_reset_axi)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 19
+FF Count: 31
+IO Count: 66
+Cell Count: 177
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 528.85 MHz
+Reg-to-Reg Critical Path Delay: 3.393 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 1.944 W

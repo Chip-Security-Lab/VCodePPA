@@ -1,0 +1,20 @@
+PPA Report for eth_ifg_controller
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 8
+FF Count: 8
+IO Count: 6
+Cell Count: 35
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 550.06 MHz
+Reg-to-Reg Critical Path Delay: 1.540 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

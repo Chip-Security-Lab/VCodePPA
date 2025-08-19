@@ -1,0 +1,20 @@
+PPA Report for ecc_parity_calculator.v (Module: ecc_parity_calculator)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 12
+FF Count: 0
+IO Count: 33
+Cell Count: 109
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A
+End-to-End Path Delay: 5.676 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 1.524 W

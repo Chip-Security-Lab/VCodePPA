@@ -1,0 +1,20 @@
+PPA Report for AtomicOpBridge.v (Module: AtomicOpBridge)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 68
+FF Count: 32
+IO Count: 68
+Cell Count: 255
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 301.57 MHz
+Reg-to-Reg Critical Path Delay: 3.146 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.493 W

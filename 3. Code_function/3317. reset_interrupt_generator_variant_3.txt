@@ -1,0 +1,1 @@
+Reset interrupt AXI stream controller

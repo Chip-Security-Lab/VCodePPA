@@ -1,0 +1,1 @@
+Signed addition with arithmetic shift

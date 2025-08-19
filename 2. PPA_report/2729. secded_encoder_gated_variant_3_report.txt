@@ -1,0 +1,20 @@
+PPA Report for secded_encoder_gated.v (Module: secded_encoder_gated)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 4
+FF Count: 8
+IO Count: 16
+Cell Count: 47
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1270.65 MHz
+Reg-to-Reg Critical Path Delay: 0.583 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

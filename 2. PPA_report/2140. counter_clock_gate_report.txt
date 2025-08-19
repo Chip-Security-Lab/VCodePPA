@@ -1,0 +1,20 @@
+PPA Report for counter_clock_gate
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 6
+FF Count: 4
+IO Count: 7
+Cell Count: 33
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 175.56 MHz
+Reg-to-Reg Critical Path Delay: 4.996 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.696 W

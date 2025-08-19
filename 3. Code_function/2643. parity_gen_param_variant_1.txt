@@ -1,0 +1,1 @@
+Parameterized parity generator with enable

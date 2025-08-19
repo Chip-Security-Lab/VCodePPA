@@ -1,0 +1,20 @@
+PPA Report for rotational_left_shifter.v (Module: rotational_left_shifter)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 32
+FF Count: 16
+IO Count: 39
+Cell Count: 135
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 343.44 MHz
+Reg-to-Reg Critical Path Delay: 3.106 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.459 W

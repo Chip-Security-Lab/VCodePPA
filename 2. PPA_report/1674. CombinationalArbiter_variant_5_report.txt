@@ -1,0 +1,20 @@
+PPA Report for CombinationalArbiter.v (Module: CombinationalArbiter)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 0
+FF Count: 0
+IO Count: 5
+Cell Count: 8
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+End-to-End Path Delay: 4.260 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.641 W

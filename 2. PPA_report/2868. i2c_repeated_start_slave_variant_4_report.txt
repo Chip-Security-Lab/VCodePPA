@@ -1,0 +1,20 @@
+PPA Report for i2c_repeated_start_slave.v (Module: i2c_repeated_start_slave)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 19
+FF Count: 43
+IO Count: 20
+Cell Count: 112
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 544.07 MHz
+Reg-to-Reg Critical Path Delay: 1.555 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

@@ -1,0 +1,1 @@
+64b66b data encoder with scrambling

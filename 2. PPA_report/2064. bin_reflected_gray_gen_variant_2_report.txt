@@ -1,0 +1,20 @@
+PPA Report for bin_reflected_gray_gen.v (Module: bin_reflected_gray_gen)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 4
+FF Count: 19
+IO Count: 8
+Cell Count: 44
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 847.46 MHz
+Reg-to-Reg Critical Path Delay: 1.061 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.454 W

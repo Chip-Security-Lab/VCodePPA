@@ -1,0 +1,20 @@
+PPA Report for decoder_sync.v (Module: decoder_sync)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 2
+FF Count: 16
+IO Count: 14
+Cell Count: 47
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 998.00 MHz
+Reg-to-Reg Critical Path Delay: 0.865 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

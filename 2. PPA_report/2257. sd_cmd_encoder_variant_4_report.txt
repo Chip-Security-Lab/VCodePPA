@@ -1,0 +1,20 @@
+PPA Report for sd_cmd_encoder.v (Module: sd_cmd_encoder)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 70
+FF Count: 184
+IO Count: 89
+Cell Count: 446
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 415.63 MHz
+Reg-to-Reg Critical Path Delay: 2.143 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.467 W

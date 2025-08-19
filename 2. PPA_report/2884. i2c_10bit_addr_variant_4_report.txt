@@ -1,0 +1,20 @@
+PPA Report for i2c_10bit_addr.v (Module: i2c_10bit_addr)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 12
+FF Count: 17
+IO Count: 12
+Cell Count: 68
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 726.74 MHz
+Reg-to-Reg Critical Path Delay: 1.161 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.451 W

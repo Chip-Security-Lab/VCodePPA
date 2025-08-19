@@ -1,0 +1,1 @@
+Pipelined LCD controller state machine

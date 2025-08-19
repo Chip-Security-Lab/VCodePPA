@@ -1,0 +1,1 @@
+Conditional multiplication with bit masking

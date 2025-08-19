@@ -1,0 +1,1 @@
+Parameterized right logical shifter module

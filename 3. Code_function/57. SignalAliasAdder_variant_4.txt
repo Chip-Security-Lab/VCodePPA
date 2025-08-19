@@ -1,0 +1,1 @@
+6-bit Manchester carry adder

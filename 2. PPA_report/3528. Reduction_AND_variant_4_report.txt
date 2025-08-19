@@ -1,0 +1,20 @@
+PPA Report for Reduction_AND_Top.v (Module: Reduction_AND_Top)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 7
+FF Count: 11
+IO Count: 14
+Cell Count: 57
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 916.59 MHz
+Reg-to-Reg Critical Path Delay: 0.972 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

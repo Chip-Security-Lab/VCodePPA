@@ -1,0 +1,20 @@
+PPA Report for axi_lite_slave.v (Module: axi_lite_slave)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 514
+FF Count: 65
+IO Count: 108
+Cell Count: 1338
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1342.28 MHz
+Reg-to-Reg Critical Path Delay: 0.541 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.451 W

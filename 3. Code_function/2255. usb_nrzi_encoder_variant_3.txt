@@ -1,0 +1,1 @@
+USB NRZI encoder with pipelining

@@ -1,0 +1,1 @@
+Register file with shadow copy

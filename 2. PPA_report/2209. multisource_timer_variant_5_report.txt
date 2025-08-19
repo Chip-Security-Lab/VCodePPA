@@ -1,0 +1,20 @@
+PPA Report for multisource_timer_axi.v (Module: multisource_timer_axi)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 63
+FF Count: 75
+IO Count: 79
+Cell Count: 316
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 458.30 MHz
+Reg-to-Reg Critical Path Delay: 1.906 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.465 W

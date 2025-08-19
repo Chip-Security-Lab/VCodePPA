@@ -1,0 +1,20 @@
+PPA Report for dual_edge_divider.v (Module: dual_edge_divider)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 7
+FF Count: 18
+IO Count: 3
+Cell Count: 39
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 187.33 MHz
+Reg-to-Reg Critical Path Delay: 3.210 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 1.139 W

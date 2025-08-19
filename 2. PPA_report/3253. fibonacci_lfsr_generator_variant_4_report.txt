@@ -1,0 +1,20 @@
+PPA Report for fibonacci_lfsr_generator.v (Module: fibonacci_lfsr_generator)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 2
+FF Count: 32
+IO Count: 34
+Cell Count: 75
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 256.44 MHz
+Reg-to-Reg Critical Path Delay: 3.264 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 56.496 W

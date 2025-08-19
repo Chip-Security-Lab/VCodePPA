@@ -1,0 +1,1 @@
+4-bit adder with 5-bit output

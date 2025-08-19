@@ -1,0 +1,1 @@
+Digital PLL synchronizes input data

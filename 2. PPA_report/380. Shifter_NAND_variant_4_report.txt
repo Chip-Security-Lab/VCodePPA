@@ -1,0 +1,20 @@
+PPA Report for Shifter_NAND.v (Module: Shifter_NAND)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 43
+FF Count: 0
+IO Count: 19
+Cell Count: 96
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+End-to-End Path Delay: 7.016 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 4.595 W

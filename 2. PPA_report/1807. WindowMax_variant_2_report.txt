@@ -1,0 +1,20 @@
+PPA Report for WindowMax.v (Module: WindowMax)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 44
+FF Count: 48
+IO Count: 21
+Cell Count: 165
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 191.39 MHz
+Reg-to-Reg Critical Path Delay: 5.078 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.454 W

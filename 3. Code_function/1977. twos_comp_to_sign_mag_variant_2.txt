@@ -1,0 +1,1 @@
+Pipelined two's complement to sign-magnitude

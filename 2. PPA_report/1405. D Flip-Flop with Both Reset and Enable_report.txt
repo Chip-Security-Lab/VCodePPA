@@ -1,0 +1,20 @@
+PPA Report for D Flip-Flop with Both Reset and Enable
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 1
+FF Count: 1
+IO Count: 5
+Cell Count: 17
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 424.99 MHz
+Reg-to-Reg Critical Path Delay: 1.653 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.451 W

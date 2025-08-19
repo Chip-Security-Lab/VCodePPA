@@ -1,0 +1,20 @@
+PPA Report for dual_reset_regfile.v (Module: dual_reset_regfile)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 209
+FF Count: 528
+IO Count: 46
+Cell Count: 930
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 524.38 MHz
+Reg-to-Reg Critical Path Delay: 1.679 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.458 W

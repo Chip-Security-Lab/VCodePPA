@@ -1,0 +1,1 @@
+Base64 encoder with pipeline stages

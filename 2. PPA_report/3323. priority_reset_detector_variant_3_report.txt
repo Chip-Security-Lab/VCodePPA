@@ -1,0 +1,20 @@
+PPA Report for priority_reset_detector_axi_stream.v (Module: priority_reset_detector_axi_stream)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 45
+FF Count: 58
+IO Count: 53
+Cell Count: 247
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 239.23 MHz
+Reg-to-Reg Critical Path Delay: 3.999 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.463 W

@@ -1,0 +1,20 @@
+PPA Report for rng_poly_8.v (Module: rng_poly_8)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 1
+FF Count: 36
+IO Count: 14
+Cell Count: 59
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 876.42 MHz
+Reg-to-Reg Critical Path Delay: 0.918 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.461 W

@@ -1,0 +1,1 @@
+Gray-to-onehot code decoder converter

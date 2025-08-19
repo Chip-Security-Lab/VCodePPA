@@ -1,0 +1,1 @@
+Eight-bit AND reduction operation

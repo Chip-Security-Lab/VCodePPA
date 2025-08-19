@@ -1,0 +1,20 @@
+PPA Report for crc_config_xor.v (Module: crc_config_xor)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 3
+FF Count: 4
+IO Count: 37
+Cell Count: 56
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 758.15 MHz
+Reg-to-Reg Critical Path Delay: 1.200 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

@@ -1,0 +1,1 @@
+Enabled ROM with 8-bit output

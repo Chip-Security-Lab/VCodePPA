@@ -1,0 +1,20 @@
+PPA Report for circ_shift_reg.v (Module: circ_shift_reg)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 14
+FF Count: 12
+IO Count: 29
+Cell Count: 91
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 955.11 MHz
+Reg-to-Reg Critical Path Delay: 0.914 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.455 W

@@ -1,0 +1,20 @@
+PPA Report for i2c_slave_async.v (Module: i2c_slave_async)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 35
+FF Count: 40
+IO Count: 19
+Cell Count: 129
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 115.31 MHz
+Reg-to-Reg Critical Path Delay: 3.381 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.612 W

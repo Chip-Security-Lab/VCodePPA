@@ -1,0 +1,20 @@
+PPA Report for digital_differentiator.v (Module: digital_differentiator)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 8
+FF Count: 35
+IO Count: 20
+Cell Count: 88
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 941.62 MHz
+Reg-to-Reg Critical Path Delay: 0.929 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.454 W

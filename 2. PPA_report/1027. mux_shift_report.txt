@@ -1,0 +1,20 @@
+PPA Report for mux_shift
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 7
+FF Count: 0
+IO Count: 18
+Cell Count: 46
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+End-to-End Path Delay: 5.105 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 2.717 W

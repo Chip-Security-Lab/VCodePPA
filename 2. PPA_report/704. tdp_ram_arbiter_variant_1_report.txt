@@ -1,0 +1,20 @@
+PPA Report for tdp_ram_arbiter.v (Module: tdp_ram_arbiter)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 5796
+FF Count: 3647
+IO Count: 132
+Cell Count: 11231
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 257.27 MHz
+Reg-to-Reg Critical Path Delay: 3.711 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.527 W

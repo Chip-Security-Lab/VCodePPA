@@ -1,0 +1,1 @@
+Configurable ring oscillator generates clock

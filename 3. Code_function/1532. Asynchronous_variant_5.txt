@@ -1,0 +1,1 @@
+Asynchronous data shadow register module

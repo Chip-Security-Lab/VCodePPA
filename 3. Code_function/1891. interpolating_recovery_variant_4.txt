@@ -1,0 +1,1 @@
+Average two samples when valid.

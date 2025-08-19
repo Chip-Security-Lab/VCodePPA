@@ -1,0 +1,20 @@
+PPA Report for sipo_register_axi4lite.v (Module: sipo_register_axi4lite)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 19
+FF Count: 25
+IO Count: 33
+Cell Count: 114
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 651.89 MHz
+Reg-to-Reg Critical Path Delay: 1.307 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

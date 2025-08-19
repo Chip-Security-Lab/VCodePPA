@@ -1,0 +1,20 @@
+PPA Report for AdaptiveITRC.v (Module: AdaptiveITRC)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 29
+FF Count: 45
+IO Count: 10
+Cell Count: 114
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 424.81 MHz
+Reg-to-Reg Critical Path Delay: 2.170 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

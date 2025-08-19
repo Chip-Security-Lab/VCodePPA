@@ -1,0 +1,20 @@
+PPA Report for w2n_bridge.v (Module: w2n_bridge)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 25
+FF Count: 48
+IO Count: 46
+Cell Count: 197
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 514.67 MHz
+Reg-to-Reg Critical Path Delay: 1.662 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

@@ -1,0 +1,1 @@
+Compares signals, flags discrepancies

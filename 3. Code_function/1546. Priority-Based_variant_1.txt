@@ -1,0 +1,1 @@
+Priority selector with shadow register

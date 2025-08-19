@@ -1,0 +1,22 @@
+PPA Report for 1903. WindowAvgRecovery.sv (Module: WindowAvgRecovery)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 27
+FF Count: 38
+IO Count: 18
+Cell Count: 117
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 434.78 MHz
+End-to-End Path Delay: N/A (No valid path found) ns
+Reg-to-Reg Critical Path Delay: 2.109 ns
+Detected Clock Signals: clk
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.456 W

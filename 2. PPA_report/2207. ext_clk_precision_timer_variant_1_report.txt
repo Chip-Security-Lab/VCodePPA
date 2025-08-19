@@ -1,0 +1,20 @@
+PPA Report for ext_clk_precision_timer.v (Module: ext_clk_precision_timer)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 27
+FF Count: 68
+IO Count: 25
+Cell Count: 136
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 288.88 MHz
+Reg-to-Reg Critical Path Delay: 3.304 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 1.226 W

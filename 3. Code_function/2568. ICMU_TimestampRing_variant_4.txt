@@ -1,0 +1,1 @@
+Timestamped buffer with ring counter

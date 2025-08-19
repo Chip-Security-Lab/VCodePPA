@@ -1,0 +1,1 @@
+Register-based FIFO memory buffer

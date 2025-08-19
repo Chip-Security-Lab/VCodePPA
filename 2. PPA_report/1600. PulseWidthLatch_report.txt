@@ -1,0 +1,20 @@
+PPA Report for PulseWidthLatch
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 2
+FF Count: 17
+IO Count: 18
+Cell Count: 48
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 788.64 MHz
+Reg-to-Reg Critical Path Delay: 1.127 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.457 W

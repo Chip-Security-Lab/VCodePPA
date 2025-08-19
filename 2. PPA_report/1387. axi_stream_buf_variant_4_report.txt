@@ -1,0 +1,21 @@
+PPA Report for axi_stream_buf.v (Module: axi_stream_buf)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 3
+FF Count: 65
+IO Count: 134
+Cell Count: 342
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 811.03 MHz
+End-to-End Path Delay: 3.583 ns
+Reg-to-Reg Critical Path Delay: 1.018 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.481 W

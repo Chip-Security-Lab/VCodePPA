@@ -1,0 +1,1 @@
+Cross-clock reset signal synchronizer

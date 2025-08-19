@@ -1,0 +1,1 @@
+Pipelined shifter and booth multiplier

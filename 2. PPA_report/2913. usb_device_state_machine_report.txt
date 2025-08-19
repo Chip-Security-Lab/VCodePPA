@@ -1,0 +1,20 @@
+PPA Report for usb_device_state_machine
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 6
+FF Count: 6
+IO Count: 20
+Cell Count: 52
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 683.99 MHz
+Reg-to-Reg Critical Path Delay: 1.344 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

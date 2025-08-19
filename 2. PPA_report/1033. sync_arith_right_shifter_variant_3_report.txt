@@ -1,0 +1,19 @@
+PPA Report for sync_arith_right_shifter_axi4lite.v (Module: sync_arith_right_shifter_axi4lite)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 30
+FF Count: 50
+IO Count: 41
+Cell Count: 176
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.819 W

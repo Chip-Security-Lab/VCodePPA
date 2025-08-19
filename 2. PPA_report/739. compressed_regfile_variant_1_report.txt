@@ -1,0 +1,21 @@
+PPA Report for compressed_regfile.v (Module: compressed_regfile)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 80
+FF Count: 256
+IO Count: 54
+Cell Count: 485
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 219.59 MHz
+End-to-End Path Delay: 5.796 ns
+Reg-to-Reg Critical Path Delay: 3.764 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.473 W

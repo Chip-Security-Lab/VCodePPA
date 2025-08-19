@@ -1,0 +1,1 @@
+Reset timeout detector with pipeline

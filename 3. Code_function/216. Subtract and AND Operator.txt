@@ -1,0 +1,1 @@
+Shift-XOR data manipulation module

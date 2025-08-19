@@ -1,0 +1,20 @@
+PPA Report for eth_phy_interface.v (Module: eth_phy_interface)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 14
+FF Count: 55
+IO Count: 35
+Cell Count: 146
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 263.28 MHz
+Reg-to-Reg Critical Path Delay: 3.399 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 2.724 W

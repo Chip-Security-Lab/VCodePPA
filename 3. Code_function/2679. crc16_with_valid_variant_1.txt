@@ -1,0 +1,1 @@
+Pipelined CRC-16 checksum calculator

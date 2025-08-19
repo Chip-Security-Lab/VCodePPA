@@ -1,0 +1,1 @@
+Finds smallest of three timestamps

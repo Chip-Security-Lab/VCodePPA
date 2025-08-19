@@ -1,0 +1,20 @@
+PPA Report for error_detect_decoder_pipelined.v (Module: error_detect_decoder_pipelined)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 10
+FF Count: 27
+IO Count: 17
+Cell Count: 76
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 783.70 MHz
+Reg-to-Reg Critical Path Delay: 1.003 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

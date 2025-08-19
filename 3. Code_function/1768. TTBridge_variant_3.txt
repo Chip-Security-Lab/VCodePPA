@@ -1,0 +1,1 @@
+Timestamped trigger with schedule filter

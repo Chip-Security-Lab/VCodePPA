@@ -1,0 +1,1 @@
+Trigger-activated state machine with retiming

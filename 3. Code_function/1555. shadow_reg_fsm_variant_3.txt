@@ -1,0 +1,1 @@
+Triggered data buffer with delay

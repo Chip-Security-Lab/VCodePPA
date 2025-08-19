@@ -1,0 +1,20 @@
+PPA Report for shadow_reg_dual_clk.v (Module: shadow_reg_dual_clk)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 12
+FF Count: 32
+IO Count: 35
+Cell Count: 122
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 267.45 MHz
+Reg-to-Reg Critical Path Delay: 2.281 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.455 W

@@ -1,0 +1,20 @@
+PPA Report for async_rgb565_codec.v (Module: async_rgb565_codec)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 1
+FF Count: 51
+IO Count: 36
+Cell Count: 129
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 892.06 MHz
+Reg-to-Reg Critical Path Delay: 0.977 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.455 W

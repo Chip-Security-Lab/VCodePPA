@@ -1,0 +1,20 @@
+PPA Report for reset_monitor.v (Module: reset_monitor)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 17
+FF Count: 25
+IO Count: 63
+Cell Count: 150
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 564.02 MHz
+Reg-to-Reg Critical Path Delay: 1.594 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.471 W

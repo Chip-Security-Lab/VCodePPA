@@ -1,0 +1,1 @@
+Single-bit D flip-flop

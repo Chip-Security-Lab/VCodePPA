@@ -1,0 +1,20 @@
+PPA Report for dual_clock_comparator
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 5
+FF Count: 24
+IO Count: 24
+Cell Count: 99
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 248.82 MHz
+Reg-to-Reg Critical Path Delay: 3.319 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.796 W

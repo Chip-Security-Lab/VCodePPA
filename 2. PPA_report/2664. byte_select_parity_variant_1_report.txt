@@ -1,0 +1,21 @@
+PPA Report for byte_select_parity.v (Module: byte_select_parity)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 13
+FF Count: 39
+IO Count: 43
+Cell Count: 179
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 709.72 MHz
+End-to-End Path Delay: 4.785 ns
+Reg-to-Reg Critical Path Delay: 1.272 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

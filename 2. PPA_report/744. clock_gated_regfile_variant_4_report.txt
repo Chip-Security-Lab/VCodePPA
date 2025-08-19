@@ -1,0 +1,21 @@
+PPA Report for clock_gated_regfile.v (Module: clock_gated_regfile)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 41
+FF Count: 0
+IO Count: 89
+Cell Count: 272
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 277.42 MHz
+End-to-End Path Delay: 5.217 ns
+Reg-to-Reg Critical Path Delay: 2.693 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.481 W

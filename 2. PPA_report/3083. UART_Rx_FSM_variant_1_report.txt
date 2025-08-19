@@ -1,0 +1,20 @@
+PPA Report for UART_Rx_FSM.v (Module: UART_Rx_FSM)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 25
+FF Count: 30
+IO Count: 12
+Cell Count: 80
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 533.62 MHz
+Reg-to-Reg Critical Path Delay: 1.619 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

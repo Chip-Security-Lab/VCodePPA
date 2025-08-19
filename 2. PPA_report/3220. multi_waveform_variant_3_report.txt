@@ -1,0 +1,20 @@
+PPA Report for multi_waveform.v (Module: multi_waveform)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 22
+FF Count: 34
+IO Count: 12
+Cell Count: 94
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 677.97 MHz
+Reg-to-Reg Critical Path Delay: 1.345 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.454 W

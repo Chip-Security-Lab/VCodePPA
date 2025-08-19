@@ -1,0 +1,1 @@
+Pipelined shift-XNOR comparison module

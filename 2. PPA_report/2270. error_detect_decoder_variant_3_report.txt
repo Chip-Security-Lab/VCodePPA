@@ -1,0 +1,21 @@
+PPA Report for error_detect_decoder.v (Module: error_detect_decoder)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 20
+FF Count: 29
+IO Count: 28
+Cell Count: 119
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 575.37 MHz
+End-to-End Path Delay: 5.243 ns
+Reg-to-Reg Critical Path Delay: 1.601 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

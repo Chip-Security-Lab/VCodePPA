@@ -1,0 +1,20 @@
+PPA Report for param_mux_array.v (Module: param_mux_array)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 9
+FF Count: 26
+IO Count: 44
+Cell Count: 154
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 910.75 MHz
+Reg-to-Reg Critical Path Delay: 0.893 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.455 W

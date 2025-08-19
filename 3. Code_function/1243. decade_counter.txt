@@ -1,0 +1,1 @@
+Ten-state counter with reset pulse.

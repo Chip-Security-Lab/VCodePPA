@@ -1,0 +1,19 @@
+PPA Report for rng_async_mix_7_axi4lite.v (Module: rng_async_mix_7_axi4lite)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 17
+FF Count: 29
+IO Count: 41
+Cell Count: 141
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+
+POWER METRICS:
+-------------
+Total Power Consumption: 3.163 W

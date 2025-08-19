@@ -1,0 +1,20 @@
+PPA Report for eth_full_duplex_controller.v (Module: eth_full_duplex_controller)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 53
+FF Count: 38
+IO Count: 42
+Cell Count: 196
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 457.04 MHz
+Reg-to-Reg Critical Path Delay: 1.983 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

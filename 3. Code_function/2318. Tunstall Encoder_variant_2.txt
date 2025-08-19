@@ -1,0 +1,1 @@
+Variable-length symbol encoder implementation

@@ -1,0 +1,1 @@
+Pipeline-enabled D flip-flop register

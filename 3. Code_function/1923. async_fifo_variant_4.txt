@@ -1,0 +1,1 @@
+Pipelined asynchronous FIFO memory controller

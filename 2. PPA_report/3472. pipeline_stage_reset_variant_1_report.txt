@@ -1,0 +1,21 @@
+PPA Report for pipeline_stage_reset.v (Module: pipeline_stage_reset)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 68
+FF Count: 99
+IO Count: 70
+Cell Count: 324
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 740.74 MHz
+End-to-End Path Delay: 3.575 ns
+Reg-to-Reg Critical Path Delay: 1.116 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.475 W

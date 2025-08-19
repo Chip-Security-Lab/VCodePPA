@@ -1,0 +1,20 @@
+PPA Report for cam_cache_bypass.v (Module: cam_cache_bypass)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 1408
+FF Count: 2065
+IO Count: 58
+Cell Count: 4089
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 119.29 MHz
+Reg-to-Reg Critical Path Delay: 8.158 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.463 W

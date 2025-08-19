@@ -1,0 +1,20 @@
+PPA Report for moore_3state_pipeline
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 2
+FF Count: 30
+IO Count: 20
+Cell Count: 79
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 944.29 MHz
+Reg-to-Reg Critical Path Delay: 0.777 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

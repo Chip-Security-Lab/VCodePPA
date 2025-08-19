@@ -1,0 +1,1 @@
+Pipelined signed 8-bit multiplier

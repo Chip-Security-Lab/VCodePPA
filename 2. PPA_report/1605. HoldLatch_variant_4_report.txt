@@ -1,0 +1,20 @@
+PPA Report for HoldLatch.v (Module: HoldLatch)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 1
+FF Count: 4
+IO Count: 10
+Cell Count: 30
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 293.54 MHz
+Reg-to-Reg Critical Path Delay: 1.916 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

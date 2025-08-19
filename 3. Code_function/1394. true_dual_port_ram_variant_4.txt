@@ -1,0 +1,1 @@
+True dual-port RAM implementation

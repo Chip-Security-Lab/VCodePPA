@@ -1,0 +1,20 @@
+PPA Report for interleave_shift_pipeline.v (Module: interleave_shift_pipeline)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 15
+FF Count: 21
+IO Count: 20
+Cell Count: 86
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 923.36 MHz
+Reg-to-Reg Critical Path Delay: 0.939 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

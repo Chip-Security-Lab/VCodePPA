@@ -1,0 +1,1 @@
+Parameterized NOT gate with wrapper

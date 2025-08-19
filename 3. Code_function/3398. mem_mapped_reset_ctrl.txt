@@ -1,0 +1,1 @@
+Memory-mapped reset control register

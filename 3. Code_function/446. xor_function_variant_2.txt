@@ -1,0 +1,1 @@
+Pipelined XOR operation with validation

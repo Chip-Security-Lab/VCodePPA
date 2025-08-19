@@ -1,0 +1,20 @@
+PPA Report for Reconfig_Hamming_Codec.v (Module: Reconfig_Hamming_Codec)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 56
+FF Count: 120
+IO Count: 69
+Cell Count: 325
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 300.72 MHz
+Reg-to-Reg Critical Path Delay: 3.734 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 5.906 W

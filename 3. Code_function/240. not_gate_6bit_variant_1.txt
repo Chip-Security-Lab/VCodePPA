@@ -1,0 +1,1 @@
+Six-bit parameterized inverter circuit

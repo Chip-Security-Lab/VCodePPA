@@ -1,0 +1,20 @@
+PPA Report for excess3_to_bcd.v (Module: excess3_to_bcd)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 4
+FF Count: 19
+IO Count: 11
+Cell Count: 51
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 985.22 MHz
+Reg-to-Reg Critical Path Delay: 0.879 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

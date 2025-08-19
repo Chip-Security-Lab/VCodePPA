@@ -1,0 +1,20 @@
+PPA Report for sram_pipelined.v (Module: sram_pipelined)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 4731
+FF Count: 16668
+IO Count: 140
+Cell Count: 24947
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 127.76 MHz
+Reg-to-Reg Critical Path Delay: 7.434 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.596 W

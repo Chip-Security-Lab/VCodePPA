@@ -1,0 +1,1 @@
+Pipelined (A⊕B)|C logic circuit

@@ -1,0 +1,20 @@
+PPA Report for async_signal_recovery.v (Module: async_signal_recovery)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 9
+FF Count: 19
+IO Count: 19
+Cell Count: 83
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 969.93 MHz
+Reg-to-Reg Critical Path Delay: 0.894 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

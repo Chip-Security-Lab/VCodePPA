@@ -1,0 +1,21 @@
+PPA Report for shadow_buffer.v (Module: shadow_buffer)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 8
+FF Count: 101
+IO Count: 72
+Cell Count: 260
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 825.08 MHz
+End-to-End Path Delay: 4.531 ns
+Reg-to-Reg Critical Path Delay: 0.935 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.465 W

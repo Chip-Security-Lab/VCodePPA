@@ -1,0 +1,20 @@
+PPA Report for pingpong_buf_pipeline.v (Module: pingpong_buf_pipeline)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 13
+FF Count: 85
+IO Count: 37
+Cell Count: 186
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 444.11 MHz
+Reg-to-Reg Critical Path Delay: 3.299 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 2.192 W

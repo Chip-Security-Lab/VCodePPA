@@ -1,0 +1,20 @@
+PPA Report for jk_ff_async_reset_pipelined.v (Module: jk_ff_async_reset_pipelined)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 2
+FF Count: 6
+IO Count: 7
+Cell Count: 29
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 968.99 MHz
+Reg-to-Reg Critical Path Delay: 0.913 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

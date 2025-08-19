@@ -1,0 +1,20 @@
+PPA Report for Comparator_FSM.v (Module: Comparator_FSM)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 18
+FF Count: 14
+IO Count: 36
+Cell Count: 156
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 395.88 MHz
+Reg-to-Reg Critical Path Delay: 2.345 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

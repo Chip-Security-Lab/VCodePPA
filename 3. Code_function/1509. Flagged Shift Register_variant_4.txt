@@ -1,0 +1,1 @@
+Shift register FIFO with flags

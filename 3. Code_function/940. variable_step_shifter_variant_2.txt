@@ -1,0 +1,1 @@
+Variable step bidirectional bit shifter

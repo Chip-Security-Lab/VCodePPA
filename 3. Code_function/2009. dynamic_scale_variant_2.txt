@@ -1,0 +1,1 @@
+Bidirectional bit-shifter with variable amount

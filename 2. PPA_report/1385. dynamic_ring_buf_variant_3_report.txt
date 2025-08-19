@@ -1,0 +1,20 @@
+PPA Report for dynamic_ring_buf.v (Module: dynamic_ring_buf)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 88
+FF Count: 220
+IO Count: 28
+Cell Count: 410
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 444.84 MHz
+Reg-to-Reg Critical Path Delay: 2.015 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.456 W

@@ -1,0 +1,1 @@
+Synchronous priority encoder with latch

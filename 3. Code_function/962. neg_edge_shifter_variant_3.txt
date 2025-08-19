@@ -1,0 +1,1 @@
+Negative-edge shift register with counters

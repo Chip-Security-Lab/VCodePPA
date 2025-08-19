@@ -1,0 +1,20 @@
+PPA Report for exclusive_range_detector.v (Module: exclusive_range_detector)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 19
+FF Count: 1
+IO Count: 33
+Cell Count: 134
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 300.33 MHz
+Reg-to-Reg Critical Path Delay: 3.214 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

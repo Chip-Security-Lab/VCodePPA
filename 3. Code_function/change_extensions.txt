@@ -1,0 +1,9 @@
+@echo off
+cd /d "C:\Users\13630\Desktop\3. Code_function"
+for %%f in (*.*) do (
+    if not "%%~xf"==".txt" (
+        ren "%%f" "%%~nf.txt"
+    )
+)
+echo 所有文件扩展名已更改为.txt
+pause

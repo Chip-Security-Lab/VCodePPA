@@ -1,0 +1,20 @@
+PPA Report for thermal_noise_rng_axi_stream.v (Module: thermal_noise_rng_axi_stream)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 105
+FF Count: 180
+IO Count: 21
+Cell Count: 397
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 232.02 MHz
+Reg-to-Reg Critical Path Delay: 4.125 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.462 W

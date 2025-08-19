@@ -1,0 +1,21 @@
+PPA Report for uart_memory_mapped.v (Module: uart_memory_mapped)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 19
+FF Count: 23
+IO Count: 26
+Cell Count: 107
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1084.60 MHz
+End-to-End Path Delay: 6.136 ns
+Reg-to-Reg Critical Path Delay: 0.752 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

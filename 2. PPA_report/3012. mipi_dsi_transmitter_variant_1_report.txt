@@ -1,0 +1,20 @@
+PPA Report for mipi_dsi_transmitter_pipelined.v (Module: mipi_dsi_transmitter_pipelined)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 10
+FF Count: 11
+IO Count: 8
+Cell Count: 43
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 534.44 MHz
+Reg-to-Reg Critical Path Delay: 3.071 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 2.738 W

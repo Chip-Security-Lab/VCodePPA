@@ -1,0 +1,1 @@
+Enabled NOR gate with control

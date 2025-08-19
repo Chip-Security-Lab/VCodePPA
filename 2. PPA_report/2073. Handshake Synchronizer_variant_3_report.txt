@@ -1,0 +1,19 @@
+PPA Report for handshake_sync_axi4lite.v (Module: handshake_sync_axi4lite)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 10
+FF Count: 15
+IO Count: 57
+Cell Count: 121
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+
+POWER METRICS:
+-------------
+Total Power Consumption: 1.593 W

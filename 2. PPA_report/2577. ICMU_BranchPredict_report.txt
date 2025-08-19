@@ -1,0 +1,20 @@
+PPA Report for ICMU_BranchPredict
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 203
+FF Count: 579
+IO Count: 130
+Cell Count: 1049
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 405.02 MHz
+Reg-to-Reg Critical Path Delay: 2.183 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.526 W

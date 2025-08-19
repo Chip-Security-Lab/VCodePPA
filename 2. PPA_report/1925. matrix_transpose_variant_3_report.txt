@@ -1,0 +1,20 @@
+PPA Report for matrix_transpose_pipelined.v (Module: matrix_transpose_pipelined)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 11
+FF Count: 68
+IO Count: 45
+Cell Count: 156
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 675.22 MHz
+Reg-to-Reg Critical Path Delay: 1.206 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.469 W

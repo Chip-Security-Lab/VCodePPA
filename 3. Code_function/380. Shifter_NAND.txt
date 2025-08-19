@@ -1,0 +1,1 @@
+NAND shift based bit masking

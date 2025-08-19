@@ -1,0 +1,20 @@
+PPA Report for width_reducer.v (Module: width_reducer)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 32
+FF Count: 55
+IO Count: 45
+Cell Count: 220
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 749.06 MHz
+Reg-to-Reg Critical Path Delay: 1.049 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.455 W

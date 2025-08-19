@@ -1,0 +1,1 @@
+Active-low enabled D-latch

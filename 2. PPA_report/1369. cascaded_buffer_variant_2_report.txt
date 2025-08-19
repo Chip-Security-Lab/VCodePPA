@@ -1,0 +1,21 @@
+PPA Report for cascaded_buffer.v (Module: cascaded_buffer)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 5
+FF Count: 27
+IO Count: 21
+Cell Count: 81
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 731.53 MHz
+End-to-End Path Delay: 4.770 ns
+Reg-to-Reg Critical Path Delay: 1.107 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

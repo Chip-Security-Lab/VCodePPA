@@ -1,0 +1,1 @@
+Synchronizes signal with reset capability

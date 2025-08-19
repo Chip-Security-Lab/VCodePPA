@@ -1,0 +1,20 @@
+PPA Report for async_low_rst_fifo.v (Module: async_low_rst_fifo)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 21
+FF Count: 57
+IO Count: 22
+Cell Count: 132
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 525.49 MHz
+Reg-to-Reg Critical Path Delay: 1.635 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.455 W

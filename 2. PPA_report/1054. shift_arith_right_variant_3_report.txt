@@ -1,0 +1,20 @@
+PPA Report for shift_arith_right.v (Module: shift_arith_right)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 11
+FF Count: 19
+IO Count: 21
+Cell Count: 82
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 651.89 MHz
+Reg-to-Reg Critical Path Delay: 1.405 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.454 W

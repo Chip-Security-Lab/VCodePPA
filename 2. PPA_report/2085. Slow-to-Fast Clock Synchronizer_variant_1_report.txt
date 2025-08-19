@@ -1,0 +1,20 @@
+PPA Report for slow_to_fast_sync.v (Module: slow_to_fast_sync)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 3
+FF Count: 42
+IO Count: 28
+Cell Count: 107
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 295.26 MHz
+Reg-to-Reg Critical Path Delay: 3.462 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 1.845 W

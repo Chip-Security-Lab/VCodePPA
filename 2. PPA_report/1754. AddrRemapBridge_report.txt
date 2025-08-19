@@ -1,0 +1,20 @@
+PPA Report for AddrRemapBridge
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 4
+FF Count: 32
+IO Count: 68
+Cell Count: 181
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 344.00 MHz
+Reg-to-Reg Critical Path Delay: 2.207 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.465 W

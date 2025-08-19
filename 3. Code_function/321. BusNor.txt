@@ -1,0 +1,1 @@
+Four-bit NOR gate array

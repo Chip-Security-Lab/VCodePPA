@@ -1,0 +1,20 @@
+PPA Report for uart_config_stop.v (Module: uart_config_stop)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 20
+FF Count: 19
+IO Count: 15
+Cell Count: 90
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 557.10 MHz
+Reg-to-Reg Critical Path Delay: 1.485 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

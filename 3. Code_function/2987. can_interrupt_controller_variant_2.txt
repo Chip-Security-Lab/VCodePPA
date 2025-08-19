@@ -1,0 +1,1 @@
+CAN interrupt controller with edge-detection

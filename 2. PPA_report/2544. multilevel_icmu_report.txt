@@ -1,0 +1,22 @@
+PPA Report for 2544. multilevel_icmu.sv (Module: multilevel_icmu)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 55
+FF Count: 36
+IO Count: 94
+Cell Count: 317
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1025.64 MHz
+End-to-End Path Delay: N/A (No valid path found) ns
+Reg-to-Reg Critical Path Delay: 0.690 ns
+Detected Clock Signals: clock
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.478 W

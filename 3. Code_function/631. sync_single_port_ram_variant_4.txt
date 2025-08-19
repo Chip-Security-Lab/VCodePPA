@@ -1,0 +1,1 @@
+Pipelined synchronous single-port RAM

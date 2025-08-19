@@ -1,0 +1,21 @@
+PPA Report for multifunction_shifter_axi_stream.v (Module: multifunction_shifter_axi_stream)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 234
+FF Count: 202
+IO Count: 79
+Cell Count: 649
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 400.00 MHz
+End-to-End Path Delay: 4.785 ns
+Reg-to-Reg Critical Path Delay: 2.230 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.475 W

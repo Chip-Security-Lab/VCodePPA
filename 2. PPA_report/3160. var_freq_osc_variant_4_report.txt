@@ -1,0 +1,20 @@
+PPA Report for var_freq_osc.v (Module: var_freq_osc)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 24
+FF Count: 17
+IO Count: 11
+Cell Count: 92
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 454.34 MHz
+Reg-to-Reg Critical Path Delay: 2.015 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

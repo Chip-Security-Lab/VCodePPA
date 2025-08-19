@@ -1,0 +1,1 @@
+Nibble-to-byte register with enables

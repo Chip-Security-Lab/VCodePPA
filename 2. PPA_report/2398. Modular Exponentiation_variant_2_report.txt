@@ -1,0 +1,20 @@
+PPA Report for mod_exp.v (Module: mod_exp)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 641
+FF Count: 34
+IO Count: 68
+Cell Count: 1002
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 77.38 MHz
+Reg-to-Reg Critical Path Delay: 12.475 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.474 W

@@ -1,0 +1,22 @@
+PPA Report for 2768. Interrupt_Hamming_Decoder.sv (Module: Interrupt_Hamming_Decoder)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 6
+FF Count: 7
+IO Count: 14
+Cell Count: 49
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 897.67 MHz
+End-to-End Path Delay: N/A (No valid path found) ns
+Reg-to-Reg Critical Path Delay: 0.996 ns
+Detected Clock Signals: clk
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

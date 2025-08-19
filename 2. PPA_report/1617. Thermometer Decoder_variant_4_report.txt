@@ -1,0 +1,20 @@
+PPA Report for therm_decoder.v (Module: therm_decoder)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 4
+FF Count: 20
+IO Count: 16
+Cell Count: 59
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 290.07 MHz
+Reg-to-Reg Critical Path Delay: 3.415 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 1.719 W

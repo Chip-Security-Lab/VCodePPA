@@ -1,0 +1,1 @@
+Priority reset register with outputs

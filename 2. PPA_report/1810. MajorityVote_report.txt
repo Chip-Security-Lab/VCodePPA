@@ -1,0 +1,21 @@
+PPA Report for 1810. MajorityVote.sv (Module: MajorityVote)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 1
+FF Count: 0
+IO Count: 6
+Cell Count: 17
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+End-to-End Path Delay: 4.659 ns
+Detected Clock Signals: None
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.758 W

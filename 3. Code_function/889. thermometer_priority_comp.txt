@@ -1,0 +1,1 @@
+Highest-bit priority encoder with thermometer

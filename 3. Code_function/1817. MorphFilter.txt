@@ -1,0 +1,1 @@
+Vertical morphological dilation filter

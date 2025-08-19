@@ -1,0 +1,1 @@
+USB descriptor parser state machine

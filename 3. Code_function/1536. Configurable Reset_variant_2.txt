@@ -1,0 +1,1 @@
+Parameterized trigger-activated data shadowing register

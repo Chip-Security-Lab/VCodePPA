@@ -1,0 +1,20 @@
+PPA Report for therm2priority_encoder.v (Module: therm2priority_encoder)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 5
+FF Count: 0
+IO Count: 12
+Cell Count: 35
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+End-to-End Path Delay: 5.565 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.999 W

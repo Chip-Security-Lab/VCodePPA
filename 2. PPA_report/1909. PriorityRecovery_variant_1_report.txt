@@ -1,0 +1,20 @@
+PPA Report for PriorityRecovery.v (Module: PriorityRecovery)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 14
+FF Count: 12
+IO Count: 45
+Cell Count: 154
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 569.80 MHz
+Reg-to-Reg Critical Path Delay: 1.448 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.454 W

@@ -1,0 +1,20 @@
+PPA Report for SPI_APB_Bridge.v (Module: SPI_APB_Bridge)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 26
+FF Count: 204
+IO Count: 90
+Cell Count: 407
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 153.37 MHz
+Reg-to-Reg Critical Path Delay: 1.127 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.468 W

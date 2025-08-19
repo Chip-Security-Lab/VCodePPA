@@ -1,0 +1,20 @@
+PPA Report for arithmetic_encoder.v (Module: arithmetic_encoder)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 49
+FF Count: 36
+IO Count: 38
+Cell Count: 191
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 307.13 MHz
+Reg-to-Reg Critical Path Delay: 3.071 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.479 W

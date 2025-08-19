@@ -1,0 +1,20 @@
+PPA Report for binary_encoded_arbiter.v (Module: binary_encoded_arbiter)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 4
+FF Count: 12
+IO Count: 9
+Cell Count: 42
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 281.98 MHz
+Reg-to-Reg Critical Path Delay: 3.052 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 2.190 W

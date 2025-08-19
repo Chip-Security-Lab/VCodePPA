@@ -1,0 +1,22 @@
+PPA Report for 917. sync_bidir_rotational.sv (Module: sync_bidir_rotational)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 384
+FF Count: 64
+IO Count: 137
+Cell Count: 798
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 179.92 MHz
+End-to-End Path Delay: N/A (No valid path found) ns
+Reg-to-Reg Critical Path Delay: 4.858 ns
+Detected Clock Signals: clock
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.540 W

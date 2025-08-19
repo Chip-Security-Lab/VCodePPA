@@ -1,0 +1,21 @@
+PPA Report for feistel_network.v (Module: feistel_network)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 53
+FF Count: 164
+IO Count: 88
+Cell Count: 417
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 863.56 MHz
+End-to-End Path Delay: 4.084 ns
+Reg-to-Reg Critical Path Delay: 0.880 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.468 W

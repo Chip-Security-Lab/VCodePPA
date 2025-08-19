@@ -1,0 +1,20 @@
+PPA Report for rst_src_detect_axi_stream.v (Module: rst_src_detect_axi_stream)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 6
+FF Count: 6
+IO Count: 13
+Cell Count: 42
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1422.48 MHz
+Reg-to-Reg Critical Path Delay: 0.584 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

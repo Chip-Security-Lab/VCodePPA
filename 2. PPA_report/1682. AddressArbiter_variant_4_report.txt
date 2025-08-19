@@ -1,0 +1,20 @@
+PPA Report for AddressArbiter.v (Module: AddressArbiter)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 4
+FF Count: 4
+IO Count: 13
+Cell Count: 43
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 287.41 MHz
+Reg-to-Reg Critical Path Delay: 1.914 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

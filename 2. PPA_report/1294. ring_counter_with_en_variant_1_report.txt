@@ -1,0 +1,20 @@
+PPA Report for ring_counter_with_req_ack.v (Module: ring_counter_with_req_ack)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 4
+FF Count: 22
+IO Count: 8
+Cell Count: 43
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 827.13 MHz
+Reg-to-Reg Critical Path Delay: 1.068 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

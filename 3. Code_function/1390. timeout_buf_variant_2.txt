@@ -1,0 +1,1 @@
+Timed buffer with timeout mechanism

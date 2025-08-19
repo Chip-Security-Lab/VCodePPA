@@ -1,0 +1,21 @@
+PPA Report for SPI_Loopback.v (Module: SPI_Loopback)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 29
+FF Count: 35
+IO Count: 17
+Cell Count: 120
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 747.94 MHz
+End-to-End Path Delay: 8.153 ns
+Reg-to-Reg Critical Path Delay: 1.195 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

@@ -1,0 +1,20 @@
+PPA Report for DualRedundancyBridge.v (Module: DualRedundancyBridge)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 11
+FF Count: 33
+IO Count: 98
+Cell Count: 279
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 362.04 MHz
+Reg-to-Reg Critical Path Delay: 3.118 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.462 W

@@ -1,0 +1,20 @@
+PPA Report for usb_bit_stuffer.v (Module: usb_bit_stuffer)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 7
+FF Count: 9
+IO Count: 7
+Cell Count: 36
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 304.86 MHz
+Reg-to-Reg Critical Path Delay: 3.052 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.918 W

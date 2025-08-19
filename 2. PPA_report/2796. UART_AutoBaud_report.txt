@@ -1,0 +1,22 @@
+PPA Report for 2796. UART_AutoBaud.sv (Module: UART_AutoBaud)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 942
+FF Count: 69
+IO Count: 21
+Cell Count: 1260
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 46.90 MHz
+End-to-End Path Delay: 5.560 ns
+Reg-to-Reg Critical Path Delay: 21.502 ns
+Detected Clock Signals: clk
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.481 W

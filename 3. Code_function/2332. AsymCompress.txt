@@ -1,0 +1,1 @@
+XOR compression of wide input

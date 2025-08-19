@@ -1,0 +1,20 @@
+PPA Report for Reduction_NAND.v (Module: Reduction_NAND)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 2
+FF Count: 0
+IO Count: 9
+Cell Count: 27
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+End-to-End Path Delay: 4.961 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.504 W

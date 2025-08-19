@@ -1,0 +1,1 @@
+Pipelined bidirectional counter with handshaking

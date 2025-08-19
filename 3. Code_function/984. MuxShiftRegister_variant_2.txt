@@ -1,0 +1,1 @@
+Pipelined MUX-based shift register

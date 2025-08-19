@@ -1,0 +1,21 @@
+PPA Report for async_arith_shift_right.v (Module: async_arith_shift_right)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 35
+FF Count: 77
+IO Count: 42
+Cell Count: 225
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 683.99 MHz
+End-to-End Path Delay: 5.333 ns
+Reg-to-Reg Critical Path Delay: 1.183 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.455 W

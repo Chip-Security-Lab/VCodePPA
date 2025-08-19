@@ -1,0 +1,1 @@
+Pipelined OR gate with reset

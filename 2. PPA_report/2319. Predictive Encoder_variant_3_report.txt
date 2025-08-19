@@ -1,0 +1,20 @@
+PPA Report for predictive_encoder.v (Module: predictive_encoder)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 52
+FF Count: 87
+IO Count: 28
+Cell Count: 219
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 287.44 MHz
+Reg-to-Reg Critical Path Delay: 3.276 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.462 W

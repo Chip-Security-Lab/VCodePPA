@@ -1,0 +1,1 @@
+Four-bit ring counter circulating pattern

@@ -1,0 +1,21 @@
+PPA Report for auto_snapshot_shadow_reg.v (Module: auto_snapshot_shadow_reg)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 8
+FF Count: 56
+IO Count: 40
+Cell Count: 149
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 954.20 MHz
+End-to-End Path Delay: 5.544 ns
+Reg-to-Reg Critical Path Delay: 0.861 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

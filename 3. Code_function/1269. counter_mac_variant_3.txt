@@ -1,0 +1,1 @@
+Multiply-accumulate circuit with registers

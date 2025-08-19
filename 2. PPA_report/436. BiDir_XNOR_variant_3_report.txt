@@ -1,0 +1,20 @@
+PPA Report for BiDir_XNOR.v (Module: BiDir_XNOR)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 11
+FF Count: 33
+IO Count: 27
+Cell Count: 128
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1070.66 MHz
+Reg-to-Reg Critical Path Delay: 0.804 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.455 W

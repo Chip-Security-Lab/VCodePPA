@@ -1,0 +1,1 @@
+CRC calculation state machine

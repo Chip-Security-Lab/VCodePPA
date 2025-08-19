@@ -1,0 +1,20 @@
+PPA Report for i2c_dma_controller.v (Module: i2c_dma_controller)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 26
+FF Count: 125
+IO Count: 47
+Cell Count: 239
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 297.38 MHz
+Reg-to-Reg Critical Path Delay: 6.539 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 19.174 W

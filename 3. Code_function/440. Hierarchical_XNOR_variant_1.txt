@@ -1,0 +1,1 @@
+Hierarchical bitwise XNOR with constants

@@ -1,0 +1,20 @@
+PPA Report for d_flip_flop.v (Module: d_flip_flop)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 0
+FF Count: 1
+IO Count: 3
+Cell Count: 12
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 282.68 MHz
+Reg-to-Reg Critical Path Delay: 1.626 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.451 W

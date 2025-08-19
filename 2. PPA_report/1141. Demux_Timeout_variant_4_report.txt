@@ -1,0 +1,20 @@
+PPA Report for Demux_Timeout.v (Module: Demux_Timeout)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 29
+FF Count: 138
+IO Count: 144
+Cell Count: 353
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 594.53 MHz
+Reg-to-Reg Critical Path Delay: 1.408 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.487 W

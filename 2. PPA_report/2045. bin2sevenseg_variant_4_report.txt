@@ -1,0 +1,20 @@
+PPA Report for bin2sevenseg_mult_wallace.v (Module: bin2sevenseg_mult_wallace)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 15
+FF Count: 0
+IO Count: 15
+Cell Count: 46
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+End-to-End Path Delay: 5.451 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 3.455 W

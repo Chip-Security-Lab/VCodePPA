@@ -1,0 +1,20 @@
+PPA Report for interpolating_recovery.v (Module: interpolating_recovery)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 13
+FF Count: 49
+IO Count: 41
+Cell Count: 164
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 808.41 MHz
+Reg-to-Reg Critical Path Delay: 1.039 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.458 W

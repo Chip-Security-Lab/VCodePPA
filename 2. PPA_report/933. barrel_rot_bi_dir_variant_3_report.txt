@@ -1,0 +1,20 @@
+PPA Report for barrel_rot_bi_dir.v (Module: barrel_rot_bi_dir)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 171
+FF Count: 216
+IO Count: 72
+Cell Count: 610
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 544.07 MHz
+Reg-to-Reg Critical Path Delay: 1.653 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.494 W

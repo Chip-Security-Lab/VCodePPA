@@ -1,0 +1,1 @@
+Reset history shift register tracker

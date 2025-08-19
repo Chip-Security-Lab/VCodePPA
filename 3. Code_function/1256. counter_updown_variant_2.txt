@@ -1,0 +1,1 @@
+Bidirectional counter with buffer registers

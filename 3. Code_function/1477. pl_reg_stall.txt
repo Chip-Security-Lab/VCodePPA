@@ -1,0 +1,1 @@
+Stallable register with load capability

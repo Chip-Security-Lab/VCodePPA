@@ -1,0 +1,1 @@
+Synchronous inverter with pipeline stages

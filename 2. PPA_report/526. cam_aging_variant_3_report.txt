@@ -1,0 +1,21 @@
+PPA Report for cam_aging.v (Module: cam_aging)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 81
+FF Count: 64
+IO Count: 26
+Cell Count: 226
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 609.01 MHz
+End-to-End Path Delay: 6.309 ns
+Reg-to-Reg Critical Path Delay: 1.440 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

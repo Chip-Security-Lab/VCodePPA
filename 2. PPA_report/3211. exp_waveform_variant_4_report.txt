@@ -1,0 +1,20 @@
+PPA Report for exp_waveform.v (Module: exp_waveform)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 7
+FF Count: 14
+IO Count: 13
+Cell Count: 49
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 881.83 MHz
+Reg-to-Reg Critical Path Delay: 0.934 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.456 W

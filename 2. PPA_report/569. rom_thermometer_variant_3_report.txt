@@ -1,0 +1,20 @@
+PPA Report for rom_thermometer.v (Module: rom_thermometer)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 11
+FF Count: 16
+IO Count: 13
+Cell Count: 60
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 740.19 MHz
+Reg-to-Reg Critical Path Delay: 1.156 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.454 W

@@ -1,0 +1,1 @@
+Parameterized pipelined multiplexer with registers

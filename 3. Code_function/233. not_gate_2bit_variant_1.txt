@@ -1,0 +1,1 @@
+Configurable 2-bit inverter with enable

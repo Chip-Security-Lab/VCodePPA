@@ -1,0 +1,1 @@
+Pipelined error code generator

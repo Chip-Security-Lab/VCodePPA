@@ -1,0 +1,20 @@
+PPA Report for fifo_bridge.v (Module: fifo_bridge)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 34
+FF Count: 144
+IO Count: 70
+Cell Count: 353
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 544.66 MHz
+Reg-to-Reg Critical Path Delay: 1.603 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.473 W

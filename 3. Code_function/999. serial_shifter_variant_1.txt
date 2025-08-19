@@ -1,0 +1,1 @@
+Configurable eight-bit multi-mode shifter.

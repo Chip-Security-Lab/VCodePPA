@@ -1,0 +1,1 @@
+Pipelined adaptive reset circuit controller

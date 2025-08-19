@@ -1,0 +1,1 @@
+Synchronous majority voting signal filter

@@ -1,0 +1,20 @@
+PPA Report for 3034. mipi_protocol_analyzer.sv (Module: mipi_protocol_analyzer)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 41
+FF Count: 69
+IO Count: 77
+Cell Count: 293
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 566.25 MHz
+Longest Path Delay: 1.636 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.462 W

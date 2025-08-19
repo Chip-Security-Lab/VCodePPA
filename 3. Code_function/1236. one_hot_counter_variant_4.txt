@@ -1,0 +1,1 @@
+Pipelined circular one-hot counter

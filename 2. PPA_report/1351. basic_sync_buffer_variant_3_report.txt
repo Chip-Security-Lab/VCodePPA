@@ -1,0 +1,20 @@
+PPA Report for basic_sync_buffer.v (Module: basic_sync_buffer)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 1
+FF Count: 10
+IO Count: 19
+Cell Count: 54
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 818.33 MHz
+Reg-to-Reg Critical Path Delay: 1.103 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

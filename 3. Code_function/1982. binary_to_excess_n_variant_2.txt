@@ -1,0 +1,1 @@
+Binary to excess-N code converter

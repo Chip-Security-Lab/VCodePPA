@@ -1,0 +1,20 @@
+PPA Report for SobelEdge.v (Module: SobelEdge)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 32
+FF Count: 74
+IO Count: 19
+Cell Count: 160
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 355.49 MHz
+Reg-to-Reg Critical Path Delay: 2.624 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.459 W

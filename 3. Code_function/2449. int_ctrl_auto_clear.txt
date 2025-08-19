@@ -1,0 +1,1 @@
+Interrupt-controlled register with auto-clearing

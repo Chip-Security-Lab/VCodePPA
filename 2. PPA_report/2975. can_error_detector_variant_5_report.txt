@@ -1,0 +1,20 @@
+PPA Report for can_error_detector.v (Module: can_error_detector)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 54
+FF Count: 93
+IO Count: 108
+Cell Count: 379
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 256.08 MHz
+Reg-to-Reg Critical Path Delay: 2.704 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 9.505 W

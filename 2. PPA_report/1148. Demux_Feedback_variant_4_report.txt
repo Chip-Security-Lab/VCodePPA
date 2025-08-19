@@ -1,0 +1,20 @@
+PPA Report for Demux_Feedback.v (Module: Demux_Feedback)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 5
+FF Count: 57
+IO Count: 47
+Cell Count: 143
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 718.91 MHz
+Reg-to-Reg Critical Path Delay: 1.080 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.455 W

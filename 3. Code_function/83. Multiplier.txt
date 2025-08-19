@@ -1,0 +1,1 @@
+Clocked 4-bit multiplier circuit

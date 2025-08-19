@@ -1,0 +1,1 @@
+Equality comparison outputs 1/0

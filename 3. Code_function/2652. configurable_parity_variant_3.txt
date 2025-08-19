@@ -1,0 +1,1 @@
+Configurable parity calculator using subtractors

@@ -1,0 +1,1 @@
+Authenticated encryption state machine controller

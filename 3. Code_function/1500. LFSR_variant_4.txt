@@ -1,0 +1,1 @@
+Pipelined LFSR with configurable polynomial

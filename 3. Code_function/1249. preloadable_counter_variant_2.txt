@@ -1,0 +1,1 @@
+Pipelined preloadable counter with handshaking

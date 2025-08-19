@@ -1,0 +1,1 @@
+Bidirectional parallel-in serial-out shifter

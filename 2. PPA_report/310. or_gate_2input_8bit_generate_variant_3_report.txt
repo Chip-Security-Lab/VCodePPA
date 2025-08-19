@@ -1,0 +1,20 @@
+PPA Report for or_gate_2input_8bit_generate.v (Module: or_gate_2input_8bit_generate)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 9
+FF Count: 24
+IO Count: 27
+Cell Count: 100
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1108.65 MHz
+Reg-to-Reg Critical Path Delay: 0.758 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

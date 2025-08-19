@@ -1,0 +1,20 @@
+PPA Report for sram_multi_bank
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 92
+FF Count: 0
+IO Count: 42
+Cell Count: 261
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 284.74 MHz
+Reg-to-Reg Critical Path Delay: 2.812 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.457 W

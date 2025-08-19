@@ -1,0 +1,20 @@
+PPA Report for usb_control_sequencer.v (Module: usb_control_sequencer)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 26
+FF Count: 12
+IO Count: 35
+Cell Count: 127
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 529.94 MHz
+Reg-to-Reg Critical Path Delay: 1.684 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

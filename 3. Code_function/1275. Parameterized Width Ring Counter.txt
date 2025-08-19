@@ -1,0 +1,1 @@
+Parameterized single-bit rotating counter

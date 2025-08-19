@@ -1,0 +1,1 @@
+Counts resets upon active signal

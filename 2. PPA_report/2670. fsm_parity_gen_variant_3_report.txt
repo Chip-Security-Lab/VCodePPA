@@ -1,0 +1,20 @@
+PPA Report for fsm_parity_gen.v (Module: fsm_parity_gen)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 14
+FF Count: 26
+IO Count: 21
+Cell Count: 106
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 544.66 MHz
+Reg-to-Reg Critical Path Delay: 1.583 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

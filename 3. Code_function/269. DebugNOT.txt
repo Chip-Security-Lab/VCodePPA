@@ -1,0 +1,1 @@
+Inverter with parity bit output

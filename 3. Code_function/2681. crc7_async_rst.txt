@@ -1,0 +1,1 @@
+CRC-7 calculator with asynchronous reset

@@ -1,0 +1,23 @@
+//SystemVerilog
+module cdc_parity_module(
+  input src_clk, dst_clk, src_rst_n,
+  input [7:0] src_data,
+  output reg dst_parity
+);
+  reg src_parity;
+  reg [2:0] sync_reg;
+  
+  always @(posedge src_clk or negedge src_rst_n) begin
+    if (!src_rst_n) begin
+      src_parity <= 1'b0;
+    end else begin
+      src_parity <= (src_data[0] ^ src_data[1] ^ src_data[2] ^ src_data[3] ^ 
+                    src_data[4] ^ src_data[5] ^ src_data[6] ^ src_data[7]);
+    end
+  end
+  
+  always @(posedge dst_clk) begin
+    sync_reg <= {sync_reg[1:0], src_parity};
+    dst_parity <= sync_reg[2];
+  end
+endmodule

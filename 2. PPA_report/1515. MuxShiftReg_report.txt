@@ -1,0 +1,22 @@
+PPA Report for 1515. MuxShiftReg.sv (Module: MuxShiftReg)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 17
+FF Count: 40
+IO Count: 19
+Cell Count: 118
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 862.07 MHz
+End-to-End Path Delay: N/A (No valid path found) ns
+Reg-to-Reg Critical Path Delay: 1.042 ns
+Detected Clock Signals: clk
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.455 W

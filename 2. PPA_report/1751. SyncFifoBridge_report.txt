@@ -1,0 +1,20 @@
+PPA Report for SyncFifoBridge
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 182
+FF Count: 530
+IO Count: 70
+Cell Count: 973
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 312.40 MHz
+Reg-to-Reg Critical Path Delay: 2.975 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.502 W

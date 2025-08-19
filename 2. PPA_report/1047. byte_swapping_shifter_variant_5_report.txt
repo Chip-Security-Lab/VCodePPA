@@ -1,0 +1,20 @@
+PPA Report for byte_swapping_shifter_valid_ready.v (Module: byte_swapping_shifter_valid_ready)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 71
+FF Count: 135
+IO Count: 72
+Cell Count: 359
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 563.06 MHz
+Reg-to-Reg Critical Path Delay: 1.500 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.472 W

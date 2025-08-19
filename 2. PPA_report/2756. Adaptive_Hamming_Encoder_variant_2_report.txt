@@ -1,0 +1,21 @@
+PPA Report for Adaptive_Hamming_Encoder.v (Module: Adaptive_Hamming_Encoder)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 21
+FF Count: 42
+IO Count: 29
+Cell Count: 124
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 651.04 MHz
+End-to-End Path Delay: 4.963 ns
+Reg-to-Reg Critical Path Delay: 1.308 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.455 W

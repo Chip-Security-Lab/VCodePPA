@@ -1,0 +1,19 @@
+PPA Report for thermal_noise_rng
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 105
+FF Count: 80
+IO Count: 18
+Cell Count: 291
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+
+POWER METRICS:
+-------------
+Total Power Consumption: 16.966 W

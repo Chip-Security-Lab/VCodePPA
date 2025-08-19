@@ -1,0 +1,20 @@
+PPA Report for cdc_buffer_top.v (Module: cdc_buffer_top)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 0
+FF Count: 24
+IO Count: 18
+Cell Count: 71
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 276.82 MHz
+Reg-to-Reg Critical Path Delay: 3.216 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 2.039 W

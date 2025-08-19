@@ -1,0 +1,1 @@
+I2C reset with clock synchronization

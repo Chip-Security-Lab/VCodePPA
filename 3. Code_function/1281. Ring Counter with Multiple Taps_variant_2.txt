@@ -1,0 +1,1 @@
+Rotary counter with tapped outputs

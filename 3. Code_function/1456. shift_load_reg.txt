@@ -1,0 +1,1 @@
+8-bit shift/load register with reset

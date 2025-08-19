@@ -1,0 +1,20 @@
+PPA Report for EdgeMatcher.v (Module: EdgeMatcher)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 4
+FF Count: 19
+IO Count: 18
+Cell Count: 79
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 860.59 MHz
+Reg-to-Reg Critical Path Delay: 1.025 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.451 W

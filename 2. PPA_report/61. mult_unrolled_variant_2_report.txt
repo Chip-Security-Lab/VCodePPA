@@ -1,0 +1,20 @@
+PPA Report for mult_unrolled.v (Module: mult_unrolled)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 28
+FF Count: 45
+IO Count: 21
+Cell Count: 129
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 677.51 MHz
+Reg-to-Reg Critical Path Delay: 1.212 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

@@ -1,0 +1,21 @@
+PPA Report for 12. Ripple Carry Adder.sv (Module: ripple_adder)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 4
+FF Count: 0
+IO Count: 14
+Cell Count: 38
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+End-to-End Path Delay: 5.367 ns
+Detected Clock Signals: None
+
+POWER METRICS:
+-------------
+Total Power Consumption: 2.694 W

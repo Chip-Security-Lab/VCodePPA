@@ -1,0 +1,1 @@
+Pipelined timer with max count

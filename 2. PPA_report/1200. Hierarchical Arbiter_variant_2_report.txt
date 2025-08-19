@@ -1,0 +1,19 @@
+PPA Report for hierarchical_arbiter_axi4lite.v (Module: hierarchical_arbiter_axi4lite)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 35
+FF Count: 44
+IO Count: 65
+Cell Count: 200
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+
+POWER METRICS:
+-------------
+Total Power Consumption: 3.787 W

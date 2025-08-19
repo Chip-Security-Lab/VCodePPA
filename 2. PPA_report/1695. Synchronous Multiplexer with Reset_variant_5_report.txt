@@ -1,0 +1,20 @@
+PPA Report for sync_mux_with_reset.v (Module: sync_mux_with_reset)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 3
+FF Count: 34
+IO Count: 68
+Cell Count: 178
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 907.44 MHz
+Reg-to-Reg Critical Path Delay: 0.887 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.465 W

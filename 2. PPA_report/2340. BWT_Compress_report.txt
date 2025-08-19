@@ -1,0 +1,22 @@
+PPA Report for 2340. BWT_Compress.sv (Module: BWT_Compress)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 394
+FF Count: 64
+IO Count: 130
+Cell Count: 994
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 54.79 MHz
+End-to-End Path Delay: N/A (No valid path found) ns
+Reg-to-Reg Critical Path Delay: 17.551 ns
+Detected Clock Signals: clk
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.581 W

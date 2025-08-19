@@ -1,0 +1,22 @@
+PPA Report for 2705. crc32_ethernet.sv (Module: crc32_ethernet)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 2
+FF Count: 4
+IO Count: 38
+Cell Count: 61
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 930.23 MHz
+End-to-End Path Delay: N/A (No valid path found) ns
+Reg-to-Reg Critical Path Delay: 0.939 ns
+Detected Clock Signals: clk
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.464 W

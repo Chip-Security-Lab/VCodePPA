@@ -1,0 +1,1 @@
+Fixed-point truncator with overflow detection

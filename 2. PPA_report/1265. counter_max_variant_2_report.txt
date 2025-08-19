@@ -1,0 +1,20 @@
+PPA Report for counter_max.v (Module: counter_max)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 6
+FF Count: 25
+IO Count: 9
+Cell Count: 55
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 966.18 MHz
+Reg-to-Reg Critical Path Delay: 0.892 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.454 W

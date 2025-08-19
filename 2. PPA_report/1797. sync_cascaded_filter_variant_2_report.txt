@@ -1,0 +1,20 @@
+PPA Report for sync_cascaded_filter.v (Module: sync_cascaded_filter)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 9
+FF Count: 23
+IO Count: 18
+Cell Count: 76
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 566.57 MHz
+Reg-to-Reg Critical Path Delay: 1.616 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.455 W

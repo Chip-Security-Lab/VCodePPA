@@ -1,0 +1,21 @@
+PPA Report for bidir_demux_axi4lite.v (Module: bidir_demux_axi4lite)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 28
+FF Count: 40
+IO Count: 72
+Cell Count: 217
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 646.83 MHz
+End-to-End Path Delay: 4.919 ns
+Reg-to-Reg Critical Path Delay: 1.413 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.463 W

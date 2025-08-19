@@ -1,0 +1,20 @@
+PPA Report for present_light_top.v (Module: present_light_top)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 0
+FF Count: 128
+IO Count: 129
+Cell Count: 395
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1295.34 MHz
+Reg-to-Reg Critical Path Delay: 0.631 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.492 W

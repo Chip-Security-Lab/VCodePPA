@@ -1,0 +1,20 @@
+PPA Report for pipelined_mux.v (Module: pipelined_mux)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 285
+FF Count: 176
+IO Count: 147
+Cell Count: 896
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 554.02 MHz
+Reg-to-Reg Critical Path Delay: 1.592 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.531 W

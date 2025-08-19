@@ -1,0 +1,1 @@
+Programmable timeout with reset generator

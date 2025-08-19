@@ -1,0 +1,20 @@
+PPA Report for async_interp_filter.v (Module: async_interp_filter)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 57
+FF Count: 48
+IO Count: 36
+Cell Count: 206
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 398.57 MHz
+Reg-to-Reg Critical Path Delay: 2.319 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.458 W

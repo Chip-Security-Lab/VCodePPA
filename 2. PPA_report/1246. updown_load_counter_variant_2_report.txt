@@ -1,0 +1,20 @@
+PPA Report for updown_load_counter.v (Module: updown_load_counter)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 11
+FF Count: 26
+IO Count: 20
+Cell Count: 86
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 624.61 MHz
+Reg-to-Reg Critical Path Delay: 1.459 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.455 W

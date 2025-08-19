@@ -1,0 +1,1 @@
+Left-shifting serial-to-parallel register

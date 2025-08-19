@@ -1,0 +1,1 @@
+Hysteresis-based signal range detector

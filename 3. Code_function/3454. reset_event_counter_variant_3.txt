@@ -1,0 +1,1 @@
+Counts active-low reset events

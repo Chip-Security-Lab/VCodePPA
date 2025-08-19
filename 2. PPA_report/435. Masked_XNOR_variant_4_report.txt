@@ -1,0 +1,20 @@
+PPA Report for Masked_XNOR.v (Module: Masked_XNOR)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 9
+FF Count: 17
+IO Count: 15
+Cell Count: 70
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 966.18 MHz
+Reg-to-Reg Critical Path Delay: 0.903 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

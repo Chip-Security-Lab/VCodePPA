@@ -1,0 +1,20 @@
+PPA Report for Pipeline_AND.v (Module: Pipeline_AND)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 17
+FF Count: 84
+IO Count: 52
+Cell Count: 226
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 884.96 MHz
+Reg-to-Reg Critical Path Delay: 0.990 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.463 W

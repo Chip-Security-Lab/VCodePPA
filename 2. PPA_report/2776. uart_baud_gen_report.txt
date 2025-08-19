@@ -1,0 +1,19 @@
+PPA Report for uart_baud_gen
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 539
+FF Count: 79
+IO Count: 29
+Cell Count: 854
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+
+POWER METRICS:
+-------------
+Total Power Consumption: 8.574 W

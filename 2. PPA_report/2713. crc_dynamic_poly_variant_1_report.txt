@@ -1,0 +1,20 @@
+PPA Report for crc_dynamic_poly.v (Module: crc_dynamic_poly)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 38
+FF Count: 66
+IO Count: 52
+Cell Count: 248
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 484.50 MHz
+Reg-to-Reg Critical Path Delay: 1.881 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.471 W

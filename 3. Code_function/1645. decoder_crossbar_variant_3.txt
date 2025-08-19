@@ -1,0 +1,1 @@
+Address-based master-slave connection decoder

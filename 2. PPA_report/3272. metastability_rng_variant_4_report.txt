@@ -1,0 +1,20 @@
+PPA Report for metastability_rng_valid_ready.v (Module: metastability_rng_valid_ready)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 4
+FF Count: 11
+IO Count: 13
+Cell Count: 40
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 258.63 MHz
+Reg-to-Reg Critical Path Delay: 3.166 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 1.269 W

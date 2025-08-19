@@ -1,0 +1,20 @@
+PPA Report for mipi_phy_power_state_manager.v (Module: mipi_phy_power_state_manager)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 24
+FF Count: 63
+IO Count: 18
+Cell Count: 141
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 613.12 MHz
+Reg-to-Reg Critical Path Delay: 1.486 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

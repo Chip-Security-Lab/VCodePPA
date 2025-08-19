@@ -1,0 +1,1 @@
+Decreasing counter with configurable step

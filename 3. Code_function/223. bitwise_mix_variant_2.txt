@@ -1,0 +1,1 @@
+Pipelined XOR and NAND operations

@@ -1,0 +1,20 @@
+PPA Report for one_hot_range_detector
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 27
+FF Count: 3
+IO Count: 60
+Cell Count: 239
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 296.74 MHz
+Reg-to-Reg Critical Path Delay: 2.670 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.454 W

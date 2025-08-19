@@ -1,0 +1,20 @@
+PPA Report for weighted_random_gen.v (Module: weighted_random_gen)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 3
+FF Count: 12
+IO Count: 4
+Cell Count: 27
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 745.71 MHz
+Reg-to-Reg Critical Path Delay: 1.222 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

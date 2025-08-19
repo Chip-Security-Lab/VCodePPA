@@ -1,0 +1,1 @@
+Valid-ready partial byte inverter

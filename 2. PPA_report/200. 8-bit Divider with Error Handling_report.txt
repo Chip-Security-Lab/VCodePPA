@@ -1,0 +1,20 @@
+PPA Report for 8-bit Divider with Error Handling
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 154
+FF Count: 0
+IO Count: 33
+Cell Count: 271
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+End-to-End Path Delay: 11.953 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 13.397 W

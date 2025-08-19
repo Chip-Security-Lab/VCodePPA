@@ -1,0 +1,20 @@
+PPA Report for var_width_shifter.v (Module: var_width_shifter)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 68
+FF Count: 173
+IO Count: 74
+Cell Count: 434
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 520.02 MHz
+Reg-to-Reg Critical Path Delay: 1.616 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.469 W

@@ -1,0 +1,1 @@
+Resettable inverted signal with register

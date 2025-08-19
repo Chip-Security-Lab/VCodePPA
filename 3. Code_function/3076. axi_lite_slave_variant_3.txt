@@ -1,0 +1,1 @@
+AXI-Lite slave with Dadda multiplier

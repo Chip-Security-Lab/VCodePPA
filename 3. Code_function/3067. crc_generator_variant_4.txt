@@ -1,0 +1,1 @@
+CRC4 computation with byte inputs

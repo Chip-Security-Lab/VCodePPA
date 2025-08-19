@@ -1,0 +1,20 @@
+PPA Report for crc_auto_reset.v (Module: crc_auto_reset)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 24
+FF Count: 27
+IO Count: 27
+Cell Count: 107
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 488.52 MHz
+Reg-to-Reg Critical Path Delay: 1.845 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.455 W

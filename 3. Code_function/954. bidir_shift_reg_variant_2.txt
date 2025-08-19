@@ -1,0 +1,1 @@
+Bidirectional parameterized shift register

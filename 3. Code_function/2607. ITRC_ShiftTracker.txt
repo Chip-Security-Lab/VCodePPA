@@ -1,0 +1,1 @@
+Shift register stores input history

@@ -1,0 +1,20 @@
+PPA Report for rng_galois_lfsr_2_pipeline_axi4lite.v (Module: rng_galois_lfsr_2_pipeline_axi4lite)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 16
+FF Count: 25
+IO Count: 58
+Cell Count: 138
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 696.86 MHz
+Reg-to-Reg Critical Path Delay: 1.211 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.462 W

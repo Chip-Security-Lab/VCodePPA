@@ -1,0 +1,20 @@
+PPA Report for kogge_stone_adder.v (Module: kogge_stone_adder)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 13
+FF Count: 9
+IO Count: 26
+Cell Count: 88
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 107.92 MHz
+Reg-to-Reg Critical Path Delay: 3.171 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.455 W

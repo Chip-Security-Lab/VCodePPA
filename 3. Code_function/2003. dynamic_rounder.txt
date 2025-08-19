@@ -1,0 +1,1 @@
+Configurable rounding with truncation option

@@ -1,0 +1,20 @@
+PPA Report for reset_done_generator.v (Module: reset_done_generator)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 0
+FF Count: 1
+IO Count: 3
+Cell Count: 12
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 319.65 MHz
+Reg-to-Reg Critical Path Delay: 1.639 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.451 W

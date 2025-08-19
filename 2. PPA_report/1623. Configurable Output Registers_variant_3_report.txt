@@ -1,0 +1,20 @@
+PPA Report for decoder_core.v (Module: decoder_core)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 4
+FF Count: 14
+IO Count: 10
+Cell Count: 43
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1046.03 MHz
+Reg-to-Reg Critical Path Delay: 0.808 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

@@ -1,0 +1,1 @@
+Bidirectional pipelined rotation with carry

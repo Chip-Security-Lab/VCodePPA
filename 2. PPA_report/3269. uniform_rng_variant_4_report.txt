@@ -1,0 +1,20 @@
+PPA Report for uniform_rng_valid_ready.v (Module: uniform_rng_valid_ready)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 39
+FF Count: 173
+IO Count: 22
+Cell Count: 248
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A
+End-to-End Path Delay: 4.674 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 5.426 W

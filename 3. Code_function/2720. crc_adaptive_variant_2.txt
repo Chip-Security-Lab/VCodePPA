@@ -1,0 +1,1 @@
+Parameterized variable-width CRC calculator

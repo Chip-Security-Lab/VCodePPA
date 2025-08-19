@@ -1,0 +1,20 @@
+PPA Report for var_dir_shifter_axis.v (Module: var_dir_shifter_axis)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 27
+FF Count: 44
+IO Count: 45
+Cell Count: 174
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 494.56 MHz
+Reg-to-Reg Critical Path Delay: 1.750 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.454 W

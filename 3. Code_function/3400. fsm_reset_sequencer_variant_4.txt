@@ -1,0 +1,1 @@
+Sequential boot reset controller

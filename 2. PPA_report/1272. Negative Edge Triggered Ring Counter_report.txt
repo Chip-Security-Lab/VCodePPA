@@ -1,0 +1,22 @@
+PPA Report for 1272. Negative Edge Triggered Ring Counter.sv (Module: neg_edge_ring_counter)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 0
+FF Count: 4
+IO Count: 5
+Cell Count: 15
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1158.75 MHz
+End-to-End Path Delay: N/A (No valid path found) ns
+Reg-to-Reg Critical Path Delay: 0.744 ns
+Detected Clock Signals: clock
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

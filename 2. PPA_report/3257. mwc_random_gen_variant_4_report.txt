@@ -1,0 +1,20 @@
+PPA Report for mwc_random_gen.v (Module: mwc_random_gen)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 16
+FF Count: 196
+IO Count: 36
+Cell Count: 280
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 631.31 MHz
+Reg-to-Reg Critical Path Delay: 1.447 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.518 W

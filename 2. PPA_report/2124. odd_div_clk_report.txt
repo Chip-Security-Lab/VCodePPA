@@ -1,0 +1,22 @@
+PPA Report for 2124. odd_div_clk.sv (Module: odd_div_clk)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 6
+FF Count: 6
+IO Count: 3
+Cell Count: 24
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 259.13 MHz
+End-to-End Path Delay: N/A (No valid path found) ns
+Reg-to-Reg Critical Path Delay: 3.159 ns
+Detected Clock Signals: clk clk_
+
+POWER METRICS:
+-------------
+Total Power Consumption: 1.077 W

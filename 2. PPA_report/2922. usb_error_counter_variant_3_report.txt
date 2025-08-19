@@ -1,0 +1,20 @@
+PPA Report for usb_error_counter.v (Module: usb_error_counter)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 66
+FF Count: 45
+IO Count: 55
+Cell Count: 213
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 486.85 MHz
+Reg-to-Reg Critical Path Delay: 1.784 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.469 W

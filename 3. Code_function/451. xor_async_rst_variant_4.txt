@@ -1,0 +1,1 @@
+Registered XOR with asynchronous reset

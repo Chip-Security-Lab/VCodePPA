@@ -1,0 +1,20 @@
+PPA Report for selective_bit_reset.v (Module: selective_bit_reset)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 6
+FF Count: 15
+IO Count: 11
+Cell Count: 51
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 712.76 MHz
+Reg-to-Reg Critical Path Delay: 1.134 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

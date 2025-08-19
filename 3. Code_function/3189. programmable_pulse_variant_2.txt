@@ -1,0 +1,1 @@
+Configurable pulse generator with counter

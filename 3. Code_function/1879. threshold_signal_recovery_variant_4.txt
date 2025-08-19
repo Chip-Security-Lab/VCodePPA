@@ -1,0 +1,1 @@
+Threshold-based signal detection converter

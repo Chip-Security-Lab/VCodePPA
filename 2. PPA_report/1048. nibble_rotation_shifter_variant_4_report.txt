@@ -1,0 +1,19 @@
+PPA Report for axi4lite_nibble_rotation_shifter.v (Module: axi4lite_nibble_rotation_shifter)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 63
+FF Count: 108
+IO Count: 56
+Cell Count: 295
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+
+POWER METRICS:
+-------------
+Total Power Consumption: 3.617 W

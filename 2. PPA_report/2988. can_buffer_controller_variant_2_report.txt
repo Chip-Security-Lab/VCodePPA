@@ -1,0 +1,20 @@
+PPA Report for can_buffer_controller.v (Module: can_buffer_controller)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 178
+FF Count: 923
+IO Count: 169
+Cell Count: 1532
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 414.59 MHz
+Reg-to-Reg Critical Path Delay: 2.105 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.507 W

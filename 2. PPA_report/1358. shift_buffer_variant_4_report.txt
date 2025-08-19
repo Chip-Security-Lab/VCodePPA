@@ -1,0 +1,20 @@
+PPA Report for shift_buffer.v (Module: shift_buffer)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 8
+FF Count: 16
+IO Count: 18
+Cell Count: 69
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1107.42 MHz
+Reg-to-Reg Critical Path Delay: 0.661 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

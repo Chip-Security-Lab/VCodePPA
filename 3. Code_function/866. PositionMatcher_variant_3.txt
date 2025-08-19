@@ -1,0 +1,1 @@
+Bit-by-bit pattern matching detector

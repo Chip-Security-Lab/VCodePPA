@@ -1,0 +1,20 @@
+PPA Report for multi_cycle_divider.v (Module: multi_cycle_divider)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 153
+FF Count: 86
+IO Count: 38
+Cell Count: 365
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 160.41 MHz
+Reg-to-Reg Critical Path Delay: 6.055 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.457 W

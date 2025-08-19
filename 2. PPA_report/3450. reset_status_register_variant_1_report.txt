@@ -1,0 +1,20 @@
+PPA Report for reset_status_register.v (Module: reset_status_register)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 6
+FF Count: 16
+IO Count: 16
+Cell Count: 58
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 818.33 MHz
+Reg-to-Reg Critical Path Delay: 0.926 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

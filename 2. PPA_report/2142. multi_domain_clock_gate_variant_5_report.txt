@@ -1,0 +1,21 @@
+PPA Report for multi_domain_clock_gate.v (Module: multi_domain_clock_gate)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 3
+FF Count: 2
+IO Count: 6
+Cell Count: 23
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 513.90 MHz
+End-to-End Path Delay: 4.671 ns
+Reg-to-Reg Critical Path Delay: 1.871 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.458 W

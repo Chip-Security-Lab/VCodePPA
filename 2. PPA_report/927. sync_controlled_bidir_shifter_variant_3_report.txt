@@ -1,0 +1,20 @@
+PPA Report for sync_controlled_bidir_shifter.v (Module: sync_controlled_bidir_shifter)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 259
+FF Count: 33
+IO Count: 76
+Cell Count: 512
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 692.04 MHz
+Reg-to-Reg Critical Path Delay: 1.169 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.476 W

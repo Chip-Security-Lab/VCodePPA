@@ -1,0 +1,20 @@
+PPA Report for two_flop_sync.v (Module: two_flop_sync)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 1
+FF Count: 16
+IO Count: 18
+Cell Count: 61
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 368.65 MHz
+Reg-to-Reg Critical Path Delay: 3.247 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 2.021 W

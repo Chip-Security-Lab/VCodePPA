@@ -1,0 +1,20 @@
+PPA Report for cascaded_reset_detector_axi_stream.v (Module: cascaded_reset_detector_axi_stream)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 7
+FF Count: 6
+IO Count: 20
+Cell Count: 62
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 888.89 MHz
+Reg-to-Reg Critical Path Delay: 1.006 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

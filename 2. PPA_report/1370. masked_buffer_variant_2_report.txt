@@ -1,0 +1,20 @@
+PPA Report for masked_buffer.v (Module: masked_buffer)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 37
+FF Count: 51
+IO Count: 54
+Cell Count: 235
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 701.75 MHz
+Reg-to-Reg Critical Path Delay: 1.123 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.461 W

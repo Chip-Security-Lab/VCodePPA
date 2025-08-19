@@ -1,0 +1,22 @@
+PPA Report for 1279. Ring Counter with Parallel Load.sv (Module: loadable_ring_counter)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 3
+FF Count: 4
+IO Count: 11
+Cell Count: 36
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 879.51 MHz
+End-to-End Path Delay: N/A (No valid path found) ns
+Reg-to-Reg Critical Path Delay: 1.018 ns
+Detected Clock Signals: clock
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

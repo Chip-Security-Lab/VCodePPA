@@ -1,0 +1,1 @@
+Automatic gain control pipeline circuit

@@ -1,0 +1,20 @@
+PPA Report for active_buffer.v (Module: active_buffer)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 0
+FF Count: 8
+IO Count: 18
+Cell Count: 49
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 463.35 MHz
+Reg-to-Reg Critical Path Delay: 1.819 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

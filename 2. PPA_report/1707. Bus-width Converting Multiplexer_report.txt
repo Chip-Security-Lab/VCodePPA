@@ -1,0 +1,20 @@
+PPA Report for Bus-width Converting Multiplexer
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 16
+FF Count: 0
+IO Count: 74
+Cell Count: 190
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+End-to-End Path Delay: 4.672 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 16.191 W

@@ -1,0 +1,20 @@
+PPA Report for CAN_PHY_Interface.v (Module: CAN_PHY_Interface)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 2
+FF Count: 4
+IO Count: 7
+Cell Count: 27
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1035.20 MHz
+Reg-to-Reg Critical Path Delay: 0.833 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

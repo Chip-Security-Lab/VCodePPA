@@ -1,0 +1,20 @@
+PPA Report for sync_buffer_async_rst.v (Module: sync_buffer_async_rst)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 4
+FF Count: 11
+IO Count: 20
+Cell Count: 61
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 561.48 MHz
+Reg-to-Reg Critical Path Delay: 1.484 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

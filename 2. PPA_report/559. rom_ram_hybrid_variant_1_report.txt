@@ -1,0 +1,20 @@
+PPA Report for rom_ram_hybrid.v (Module: rom_ram_hybrid)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 1
+FF Count: 6
+IO Count: 22
+Cell Count: 46
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 460.62 MHz
+Reg-to-Reg Critical Path Delay: 1.985 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

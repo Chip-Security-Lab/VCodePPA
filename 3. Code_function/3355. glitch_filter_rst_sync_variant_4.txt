@@ -1,0 +1,1 @@
+Reset synchronizer with glitch filtering

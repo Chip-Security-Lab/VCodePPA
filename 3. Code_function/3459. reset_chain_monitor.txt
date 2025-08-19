@@ -1,0 +1,1 @@
+Detects invalid reset chain state

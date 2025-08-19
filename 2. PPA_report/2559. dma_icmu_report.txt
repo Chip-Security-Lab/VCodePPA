@@ -1,0 +1,22 @@
+PPA Report for 2559. dma_icmu.sv (Module: dma_icmu)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 28
+FF Count: 17
+IO Count: 20
+Cell Count: 100
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 423.73 MHz
+End-to-End Path Delay: N/A (No valid path found) ns
+Reg-to-Reg Critical Path Delay: 2.090 ns
+Detected Clock Signals: clk
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.454 W

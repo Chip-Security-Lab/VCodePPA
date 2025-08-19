@@ -1,0 +1,22 @@
+PPA Report for 243. not_gate_async_reset.sv (Module: not_gate_async_reset)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 1
+FF Count: 1
+IO Count: 4
+Cell Count: 15
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 412.88 MHz
+End-to-End Path Delay: N/A (No valid path found) ns
+Reg-to-Reg Critical Path Delay: 1.722 ns
+Detected Clock Signals: clk
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.451 W

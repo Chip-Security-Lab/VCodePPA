@@ -1,0 +1,1 @@
+Resettable data buffer with width

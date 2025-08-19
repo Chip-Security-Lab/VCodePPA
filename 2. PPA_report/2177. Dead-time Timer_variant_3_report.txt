@@ -1,0 +1,21 @@
+PPA Report for deadtime_timer.v (Module: deadtime_timer)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 124
+FF Count: 20
+IO Count: 41
+Cell Count: 321
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 546.15 MHz
+End-to-End Path Delay: 6.912 ns
+Reg-to-Reg Critical Path Delay: 1.688 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.454 W

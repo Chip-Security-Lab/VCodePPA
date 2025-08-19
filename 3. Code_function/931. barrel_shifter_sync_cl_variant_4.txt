@@ -1,0 +1,1 @@
+Synchronous circular left barrel shifter

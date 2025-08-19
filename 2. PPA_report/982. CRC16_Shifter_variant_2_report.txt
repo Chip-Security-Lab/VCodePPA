@@ -1,0 +1,20 @@
+PPA Report for CRC16_Shifter.v (Module: CRC16_Shifter)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 2
+FF Count: 17
+IO Count: 19
+Cell Count: 48
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 709.22 MHz
+Reg-to-Reg Critical Path Delay: 1.272 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.464 W

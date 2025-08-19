@@ -1,0 +1,1 @@
+Left-shift-based data masking operation

@@ -1,0 +1,1 @@
+Bitplane extraction for data compression

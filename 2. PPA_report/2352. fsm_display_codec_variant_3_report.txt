@@ -1,0 +1,20 @@
+PPA Report for fsm_display_codec.v (Module: fsm_display_codec)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 202
+FF Count: 40
+IO Count: 46
+Cell Count: 414
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 237.02 MHz
+Reg-to-Reg Critical Path Delay: 4.040 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

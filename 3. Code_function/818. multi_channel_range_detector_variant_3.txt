@@ -1,0 +1,1 @@
+Two-channel range detector pipeline

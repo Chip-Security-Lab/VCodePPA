@@ -1,0 +1,20 @@
+PPA Report for apb2wb_bridge.v (Module: apb2wb_bridge)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 11
+FF Count: 200
+IO Count: 202
+Cell Count: 623
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 477.33 MHz
+Reg-to-Reg Critical Path Delay: 1.863 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.476 W

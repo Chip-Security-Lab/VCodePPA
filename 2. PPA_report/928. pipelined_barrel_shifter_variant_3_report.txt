@@ -1,0 +1,20 @@
+PPA Report for pipelined_barrel_shifter.v (Module: pipelined_barrel_shifter)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 25
+FF Count: 34
+IO Count: 38
+Cell Count: 151
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 289.89 MHz
+Reg-to-Reg Critical Path Delay: 3.466 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 5.045 W

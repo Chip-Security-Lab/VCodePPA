@@ -1,0 +1,20 @@
+PPA Report for addr_validator.v (Module: addr_validator)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 3
+FF Count: 0
+IO Count: 17
+Cell Count: 52
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+End-to-End Path Delay: 5.589 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.544 W

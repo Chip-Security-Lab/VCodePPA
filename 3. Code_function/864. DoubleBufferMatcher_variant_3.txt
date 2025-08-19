@@ -1,0 +1,1 @@
+Pattern matcher with selectable buffer

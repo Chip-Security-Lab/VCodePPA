@@ -1,0 +1,20 @@
+PPA Report for auto_poly_crc.v (Module: auto_poly_crc)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 9
+FF Count: 56
+IO Count: 30
+Cell Count: 124
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 813.01 MHz
+Reg-to-Reg Critical Path Delay: 0.945 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.464 W

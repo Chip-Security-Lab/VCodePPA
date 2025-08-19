@@ -1,0 +1,20 @@
+PPA Report for base64_encoder.v (Module: base64_encoder)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 7
+FF Count: 43
+IO Count: 18
+Cell Count: 105
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 719.42 MHz
+Reg-to-Reg Critical Path Delay: 1.107 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

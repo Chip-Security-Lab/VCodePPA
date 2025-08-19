@@ -1,0 +1,1 @@
+Hamming-parity hybrid error encoding

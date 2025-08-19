@@ -1,0 +1,1 @@
+Synchronized two-stage data buffer register

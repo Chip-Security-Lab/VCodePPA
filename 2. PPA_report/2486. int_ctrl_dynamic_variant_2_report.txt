@@ -1,0 +1,20 @@
+PPA Report for int_ctrl_dynamic.v (Module: int_ctrl_dynamic)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 43
+FF Count: 75
+IO Count: 77
+Cell Count: 347
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 459.14 MHz
+Reg-to-Reg Critical Path Delay: 1.899 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

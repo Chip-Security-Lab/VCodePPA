@@ -1,0 +1,1 @@
+Burst address generator for transactions

@@ -1,0 +1,20 @@
+PPA Report for CANFD_ExtFrame.v (Module: CANFD_ExtFrame)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 115
+FF Count: 292
+IO Count: 195
+Cell Count: 870
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 402.09 MHz
+Reg-to-Reg Critical Path Delay: 2.214 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.486 W

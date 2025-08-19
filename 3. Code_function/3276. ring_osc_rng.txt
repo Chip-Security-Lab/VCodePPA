@@ -1,0 +1,1 @@
+Simple counter-based random number generator

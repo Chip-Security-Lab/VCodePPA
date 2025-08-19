@@ -1,0 +1,1 @@
+Multi-bit glitch-free clock gating

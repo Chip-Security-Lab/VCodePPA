@@ -1,0 +1,20 @@
+PPA Report for DynamicOR.v (Module: DynamicOR)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 80
+FF Count: 198
+IO Count: 101
+Cell Count: 535
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 553.71 MHz
+Reg-to-Reg Critical Path Delay: 1.620 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.481 W

@@ -1,0 +1,1 @@
+AXI-lite adder with registers

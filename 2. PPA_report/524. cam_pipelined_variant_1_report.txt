@@ -1,0 +1,20 @@
+PPA Report for cam_pipelined.v (Module: cam_pipelined)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 2
+FF Count: 2
+IO Count: 18
+Cell Count: 47
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1077.59 MHz
+Reg-to-Reg Critical Path Delay: 0.792 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.451 W

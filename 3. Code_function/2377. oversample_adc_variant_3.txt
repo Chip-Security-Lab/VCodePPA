@@ -1,0 +1,1 @@
+Oversampled ADC with handshaking interface

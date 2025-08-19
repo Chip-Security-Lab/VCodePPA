@@ -1,0 +1,20 @@
+PPA Report for axi_parity_checker.v (Module: axi_parity_checker)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 10
+FF Count: 25
+IO Count: 36
+Cell Count: 144
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 864.30 MHz
+Reg-to-Reg Critical Path Delay: 1.013 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

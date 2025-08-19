@@ -1,0 +1,20 @@
+PPA Report for parity_with_error_latch.v (Module: parity_with_error_latch)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 3
+FF Count: 1
+IO Count: 13
+Cell Count: 45
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 319.54 MHz
+Reg-to-Reg Critical Path Delay: 3.053 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.603 W

@@ -1,0 +1,20 @@
+PPA Report for regfile_2r1w_sync.v (Module: regfile_2r1w_sync)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 623
+FF Count: 1104
+IO Count: 114
+Cell Count: 2328
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 378.79 MHz
+Reg-to-Reg Critical Path Delay: 2.461 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.529 W

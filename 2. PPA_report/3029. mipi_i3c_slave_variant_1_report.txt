@@ -1,0 +1,19 @@
+PPA Report for mipi_i3c_slave.v (Module: mipi_i3c_slave)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 6
+FF Count: 6
+IO Count: 13
+Cell Count: 37
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.524 W

@@ -1,0 +1,1 @@
+DCT coefficient scaling and processing

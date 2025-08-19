@@ -1,0 +1,22 @@
+PPA Report for 2845. SPI_PHY_DDR.sv (Module: SPI_PHY_DDR)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 0
+FF Count: 8
+IO Count: 38
+Cell Count: 60
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 308.93 MHz
+End-to-End Path Delay: N/A (No valid path found) ns
+Reg-to-Reg Critical Path Delay: 2.537 ns
+Detected Clock Signals: clk
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.463 W

@@ -1,0 +1,1 @@
+Configurable SPI/dual/quad IO controller

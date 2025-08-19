@@ -1,0 +1,1 @@
+Normalization with leading one detection

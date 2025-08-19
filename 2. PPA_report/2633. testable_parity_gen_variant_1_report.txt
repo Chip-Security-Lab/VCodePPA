@@ -1,0 +1,20 @@
+PPA Report for testable_parity_gen.v (Module: testable_parity_gen)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 9
+FF Count: 18
+IO Count: 15
+Cell Count: 72
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 699.79 MHz
+Reg-to-Reg Critical Path Delay: 1.299 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

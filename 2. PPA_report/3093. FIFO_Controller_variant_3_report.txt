@@ -1,0 +1,20 @@
+PPA Report for FIFO_Controller.v (Module: FIFO_Controller)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 25
+FF Count: 21
+IO Count: 24
+Cell Count: 112
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 724.11 MHz
+Reg-to-Reg Critical Path Delay: 1.009 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

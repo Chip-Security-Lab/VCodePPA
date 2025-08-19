@@ -1,0 +1,1 @@
+Pipelined pausable rotating bit counter

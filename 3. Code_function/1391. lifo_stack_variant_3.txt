@@ -1,0 +1,1 @@
+Last-in first-out stack implementation

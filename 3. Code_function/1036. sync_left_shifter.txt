@@ -1,0 +1,1 @@
+Synchronous left shifter with enable

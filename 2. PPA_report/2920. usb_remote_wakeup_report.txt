@@ -1,0 +1,20 @@
+PPA Report for usb_remote_wakeup
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 26
+FF Count: 20
+IO Count: 11
+Cell Count: 79
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 445.24 MHz
+Reg-to-Reg Critical Path Delay: 2.075 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

@@ -1,0 +1,20 @@
+PPA Report for ProgDelayLatch.v (Module: ProgDelayLatch)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 37
+FF Count: 165
+IO Count: 24
+Cell Count: 284
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 650.20 MHz
+Reg-to-Reg Critical Path Delay: 1.354 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.456 W

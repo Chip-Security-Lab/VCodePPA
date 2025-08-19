@@ -1,0 +1,20 @@
+PPA Report for multi_level_intr_ctrl.v (Module: multi_level_intr_ctrl)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 23
+FF Count: 41
+IO Count: 26
+Cell Count: 142
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 573.72 MHz
+Reg-to-Reg Critical Path Delay: 1.599 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

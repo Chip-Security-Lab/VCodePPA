@@ -1,0 +1,20 @@
+PPA Report for range_detector_async.v (Module: range_detector_async)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 38
+FF Count: 0
+IO Count: 49
+Cell Count: 213
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+End-to-End Path Delay: 8.350 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 1.439 W

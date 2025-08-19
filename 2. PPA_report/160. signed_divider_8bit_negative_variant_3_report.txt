@@ -1,0 +1,20 @@
+PPA Report for signed_divider_8bit_negative.v (Module: signed_divider_8bit_negative)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 150
+FF Count: 0
+IO Count: 32
+Cell Count: 267
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+End-to-End Path Delay: 17.994 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 12.883 W

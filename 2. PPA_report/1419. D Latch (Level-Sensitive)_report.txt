@@ -1,0 +1,22 @@
+PPA Report for 1419. D Latch (Level-Sensitive).sv (Module: d_latch)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 0
+FF Count: 1
+IO Count: 3
+Cell Count: 11
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 282.57 MHz
+End-to-End Path Delay: N/A (No valid path found) ns
+Reg-to-Reg Critical Path Delay: 2.839 ns
+Detected Clock Signals: clk
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.554 W

@@ -1,0 +1,20 @@
+PPA Report for rng_lcg_4_axi_stream.v (Module: rng_lcg_4_axi_stream)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 49
+FF Count: 50
+IO Count: 39
+Cell Count: 207
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 191.98 MHz
+Reg-to-Reg Critical Path Delay: 5.010 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.465 W

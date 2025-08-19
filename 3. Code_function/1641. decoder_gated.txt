@@ -1,0 +1,1 @@
+Clock-gated binary address decoder

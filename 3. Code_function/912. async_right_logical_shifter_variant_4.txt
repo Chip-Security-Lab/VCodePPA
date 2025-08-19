@@ -1,0 +1,1 @@
+Right logical shifter with parameter.

@@ -1,0 +1,20 @@
+PPA Report for look_ahead_arbiter.v (Module: look_ahead_arbiter)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 5
+FF Count: 10
+IO Count: 14
+Cell Count: 54
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 915.75 MHz
+Reg-to-Reg Critical Path Delay: 0.870 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

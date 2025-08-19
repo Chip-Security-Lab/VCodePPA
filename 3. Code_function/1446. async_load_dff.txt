@@ -1,0 +1,1 @@
+Async loadable counter with increment

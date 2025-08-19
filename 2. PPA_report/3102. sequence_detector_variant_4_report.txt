@@ -1,0 +1,21 @@
+PPA Report for sequence_detector.v (Module: sequence_detector)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 4
+FF Count: 4
+IO Count: 6
+Cell Count: 26
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1102.54 MHz
+End-to-End Path Delay: 4.714 ns
+Reg-to-Reg Critical Path Delay: 0.788 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

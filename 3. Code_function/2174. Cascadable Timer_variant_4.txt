@@ -1,0 +1,1 @@
+Pipelined cascading 16-bit counter.

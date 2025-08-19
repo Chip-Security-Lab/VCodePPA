@@ -1,0 +1,1 @@
+Bit width converter with sign-extension

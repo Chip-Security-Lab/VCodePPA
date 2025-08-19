@@ -1,0 +1,1 @@
+Pipelined circular right bit shifter

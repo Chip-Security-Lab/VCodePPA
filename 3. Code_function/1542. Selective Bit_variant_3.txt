@@ -1,0 +1,1 @@
+Pipelined selective register bit updating

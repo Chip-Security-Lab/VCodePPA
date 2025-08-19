@@ -1,0 +1,1 @@
+Auto-reloadable timer with timeout

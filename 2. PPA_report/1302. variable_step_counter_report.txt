@@ -1,0 +1,20 @@
+PPA Report for variable_step_counter
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 0
+FF Count: 8
+IO Count: 10
+Cell Count: 25
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1025.64 MHz
+Reg-to-Reg Critical Path Delay: 0.856 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

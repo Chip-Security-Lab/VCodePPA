@@ -1,0 +1,20 @@
+PPA Report for dram_temp_refresh
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 35
+FF Count: 33
+IO Count: 10
+Cell Count: 129
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 536.48 MHz
+Reg-to-Reg Critical Path Delay: 1.622 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

@@ -1,0 +1,20 @@
+PPA Report for counter_preload.v (Module: counter_preload)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 4
+FF Count: 10
+IO Count: 11
+Cell Count: 44
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 933.71 MHz
+Reg-to-Reg Critical Path Delay: 0.953 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

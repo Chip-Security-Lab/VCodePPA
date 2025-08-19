@@ -1,0 +1,1 @@
+Security violation detection and reset

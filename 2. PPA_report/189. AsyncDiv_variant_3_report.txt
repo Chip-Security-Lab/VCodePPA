@@ -1,0 +1,20 @@
+PPA Report for GatedDiv_Pipeline.v (Module: GatedDiv_Pipeline)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 275
+FF Count: 132
+IO Count: 50
+Cell Count: 593
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 101.38 MHz
+Reg-to-Reg Critical Path Delay: 9.713 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.486 W

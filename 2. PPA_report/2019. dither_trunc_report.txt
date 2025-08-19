@@ -1,0 +1,20 @@
+PPA Report for dither_trunc
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 1
+FF Count: 0
+IO Count: 36
+Cell Count: 81
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+End-to-End Path Delay: 5.932 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 4.091 W

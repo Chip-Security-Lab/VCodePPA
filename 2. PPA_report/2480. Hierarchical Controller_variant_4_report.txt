@@ -1,0 +1,20 @@
+PPA Report for hierarchical_intr_ctrl.v (Module: hierarchical_intr_ctrl)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 34
+FF Count: 39
+IO Count: 45
+Cell Count: 210
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 711.74 MHz
+Reg-to-Reg Critical Path Delay: 1.199 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

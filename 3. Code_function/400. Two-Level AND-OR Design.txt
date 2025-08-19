@@ -1,0 +1,1 @@
+NAND gate with AND-OR implementation

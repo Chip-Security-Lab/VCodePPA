@@ -1,0 +1,20 @@
+PPA Report for CarryRotateShifter
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 0
+FF Count: 9
+IO Count: 12
+Cell Count: 30
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1161.44 MHz
+Reg-to-Reg Critical Path Delay: 0.725 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

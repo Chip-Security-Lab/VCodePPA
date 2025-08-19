@@ -1,0 +1,19 @@
+PPA Report for GoldschmidtDivider.v (Module: GoldschmidtDivider)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 224
+FF Count: 24
+IO Count: 26
+Cell Count: 405
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+
+POWER METRICS:
+-------------
+Total Power Consumption: 5.103 W

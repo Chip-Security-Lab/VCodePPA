@@ -1,0 +1,1 @@
+Parameterized timer with asynchronous reset

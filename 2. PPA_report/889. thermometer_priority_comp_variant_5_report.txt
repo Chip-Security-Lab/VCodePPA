@@ -1,0 +1,20 @@
+PPA Report for thermometer_priority_comp.v (Module: thermometer_priority_comp)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 3
+FF Count: 3
+IO Count: 21
+Cell Count: 51
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 391.18 MHz
+Reg-to-Reg Critical Path Delay: 2.896 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

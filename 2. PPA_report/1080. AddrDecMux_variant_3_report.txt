@@ -1,0 +1,20 @@
+PPA Report for AddrDecMux.v (Module: AddrDecMux)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 64
+FF Count: 0
+IO Count: 140
+Cell Count: 292
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+End-to-End Path Delay: 9.068 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 12.849 W

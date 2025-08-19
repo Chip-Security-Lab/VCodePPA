@@ -1,0 +1,1 @@
+Pipelined glitch-free clock gating

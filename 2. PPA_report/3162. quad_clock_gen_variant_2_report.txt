@@ -1,0 +1,20 @@
+PPA Report for quad_clock_gen.v (Module: quad_clock_gen)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 4
+FF Count: 14
+IO Count: 6
+Cell Count: 33
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 304.55 MHz
+Reg-to-Reg Critical Path Delay: 2.985 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 3.535 W

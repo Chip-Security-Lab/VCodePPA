@@ -1,0 +1,20 @@
+PPA Report for IVMU_PrefetchBuf.v (Module: IVMU_PrefetchBuf)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 0
+FF Count: 96
+IO Count: 65
+Cell Count: 231
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1216.55 MHz
+Reg-to-Reg Critical Path Delay: 0.703 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.475 W

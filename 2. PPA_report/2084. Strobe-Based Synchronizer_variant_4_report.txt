@@ -1,0 +1,20 @@
+PPA Report for strobe_sync.v (Module: strobe_sync)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 2
+FF Count: 7
+IO Count: 7
+Cell Count: 30
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 300.53 MHz
+Reg-to-Reg Critical Path Delay: 3.079 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.651 W

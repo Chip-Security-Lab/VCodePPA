@@ -1,0 +1,21 @@
+PPA Report for sync_shift_rst_with_adder.v (Module: sync_shift_rst_with_adder)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 11
+FF Count: 4
+IO Count: 32
+Cell Count: 90
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1000.00 MHz
+End-to-End Path Delay: 5.550 ns
+Reg-to-Reg Critical Path Delay: 0.819 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.456 W

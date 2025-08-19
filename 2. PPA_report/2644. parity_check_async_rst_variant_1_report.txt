@@ -1,0 +1,20 @@
+PPA Report for booth_multiplier.v (Module: booth_multiplier)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 11
+FF Count: 20
+IO Count: 26
+Cell Count: 83
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 738.55 MHz
+Reg-to-Reg Critical Path Delay: 1.133 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

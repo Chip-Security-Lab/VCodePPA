@@ -1,0 +1,20 @@
+PPA Report for MuxAsync.v (Module: MuxAsync)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 38
+FF Count: 91
+IO Count: 77
+Cell Count: 355
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 717.88 MHz
+Reg-to-Reg Critical Path Delay: 1.260 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.461 W

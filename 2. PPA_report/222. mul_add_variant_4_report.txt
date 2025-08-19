@@ -1,0 +1,20 @@
+PPA Report for mul_add.v (Module: mul_add)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 31
+FF Count: 24
+IO Count: 27
+Cell Count: 121
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 689.18 MHz
+Reg-to-Reg Critical Path Delay: 1.305 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

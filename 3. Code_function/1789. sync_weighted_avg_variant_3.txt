@@ -1,0 +1,1 @@
+Weighted signal filtering with CLA

@@ -1,0 +1,1 @@
+Three-flag control with reset

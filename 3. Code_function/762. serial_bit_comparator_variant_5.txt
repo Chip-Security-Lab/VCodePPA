@@ -1,0 +1,1 @@
+Serial bit-stream equality checker

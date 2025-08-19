@@ -1,0 +1,1 @@
+Pipelined NAND3 with enable control

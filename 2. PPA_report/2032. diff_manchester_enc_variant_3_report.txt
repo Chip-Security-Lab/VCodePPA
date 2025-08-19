@@ -1,0 +1,20 @@
+PPA Report for diff_manchester_enc.v (Module: diff_manchester_enc)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 2
+FF Count: 1
+IO Count: 4
+Cell Count: 16
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1107.42 MHz
+Reg-to-Reg Critical Path Delay: 0.784 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

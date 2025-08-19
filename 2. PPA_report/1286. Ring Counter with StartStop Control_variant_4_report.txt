@@ -1,0 +1,20 @@
+PPA Report for controlled_ring_counter.v (Module: controlled_ring_counter)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 2
+FF Count: 5
+IO Count: 7
+Cell Count: 28
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1108.65 MHz
+Reg-to-Reg Critical Path Delay: 0.784 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

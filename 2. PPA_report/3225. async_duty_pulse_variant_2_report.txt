@@ -1,0 +1,20 @@
+PPA Report for async_duty_pulse.v (Module: async_duty_pulse)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 67
+FF Count: 17
+IO Count: 14
+Cell Count: 151
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 626.96 MHz
+Reg-to-Reg Critical Path Delay: 1.458 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

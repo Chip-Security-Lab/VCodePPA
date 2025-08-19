@@ -1,0 +1,1 @@
+Signal averaging noise filter module

@@ -1,0 +1,20 @@
+PPA Report for timestamp_capture.v (Module: timestamp_capture)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 5
+FF Count: 172
+IO Count: 138
+Cell Count: 336
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 601.68 MHz
+Reg-to-Reg Critical Path Delay: 1.306 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.509 W

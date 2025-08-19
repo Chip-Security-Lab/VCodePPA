@@ -1,0 +1,20 @@
+PPA Report for BidirectionalPISO.v (Module: BidirectionalPISO)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 12
+FF Count: 9
+IO Count: 12
+Cell Count: 65
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 904.16 MHz
+Reg-to-Reg Critical Path Delay: 0.931 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

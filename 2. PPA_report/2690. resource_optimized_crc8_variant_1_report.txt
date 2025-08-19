@@ -1,0 +1,20 @@
+PPA Report for resource_optimized_crc8.v (Module: resource_optimized_crc8)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 4
+FF Count: 16
+IO Count: 12
+Cell Count: 46
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 672.49 MHz
+Reg-to-Reg Critical Path Delay: 1.339 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.457 W

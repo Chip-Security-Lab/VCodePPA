@@ -1,0 +1,1 @@
+Triggered shadow register with FSM

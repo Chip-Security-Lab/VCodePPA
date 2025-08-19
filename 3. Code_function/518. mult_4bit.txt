@@ -1,0 +1,1 @@
+Four-bit multiplier with product.

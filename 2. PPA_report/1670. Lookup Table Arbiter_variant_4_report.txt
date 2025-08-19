@@ -1,0 +1,20 @@
+PPA Report for lut_arbiter.v (Module: lut_arbiter)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 10
+FF Count: 13
+IO Count: 14
+Cell Count: 58
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 727.80 MHz
+Reg-to-Reg Critical Path Delay: 1.109 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.451 W

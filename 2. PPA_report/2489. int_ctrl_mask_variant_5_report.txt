@@ -1,0 +1,20 @@
+PPA Report for int_ctrl_mask.v (Module: int_ctrl_mask)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 32
+FF Count: 48
+IO Count: 50
+Cell Count: 208
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 983.28 MHz
+Reg-to-Reg Critical Path Delay: 0.827 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.463 W

@@ -1,0 +1,1 @@
+Pipelined parking spaces counter

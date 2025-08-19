@@ -1,0 +1,1 @@
+Asynchronous FIFO with pipelined control

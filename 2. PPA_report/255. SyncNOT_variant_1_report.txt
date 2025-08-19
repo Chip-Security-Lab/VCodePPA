@@ -1,0 +1,19 @@
+PPA Report for SyncNOT_AXI.v (Module: SyncNOT_AXI)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 51
+FF Count: 74
+IO Count: 82
+Cell Count: 295
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+
+POWER METRICS:
+-------------
+Total Power Consumption: 3.777 W

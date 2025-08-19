@@ -1,0 +1,1 @@
+Pipelined multi-channel reset controller

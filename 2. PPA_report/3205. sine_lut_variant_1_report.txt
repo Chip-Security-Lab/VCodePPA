@@ -1,0 +1,20 @@
+PPA Report for sine_lut.v (Module: sine_lut)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 10
+FF Count: 14
+IO Count: 14
+Cell Count: 60
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 513.08 MHz
+Reg-to-Reg Critical Path Delay: 1.802 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.456 W

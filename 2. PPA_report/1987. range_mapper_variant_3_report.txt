@@ -1,0 +1,20 @@
+PPA Report for range_mapper.v (Module: range_mapper)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 79
+FF Count: 19
+IO Count: 20
+Cell Count: 222
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 248.57 MHz
+Reg-to-Reg Critical Path Delay: 3.791 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.459 W

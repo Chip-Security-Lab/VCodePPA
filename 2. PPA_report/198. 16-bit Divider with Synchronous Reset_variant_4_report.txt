@@ -1,0 +1,20 @@
+PPA Report for divider_sync_reset.v (Module: divider_sync_reset)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 447
+FF Count: 104
+IO Count: 58
+Cell Count: 775
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 103.28 MHz
+Reg-to-Reg Critical Path Delay: 9.472 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.504 W

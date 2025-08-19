@@ -1,0 +1,20 @@
+PPA Report for RingShiftPipelined.v (Module: RingShiftPipelined)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 5
+FF Count: 19
+IO Count: 10
+Cell Count: 48
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 937.21 MHz
+Reg-to-Reg Critical Path Delay: 0.919 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.455 W

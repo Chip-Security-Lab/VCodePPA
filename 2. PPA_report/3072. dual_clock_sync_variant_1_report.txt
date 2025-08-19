@@ -1,0 +1,20 @@
+PPA Report for dual_clock_sync.v (Module: dual_clock_sync)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 6
+FF Count: 29
+IO Count: 21
+Cell Count: 86
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 264.97 MHz
+Reg-to-Reg Critical Path Delay: 2.743 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

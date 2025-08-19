@@ -1,0 +1,20 @@
+PPA Report for Asynchronous Combo Timer
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 10
+FF Count: 16
+IO Count: 36
+Cell Count: 106
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+End-to-End Path Delay: 5.393 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 5.414 W

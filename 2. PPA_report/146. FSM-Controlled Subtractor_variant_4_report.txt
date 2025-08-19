@@ -1,0 +1,20 @@
+PPA Report for subtractor_fsm.v (Module: subtractor_fsm)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 9
+FF Count: 9
+IO Count: 26
+Cell Count: 89
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 275.07 MHz
+Reg-to-Reg Critical Path Delay: 3.471 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 2.626 W

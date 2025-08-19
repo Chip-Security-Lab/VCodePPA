@@ -1,0 +1,20 @@
+PPA Report for shadow_reg_comb_out.v (Module: shadow_reg_comb_out)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 8
+FF Count: 8
+IO Count: 18
+Cell Count: 60
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 821.69 MHz
+Reg-to-Reg Critical Path Delay: 1.081 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.457 W

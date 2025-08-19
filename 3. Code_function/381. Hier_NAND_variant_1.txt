@@ -1,0 +1,1 @@
+Hierarchical subtractor with constant output

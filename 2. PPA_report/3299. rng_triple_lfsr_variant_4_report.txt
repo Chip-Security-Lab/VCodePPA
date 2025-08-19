@@ -1,0 +1,21 @@
+PPA Report for rng_triple_lfsr_19_valid_ready.v (Module: rng_triple_lfsr_19_valid_ready)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 12
+FF Count: 33
+IO Count: 14
+Cell Count: 73
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 924.21 MHz
+End-to-End Path Delay: 4.670 ns
+Reg-to-Reg Critical Path Delay: 0.793 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.454 W

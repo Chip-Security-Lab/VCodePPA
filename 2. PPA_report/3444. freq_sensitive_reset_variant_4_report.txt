@@ -1,0 +1,20 @@
+PPA Report for freq_sensitive_reset.v (Module: freq_sensitive_reset)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 5
+FF Count: 6
+IO Count: 3
+Cell Count: 24
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 111.31 MHz
+Reg-to-Reg Critical Path Delay: 6.952 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

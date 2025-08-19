@@ -1,0 +1,1 @@
+Pipelined binary decoder with validation

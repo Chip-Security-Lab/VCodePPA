@@ -1,0 +1,20 @@
+PPA Report for async_bridge.v (Module: async_bridge)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 5
+FF Count: 0
+IO Count: 20
+Cell Count: 48
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+End-to-End Path Delay: 5.277 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 2.896 W

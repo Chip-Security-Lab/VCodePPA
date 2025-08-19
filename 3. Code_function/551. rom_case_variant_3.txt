@@ -1,0 +1,1 @@
+ROM with sequential address decoding

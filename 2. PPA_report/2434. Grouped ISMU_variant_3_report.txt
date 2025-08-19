@@ -1,0 +1,20 @@
+PPA Report for grouped_ismu.v (Module: grouped_ismu)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 9
+FF Count: 39
+IO Count: 26
+Cell Count: 121
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 887.31 MHz
+Reg-to-Reg Critical Path Delay: 0.992 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

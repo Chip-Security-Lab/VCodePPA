@@ -1,0 +1,21 @@
+PPA Report for signed_multiply_add.v (Module: signed_multiply_add)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 93
+FF Count: 17
+IO Count: 46
+Cell Count: 248
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1204.82 MHz
+End-to-End Path Delay: 5.225 ns
+Reg-to-Reg Critical Path Delay: 0.581 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.457 W

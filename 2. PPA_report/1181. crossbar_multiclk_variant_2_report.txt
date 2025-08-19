@@ -1,0 +1,20 @@
+PPA Report for crossbar_multiclk.v (Module: crossbar_multiclk)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 3
+FF Count: 104
+IO Count: 40
+Cell Count: 202
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 276.24 MHz
+Reg-to-Reg Critical Path Delay: 3.297 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 4.434 W

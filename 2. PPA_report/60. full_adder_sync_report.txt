@@ -1,0 +1,20 @@
+PPA Report for full_adder_sync
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 6
+FF Count: 10
+IO Count: 17
+Cell Count: 62
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1096.49 MHz
+Reg-to-Reg Critical Path Delay: 0.776 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.454 W

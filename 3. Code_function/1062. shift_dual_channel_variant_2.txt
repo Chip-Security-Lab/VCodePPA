@@ -1,0 +1,1 @@
+Combinational bidirectional shifter with validation

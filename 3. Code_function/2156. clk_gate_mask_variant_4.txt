@@ -1,0 +1,1 @@
+Masked clock-gated register control

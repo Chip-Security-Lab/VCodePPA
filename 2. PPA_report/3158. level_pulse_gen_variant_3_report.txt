@@ -1,0 +1,20 @@
+PPA Report for level_pulse_gen.v (Module: level_pulse_gen)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 16
+FF Count: 6
+IO Count: 7
+Cell Count: 51
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 574.05 MHz
+Reg-to-Reg Critical Path Delay: 1.539 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.451 W

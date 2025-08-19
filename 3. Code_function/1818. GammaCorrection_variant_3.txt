@@ -1,0 +1,1 @@
+Gamma correction for pixel data

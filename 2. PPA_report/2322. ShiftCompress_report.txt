@@ -1,0 +1,20 @@
+PPA Report for 2322. ShiftCompress.sv (Module: ShiftCompress)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 0
+FF Count: 0
+IO Count: 8
+Cell Count: 9
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+Detected Clock Signals: None
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.450 W

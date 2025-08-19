@@ -1,0 +1,20 @@
+PPA Report for dma_timer.v (Module: dma_timer)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 66
+FF Count: 50
+IO Count: 76
+Cell Count: 307
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 521.92 MHz
+Reg-to-Reg Critical Path Delay: 1.686 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.472 W

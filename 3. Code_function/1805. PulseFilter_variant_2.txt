@@ -1,0 +1,1 @@
+Debounced pulse generator with timeout

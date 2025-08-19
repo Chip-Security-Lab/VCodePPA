@@ -1,0 +1,20 @@
+PPA Report for crossbar_collision.v (Module: crossbar_collision)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 190
+FF Count: 164
+IO Count: 74
+Cell Count: 527
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 772.20 MHz
+Reg-to-Reg Critical Path Delay: 1.176 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.466 W

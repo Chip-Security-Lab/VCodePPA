@@ -1,0 +1,20 @@
+PPA Report for shift_register_pipeline.v (Module: shift_register_pipeline)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 1
+FF Count: 17
+IO Count: 19
+Cell Count: 60
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1187.65 MHz
+Reg-to-Reg Critical Path Delay: 0.705 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

@@ -1,0 +1,1 @@
+XOR encryption with rotating key

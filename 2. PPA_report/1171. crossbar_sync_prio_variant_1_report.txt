@@ -1,0 +1,20 @@
+PPA Report for crossbar_sync_prio.v (Module: crossbar_sync_prio)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 17
+FF Count: 48
+IO Count: 51
+Cell Count: 172
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 971.82 MHz
+Reg-to-Reg Critical Path Delay: 0.876 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.479 W

@@ -1,0 +1,20 @@
+PPA Report for CondNor.v (Module: CondNor)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 5
+FF Count: 0
+IO Count: 32
+Cell Count: 70
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+End-to-End Path Delay: 5.608 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.554 W

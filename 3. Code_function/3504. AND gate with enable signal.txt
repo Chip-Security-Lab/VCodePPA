@@ -1,0 +1,1 @@
+Enabled AND gate with control

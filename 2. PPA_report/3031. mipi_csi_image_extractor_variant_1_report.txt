@@ -1,0 +1,20 @@
+PPA Report for mipi_csi_image_extractor.v (Module: mipi_csi_image_extractor)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 25
+FF Count: 101
+IO Count: 66
+Cell Count: 291
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 120.09 MHz
+Reg-to-Reg Critical Path Delay: 2.991 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.871 W

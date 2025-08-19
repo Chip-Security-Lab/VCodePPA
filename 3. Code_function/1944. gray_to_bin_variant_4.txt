@@ -1,0 +1,1 @@
+Gray-to-binary converter with subtractor

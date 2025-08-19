@@ -1,0 +1,20 @@
+PPA Report for can_receiver.v (Module: can_receiver)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 2
+FF Count: 1
+IO Count: 85
+Cell Count: 98
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1347.71 MHz
+Reg-to-Reg Critical Path Delay: 0.538 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

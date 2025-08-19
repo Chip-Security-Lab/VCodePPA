@@ -1,0 +1,1 @@
+Resettable Johnson counter with enable

@@ -1,0 +1,1 @@
+Enabled address decoder with register

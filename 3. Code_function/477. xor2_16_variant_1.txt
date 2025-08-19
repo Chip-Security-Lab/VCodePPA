@@ -1,0 +1,1 @@
+Synchronous XOR gate with registers

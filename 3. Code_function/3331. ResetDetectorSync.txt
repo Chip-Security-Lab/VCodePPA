@@ -1,0 +1,1 @@
+Synchronous active-low reset detector

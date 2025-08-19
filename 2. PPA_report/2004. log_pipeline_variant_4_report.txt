@@ -1,0 +1,21 @@
+PPA Report for log_pipeline_valid_ready.v (Module: log_pipeline_valid_ready)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 24
+FF Count: 104
+IO Count: 38
+Cell Count: 218
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 548.25 MHz
+End-to-End Path Delay: 5.234 ns
+Reg-to-Reg Critical Path Delay: 1.565 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.455 W

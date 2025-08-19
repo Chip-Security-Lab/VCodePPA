@@ -1,0 +1,1 @@
+AXI-based Manchester encoder with pipeline

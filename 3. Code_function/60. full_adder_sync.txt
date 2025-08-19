@@ -1,0 +1,1 @@
+Synchronous pipelined full adder circuit

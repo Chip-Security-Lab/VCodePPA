@@ -1,0 +1,20 @@
+PPA Report for range_detector_indicators.v (Module: range_detector_indicators)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 14
+FF Count: 41
+IO Count: 41
+Cell Count: 191
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 913.24 MHz
+Reg-to-Reg Critical Path Delay: 0.952 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

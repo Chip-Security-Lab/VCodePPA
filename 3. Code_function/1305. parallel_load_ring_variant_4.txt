@@ -1,0 +1,1 @@
+Parallel-load ring counter with handshaking

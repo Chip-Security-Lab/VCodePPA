@@ -1,0 +1,1 @@
+Resettable pipeline data register stage

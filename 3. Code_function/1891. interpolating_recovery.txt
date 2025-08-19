@@ -1,0 +1,1 @@
+Linear interpolator between two samples

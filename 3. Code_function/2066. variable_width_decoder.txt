@@ -1,0 +1,1 @@
+Configurable one-hot decoder with selection

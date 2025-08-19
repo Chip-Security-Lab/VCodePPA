@@ -1,0 +1,20 @@
+PPA Report for bidirectional_cdc.v (Module: bidirectional_cdc)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 13
+FF Count: 72
+IO Count: 39
+Cell Count: 175
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 256.01 MHz
+Reg-to-Reg Critical Path Delay: 3.741 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 2.508 W

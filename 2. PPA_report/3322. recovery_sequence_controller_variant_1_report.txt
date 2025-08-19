@@ -1,0 +1,20 @@
+PPA Report for recovery_sequence_controller.v (Module: recovery_sequence_controller)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 21
+FF Count: 15
+IO Count: 11
+Cell Count: 61
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 479.39 MHz
+Reg-to-Reg Critical Path Delay: 1.723 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

@@ -1,0 +1,1 @@
+Synchronous logical right shifter

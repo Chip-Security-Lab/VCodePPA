@@ -1,0 +1,20 @@
+PPA Report for rom_core.v (Module: rom_core)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 2
+FF Count: 0
+IO Count: 10
+Cell Count: 19
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A
+End-to-End Path Delay: 4.899 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 1.530 W

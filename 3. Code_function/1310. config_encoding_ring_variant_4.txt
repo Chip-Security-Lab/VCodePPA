@@ -1,0 +1,1 @@
+Configurable binary/onehot ring counter

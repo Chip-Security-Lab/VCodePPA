@@ -1,0 +1,1 @@
+Hierarchical configurable parity bit generator

@@ -1,0 +1,20 @@
+PPA Report for dual_clock_rng
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 2
+FF Count: 32
+IO Count: 35
+Cell Count: 79
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 253.29 MHz
+Reg-to-Reg Critical Path Delay: 3.248 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 56.476 W

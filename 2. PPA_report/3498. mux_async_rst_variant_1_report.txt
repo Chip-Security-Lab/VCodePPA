@@ -1,0 +1,20 @@
+PPA Report for mux_async_rst.v (Module: mux_async_rst)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 4
+FF Count: 33
+IO Count: 27
+Cell Count: 114
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 976.56 MHz
+Reg-to-Reg Critical Path Delay: 0.889 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.454 W

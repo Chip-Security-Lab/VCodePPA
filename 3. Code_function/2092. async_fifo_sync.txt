@@ -1,0 +1,1 @@
+Pointer synchronizer for async FIFO

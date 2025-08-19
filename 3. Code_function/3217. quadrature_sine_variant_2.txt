@@ -1,0 +1,1 @@
+Quadrature sine wave generator

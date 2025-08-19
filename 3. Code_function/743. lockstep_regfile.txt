@@ -1,0 +1,1 @@
+Dual-redundant register file with checking

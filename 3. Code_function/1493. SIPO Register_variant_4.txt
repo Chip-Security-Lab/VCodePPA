@@ -1,0 +1,1 @@
+Pipelined serial-in parallel-out register

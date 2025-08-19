@@ -1,0 +1,1 @@
+Synchronous FIR filter implementation

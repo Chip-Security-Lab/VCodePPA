@@ -1,0 +1,20 @@
+PPA Report for priority_encoder.v (Module: priority_encoder)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 11
+FF Count: 20
+IO Count: 16
+Cell Count: 74
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 708.72 MHz
+Reg-to-Reg Critical Path Delay: 1.196 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

@@ -1,0 +1,1 @@
+Resettable multiplexer with zero output

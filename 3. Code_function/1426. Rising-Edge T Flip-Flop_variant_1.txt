@@ -1,0 +1,1 @@
+Rising-edge triggered toggle flip-flop

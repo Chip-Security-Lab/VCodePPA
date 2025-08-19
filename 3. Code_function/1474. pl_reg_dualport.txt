@@ -1,0 +1,1 @@
+Dual-port register with priority

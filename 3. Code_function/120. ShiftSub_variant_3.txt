@@ -1,0 +1,1 @@
+Performs sequential shift-subtract operations

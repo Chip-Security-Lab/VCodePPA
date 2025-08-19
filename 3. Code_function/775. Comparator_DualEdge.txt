@@ -1,0 +1,1 @@
+Positive-edge equality comparator circuit

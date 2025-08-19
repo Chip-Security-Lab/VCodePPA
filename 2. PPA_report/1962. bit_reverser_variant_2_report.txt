@@ -1,0 +1,20 @@
+PPA Report for bit_reverser.v (Module: bit_reverser)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 6
+FF Count: 0
+IO Count: 16
+Cell Count: 42
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+End-to-End Path Delay: 5.324 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 2.831 W

@@ -1,0 +1,21 @@
+PPA Report for APB_IVMU.v (Module: APB_IVMU)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 458
+FF Count: 593
+IO Count: 128
+Cell Count: 1410
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 383.44 MHz
+End-to-End Path Delay: 5.015 ns
+Reg-to-Reg Critical Path Delay: 2.309 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.486 W

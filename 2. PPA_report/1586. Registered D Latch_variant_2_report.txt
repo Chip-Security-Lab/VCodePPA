@@ -1,0 +1,20 @@
+PPA Report for d_latch_registered.v (Module: d_latch_registered)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 0
+FF Count: 2
+IO Count: 4
+Cell Count: 16
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1243.78 MHz
+Reg-to-Reg Critical Path Delay: 0.685 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.451 W

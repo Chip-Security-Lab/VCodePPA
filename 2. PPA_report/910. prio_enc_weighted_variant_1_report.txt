@@ -1,0 +1,20 @@
+PPA Report for weight_comparator.v (Module: weight_comparator)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 9
+FF Count: 10
+IO Count: 31
+Cell Count: 107
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 361.32 MHz
+Reg-to-Reg Critical Path Delay: 3.093 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.455 W

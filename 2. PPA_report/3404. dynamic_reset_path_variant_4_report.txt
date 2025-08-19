@@ -1,0 +1,19 @@
+PPA Report for dynamic_reset_path.v (Module: dynamic_reset_path)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 36
+FF Count: 94
+IO Count: 120
+Cell Count: 413
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+
+POWER METRICS:
+-------------
+Total Power Consumption: 2.731 W

@@ -1,0 +1,19 @@
+PPA Report for can_encoder_axi4lite.v (Module: can_encoder_axi4lite)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 94
+FF Count: 190
+IO Count: 93
+Cell Count: 492
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+
+POWER METRICS:
+-------------
+Total Power Consumption: 9.673 W

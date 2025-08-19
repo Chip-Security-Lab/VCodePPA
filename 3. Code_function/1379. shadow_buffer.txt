@@ -1,0 +1,1 @@
+Captures then updates buffered data

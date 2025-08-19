@@ -1,0 +1,20 @@
+PPA Report for reset_startup_delay.v (Module: reset_startup_delay)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 10
+FF Count: 9
+IO Count: 3
+Cell Count: 31
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 616.14 MHz
+Reg-to-Reg Critical Path Delay: 1.420 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.451 W

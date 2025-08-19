@@ -1,0 +1,1 @@
+Pipelined four-channel state-based demultiplexer

@@ -1,0 +1,20 @@
+PPA Report for sync_kalman_filter.v (Module: sync_kalman_filter)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 334
+FF Count: 64
+IO Count: 50
+Cell Count: 636
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 100.11 MHz
+Reg-to-Reg Critical Path Delay: 9.891 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.471 W

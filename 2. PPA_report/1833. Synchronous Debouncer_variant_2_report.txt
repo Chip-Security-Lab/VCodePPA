@@ -1,0 +1,20 @@
+PPA Report for switch_debouncer.v (Module: switch_debouncer)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 12
+FF Count: 13
+IO Count: 4
+Cell Count: 44
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 582.07 MHz
+Reg-to-Reg Critical Path Delay: 1.541 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.451 W

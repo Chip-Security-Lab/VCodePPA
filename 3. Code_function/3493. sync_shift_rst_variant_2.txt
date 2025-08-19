@@ -1,0 +1,1 @@
+Synchronous shift register with reset

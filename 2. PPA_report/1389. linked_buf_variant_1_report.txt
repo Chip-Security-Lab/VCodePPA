@@ -1,0 +1,20 @@
+PPA Report for linked_buf.v (Module: linked_buf)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 53
+FF Count: 115
+IO Count: 20
+Cell Count: 228
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 552.18 MHz
+Reg-to-Reg Critical Path Delay: 1.531 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.454 W

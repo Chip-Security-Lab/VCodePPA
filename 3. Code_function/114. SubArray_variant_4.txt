@@ -1,0 +1,1 @@
+Four-bit subtraction using two's complement.

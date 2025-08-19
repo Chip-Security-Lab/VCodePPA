@@ -1,0 +1,1 @@
+Asynchronous loadable left shift register

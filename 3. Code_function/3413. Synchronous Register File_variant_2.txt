@@ -1,0 +1,1 @@
+Parameterized synchronous RAM with reset

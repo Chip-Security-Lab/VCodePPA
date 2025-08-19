@@ -1,0 +1,20 @@
+PPA Report for frac_div
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 9
+FF Count: 9
+IO Count: 3
+Cell Count: 32
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 584.80 MHz
+Reg-to-Reg Critical Path Delay: 1.464 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.451 W

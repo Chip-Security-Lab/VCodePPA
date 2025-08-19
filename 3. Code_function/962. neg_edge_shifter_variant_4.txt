@@ -1,0 +1,1 @@
+Negative-edge hierarchical shift register

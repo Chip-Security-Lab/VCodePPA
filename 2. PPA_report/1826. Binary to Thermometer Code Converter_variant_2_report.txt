@@ -1,0 +1,20 @@
+PPA Report for bin2thermometer.v (Module: bin2thermometer)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 4
+FF Count: 17
+IO Count: 12
+Cell Count: 49
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 845.31 MHz
+Reg-to-Reg Critical Path Delay: 1.047 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

@@ -1,0 +1,20 @@
+PPA Report for adaptive_resolution_codec.v (Module: adaptive_resolution_codec)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 160
+FF Count: 258
+IO Count: 105
+Cell Count: 650
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 497.76 MHz
+Reg-to-Reg Critical Path Delay: 1.716 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.468 W

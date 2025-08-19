@@ -1,0 +1,19 @@
+PPA Report for rng_lcg_4_axi4lite.v (Module: rng_lcg_4_axi4lite)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 72
+FF Count: 342
+IO Count: 58
+Cell Count: 562
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+
+POWER METRICS:
+-------------
+Total Power Consumption: 5.451 W

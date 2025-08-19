@@ -1,0 +1,1 @@
+MIPI synchronous data receiver interface

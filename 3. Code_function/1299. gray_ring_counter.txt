@@ -1,0 +1,1 @@
+Gray-code rotating ring counter

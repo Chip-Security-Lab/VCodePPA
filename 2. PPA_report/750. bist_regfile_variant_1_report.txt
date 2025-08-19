@@ -1,0 +1,20 @@
+PPA Report for bist_regfile.v (Module: bist_regfile)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 188
+FF Count: 289
+IO Count: 50
+Cell Count: 675
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 309.69 MHz
+Reg-to-Reg Critical Path Delay: 2.959 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.460 W

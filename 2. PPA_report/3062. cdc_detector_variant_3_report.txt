@@ -1,0 +1,20 @@
+PPA Report for cdc_detector.v (Module: cdc_detector)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 3
+FF Count: 42
+IO Count: 21
+Cell Count: 94
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 267.95 MHz
+Reg-to-Reg Critical Path Delay: 2.715 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

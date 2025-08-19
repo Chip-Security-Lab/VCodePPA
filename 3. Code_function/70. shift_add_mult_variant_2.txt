@@ -1,0 +1,1 @@
+Pipelined binary multiplier using shift-add

@@ -1,0 +1,20 @@
+PPA Report for pipeline_parity_req_ack.v (Module: pipeline_parity_req_ack)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 13
+FF Count: 68
+IO Count: 68
+Cell Count: 285
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 712.76 MHz
+Reg-to-Reg Critical Path Delay: 1.215 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.454 W

@@ -1,0 +1,20 @@
+PPA Report for enabled_reset_sync_axi_stream.v (Module: enabled_reset_sync_axi_stream)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 2
+FF Count: 6
+IO Count: 7
+Cell Count: 27
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 920.81 MHz
+Reg-to-Reg Critical Path Delay: 0.956 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

@@ -1,0 +1,1 @@
+Edge-detected clock gating circuit

@@ -1,0 +1,20 @@
+PPA Report for sync_multi_timer.v (Module: sync_multi_timer)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 6
+FF Count: 134
+IO Count: 69
+Cell Count: 232
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 480.77 MHz
+Reg-to-Reg Critical Path Delay: 1.356 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.509 W

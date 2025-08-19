@@ -1,0 +1,20 @@
+PPA Report for onehot_left_shifter.v (Module: onehot_left_shifter)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 80
+FF Count: 48
+IO Count: 50
+Cell Count: 257
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 553.40 MHz
+Reg-to-Reg Critical Path Delay: 1.672 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.468 W

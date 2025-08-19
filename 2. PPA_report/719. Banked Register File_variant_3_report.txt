@@ -1,0 +1,20 @@
+PPA Report for banked_regfile.v (Module: banked_regfile)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 1050
+FF Count: 2080
+IO Count: 77
+Cell Count: 3366
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 179.57 MHz
+Reg-to-Reg Critical Path Delay: 5.365 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.506 W

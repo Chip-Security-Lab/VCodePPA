@@ -1,0 +1,20 @@
+PPA Report for CAN_Controller_Sync.v (Module: CAN_Controller_Sync)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 16
+FF Count: 37
+IO Count: 23
+Cell Count: 108
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 683.53 MHz
+Reg-to-Reg Critical Path Delay: 1.215 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

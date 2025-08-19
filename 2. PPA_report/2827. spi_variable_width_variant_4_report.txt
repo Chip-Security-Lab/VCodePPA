@@ -1,0 +1,20 @@
+PPA Report for spi_variable_width.v (Module: spi_variable_width)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 177
+FF Count: 101
+IO Count: 76
+Cell Count: 487
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 494.56 MHz
+Reg-to-Reg Critical Path Delay: 1.740 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.467 W

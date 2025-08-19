@@ -1,0 +1,20 @@
+PPA Report for fifo_based_shifter
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 95
+FF Count: 134
+IO Count: 39
+Cell Count: 321
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 543.77 MHz
+Reg-to-Reg Critical Path Delay: 1.585 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.466 W

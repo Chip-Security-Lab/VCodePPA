@@ -1,0 +1,1 @@
+Clock with controllable jitter generator

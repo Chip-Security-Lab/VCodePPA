@@ -1,0 +1,20 @@
+PPA Report for moore_4state_traffic_light_pipeline.v (Module: moore_4state_traffic_light_pipeline)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 2
+FF Count: 6
+IO Count: 5
+Cell Count: 21
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1146.79 MHz
+Reg-to-Reg Critical Path Delay: 0.752 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

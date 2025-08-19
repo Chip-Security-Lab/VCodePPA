@@ -1,0 +1,1 @@
+Error-correcting decoder with statistics counter.

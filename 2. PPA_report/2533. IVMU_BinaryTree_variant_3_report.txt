@@ -1,0 +1,20 @@
+PPA Report for BaughWooleyMultiplier_4x4.v (Module: BaughWooleyMultiplier_4x4)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 19
+FF Count: 0
+IO Count: 16
+Cell Count: 64
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+End-to-End Path Delay: 5.432 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 3.294 W

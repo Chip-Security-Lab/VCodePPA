@@ -1,0 +1,1 @@
+Pipelined edge detector memory interface

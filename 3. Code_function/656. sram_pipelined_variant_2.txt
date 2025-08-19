@@ -1,0 +1,1 @@
+Pipelined SRAM memory with delay

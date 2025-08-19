@@ -1,0 +1,1 @@
+Parameterized wide XNOR with subtractors

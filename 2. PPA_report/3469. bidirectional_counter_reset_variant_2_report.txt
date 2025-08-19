@@ -1,0 +1,20 @@
+PPA Report for bidirectional_counter_reset.v (Module: bidirectional_counter_reset)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 11
+FF Count: 19
+IO Count: 21
+Cell Count: 83
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 577.37 MHz
+Reg-to-Reg Critical Path Delay: 1.586 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.454 W

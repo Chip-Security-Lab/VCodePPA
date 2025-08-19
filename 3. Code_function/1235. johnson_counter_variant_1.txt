@@ -1,0 +1,1 @@
+Buffered Johnson counter with pipelining

@@ -1,0 +1,1 @@
+Bit shifter with dynamic direction

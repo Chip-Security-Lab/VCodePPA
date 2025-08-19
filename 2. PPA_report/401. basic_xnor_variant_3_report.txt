@@ -1,0 +1,20 @@
+PPA Report for basic_xnor_pipelined.v (Module: basic_xnor_pipelined)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 2
+FF Count: 4
+IO Count: 5
+Cell Count: 22
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1079.91 MHz
+Reg-to-Reg Critical Path Delay: 0.790 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

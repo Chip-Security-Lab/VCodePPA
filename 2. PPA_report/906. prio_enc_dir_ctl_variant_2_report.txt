@@ -1,0 +1,20 @@
+PPA Report for prio_enc_dir_ctl.v (Module: prio_enc_dir_ctl)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 14
+FF Count: 24
+IO Count: 16
+Cell Count: 85
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 658.76 MHz
+Reg-to-Reg Critical Path Delay: 1.369 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.454 W

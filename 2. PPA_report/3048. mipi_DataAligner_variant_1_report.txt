@@ -1,0 +1,20 @@
+PPA Report for MIPI_DataAligner.v (Module: MIPI_DataAligner)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 4
+FF Count: 4
+IO Count: 35
+Cell Count: 52
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 722.02 MHz
+Reg-to-Reg Critical Path Delay: 1.248 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.461 W

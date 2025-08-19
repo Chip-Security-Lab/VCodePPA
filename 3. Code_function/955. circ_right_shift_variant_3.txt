@@ -1,0 +1,1 @@
+Circular right shift register

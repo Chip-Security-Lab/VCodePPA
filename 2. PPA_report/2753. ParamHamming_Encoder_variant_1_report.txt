@@ -1,0 +1,20 @@
+PPA Report for ParamHamming_Encoder.v (Module: ParamHamming_Encoder)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 24
+FF Count: 39
+IO Count: 23
+Cell Count: 114
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 571.10 MHz
+Reg-to-Reg Critical Path Delay: 1.558 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

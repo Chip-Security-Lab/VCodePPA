@@ -1,0 +1,20 @@
+PPA Report for Demux_SyncEn.v (Module: Demux_SyncEn)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 37
+FF Count: 95
+IO Count: 78
+Cell Count: 277
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 791.14 MHz
+Reg-to-Reg Critical Path Delay: 0.969 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.477 W

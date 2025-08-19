@@ -1,0 +1,20 @@
+PPA Report for mipi_debug_interface
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 207
+FF Count: 546
+IO Count: 106
+Cell Count: 1044
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 660.94 MHz
+Reg-to-Reg Critical Path Delay: 1.322 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.464 W

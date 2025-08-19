@@ -1,0 +1,1 @@
+Pipelined boundary detector with priority

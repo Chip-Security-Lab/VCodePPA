@@ -1,0 +1,20 @@
+PPA Report for dynamic_shift.v (Module: dynamic_shift)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 5
+FF Count: 24
+IO Count: 21
+Cell Count: 85
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1052.63 MHz
+Reg-to-Reg Critical Path Delay: 0.801 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

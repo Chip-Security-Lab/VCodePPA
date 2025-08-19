@@ -1,0 +1,22 @@
+PPA Report for 2297. decoder_fsm.sv (Module: decoder_fsm)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 7
+FF Count: 11
+IO Count: 14
+Cell Count: 50
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 801.28 MHz
+End-to-End Path Delay: N/A (No valid path found) ns
+Reg-to-Reg Critical Path Delay: 1.044 ns
+Detected Clock Signals: clk
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

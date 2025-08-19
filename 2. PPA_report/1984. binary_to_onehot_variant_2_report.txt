@@ -1,0 +1,20 @@
+PPA Report for binary_to_onehot.v (Module: binary_to_onehot)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 3
+FF Count: 22
+IO Count: 12
+Cell Count: 60
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 705.22 MHz
+Reg-to-Reg Critical Path Delay: 1.282 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

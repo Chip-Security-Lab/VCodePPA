@@ -1,0 +1,1 @@
+Resettable 8-bit AND gate

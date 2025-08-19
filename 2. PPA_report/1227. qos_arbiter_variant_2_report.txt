@@ -1,0 +1,20 @@
+PPA Report for qos_arbiter.v (Module: qos_arbiter)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 22
+FF Count: 34
+IO Count: 26
+Cell Count: 134
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 538.50 MHz
+Reg-to-Reg Critical Path Delay: 1.692 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

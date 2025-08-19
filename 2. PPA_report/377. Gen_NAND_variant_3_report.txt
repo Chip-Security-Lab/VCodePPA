@@ -1,0 +1,20 @@
+PPA Report for Gen_NAND.v (Module: Gen_NAND)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 50
+FF Count: 81
+IO Count: 50
+Cell Count: 252
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 946.97 MHz
+Reg-to-Reg Critical Path Delay: 0.846 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.463 W

@@ -1,0 +1,1 @@
+Shifted bitwise XOR operation

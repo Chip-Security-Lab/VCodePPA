@@ -1,0 +1,22 @@
+PPA Report for 2534. IVMU_ErrorFeedback.sv (Module: IVMU_ErrorFeedback)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 0
+FF Count: 1
+IO Count: 5
+Cell Count: 14
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 423.73 MHz
+End-to-End Path Delay: N/A (No valid path found) ns
+Reg-to-Reg Critical Path Delay: 1.660 ns
+Detected Clock Signals: clk
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

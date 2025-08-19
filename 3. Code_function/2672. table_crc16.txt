@@ -1,0 +1,1 @@
+Tabular CRC-16 data checksum calculator

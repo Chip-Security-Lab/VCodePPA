@@ -1,0 +1,20 @@
+PPA Report for priority_parity_gen.v (Module: priority_parity_gen)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 18
+FF Count: 20
+IO Count: 25
+Cell Count: 114
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 739.10 MHz
+Reg-to-Reg Critical Path Delay: 1.101 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

@@ -1,0 +1,20 @@
+PPA Report for sync_decoder_async_reset.v (Module: sync_decoder_async_reset)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 5
+FF Count: 25
+IO Count: 15
+Cell Count: 64
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 979.43 MHz
+Reg-to-Reg Critical Path Delay: 0.891 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

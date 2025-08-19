@@ -1,0 +1,1 @@
+Priority encoder using MSB prioritization

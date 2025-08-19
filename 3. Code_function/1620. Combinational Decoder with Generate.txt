@@ -1,0 +1,1 @@
+Enableable generic binary decoder

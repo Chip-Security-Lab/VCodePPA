@@ -1,0 +1,20 @@
+PPA Report for pipelined_adder.v (Module: pipelined_adder)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 4
+FF Count: 4
+IO Count: 9
+Cell Count: 35
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 362.04 MHz
+Reg-to-Reg Critical Path Delay: 1.758 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

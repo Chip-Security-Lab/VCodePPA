@@ -1,0 +1,20 @@
+PPA Report for sync_left_logical_shifter.v (Module: sync_left_logical_shifter)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 13
+FF Count: 8
+IO Count: 21
+Cell Count: 73
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 433.11 MHz
+Reg-to-Reg Critical Path Delay: 2.402 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.454 W

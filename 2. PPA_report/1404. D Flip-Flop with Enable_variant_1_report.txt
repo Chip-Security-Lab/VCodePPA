@@ -1,0 +1,20 @@
+PPA Report for d_ff_enable.v (Module: d_ff_enable)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 0
+FF Count: 1
+IO Count: 4
+Cell Count: 14
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 548.97 MHz
+Reg-to-Reg Critical Path Delay: 1.626 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.451 W

@@ -1,0 +1,1 @@
+Configurable CRC-8 polynomial calculator

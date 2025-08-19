@@ -1,0 +1,1 @@
+Pipelined loadable rotating counter

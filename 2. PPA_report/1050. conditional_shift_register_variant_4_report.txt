@@ -1,0 +1,20 @@
+PPA Report for conditional_shift_register_pipeline.v (Module: conditional_shift_register_pipeline)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 13
+FF Count: 44
+IO Count: 23
+Cell Count: 115
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 634.52 MHz
+Reg-to-Reg Critical Path Delay: 1.439 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.457 W

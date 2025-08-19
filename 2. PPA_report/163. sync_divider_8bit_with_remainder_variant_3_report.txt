@@ -1,0 +1,20 @@
+PPA Report for sync_divider_8bit_with_remainder.v (Module: sync_divider_8bit_with_remainder)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 143
+FF Count: 50
+IO Count: 34
+Cell Count: 310
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 161.03 MHz
+Reg-to-Reg Critical Path Delay: 6.078 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.464 W

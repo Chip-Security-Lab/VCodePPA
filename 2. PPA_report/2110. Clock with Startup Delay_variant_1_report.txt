@@ -1,0 +1,20 @@
+PPA Report for clk_with_delay.v (Module: clk_with_delay)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 7
+FF Count: 6
+IO Count: 7
+Cell Count: 37
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 296.22 MHz
+Reg-to-Reg Critical Path Delay: 3.140 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 1.961 W

@@ -1,0 +1,1 @@
+Pipelined input range value mapper

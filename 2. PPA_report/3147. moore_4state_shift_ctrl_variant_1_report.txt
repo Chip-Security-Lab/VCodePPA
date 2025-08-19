@@ -1,0 +1,20 @@
+PPA Report for moore_4state_shift_ctrl.v (Module: moore_4state_shift_ctrl)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 7
+FF Count: 8
+IO Count: 9
+Cell Count: 43
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 689.66 MHz
+Reg-to-Reg Critical Path Delay: 1.266 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

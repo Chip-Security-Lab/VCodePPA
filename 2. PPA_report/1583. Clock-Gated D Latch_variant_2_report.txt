@@ -1,0 +1,20 @@
+PPA Report for karatsuba_multiplier_8bit.v (Module: karatsuba_multiplier_8bit)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 120
+FF Count: 0
+IO Count: 32
+Cell Count: 213
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+End-to-End Path Delay: 8.311 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 11.912 W

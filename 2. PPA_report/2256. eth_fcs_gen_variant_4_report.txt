@@ -1,0 +1,20 @@
+PPA Report for eth_fcs_gen.v (Module: eth_fcs_gen)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 40
+FF Count: 32
+IO Count: 42
+Cell Count: 146
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 305.89 MHz
+Reg-to-Reg Critical Path Delay: 3.040 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 47.361 W

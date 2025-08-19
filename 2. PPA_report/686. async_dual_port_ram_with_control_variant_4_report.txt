@@ -1,0 +1,20 @@
+PPA Report for async_dual_port_ram_with_control.v (Module: async_dual_port_ram_with_control)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 3797
+FF Count: 2068
+IO Count: 53
+Cell Count: 6968
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 278.32 MHz
+Reg-to-Reg Critical Path Delay: 3.382 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.503 W

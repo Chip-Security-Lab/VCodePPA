@@ -1,0 +1,1 @@
+Validates and synchronizes external reset

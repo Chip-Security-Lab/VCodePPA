@@ -1,0 +1,21 @@
+PPA Report for pipelined_output_regfile.v (Module: pipelined_output_regfile)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 2240
+FF Count: 4097
+IO Count: 215
+Cell Count: 8261
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 244.38 MHz
+End-to-End Path Delay: 9.617 ns
+Reg-to-Reg Critical Path Delay: 5.502 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.608 W

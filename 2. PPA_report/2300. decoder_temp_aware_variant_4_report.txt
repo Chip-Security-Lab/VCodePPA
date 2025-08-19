@@ -1,0 +1,20 @@
+PPA Report for decoder_temp_aware.v (Module: decoder_temp_aware)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 11
+FF Count: 39
+IO Count: 31
+Cell Count: 120
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 809.06 MHz
+Reg-to-Reg Critical Path Delay: 1.042 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

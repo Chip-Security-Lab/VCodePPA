@@ -1,0 +1,1 @@
+Soft audio signal clipper circuit

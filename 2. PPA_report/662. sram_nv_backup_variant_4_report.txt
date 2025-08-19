@@ -1,0 +1,20 @@
+PPA Report for sram_nv_backup.v (Module: sram_nv_backup)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 139
+FF Count: 20
+IO Count: 29
+Cell Count: 363
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 321.03 MHz
+Reg-to-Reg Critical Path Delay: 2.631 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.458 W

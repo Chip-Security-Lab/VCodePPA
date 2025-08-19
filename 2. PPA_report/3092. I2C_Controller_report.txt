@@ -1,0 +1,20 @@
+PPA Report for 3092. I2C_Controller.sv (Module: I2C_Controller)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 22
+FF Count: 26
+IO Count: 29
+Cell Count: 126
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 537.92 MHz
+Longest Path Delay: 1.565 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

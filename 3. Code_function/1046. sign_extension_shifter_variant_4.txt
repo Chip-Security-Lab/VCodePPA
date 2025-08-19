@@ -1,0 +1,1 @@
+Pipelined sign-extending shifter with handshaking

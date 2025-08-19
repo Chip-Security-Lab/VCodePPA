@@ -1,0 +1,21 @@
+PPA Report for mem_mapped_decoder.v (Module: mem_mapped_decoder)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 15
+FF Count: 24
+IO Count: 35
+Cell Count: 112
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 489.72 MHz
+End-to-End Path Delay: 5.063 ns
+Reg-to-Reg Critical Path Delay: 1.838 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

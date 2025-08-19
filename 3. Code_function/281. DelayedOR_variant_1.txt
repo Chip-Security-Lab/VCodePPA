@@ -1,0 +1,1 @@
+Synchronous OR with registered outputs

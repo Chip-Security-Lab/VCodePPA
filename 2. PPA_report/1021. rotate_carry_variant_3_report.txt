@@ -1,0 +1,20 @@
+PPA Report for rotate_carry_pipeline.v (Module: rotate_carry_pipeline)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 6
+FF Count: 20
+IO Count: 22
+Cell Count: 79
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1076.43 MHz
+Reg-to-Reg Critical Path Delay: 0.792 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.454 W

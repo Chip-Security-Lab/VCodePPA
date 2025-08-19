@@ -1,0 +1,1 @@
+Generates Hamming code from data

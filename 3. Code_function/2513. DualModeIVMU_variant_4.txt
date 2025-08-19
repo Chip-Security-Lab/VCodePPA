@@ -1,0 +1,1 @@
+Dual-mode interrupt controller with prioritization

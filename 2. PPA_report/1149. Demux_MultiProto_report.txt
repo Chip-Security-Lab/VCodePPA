@@ -1,0 +1,20 @@
+PPA Report for Demux_MultiProto
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 12
+FF Count: 24
+IO Count: 35
+Cell Count: 108
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 325.10 MHz
+Reg-to-Reg Critical Path Delay: 2.376 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

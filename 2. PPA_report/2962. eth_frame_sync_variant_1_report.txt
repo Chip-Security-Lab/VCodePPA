@@ -1,0 +1,20 @@
+PPA Report for eth_frame_sync.v (Module: eth_frame_sync)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 12
+FF Count: 153
+IO Count: 46
+Cell Count: 238
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 771.01 MHz
+Reg-to-Reg Critical Path Delay: 1.022 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.466 W

@@ -1,0 +1,20 @@
+PPA Report for subtract_shift_left.v (Module: subtract_shift_left)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 19
+FF Count: 35
+IO Count: 37
+Cell Count: 142
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 654.02 MHz
+Reg-to-Reg Critical Path Delay: 1.392 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.458 W

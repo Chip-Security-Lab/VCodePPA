@@ -1,0 +1,20 @@
+PPA Report for status_sampling_ismu.v (Module: status_sampling_ismu)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 2
+FF Count: 29
+IO Count: 20
+Cell Count: 81
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 779.42 MHz
+Reg-to-Reg Critical Path Delay: 1.139 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

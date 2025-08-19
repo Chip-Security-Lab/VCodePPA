@@ -1,0 +1,1 @@
+Power-optimized CRC8 calculation circuit

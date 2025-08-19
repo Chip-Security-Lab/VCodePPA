@@ -1,0 +1,1 @@
+Pipelined synchronous down counter

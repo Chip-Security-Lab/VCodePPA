@@ -1,0 +1,20 @@
+PPA Report for separate_addr_regfile.v (Module: separate_addr_regfile)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 183
+FF Count: 650
+IO Count: 76
+Cell Count: 1032
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 476.64 MHz
+Reg-to-Reg Critical Path Delay: 1.801 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.480 W

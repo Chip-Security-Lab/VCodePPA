@@ -1,0 +1,1 @@
+Pipelined binary address decoder circuit

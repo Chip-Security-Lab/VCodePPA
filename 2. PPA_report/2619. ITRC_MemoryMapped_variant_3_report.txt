@@ -1,0 +1,20 @@
+PPA Report for ITRC_MemoryMapped.v (Module: ITRC_MemoryMapped)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 9
+FF Count: 53
+IO Count: 27
+Cell Count: 139
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 864.30 MHz
+Reg-to-Reg Critical Path Delay: 0.967 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.454 W

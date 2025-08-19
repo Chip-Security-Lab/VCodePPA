@@ -1,0 +1,1 @@
+Multi-protocol decoder with multiplier

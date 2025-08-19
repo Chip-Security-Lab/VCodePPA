@@ -1,0 +1,20 @@
+PPA Report for ethernet_phy_codec.v (Module: ethernet_phy_codec)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 6
+FF Count: 13
+IO Count: 24
+Cell Count: 67
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 990.10 MHz
+Reg-to-Reg Critical Path Delay: 0.874 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.457 W

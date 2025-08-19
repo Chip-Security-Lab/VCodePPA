@@ -1,0 +1,21 @@
+PPA Report for protocol_handler.v (Module: protocol_handler)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 9
+FF Count: 8
+IO Count: 8
+Cell Count: 40
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 731.53 MHz
+End-to-End Path Delay: 4.798 ns
+Reg-to-Reg Critical Path Delay: 1.147 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

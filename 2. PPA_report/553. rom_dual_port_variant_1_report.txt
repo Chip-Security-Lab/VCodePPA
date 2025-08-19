@@ -1,0 +1,20 @@
+PPA Report for rom_dual_port.v (Module: rom_dual_port)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 0
+FF Count: 4
+IO Count: 67
+Cell Count: 87
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1088.14 MHz
+Reg-to-Reg Critical Path Delay: 0.716 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.477 W

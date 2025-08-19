@@ -1,0 +1,20 @@
+PPA Report for i2c_debug_interface.v (Module: i2c_debug_interface)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 25
+FF Count: 242
+IO Count: 137
+Cell Count: 422
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 575.71 MHz
+Reg-to-Reg Critical Path Delay: 1.465 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.484 W

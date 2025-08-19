@@ -1,0 +1,1 @@
+Pipelined noise signal bit recovery

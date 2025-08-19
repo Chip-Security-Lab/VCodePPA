@@ -1,0 +1,20 @@
+PPA Report for crc5_sync_reset.v (Module: crc5_sync_reset)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 2
+FF Count: 16
+IO Count: 9
+Cell Count: 38
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 780.03 MHz
+Reg-to-Reg Critical Path Delay: 1.136 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.455 W

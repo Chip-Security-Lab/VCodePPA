@@ -1,0 +1,1 @@
+Reset status edge detection register

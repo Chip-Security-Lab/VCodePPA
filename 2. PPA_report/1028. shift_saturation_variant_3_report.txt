@@ -1,0 +1,20 @@
+PPA Report for shift_saturation.v (Module: shift_saturation)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 10
+FF Count: 19
+IO Count: 20
+Cell Count: 80
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 750.75 MHz
+Reg-to-Reg Critical Path Delay: 1.151 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.454 W

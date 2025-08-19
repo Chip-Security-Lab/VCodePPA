@@ -1,0 +1,1 @@
+Reconfigurable RAM with synchronous read

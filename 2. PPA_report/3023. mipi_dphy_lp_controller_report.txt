@@ -1,0 +1,20 @@
+PPA Report for mipi_dphy_lp_controller
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 15
+FF Count: 17
+IO Count: 16
+Cell Count: 86
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 640.20 MHz
+Reg-to-Reg Critical Path Delay: 1.432 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

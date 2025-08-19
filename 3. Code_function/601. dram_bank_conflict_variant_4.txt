@@ -1,0 +1,1 @@
+DRAM bank conflict detector

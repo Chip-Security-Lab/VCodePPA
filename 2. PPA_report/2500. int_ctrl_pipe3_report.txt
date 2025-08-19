@@ -1,0 +1,22 @@
+PPA Report for 2500. int_ctrl_pipe3.sv (Module: int_ctrl_pipe3)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 17
+FF Count: 47
+IO Count: 23
+Cell Count: 130
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 748.50 MHz
+End-to-End Path Delay: N/A (No valid path found) ns
+Reg-to-Reg Critical Path Delay: 1.102 ns
+Detected Clock Signals: clk
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

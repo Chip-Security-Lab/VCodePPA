@@ -1,0 +1,1 @@
+Synchronous sine wave output generator

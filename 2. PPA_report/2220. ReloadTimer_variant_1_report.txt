@@ -1,0 +1,20 @@
+PPA Report for ReloadTimer.v (Module: ReloadTimer)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 37
+FF Count: 25
+IO Count: 11
+Cell Count: 114
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 599.52 MHz
+Reg-to-Reg Critical Path Delay: 1.472 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

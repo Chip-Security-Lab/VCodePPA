@@ -1,0 +1,20 @@
+PPA Report for DualModeIVMU_AXI4Lite.v (Module: DualModeIVMU_AXI4Lite)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 31
+FF Count: 35
+IO Count: 95
+Cell Count: 220
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 587.89 MHz
+Reg-to-Reg Critical Path Delay: 1.395 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.477 W

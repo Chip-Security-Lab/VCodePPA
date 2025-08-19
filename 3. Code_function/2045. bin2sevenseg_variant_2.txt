@@ -1,0 +1,1 @@
+Binary to seven-segment display decoder

@@ -1,0 +1,20 @@
+PPA Report for buffered_crossbar.v (Module: buffered_crossbar)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 87
+FF Count: 271
+IO Count: 90
+Cell Count: 571
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 729.93 MHz
+Reg-to-Reg Critical Path Delay: 1.070 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.493 W

@@ -1,0 +1,21 @@
+PPA Report for dual_clock_gate.v (Module: dual_clock_gate)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 1
+FF Count: 4
+IO Count: 4
+Cell Count: 20
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1396.65 MHz
+End-to-End Path Delay: 4.790 ns
+Reg-to-Reg Critical Path Delay: 0.597 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.455 W

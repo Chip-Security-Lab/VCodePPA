@@ -1,0 +1,20 @@
+PPA Report for wallace_tree_multiplier_8bit.v (Module: wallace_tree_multiplier_8bit)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 53
+FF Count: 16
+IO Count: 34
+Cell Count: 151
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 554.66 MHz
+Reg-to-Reg Critical Path Delay: 4.478 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 8.482 W

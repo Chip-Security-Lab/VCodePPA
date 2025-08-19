@@ -1,0 +1,20 @@
+PPA Report for periodic_interrupt_timer.v (Module: periodic_interrupt_timer)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 43
+FF Count: 77
+IO Count: 52
+Cell Count: 247
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 597.37 MHz
+Reg-to-Reg Critical Path Delay: 1.532 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.460 W

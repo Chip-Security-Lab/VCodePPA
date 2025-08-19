@@ -1,0 +1,1 @@
+Majority voting noise filter

@@ -1,0 +1,20 @@
+PPA Report for RD10.v (Module: RD10)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 1
+FF Count: 0
+IO Count: 19
+Cell Count: 47
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 292.59 MHz
+Reg-to-Reg Critical Path Delay: 1.976 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.454 W

@@ -1,0 +1,1 @@
+Pipelined CRC-16 bit reflection calculator

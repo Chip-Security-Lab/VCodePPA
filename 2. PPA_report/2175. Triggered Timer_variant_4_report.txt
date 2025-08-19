@@ -1,0 +1,20 @@
+PPA Report for triggered_timer.v (Module: triggered_timer)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 78
+FF Count: 36
+IO Count: 68
+Cell Count: 276
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 584.45 MHz
+Reg-to-Reg Critical Path Delay: 1.521 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.476 W

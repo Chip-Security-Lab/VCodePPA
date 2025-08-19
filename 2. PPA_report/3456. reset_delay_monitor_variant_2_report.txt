@@ -1,0 +1,20 @@
+PPA Report for reset_delay_monitor.v (Module: reset_delay_monitor)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 29
+FF Count: 27
+IO Count: 112
+Cell Count: 323
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 455.79 MHz
+Reg-to-Reg Critical Path Delay: 1.774 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.462 W

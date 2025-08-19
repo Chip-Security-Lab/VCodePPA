@@ -1,0 +1,1 @@
+Threshold detector with state memory

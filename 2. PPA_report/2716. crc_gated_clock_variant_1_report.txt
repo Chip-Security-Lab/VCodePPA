@@ -1,0 +1,20 @@
+PPA Report for crc_gated_clock.v (Module: crc_gated_clock)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 9
+FF Count: 49
+IO Count: 26
+Cell Count: 113
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 330.80 MHz
+Reg-to-Reg Critical Path Delay: 0.410 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.465 W

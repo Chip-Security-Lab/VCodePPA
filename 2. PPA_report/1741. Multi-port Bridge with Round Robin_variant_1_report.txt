@@ -1,0 +1,20 @@
+PPA Report for rr_bridge.v (Module: rr_bridge)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 39
+FF Count: 79
+IO Count: 137
+Cell Count: 463
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 811.69 MHz
+Reg-to-Reg Critical Path Delay: 1.085 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.488 W

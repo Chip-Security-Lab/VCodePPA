@@ -1,0 +1,1 @@
+Synchronous 2-bit comparator with reset

@@ -1,0 +1,20 @@
+PPA Report for BusMask_NAND_Top.v (Module: BusMask_NAND_Top)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 44
+FF Count: 0
+IO Count: 120
+Cell Count: 326
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+End-to-End Path Delay: 6.268 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 17.263 W

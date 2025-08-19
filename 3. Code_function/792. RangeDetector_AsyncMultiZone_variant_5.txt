@@ -1,0 +1,1 @@
+Multi-zone range detector using adders

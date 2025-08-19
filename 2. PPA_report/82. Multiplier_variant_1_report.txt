@@ -1,0 +1,20 @@
+PPA Report for Multiplier2.v (Module: Multiplier2)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 5
+FF Count: 0
+IO Count: 15
+Cell Count: 38
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+End-to-End Path Delay: 5.528 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 2.246 W

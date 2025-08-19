@@ -1,0 +1,20 @@
+PPA Report for configurable_matcher.v (Module: configurable_matcher)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 14
+FF Count: 1
+IO Count: 21
+Cell Count: 91
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 293.63 MHz
+Reg-to-Reg Critical Path Delay: 2.734 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

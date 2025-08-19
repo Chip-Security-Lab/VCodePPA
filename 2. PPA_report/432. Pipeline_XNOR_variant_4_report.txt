@@ -1,0 +1,20 @@
+PPA Report for Pipeline_XNOR.v (Module: Pipeline_XNOR)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 2
+FF Count: 4
+IO Count: 21
+Cell Count: 39
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 814.33 MHz
+Reg-to-Reg Critical Path Delay: 1.109 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

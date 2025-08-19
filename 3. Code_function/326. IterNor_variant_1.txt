@@ -1,0 +1,1 @@
+Bitwise NOR with Wallace multiplier

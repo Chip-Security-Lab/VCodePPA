@@ -1,0 +1,21 @@
+PPA Report for async_square_wave.v (Module: async_square_wave)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 18
+FF Count: 10
+IO Count: 23
+Cell Count: 120
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 569.80 MHz
+End-to-End Path Delay: 5.453 ns
+Reg-to-Reg Critical Path Delay: 1.619 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

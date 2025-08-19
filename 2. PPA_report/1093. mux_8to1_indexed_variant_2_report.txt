@@ -1,0 +1,20 @@
+PPA Report for mux_8to1_indexed.v (Module: mux_8to1_indexed)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 13
+FF Count: 28
+IO Count: 13
+Cell Count: 84
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 729.39 MHz
+Reg-to-Reg Critical Path Delay: 1.173 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

@@ -1,0 +1,20 @@
+PPA Report for async_comb_reg.v (Module: async_comb_reg)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 1
+FF Count: 25
+IO Count: 19
+Cell Count: 74
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 956.94 MHz
+Reg-to-Reg Critical Path Delay: 0.909 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

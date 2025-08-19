@@ -1,0 +1,20 @@
+PPA Report for booth_mult.v (Module: booth_mult)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 9
+FF Count: 8
+IO Count: 22
+Cell Count: 51
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 775.19 MHz
+Reg-to-Reg Critical Path Delay: 1.086 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

@@ -1,0 +1,1 @@
+Pipelined APB range detector circuit

@@ -1,0 +1,20 @@
+PPA Report for bcd2bin_axis.v (Module: bcd2bin_axis)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 18
+FF Count: 26
+IO Count: 30
+Cell Count: 122
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 579.04 MHz
+Reg-to-Reg Critical Path Delay: 1.539 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.455 W

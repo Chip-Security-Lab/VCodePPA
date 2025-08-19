@@ -1,0 +1,20 @@
+PPA Report for RangeDetector_BoundType.v (Module: RangeDetector_BoundType)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 26
+FF Count: 0
+IO Count: 25
+Cell Count: 115
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A
+End-to-End Path Delay: 7.159 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 1.097 W

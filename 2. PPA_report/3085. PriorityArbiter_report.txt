@@ -1,0 +1,20 @@
+PPA Report for 3085. PriorityArbiter.sv (Module: PriorityArbiter)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 14
+FF Count: 8
+IO Count: 14
+Cell Count: 63
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 659.63 MHz
+Longest Path Delay: 1.319 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.451 W

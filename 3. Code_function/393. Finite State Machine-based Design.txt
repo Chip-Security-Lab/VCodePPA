@@ -1,0 +1,1 @@
+NAND gate with intermediate state

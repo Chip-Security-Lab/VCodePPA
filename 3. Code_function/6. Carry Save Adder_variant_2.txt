@@ -1,0 +1,1 @@
+Kogge-Stone three-input parallel adder

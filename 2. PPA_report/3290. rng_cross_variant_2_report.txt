@@ -1,0 +1,20 @@
+PPA Report for rng_cross_10_axi4lite.v (Module: rng_cross_10_axi4lite)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 25
+FF Count: 55
+IO Count: 58
+Cell Count: 178
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 678.89 MHz
+Reg-to-Reg Critical Path Delay: 1.178 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.463 W

@@ -1,0 +1,1 @@
+Concatenation and bit reversal operations

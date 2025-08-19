@@ -1,0 +1,20 @@
+PPA Report for dma_bridge.v (Module: dma_bridge)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 137
+FF Count: 185
+IO Count: 184
+Cell Count: 761
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 467.07 MHz
+Reg-to-Reg Critical Path Delay: 1.868 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.506 W

@@ -1,0 +1,21 @@
+PPA Report for HybridITRC.v (Module: HybridITRC)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 9
+FF Count: 5
+IO Count: 24
+Cell Count: 76
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1077.59 MHz
+End-to-End Path Delay: 5.282 ns
+Reg-to-Reg Critical Path Delay: 0.809 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

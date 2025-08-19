@@ -1,0 +1,20 @@
+PPA Report for double_edge_gen.v (Module: double_edge_gen)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 2
+FF Count: 6
+IO Count: 5
+Cell Count: 21
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 276.82 MHz
+Reg-to-Reg Critical Path Delay: 3.044 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 1.981 W

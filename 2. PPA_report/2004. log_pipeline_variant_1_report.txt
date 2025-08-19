@@ -1,0 +1,20 @@
+PPA Report for log_pipeline_axi4lite.v (Module: log_pipeline_axi4lite)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 42
+FF Count: 105
+IO Count: 56
+Cell Count: 284
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 520.02 MHz
+Reg-to-Reg Critical Path Delay: 1.749 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.462 W

@@ -1,0 +1,20 @@
+PPA Report for priority_range_detector
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 69
+FF Count: 3
+IO Count: 150
+Cell Count: 591
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 881.83 MHz
+Reg-to-Reg Critical Path Delay: 1.015 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.456 W

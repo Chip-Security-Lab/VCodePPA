@@ -1,0 +1,20 @@
+PPA Report for multi_shadow_reg.v (Module: multi_shadow_reg)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 9
+FF Count: 69
+IO Count: 21
+Cell Count: 128
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 269.84 MHz
+Reg-to-Reg Critical Path Delay: 3.360 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 2.903 W

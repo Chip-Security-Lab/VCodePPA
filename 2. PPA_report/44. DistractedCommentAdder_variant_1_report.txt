@@ -1,0 +1,20 @@
+PPA Report for brent_kung_adder_8bit_pipelined.v (Module: brent_kung_adder_8bit_pipelined)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 22
+FF Count: 30
+IO Count: 28
+Cell Count: 132
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 688.23 MHz
+Reg-to-Reg Critical Path Delay: 1.264 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.456 W

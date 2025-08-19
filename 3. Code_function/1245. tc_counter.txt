@@ -1,0 +1,1 @@
+Resettable enabled counter with terminal-count

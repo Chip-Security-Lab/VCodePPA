@@ -1,0 +1,20 @@
+PPA Report for error_detect_bridge.v (Module: error_detect_bridge)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 16
+FF Count: 104
+IO Count: 71
+Cell Count: 268
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 662.25 MHz
+Reg-to-Reg Critical Path Delay: 1.277 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.462 W

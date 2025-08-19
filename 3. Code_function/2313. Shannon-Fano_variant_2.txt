@@ -1,0 +1,1 @@
+Variable-length entropy data compressor

@@ -1,0 +1,20 @@
+PPA Report for priority_display_codec
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 20
+FF Count: 20
+IO Count: 63
+Cell Count: 199
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 978.47 MHz
+Reg-to-Reg Critical Path Delay: 0.879 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.467 W

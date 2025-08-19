@@ -1,0 +1,22 @@
+PPA Report for 1128. cdc_demux.sv (Module: cdc_demux)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 3
+FF Count: 12
+IO Count: 9
+Cell Count: 41
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 263.99 MHz
+End-to-End Path Delay: N/A (No valid path found) ns
+Reg-to-Reg Critical Path Delay: 2.996 ns
+Detected Clock Signals: src_clk dst_clk
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

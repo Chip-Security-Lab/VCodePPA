@@ -1,0 +1,20 @@
+PPA Report for mixed_sync_async_intr_ctrl.v (Module: mixed_sync_async_intr_ctrl)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 34
+FF Count: 62
+IO Count: 23
+Cell Count: 168
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 749.06 MHz
+Reg-to-Reg Critical Path Delay: 1.198 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

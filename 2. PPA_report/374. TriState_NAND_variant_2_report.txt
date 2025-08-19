@@ -1,0 +1,20 @@
+PPA Report for TriState_NAND.v (Module: TriState_NAND)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 6
+FF Count: 19
+IO Count: 15
+Cell Count: 66
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 854.70 MHz
+Reg-to-Reg Critical Path Delay: 1.030 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

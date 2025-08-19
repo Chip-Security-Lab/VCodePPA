@@ -1,0 +1,20 @@
+PPA Report for usb_endpoint_buffer_mgr.v (Module: usb_endpoint_buffer_mgr)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 1646
+FF Count: 2273
+IO Count: 34
+Cell Count: 4203
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 261.44 MHz
+Reg-to-Reg Critical Path Delay: 3.484 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.468 W

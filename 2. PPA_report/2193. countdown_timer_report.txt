@@ -1,0 +1,20 @@
+PPA Report for countdown_timer
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 59
+FF Count: 27
+IO Count: 29
+Cell Count: 177
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 247.71 MHz
+Reg-to-Reg Critical Path Delay: 3.337 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 1.195 W

@@ -1,0 +1,20 @@
+PPA Report for hamming_decoder_flags
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 6
+FF Count: 14
+IO Count: 24
+Cell Count: 77
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 970.87 MHz
+Reg-to-Reg Critical Path Delay: 0.893 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.454 W

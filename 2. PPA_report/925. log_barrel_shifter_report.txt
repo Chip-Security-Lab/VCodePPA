@@ -1,0 +1,20 @@
+PPA Report for log_barrel_shifter
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 29
+FF Count: 96
+IO Count: 38
+Cell Count: 237
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 872.60 MHz
+Reg-to-Reg Critical Path Delay: 0.960 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.457 W

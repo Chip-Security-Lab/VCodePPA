@@ -1,0 +1,20 @@
+PPA Report for WindowAvgRecovery.v (Module: WindowAvgRecovery)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 32
+FF Count: 40
+IO Count: 18
+Cell Count: 124
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 426.20 MHz
+Reg-to-Reg Critical Path Delay: 3.265 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 7.128 W

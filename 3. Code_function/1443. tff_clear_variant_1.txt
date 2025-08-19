@@ -1,0 +1,1 @@
+Pipelined T-flip-flop with clear

@@ -1,0 +1,1 @@
+Pulse-width controlled clock gating

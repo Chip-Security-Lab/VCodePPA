@@ -1,0 +1,20 @@
+PPA Report for shift_preset_pipeline.v (Module: shift_preset_pipeline)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 8
+FF Count: 26
+IO Count: 21
+Cell Count: 84
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 548.25 MHz
+Reg-to-Reg Critical Path Delay: 1.614 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.454 W

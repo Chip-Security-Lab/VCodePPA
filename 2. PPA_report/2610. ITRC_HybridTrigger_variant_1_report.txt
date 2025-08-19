@@ -1,0 +1,20 @@
+PPA Report for ITRC_HybridTrigger.v (Module: ITRC_HybridTrigger)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 25
+FF Count: 64
+IO Count: 26
+Cell Count: 162
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 849.62 MHz
+Reg-to-Reg Critical Path Delay: 1.059 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.454 W

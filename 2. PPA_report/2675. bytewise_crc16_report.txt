@@ -1,0 +1,20 @@
+PPA Report for bytewise_crc16
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 1
+FF Count: 16
+IO Count: 27
+Cell Count: 69
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 251.89 MHz
+Reg-to-Reg Critical Path Delay: 3.270 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 4.068 W

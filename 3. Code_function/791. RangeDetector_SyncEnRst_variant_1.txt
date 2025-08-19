@@ -1,0 +1,1 @@
+Synchronous in-range detector with enable

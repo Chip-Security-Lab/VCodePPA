@@ -1,0 +1,20 @@
+PPA Report for rng_shuffle_13_axi4lite.v (Module: rng_shuffle_13_axi4lite)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 20
+FF Count: 26
+IO Count: 34
+Cell Count: 119
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 646.41 MHz
+Reg-to-Reg Critical Path Delay: 1.310 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

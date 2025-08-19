@@ -1,0 +1,20 @@
+PPA Report for mipi_soundwire_controller.v (Module: mipi_soundwire_controller)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 29
+FF Count: 31
+IO Count: 23
+Cell Count: 130
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 513.61 MHz
+Reg-to-Reg Critical Path Delay: 1.764 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.454 W

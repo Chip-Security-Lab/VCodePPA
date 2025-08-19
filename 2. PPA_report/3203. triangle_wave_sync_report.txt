@@ -1,0 +1,20 @@
+PPA Report for triangle_wave_sync
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 13
+FF Count: 9
+IO Count: 11
+Cell Count: 45
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 244.86 MHz
+Reg-to-Reg Critical Path Delay: 3.384 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 4.084 W

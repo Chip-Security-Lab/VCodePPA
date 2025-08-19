@@ -1,0 +1,20 @@
+PPA Report for ConfigPriorityIVMU_req_ack.v (Module: ConfigPriorityIVMU_req_ack)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 39
+FF Count: 29
+IO Count: 69
+Cell Count: 221
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 230.63 MHz
+Reg-to-Reg Critical Path Delay: 4.137 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.462 W

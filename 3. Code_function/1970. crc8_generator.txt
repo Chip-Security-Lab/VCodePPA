@@ -1,0 +1,1 @@
+CRC-8 error detection generator

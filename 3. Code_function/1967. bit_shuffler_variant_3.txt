@@ -1,0 +1,1 @@
+Pipelined configurable data bit manipulator

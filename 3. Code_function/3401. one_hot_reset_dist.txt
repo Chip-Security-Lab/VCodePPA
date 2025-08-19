@@ -1,0 +1,1 @@
+Selective single-bit reset distributor.

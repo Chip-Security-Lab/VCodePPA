@@ -1,0 +1,20 @@
+PPA Report for programmable_shadow_reg_axi_stream.v (Module: programmable_shadow_reg_axi_stream)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 3
+FF Count: 9
+IO Count: 14
+Cell Count: 47
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1059.32 MHz
+Reg-to-Reg Critical Path Delay: 0.808 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

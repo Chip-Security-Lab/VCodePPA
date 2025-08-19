@@ -1,0 +1,21 @@
+PPA Report for sync_rst_buffer.v (Module: sync_rst_buffer)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 5
+FF Count: 99
+IO Count: 70
+Cell Count: 250
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 967.12 MHz
+End-to-End Path Delay: 3.784 ns
+Reg-to-Reg Critical Path Delay: 0.890 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.471 W

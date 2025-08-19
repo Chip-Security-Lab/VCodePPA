@@ -1,0 +1,20 @@
+PPA Report for simple_2to1_mux.v (Module: simple_2to1_mux)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 4
+FF Count: 2
+IO Count: 10
+Cell Count: 35
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1135.07 MHz
+Reg-to-Reg Critical Path Delay: 0.762 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.451 W

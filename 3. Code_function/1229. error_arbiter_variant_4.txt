@@ -1,0 +1,1 @@
+Pipelined priority arbiter with error

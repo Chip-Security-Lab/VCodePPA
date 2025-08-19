@@ -1,0 +1,20 @@
+PPA Report for nor4_reset.v (Module: nor4_reset)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 62
+FF Count: 118
+IO Count: 49
+Cell Count: 338
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A
+End-to-End Path Delay: 5.302 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.708 W

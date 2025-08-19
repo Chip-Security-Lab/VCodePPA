@@ -1,0 +1,22 @@
+PPA Report for 1855. phase_aligner.sv (Module: phase_aligner)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 8
+FF Count: 40
+IO Count: 42
+Cell Count: 162
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 964.32 MHz
+End-to-End Path Delay: N/A (No valid path found) ns
+Reg-to-Reg Critical Path Delay: 0.902 ns
+Detected Clock Signals: clk
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.456 W

@@ -1,0 +1,20 @@
+PPA Report for SyncMatcher.v (Module: SyncMatcher)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 6
+FF Count: 17
+IO Count: 20
+Cell Count: 84
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 751.88 MHz
+Reg-to-Reg Critical Path Delay: 1.193 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

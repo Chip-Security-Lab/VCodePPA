@@ -1,0 +1,21 @@
+PPA Report for cdc_clock_gate.v (Module: cdc_clock_gate)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 2
+FF Count: 5
+IO Count: 5
+Cell Count: 24
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 323.62 MHz
+End-to-End Path Delay: 4.867 ns
+Reg-to-Reg Critical Path Delay: 0.282 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.455 W

@@ -1,0 +1,21 @@
+PPA Report for dff_dual_edge.v (Module: dff_dual_edge)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 3
+FF Count: 10
+IO Count: 4
+Cell Count: 27
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 175.78 MHz
+End-to-End Path Delay: 5.131 ns
+Reg-to-Reg Critical Path Delay: 0.352 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.454 W

@@ -1,0 +1,22 @@
+PPA Report for 753. param_equality_comparator.sv (Module: param_equality_comparator)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 7
+FF Count: 1
+IO Count: 36
+Cell Count: 116
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 301.20 MHz
+End-to-End Path Delay: N/A (No valid path found) ns
+Reg-to-Reg Critical Path Delay: 2.620 ns
+Detected Clock Signals: clock
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

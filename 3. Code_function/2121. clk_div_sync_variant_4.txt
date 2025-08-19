@@ -1,0 +1,1 @@
+Clock divider with non-restoring division

@@ -1,0 +1,21 @@
+PPA Report for daisy_chain_arbiter_axi.v (Module: daisy_chain_arbiter_axi)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 5
+FF Count: 5
+IO Count: 14
+Cell Count: 47
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1242.24 MHz
+End-to-End Path Delay: 4.572 ns
+Reg-to-Reg Critical Path Delay: 0.686 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

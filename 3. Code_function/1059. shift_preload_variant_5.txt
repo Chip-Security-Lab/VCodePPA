@@ -1,0 +1,1 @@
+Loadable left-shift register with preload

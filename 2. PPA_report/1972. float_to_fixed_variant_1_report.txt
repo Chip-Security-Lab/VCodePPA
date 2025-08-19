@@ -1,0 +1,20 @@
+PPA Report for float_to_fixed.v (Module: float_to_fixed)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 121
+FF Count: 0
+IO Count: 33
+Cell Count: 218
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+End-to-End Path Delay: 7.080 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 6.459 W

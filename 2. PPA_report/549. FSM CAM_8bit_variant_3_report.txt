@@ -1,0 +1,20 @@
+PPA Report for cam_9.v (Module: cam_9)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 4
+FF Count: 30
+IO Count: 19
+Cell Count: 77
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 755.86 MHz
+Reg-to-Reg Critical Path Delay: 1.205 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

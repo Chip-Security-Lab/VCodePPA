@@ -1,0 +1,20 @@
+PPA Report for crossbar_dyna_prio.v (Module: crossbar_dyna_prio)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 40
+FF Count: 120
+IO Count: 81
+Cell Count: 343
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 855.43 MHz
+Reg-to-Reg Critical Path Delay: 0.958 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.473 W

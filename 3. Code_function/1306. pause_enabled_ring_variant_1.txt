@@ -1,0 +1,1 @@
+Pausable one-hot ring counter

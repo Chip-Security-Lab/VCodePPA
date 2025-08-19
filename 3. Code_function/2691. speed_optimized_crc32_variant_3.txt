@@ -1,0 +1,1 @@
+Pipelined CRC32 hardware calculator

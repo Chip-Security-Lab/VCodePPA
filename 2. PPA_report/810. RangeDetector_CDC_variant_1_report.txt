@@ -1,0 +1,20 @@
+PPA Report for RangeDetector_CDC.v (Module: RangeDetector_CDC)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 5
+FF Count: 4
+IO Count: 20
+Cell Count: 78
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 229.41 MHz
+Reg-to-Reg Critical Path Delay: 4.173 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

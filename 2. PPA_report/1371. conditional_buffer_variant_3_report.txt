@@ -1,0 +1,20 @@
+PPA Report for conditional_buffer.v (Module: conditional_buffer)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 10
+FF Count: 19
+IO Count: 30
+Cell Count: 109
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 766.28 MHz
+Reg-to-Reg Critical Path Delay: 1.086 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

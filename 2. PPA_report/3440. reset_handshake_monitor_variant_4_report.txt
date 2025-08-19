@@ -1,0 +1,20 @@
+PPA Report for reset_handshake_monitor.v (Module: reset_handshake_monitor)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 14
+FF Count: 15
+IO Count: 5
+Cell Count: 50
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 644.75 MHz
+Reg-to-Reg Critical Path Delay: 1.322 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

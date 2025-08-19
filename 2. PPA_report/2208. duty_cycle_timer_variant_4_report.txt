@@ -1,0 +1,20 @@
+PPA Report for duty_cycle_timer.v (Module: duty_cycle_timer)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 176
+FF Count: 25
+IO Count: 23
+Cell Count: 357
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 275.15 MHz
+Reg-to-Reg Critical Path Delay: 9.547 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 5.677 W

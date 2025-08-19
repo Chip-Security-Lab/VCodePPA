@@ -1,0 +1,20 @@
+PPA Report for and_xor_not_gate.v (Module: and_xor_not_gate)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 4
+FF Count: 6
+IO Count: 6
+Cell Count: 29
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 956.94 MHz
+Reg-to-Reg Critical Path Delay: 0.926 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

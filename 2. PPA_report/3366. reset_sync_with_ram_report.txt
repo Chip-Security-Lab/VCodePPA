@@ -1,0 +1,20 @@
+PPA Report for 3366. reset_sync_with_ram.sv (Module: reset_sync_with_ram)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 1
+FF Count: 1
+IO Count: 7
+Cell Count: 16
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic) MHz
+Longest Path Delay: 1.818 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

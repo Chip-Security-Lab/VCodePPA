@@ -1,0 +1,20 @@
+PPA Report for pcm_codec.v (Module: pcm_codec)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 51
+FF Count: 128
+IO Count: 52
+Cell Count: 304
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 564.33 MHz
+Reg-to-Reg Critical Path Delay: 1.563 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.470 W

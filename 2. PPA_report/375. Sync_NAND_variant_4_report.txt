@@ -1,0 +1,20 @@
+PPA Report for Sync_NAND_AXI.v (Module: Sync_NAND_AXI)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 16
+FF Count: 31
+IO Count: 30
+Cell Count: 120
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 778.21 MHz
+Reg-to-Reg Critical Path Delay: 1.056 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

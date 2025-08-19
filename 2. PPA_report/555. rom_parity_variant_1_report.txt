@@ -1,0 +1,20 @@
+PPA Report for rom_parity.v (Module: rom_parity)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 2
+FF Count: 9
+IO Count: 17
+Cell Count: 39
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 976.56 MHz
+Reg-to-Reg Critical Path Delay: 0.838 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.454 W

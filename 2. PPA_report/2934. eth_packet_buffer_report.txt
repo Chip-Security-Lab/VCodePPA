@@ -1,0 +1,20 @@
+PPA Report for eth_packet_buffer
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 13753
+FF Count: 32959
+IO Count: 23
+Cell Count: 53671
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 68.94 MHz
+Reg-to-Reg Critical Path Delay: 13.806 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 155.586 W

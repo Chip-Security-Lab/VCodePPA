@@ -1,0 +1,1 @@
+Latched priority encoder with synchronization

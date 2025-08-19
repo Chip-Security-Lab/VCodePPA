@@ -1,0 +1,20 @@
+PPA Report for ICMU_StackSync
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 158
+FF Count: 553
+IO Count: 69
+Cell Count: 956
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 386.85 MHz
+Reg-to-Reg Critical Path Delay: 2.282 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.478 W

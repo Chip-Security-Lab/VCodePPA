@@ -1,0 +1,1 @@
+NRZI encoder with pipelined stages

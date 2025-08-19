@@ -1,0 +1,1 @@
+Registered equality comparator circuit

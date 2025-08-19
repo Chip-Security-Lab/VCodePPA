@@ -1,0 +1,21 @@
+PPA Report for 1172. crossbar_async.sv (Module: crossbar_async)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 48
+FF Count: 0
+IO Count: 105
+Cell Count: 267
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+End-to-End Path Delay: 5.595 ns
+Detected Clock Signals: None
+
+POWER METRICS:
+-------------
+Total Power Consumption: 32.320 W

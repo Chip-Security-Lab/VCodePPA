@@ -1,0 +1,20 @@
+PPA Report for i2c_task_based.v (Module: i2c_task_based)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 27
+FF Count: 14
+IO Count: 10
+Cell Count: 76
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 526.04 MHz
+Reg-to-Reg Critical Path Delay: 1.679 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

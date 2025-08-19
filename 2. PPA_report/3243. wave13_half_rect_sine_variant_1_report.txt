@@ -1,0 +1,20 @@
+PPA Report for wave13_half_rect_sine.v (Module: wave13_half_rect_sine)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 4
+FF Count: 18
+IO Count: 10
+Cell Count: 42
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1003.01 MHz
+Reg-to-Reg Critical Path Delay: 0.879 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.451 W

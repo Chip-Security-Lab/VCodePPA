@@ -1,0 +1,1 @@
+Dynamically selects and processes channel

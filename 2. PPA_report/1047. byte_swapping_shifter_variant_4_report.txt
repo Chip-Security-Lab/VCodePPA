@@ -1,0 +1,20 @@
+PPA Report for byte_swapping_shifter.v (Module: byte_swapping_shifter)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 33
+FF Count: 32
+IO Count: 68
+Cell Count: 208
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 283.38 MHz
+Reg-to-Reg Critical Path Delay: 2.310 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.484 W

@@ -1,0 +1,1 @@
+CRC calculator with automatic reset

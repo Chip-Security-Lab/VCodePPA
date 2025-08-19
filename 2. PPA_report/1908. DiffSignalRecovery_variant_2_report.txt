@@ -1,0 +1,20 @@
+PPA Report for DiffSignalRecovery.v (Module: DiffSignalRecovery)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 0
+FF Count: 2
+IO Count: 2
+Cell Count: 10
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1154.73 MHz
+Reg-to-Reg Critical Path Delay: 0.747 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.451 W

@@ -1,0 +1,22 @@
+PPA Report for 2961.eth_crc32_pipelined.sv (Module: eth_crc32_pipelined)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 59
+FF Count: 96
+IO Count: 43
+Cell Count: 238
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 609.01 MHz
+End-to-End Path Delay: N/A (No valid path found) ns
+Reg-to-Reg Critical Path Delay: 1.512 ns
+Detected Clock Signals: clk
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.515 W

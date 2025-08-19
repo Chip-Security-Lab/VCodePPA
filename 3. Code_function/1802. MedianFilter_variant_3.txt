@@ -1,0 +1,1 @@
+Finds median of three values

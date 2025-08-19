@@ -1,0 +1,20 @@
+PPA Report for func_adder_axi_lite.v (Module: func_adder_axi_lite)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 39
+FF Count: 27
+IO Count: 117
+Cell Count: 343
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+End-to-End Path Delay: 4.592 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 4.702 W

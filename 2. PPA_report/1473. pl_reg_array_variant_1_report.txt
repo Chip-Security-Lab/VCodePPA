@@ -1,0 +1,20 @@
+PPA Report for pl_reg_array.v (Module: pl_reg_array)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 20
+FF Count: 27
+IO Count: 26
+Cell Count: 117
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 626.17 MHz
+Reg-to-Reg Critical Path Delay: 1.399 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.454 W

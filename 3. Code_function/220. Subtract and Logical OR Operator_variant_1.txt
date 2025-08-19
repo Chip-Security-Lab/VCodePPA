@@ -1,0 +1,1 @@
+Subtraction followed by logical right-shift

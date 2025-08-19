@@ -1,0 +1,21 @@
+PPA Report for lsl_shifter_valid_ready.v (Module: lsl_shifter_valid_ready)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 16
+FF Count: 27
+IO Count: 25
+Cell Count: 105
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 893.66 MHz
+End-to-End Path Delay: 4.729 ns
+Reg-to-Reg Critical Path Delay: 0.882 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

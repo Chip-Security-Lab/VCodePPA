@@ -1,0 +1,20 @@
+PPA Report for pipelined_crossbar.v (Module: pipelined_crossbar)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 112
+FF Count: 200
+IO Count: 138
+Cell Count: 629
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 518.13 MHz
+Reg-to-Reg Critical Path Delay: 1.740 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.523 W

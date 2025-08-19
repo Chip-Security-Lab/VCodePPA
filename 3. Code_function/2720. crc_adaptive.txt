@@ -1,0 +1,1 @@
+Adaptable CRC-32 generator circuit

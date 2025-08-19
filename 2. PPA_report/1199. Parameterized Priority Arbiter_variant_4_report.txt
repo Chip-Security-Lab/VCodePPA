@@ -1,0 +1,20 @@
+PPA Report for param_priority_arbiter.v (Module: param_priority_arbiter)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 45
+FF Count: 49
+IO Count: 42
+Cell Count: 215
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 399.84 MHz
+Reg-to-Reg Critical Path Delay: 2.373 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.454 W

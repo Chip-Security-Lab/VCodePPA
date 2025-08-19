@@ -1,0 +1,20 @@
+PPA Report for salsa20_qround_pipe.v (Module: salsa20_qround_pipe)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 159
+FF Count: 403
+IO Count: 185
+Cell Count: 1005
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 725.16 MHz
+Reg-to-Reg Critical Path Delay: 1.194 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.565 W

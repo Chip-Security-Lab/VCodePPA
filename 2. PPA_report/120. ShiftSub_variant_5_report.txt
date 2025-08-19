@@ -1,0 +1,20 @@
+PPA Report for ShiftSub.v (Module: ShiftSub)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 91
+FF Count: 0
+IO Count: 24
+Cell Count: 178
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+End-to-End Path Delay: 11.248 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 6.760 W

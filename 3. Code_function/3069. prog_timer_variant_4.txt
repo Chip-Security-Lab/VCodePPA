@@ -1,0 +1,1 @@
+Programmable multi-mode timer with PWM

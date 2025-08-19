@@ -1,0 +1,1 @@
+Pipelined pattern matcher with selection

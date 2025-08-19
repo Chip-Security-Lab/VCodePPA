@@ -1,0 +1,1 @@
+Selectable pattern matching detector

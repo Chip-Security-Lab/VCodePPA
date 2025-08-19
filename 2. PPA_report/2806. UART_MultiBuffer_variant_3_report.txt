@@ -1,0 +1,20 @@
+PPA Report for UART_MultiBuffer_Pipelined.v (Module: UART_MultiBuffer_Pipelined)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 5
+FF Count: 4
+IO Count: 12
+Cell Count: 36
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1272.26 MHz
+Reg-to-Reg Critical Path Delay: 0.668 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

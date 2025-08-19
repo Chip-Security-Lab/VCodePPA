@@ -1,0 +1,20 @@
+PPA Report for MuxSyncReg.v (Module: MuxSyncReg)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 28
+FF Count: 13
+IO Count: 80
+Cell Count: 270
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 509.42 MHz
+Reg-to-Reg Critical Path Delay: 1.774 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.454 W

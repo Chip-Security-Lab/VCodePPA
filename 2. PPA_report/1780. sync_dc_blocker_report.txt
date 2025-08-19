@@ -1,0 +1,20 @@
+PPA Report for sync_dc_blocker
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 34
+FF Count: 32
+IO Count: 34
+Cell Count: 160
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 526.32 MHz
+Reg-to-Reg Critical Path Delay: 1.743 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.464 W

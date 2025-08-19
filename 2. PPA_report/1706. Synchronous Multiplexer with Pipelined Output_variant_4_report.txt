@@ -1,0 +1,20 @@
+PPA Report for pipeline_mux.v (Module: pipeline_mux)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 25
+FF Count: 50
+IO Count: 84
+Cell Count: 306
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 968.05 MHz
+Reg-to-Reg Critical Path Delay: 0.766 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.468 W

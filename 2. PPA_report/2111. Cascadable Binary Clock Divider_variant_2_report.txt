@@ -1,0 +1,20 @@
+PPA Report for binary_clk_divider.v (Module: binary_clk_divider)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 2
+FF Count: 15
+IO Count: 8
+Cell Count: 35
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 293.16 MHz
+Reg-to-Reg Critical Path Delay: 3.104 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 3.331 W

@@ -1,0 +1,20 @@
+PPA Report for complementary_square.v (Module: complementary_square)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 22
+FF Count: 10
+IO Count: 12
+Cell Count: 70
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 547.95 MHz
+Reg-to-Reg Critical Path Delay: 1.619 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

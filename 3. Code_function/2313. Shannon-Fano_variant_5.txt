@@ -1,0 +1,1 @@
+Pipelined variable-length entropy encoder

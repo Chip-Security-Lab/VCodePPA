@@ -1,0 +1,20 @@
+PPA Report for boot_sequence_reset.v (Module: boot_sequence_reset)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 6
+FF Count: 8
+IO Count: 7
+Cell Count: 30
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 852.51 MHz
+Reg-to-Reg Critical Path Delay: 0.954 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.454 W

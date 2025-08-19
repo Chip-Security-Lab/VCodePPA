@@ -1,0 +1,20 @@
+PPA Report for 3009. CAN_PHY_Interface.sv (Module: CAN_PHY_Interface)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 12
+FF Count: 10
+IO Count: 7
+Cell Count: 48
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 622.67 MHz
+Longest Path Delay: 1.384 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

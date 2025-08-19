@@ -1,0 +1,1 @@
+Synchronous 4-bit multiplier with handshaking

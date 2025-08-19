@@ -1,0 +1,20 @@
+PPA Report for async_hamming_enc_8bit.v (Module: async_hamming_enc_8bit)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 7
+FF Count: 34
+IO Count: 24
+Cell Count: 90
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 794.28 MHz
+Reg-to-Reg Critical Path Delay: 1.115 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.455 W

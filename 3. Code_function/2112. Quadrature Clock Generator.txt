@@ -1,0 +1,1 @@
+Generates quadrature-phased clock signals

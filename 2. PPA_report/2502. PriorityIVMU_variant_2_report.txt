@@ -1,0 +1,20 @@
+PPA Report for PriorityIVMU.v (Module: PriorityIVMU)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 251
+FF Count: 545
+IO Count: 88
+Cell Count: 997
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 622.28 MHz
+Reg-to-Reg Critical Path Delay: 1.440 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.486 W

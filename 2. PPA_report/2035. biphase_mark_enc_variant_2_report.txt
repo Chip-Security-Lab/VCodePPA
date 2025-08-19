@@ -1,0 +1,20 @@
+PPA Report for biphase_mark_enc.v (Module: biphase_mark_enc)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 2
+FF Count: 3
+IO Count: 4
+Cell Count: 19
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 833.33 MHz
+Reg-to-Reg Critical Path Delay: 1.081 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

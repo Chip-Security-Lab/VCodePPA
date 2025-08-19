@@ -1,0 +1,20 @@
+PPA Report for serial2parallel_converter.v (Module: serial2parallel_converter)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 13
+FF Count: 29
+IO Count: 13
+Cell Count: 70
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 657.89 MHz
+Reg-to-Reg Critical Path Delay: 1.378 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.454 W

@@ -1,0 +1,22 @@
+PPA Report for 521. cam_basic.sv (Module: cam_basic)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 64
+FF Count: 144
+IO Count: 38
+Cell Count: 294
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 722.54 MHz
+End-to-End Path Delay: N/A (No valid path found) ns
+Reg-to-Reg Critical Path Delay: 1.195 ns
+Detected Clock Signals: clk
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

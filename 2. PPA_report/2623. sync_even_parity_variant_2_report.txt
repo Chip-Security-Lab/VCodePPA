@@ -1,0 +1,20 @@
+PPA Report for sync_even_parity_valid_ready.v (Module: sync_even_parity_valid_ready)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 6
+FF Count: 18
+IO Count: 21
+Cell Count: 87
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 741.84 MHz
+Reg-to-Reg Critical Path Delay: 1.121 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

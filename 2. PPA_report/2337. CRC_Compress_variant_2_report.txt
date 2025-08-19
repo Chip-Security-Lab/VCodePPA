@@ -1,0 +1,21 @@
+PPA Report for CRC_Compress.v (Module: CRC_Compress)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 12
+FF Count: 53
+IO Count: 39
+Cell Count: 128
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 656.60 MHz
+End-to-End Path Delay: 4.636 ns
+Reg-to-Reg Critical Path Delay: 1.335 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.473 W

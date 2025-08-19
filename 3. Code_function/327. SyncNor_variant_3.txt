@@ -1,0 +1,1 @@
+Synchronous NOR with register logic

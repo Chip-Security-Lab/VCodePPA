@@ -1,0 +1,20 @@
+PPA Report for cst_display_codec.v (Module: cst_display_codec)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 717
+FF Count: 344
+IO Count: 124
+Cell Count: 1670
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 327.33 MHz
+Reg-to-Reg Critical Path Delay: 2.876 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.480 W

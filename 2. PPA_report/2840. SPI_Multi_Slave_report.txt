@@ -1,0 +1,22 @@
+PPA Report for 2840. SPI_Multi_Slave.sv (Module: SPI_Multi_Slave)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 0
+FF Count: 24
+IO Count: 47
+Cell Count: 96
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 287.85 MHz
+End-to-End Path Delay: N/A (No valid path found) ns
+Reg-to-Reg Critical Path Delay: 2.193 ns
+Detected Clock Signals: clk sclk
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.455 W

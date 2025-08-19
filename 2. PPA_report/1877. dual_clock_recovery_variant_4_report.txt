@@ -1,0 +1,20 @@
+PPA Report for dual_clock_recovery.v (Module: dual_clock_recovery)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 4
+FF Count: 22
+IO Count: 22
+Cell Count: 78
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 322.79 MHz
+Reg-to-Reg Critical Path Delay: 1.060 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.454 W

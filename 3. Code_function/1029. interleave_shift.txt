@@ -1,0 +1,1 @@
+Interleaves odd-even bits on clock

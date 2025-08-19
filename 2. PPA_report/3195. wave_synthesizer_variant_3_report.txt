@@ -1,0 +1,20 @@
+PPA Report for wave_synthesizer.v (Module: wave_synthesizer)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 1
+FF Count: 4
+IO Count: 12
+Cell Count: 31
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1243.78 MHz
+Reg-to-Reg Critical Path Delay: 0.685 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.451 W

@@ -1,0 +1,20 @@
+PPA Report for fault_tolerant_icmu.v (Module: fault_tolerant_icmu)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 38
+FF Count: 26
+IO Count: 30
+Cell Count: 150
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 276.24 MHz
+Reg-to-Reg Critical Path Delay: 3.440 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 5.321 W

@@ -1,0 +1,20 @@
+PPA Report for manchester_adder_8bit.v (Module: manchester_adder_8bit)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 8
+FF Count: 0
+IO Count: 26
+Cell Count: 72
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+End-to-End Path Delay: 6.500 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 4.772 W

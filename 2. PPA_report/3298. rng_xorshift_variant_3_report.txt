@@ -1,0 +1,20 @@
+PPA Report for rng_xorshift_18.v (Module: rng_xorshift_18)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 15
+FF Count: 35
+IO Count: 12
+Cell Count: 77
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 716.33 MHz
+Reg-to-Reg Critical Path Delay: 1.096 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.458 W

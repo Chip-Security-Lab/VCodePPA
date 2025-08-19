@@ -1,0 +1,20 @@
+PPA Report for Sync_XNOR.v (Module: Sync_XNOR)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 9
+FF Count: 26
+IO Count: 28
+Cell Count: 104
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1052.63 MHz
+Reg-to-Reg Critical Path Delay: 0.815 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.454 W

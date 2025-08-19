@@ -1,0 +1,20 @@
+PPA Report for async_reset_fanout.v (Module: async_reset_fanout)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 0
+FF Count: 5
+IO Count: 18
+Cell Count: 31
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 699.30 MHz
+Reg-to-Reg Critical Path Delay: 1.234 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.451 W

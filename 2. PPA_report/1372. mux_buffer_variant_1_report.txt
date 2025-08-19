@@ -1,0 +1,20 @@
+PPA Report for mux_buffer.v (Module: mux_buffer)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 15
+FF Count: 43
+IO Count: 47
+Cell Count: 182
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1004.02 MHz
+Reg-to-Reg Critical Path Delay: 0.764 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.454 W

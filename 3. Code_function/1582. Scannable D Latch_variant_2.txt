@@ -1,0 +1,1 @@
+Scannable latch with test mode

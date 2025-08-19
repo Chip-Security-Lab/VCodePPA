@@ -1,0 +1,1 @@
+Synchronous ring oscillator with reset

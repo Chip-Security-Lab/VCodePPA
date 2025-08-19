@@ -1,0 +1,20 @@
+PPA Report for counter_onehot.v (Module: counter_onehot)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 0
+FF Count: 15
+IO Count: 8
+Cell Count: 32
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 802.57 MHz
+Reg-to-Reg Critical Path Delay: 1.110 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

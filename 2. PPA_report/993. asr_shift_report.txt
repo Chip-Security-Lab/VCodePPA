@@ -1,0 +1,22 @@
+PPA Report for 993. asr_shift.sv (Module: asr_shift)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 72
+FF Count: 32
+IO Count: 71
+Cell Count: 277
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 268.46 MHz
+End-to-End Path Delay: N/A (No valid path found) ns
+Reg-to-Reg Critical Path Delay: 3.025 ns
+Detected Clock Signals: clk clk_
+
+POWER METRICS:
+-------------
+Total Power Consumption: 20.580 W

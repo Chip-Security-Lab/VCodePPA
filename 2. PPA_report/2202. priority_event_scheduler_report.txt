@@ -1,0 +1,20 @@
+PPA Report for priority_event_scheduler
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 216
+FF Count: 140
+IO Count: 142
+Cell Count: 813
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 425.53 MHz
+Reg-to-Reg Critical Path Delay: 2.067 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.458 W

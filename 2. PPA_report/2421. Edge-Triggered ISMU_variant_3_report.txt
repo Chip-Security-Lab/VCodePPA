@@ -1,0 +1,20 @@
+PPA Report for edge_triggered_ismu.v (Module: edge_triggered_ismu)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 18
+FF Count: 24
+IO Count: 27
+Cell Count: 110
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 222.87 MHz
+Reg-to-Reg Critical Path Delay: 3.562 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.653 W

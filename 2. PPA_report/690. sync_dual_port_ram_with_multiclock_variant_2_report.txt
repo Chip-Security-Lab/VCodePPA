@@ -1,0 +1,20 @@
+PPA Report for ram_core.v (Module: ram_core)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 0
+FF Count: 18
+IO Count: 52
+Cell Count: 149
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 330.34 MHz
+Reg-to-Reg Critical Path Delay: 4.223 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 13.143 W

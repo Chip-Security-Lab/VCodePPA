@@ -1,0 +1,1 @@
+Pipelined register array with read/write

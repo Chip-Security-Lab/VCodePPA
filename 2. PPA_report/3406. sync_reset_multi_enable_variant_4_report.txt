@@ -1,0 +1,20 @@
+PPA Report for sync_reset_multi_enable.v (Module: sync_reset_multi_enable)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 4
+FF Count: 4
+IO Count: 10
+Cell Count: 33
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 476.46 MHz
+Reg-to-Reg Critical Path Delay: 2.091 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

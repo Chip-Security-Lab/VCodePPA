@@ -1,0 +1,1 @@
+Reset delay after power-up

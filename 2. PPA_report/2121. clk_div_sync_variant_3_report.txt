@@ -1,0 +1,20 @@
+PPA Report for clk_div_sync.v (Module: clk_div_sync)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 2
+FF Count: 2
+IO Count: 4
+Cell Count: 18
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 302.63 MHz
+Reg-to-Reg Critical Path Delay: 2.935 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.848 W

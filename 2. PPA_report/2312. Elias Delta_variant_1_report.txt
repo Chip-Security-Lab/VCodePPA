@@ -1,0 +1,20 @@
+PPA Report for elias_delta_codec.v (Module: elias_delta_codec)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 226
+FF Count: 0
+IO Count: 55
+Cell Count: 377
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+End-to-End Path Delay: 7.895 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 19.824 W

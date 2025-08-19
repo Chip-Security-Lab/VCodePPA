@@ -1,0 +1,1 @@
+Configurable binary frequency divider module

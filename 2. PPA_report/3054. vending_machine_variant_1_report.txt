@@ -1,0 +1,20 @@
+PPA Report for vending_machine_axi_lite.v (Module: vending_machine_axi_lite)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 50
+FF Count: 83
+IO Count: 89
+Cell Count: 325
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 537.35 MHz
+Reg-to-Reg Critical Path Delay: 1.594 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.471 W

@@ -1,0 +1,20 @@
+PPA Report for crypto_rng.v (Module: crypto_rng)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 148
+FF Count: 164
+IO Count: 53
+Cell Count: 431
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 535.05 MHz
+Reg-to-Reg Critical Path Delay: 1.517 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.470 W

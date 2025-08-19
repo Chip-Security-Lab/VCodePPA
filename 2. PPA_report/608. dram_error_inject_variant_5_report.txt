@@ -1,0 +1,20 @@
+PPA Report for dram_error_inject.v (Module: dram_error_inject)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 32
+FF Count: 129
+IO Count: 130
+Cell Count: 459
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 718.39 MHz
+Reg-to-Reg Critical Path Delay: 1.206 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.518 W

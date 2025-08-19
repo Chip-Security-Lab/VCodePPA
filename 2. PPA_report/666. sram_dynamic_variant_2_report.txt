@@ -1,0 +1,20 @@
+PPA Report for sram_dynamic.v (Module: sram_dynamic)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 642
+FF Count: 32
+IO Count: 130
+Cell Count: 1529
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 550.06 MHz
+Reg-to-Reg Critical Path Delay: 1.538 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.466 W

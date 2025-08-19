@@ -1,0 +1,20 @@
+PPA Report for sram_byte_enable
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 3337
+FF Count: 8192
+IO Count: 78
+Cell Count: 13373
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 102.25 MHz
+Reg-to-Reg Critical Path Delay: 9.080 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.527 W

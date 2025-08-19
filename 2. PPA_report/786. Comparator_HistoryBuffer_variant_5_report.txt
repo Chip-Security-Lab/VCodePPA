@@ -1,0 +1,21 @@
+PPA Report for Comparator_HistoryBuffer.v (Module: Comparator_HistoryBuffer)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 6
+FF Count: 4
+IO Count: 23
+Cell Count: 72
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1140.25 MHz
+End-to-End Path Delay: 5.418 ns
+Reg-to-Reg Critical Path Delay: 0.758 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

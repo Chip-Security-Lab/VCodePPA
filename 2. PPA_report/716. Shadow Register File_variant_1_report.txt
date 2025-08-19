@@ -1,0 +1,20 @@
+PPA Report for shadow_regfile.v (Module: shadow_regfile)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 192
+FF Count: 1607
+IO Count: 110
+Cell Count: 2100
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 321.54 MHz
+Reg-to-Reg Critical Path Delay: 2.858 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.524 W

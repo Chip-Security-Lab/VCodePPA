@@ -1,0 +1,22 @@
+PPA Report for 2790. uart_loopback.sv (Module: uart_loopback)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 22
+FF Count: 37
+IO Count: 24
+Cell Count: 122
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 585.14 MHz
+End-to-End Path Delay: N/A (No valid path found) ns
+Reg-to-Reg Critical Path Delay: 1.476 ns
+Detected Clock Signals: clk
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.454 W

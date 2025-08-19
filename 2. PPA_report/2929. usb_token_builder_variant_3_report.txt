@@ -1,0 +1,20 @@
+PPA Report for usb_token_builder.v (Module: usb_token_builder)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 11
+FF Count: 38
+IO Count: 39
+Cell Count: 132
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 320.72 MHz
+Reg-to-Reg Critical Path Delay: 2.976 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.460 W

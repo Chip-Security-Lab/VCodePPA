@@ -1,0 +1,20 @@
+PPA Report for PageMemory.v (Module: PageMemory)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 36
+FF Count: 160
+IO Count: 68
+Cell Count: 340
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1019.37 MHz
+Reg-to-Reg Critical Path Delay: 0.847 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.475 W

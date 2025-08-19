@@ -1,0 +1,1 @@
+Elias gamma encoder for integers

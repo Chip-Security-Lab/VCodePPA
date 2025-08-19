@@ -1,0 +1,20 @@
+PPA Report for gray_counter_mealy_axi4lite.v (Module: gray_counter_mealy_axi4lite)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 35
+FF Count: 20
+IO Count: 114
+Cell Count: 323
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 699.79 MHz
+Reg-to-Reg Critical Path Delay: 1.159 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.467 W

@@ -1,0 +1,19 @@
+PPA Report for spi_master_dma_axi4lite.v (Module: spi_master_dma_axi4lite)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 107
+FF Count: 131
+IO Count: 60
+Cell Count: 402
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+
+POWER METRICS:
+-------------
+Total Power Consumption: 6.511 W

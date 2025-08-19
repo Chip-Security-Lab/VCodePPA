@@ -1,0 +1,20 @@
+PPA Report for divider_16bit_nba.v (Module: divider_16bit_nba)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 586
+FF Count: 100
+IO Count: 66
+Cell Count: 952
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 95.86 MHz
+Reg-to-Reg Critical Path Delay: 10.355 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.521 W

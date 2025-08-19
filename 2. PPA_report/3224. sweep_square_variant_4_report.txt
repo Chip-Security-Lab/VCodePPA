@@ -1,0 +1,20 @@
+PPA Report for sweep_square.v (Module: sweep_square)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 81
+FF Count: 34
+IO Count: 35
+Cell Count: 249
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 368.32 MHz
+Reg-to-Reg Critical Path Delay: 2.452 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

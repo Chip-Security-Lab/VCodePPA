@@ -1,0 +1,20 @@
+PPA Report for fp_comparator.v (Module: fp_comparator)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 59
+FF Count: 0
+IO Count: 68
+Cell Count: 283
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+End-to-End Path Delay: 7.282 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 2.037 W

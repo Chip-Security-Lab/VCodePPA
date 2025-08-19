@@ -1,0 +1,1 @@
+Configurable width serial shift register

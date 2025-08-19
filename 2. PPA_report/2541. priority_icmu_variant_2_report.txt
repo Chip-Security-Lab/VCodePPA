@@ -1,0 +1,20 @@
+PPA Report for priority_icmu.v (Module: priority_icmu)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 11
+FF Count: 88
+IO Count: 86
+Cell Count: 276
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 880.28 MHz
+Reg-to-Reg Critical Path Delay: 0.895 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.461 W

@@ -1,0 +1,1 @@
+Pipelined bit reversal hardware module

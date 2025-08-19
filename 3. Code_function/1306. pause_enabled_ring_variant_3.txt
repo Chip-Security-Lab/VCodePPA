@@ -1,0 +1,1 @@
+Pausable rotating bit pattern generator

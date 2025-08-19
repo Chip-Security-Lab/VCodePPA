@@ -1,0 +1,20 @@
+PPA Report for manchester_carry_adder_pipelined.v (Module: manchester_carry_adder_pipelined)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 26
+FF Count: 52
+IO Count: 27
+Cell Count: 155
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 705.22 MHz
+Reg-to-Reg Critical Path Delay: 1.234 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.456 W

@@ -1,0 +1,1 @@
+Blum-Blum-Shub pseudorandom number generator

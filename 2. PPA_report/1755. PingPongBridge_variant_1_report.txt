@@ -1,0 +1,20 @@
+PPA Report for PingPongBridge.v (Module: PingPongBridge)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 37
+FF Count: 327
+IO Count: 132
+Cell Count: 668
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 404.53 MHz
+Reg-to-Reg Critical Path Delay: 1.778 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.514 W

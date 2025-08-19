@@ -1,0 +1,21 @@
+PPA Report for hybrid_timing_shifter.v (Module: hybrid_timing_shifter)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 13
+FF Count: 8
+IO Count: 21
+Cell Count: 74
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 378.31 MHz
+End-to-End Path Delay: 5.538 ns
+Reg-to-Reg Critical Path Delay: 2.110 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.454 W

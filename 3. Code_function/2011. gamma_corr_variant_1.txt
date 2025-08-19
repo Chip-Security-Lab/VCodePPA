@@ -1,0 +1,1 @@
+Gamma correction via lookup table

@@ -1,0 +1,20 @@
+PPA Report for ITRC_DoubleBuffer.v (Module: ITRC_DoubleBuffer)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 1
+FF Count: 48
+IO Count: 34
+Cell Count: 122
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1070.66 MHz
+Reg-to-Reg Critical Path Delay: 0.815 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.455 W

@@ -1,0 +1,21 @@
+PPA Report for cam_programmable.v (Module: cam_programmable)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 288
+FF Count: 128
+IO Count: 65
+Cell Count: 760
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 310.16 MHz
+End-to-End Path Delay: 5.350 ns
+Reg-to-Reg Critical Path Delay: 2.795 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.462 W

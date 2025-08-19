@@ -1,0 +1,20 @@
+PPA Report for cross_domain_sync.v (Module: cross_domain_sync)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 4
+FF Count: 22
+IO Count: 40
+Cell Count: 117
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 236.07 MHz
+Reg-to-Reg Critical Path Delay: 3.562 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 2.540 W

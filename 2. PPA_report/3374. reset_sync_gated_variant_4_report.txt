@@ -1,0 +1,19 @@
+PPA Report for reset_sync_gated_axi.v (Module: reset_sync_gated_axi)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 13
+FF Count: 22
+IO Count: 58
+Cell Count: 131
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+
+POWER METRICS:
+-------------
+Total Power Consumption: 3.163 W

@@ -1,0 +1,20 @@
+PPA Report for wakeup_ismu.v (Module: wakeup_ismu)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 13
+FF Count: 38
+IO Count: 28
+Cell Count: 120
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 697.35 MHz
+Reg-to-Reg Critical Path Delay: 1.244 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

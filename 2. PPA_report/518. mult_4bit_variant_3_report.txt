@@ -1,0 +1,20 @@
+PPA Report for mult_4bit.v (Module: mult_4bit)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 17
+FF Count: 21
+IO Count: 21
+Cell Count: 88
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 616.52 MHz
+Reg-to-Reg Critical Path Delay: 1.487 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

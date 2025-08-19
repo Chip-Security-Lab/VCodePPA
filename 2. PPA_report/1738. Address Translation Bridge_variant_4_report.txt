@@ -1,0 +1,20 @@
+PPA Report for addr_trans_bridge_pipeline.v (Module: addr_trans_bridge_pipeline)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 13
+FF Count: 148
+IO Count: 102
+Cell Count: 373
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 684.93 MHz
+Reg-to-Reg Critical Path Delay: 1.239 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.475 W

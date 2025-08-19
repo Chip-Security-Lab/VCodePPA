@@ -1,0 +1,1 @@
+Analog-to-binary threshold comparator

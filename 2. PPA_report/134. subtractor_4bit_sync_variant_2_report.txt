@@ -1,0 +1,20 @@
+PPA Report for subtractor_4bit_sync.v (Module: subtractor_4bit_sync)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 4
+FF Count: 12
+IO Count: 14
+Cell Count: 54
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 727.80 MHz
+Reg-to-Reg Critical Path Delay: 1.255 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

@@ -1,0 +1,1 @@
+Dual-channel fault-tolerant interrupt controller

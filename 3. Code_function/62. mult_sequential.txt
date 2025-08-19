@@ -1,0 +1,1 @@
+Sequential 8-bit multiplication circuit.

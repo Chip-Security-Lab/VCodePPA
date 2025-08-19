@@ -1,0 +1,20 @@
+PPA Report for CAN_Multi_Mailbox_Pipelined.v (Module: CAN_Multi_Mailbox_Pipelined)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 15
+FF Count: 51
+IO Count: 48
+Cell Count: 141
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 687.76 MHz
+Reg-to-Reg Critical Path Delay: 1.230 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.454 W

@@ -1,0 +1,20 @@
+PPA Report for reset_source_priority.v (Module: reset_source_priority)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 7
+FF Count: 20
+IO Count: 9
+Cell Count: 54
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 900.90 MHz
+Reg-to-Reg Critical Path Delay: 0.977 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

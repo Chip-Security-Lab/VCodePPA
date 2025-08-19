@@ -1,0 +1,1 @@
+Counts trailing zeros in input

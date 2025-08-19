@@ -1,0 +1,1 @@
+Pipelined AND with flow control

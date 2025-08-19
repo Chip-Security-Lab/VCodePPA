@@ -1,0 +1,1 @@
+Subtracts 10 from input value

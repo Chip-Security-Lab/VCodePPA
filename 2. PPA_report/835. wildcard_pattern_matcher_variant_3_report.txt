@@ -1,0 +1,20 @@
+PPA Report for wildcard_pattern_matcher.v (Module: wildcard_pattern_matcher)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 12
+FF Count: 18
+IO Count: 27
+Cell Count: 120
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 811.69 MHz
+Reg-to-Reg Critical Path Delay: 1.037 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

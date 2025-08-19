@@ -1,0 +1,20 @@
+PPA Report for rst_sync_with_status.v (Module: rst_sync_with_status)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 3
+FF Count: 2
+IO Count: 4
+Cell Count: 17
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1221.00 MHz
+Reg-to-Reg Critical Path Delay: 0.700 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.451 W

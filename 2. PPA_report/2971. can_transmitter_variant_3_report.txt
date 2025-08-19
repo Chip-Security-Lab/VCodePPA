@@ -1,0 +1,20 @@
+PPA Report for can_transmitter.v (Module: can_transmitter)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 92
+FF Count: 73
+IO Count: 29
+Cell Count: 287
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 426.62 MHz
+Reg-to-Reg Critical Path Delay: 2.205 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.454 W

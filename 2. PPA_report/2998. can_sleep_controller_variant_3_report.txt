@@ -1,0 +1,19 @@
+PPA Report for can_sleep_controller.v (Module: can_sleep_controller)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 73
+FF Count: 154
+IO Count: 96
+Cell Count: 440
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+
+POWER METRICS:
+-------------
+Total Power Consumption: 1.423 W

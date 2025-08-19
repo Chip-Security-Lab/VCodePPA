@@ -1,0 +1,20 @@
+PPA Report for crossbar_2x2.v (Module: crossbar_2x2)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 9
+FF Count: 50
+IO Count: 36
+Cell Count: 146
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 933.71 MHz
+Reg-to-Reg Critical Path Delay: 0.925 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.456 W

@@ -1,0 +1,1 @@
+Dual-edge triggered JK flip-flop

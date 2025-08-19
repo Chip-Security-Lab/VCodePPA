@@ -1,0 +1,1 @@
+CAN controller status monitoring pipeline

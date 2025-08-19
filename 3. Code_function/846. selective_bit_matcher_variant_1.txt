@@ -1,0 +1,1 @@
+Selective pattern bit matching

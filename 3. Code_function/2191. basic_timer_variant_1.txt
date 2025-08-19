@@ -1,0 +1,1 @@
+Configurable period-based timer circuit

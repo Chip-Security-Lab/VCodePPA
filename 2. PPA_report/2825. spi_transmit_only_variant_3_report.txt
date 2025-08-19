@@ -1,0 +1,20 @@
+PPA Report for spi_transmit_only.v (Module: spi_transmit_only)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 24
+FF Count: 26
+IO Count: 24
+Cell Count: 120
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 476.87 MHz
+Reg-to-Reg Critical Path Delay: 1.873 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

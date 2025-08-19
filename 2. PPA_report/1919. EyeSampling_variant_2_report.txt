@@ -1,0 +1,20 @@
+PPA Report for EyeSampling_Pipelined.v (Module: EyeSampling_Pipelined)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 1
+FF Count: 9
+IO Count: 6
+Cell Count: 32
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 295.35 MHz
+Reg-to-Reg Critical Path Delay: 3.097 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.668 W

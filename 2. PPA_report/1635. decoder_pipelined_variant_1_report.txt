@@ -1,0 +1,20 @@
+PPA Report for karatsuba_mult_16bit.v (Module: karatsuba_mult_16bit)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 292
+FF Count: 275
+IO Count: 67
+Cell Count: 824
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 401.61 MHz
+Reg-to-Reg Critical Path Delay: 2.284 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.516 W

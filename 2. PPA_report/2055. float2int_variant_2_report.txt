@@ -1,0 +1,20 @@
+PPA Report for float2int.v (Module: float2int)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 190
+FF Count: 175
+IO Count: 67
+Cell Count: 542
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 451.06 MHz
+Reg-to-Reg Critical Path Delay: 2.033 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.486 W

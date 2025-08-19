@@ -1,0 +1,1 @@
+Neg-edge 4-bit NOT register

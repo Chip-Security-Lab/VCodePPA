@@ -1,0 +1,20 @@
+PPA Report for cam_clock_gated.v (Module: cam_clock_gated)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 352
+FF Count: 553
+IO Count: 56
+Cell Count: 1046
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 511.25 MHz
+Reg-to-Reg Critical Path Delay: 1.773 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.465 W

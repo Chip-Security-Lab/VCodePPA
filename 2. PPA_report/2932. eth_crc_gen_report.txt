@@ -1,0 +1,20 @@
+PPA Report for eth_crc_gen
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 32
+FF Count: 32
+IO Count: 43
+Cell Count: 138
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 824.40 MHz
+Reg-to-Reg Critical Path Delay: 1.029 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.507 W

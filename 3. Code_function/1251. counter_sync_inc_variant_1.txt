@@ -1,0 +1,1 @@
+Synchronous enable-based width-parameterized counter

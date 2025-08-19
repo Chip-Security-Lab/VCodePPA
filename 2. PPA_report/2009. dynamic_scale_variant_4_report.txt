@@ -1,0 +1,20 @@
+PPA Report for dynamic_scale_pipeline.v (Module: dynamic_scale_pipeline)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 139
+FF Count: 372
+IO Count: 55
+Cell Count: 769
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 730.46 MHz
+Reg-to-Reg Critical Path Delay: 1.183 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.486 W

@@ -1,0 +1,1 @@
+Pipelined carry-rotate shifter circuit

@@ -1,0 +1,20 @@
+PPA Report for basic_reset_sync_pipeline.v (Module: basic_reset_sync_pipeline)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 1
+FF Count: 3
+IO Count: 3
+Cell Count: 14
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1230.01 MHz
+Reg-to-Reg Critical Path Delay: 0.694 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.451 W

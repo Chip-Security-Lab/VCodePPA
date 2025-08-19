@@ -1,0 +1,20 @@
+PPA Report for SPI_Clock_Recovery.v (Module: SPI_Clock_Recovery)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 6
+FF Count: 35
+IO Count: 11
+Cell Count: 61
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 848.90 MHz
+Reg-to-Reg Critical Path Delay: 0.918 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

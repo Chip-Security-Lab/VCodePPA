@@ -1,0 +1,1 @@
+Address-mapped register with shadow storage

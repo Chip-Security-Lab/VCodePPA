@@ -1,0 +1,20 @@
+PPA Report for pipe_prefetch_buf.v (Module: pipe_prefetch_buf)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 51
+FF Count: 96
+IO Count: 66
+Cell Count: 306
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 314.66 MHz
+Reg-to-Reg Critical Path Delay: 2.893 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.496 W

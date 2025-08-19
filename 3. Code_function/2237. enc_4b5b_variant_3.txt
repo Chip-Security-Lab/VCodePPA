@@ -1,0 +1,1 @@
+4B/5B encoder using Baugh-Wooley multiplication

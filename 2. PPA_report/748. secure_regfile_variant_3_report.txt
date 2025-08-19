@@ -1,0 +1,20 @@
+PPA Report for secure_regfile.v (Module: secure_regfile)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 143
+FF Count: 353
+IO Count: 74
+Cell Count: 656
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 641.85 MHz
+Reg-to-Reg Critical Path Delay: 1.371 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.468 W

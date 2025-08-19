@@ -1,0 +1,1 @@
+Parameterized reset-able D flip-flop register

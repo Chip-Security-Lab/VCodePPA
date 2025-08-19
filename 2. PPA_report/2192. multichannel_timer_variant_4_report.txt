@@ -1,0 +1,20 @@
+PPA Report for multichannel_timer.v (Module: multichannel_timer)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 48
+FF Count: 70
+IO Count: 76
+Cell Count: 383
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 515.73 MHz
+Reg-to-Reg Critical Path Delay: 1.701 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.459 W

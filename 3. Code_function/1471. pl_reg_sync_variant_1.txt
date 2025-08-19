@@ -1,0 +1,1 @@
+Six-stage pipelined data register

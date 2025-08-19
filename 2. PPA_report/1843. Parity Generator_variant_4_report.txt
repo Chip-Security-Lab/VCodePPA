@@ -1,0 +1,20 @@
+PPA Report for parity_generator.v (Module: parity_generator)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 2
+FF Count: 0
+IO Count: 10
+Cell Count: 30
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+End-to-End Path Delay: 5.158 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 1.212 W

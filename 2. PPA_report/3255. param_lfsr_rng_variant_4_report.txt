@@ -1,0 +1,20 @@
+PPA Report for param_lfsr_rng.v (Module: param_lfsr_rng)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 20
+FF Count: 43
+IO Count: 19
+Cell Count: 98
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 749.06 MHz
+Reg-to-Reg Critical Path Delay: 1.178 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.464 W

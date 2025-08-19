@@ -1,0 +1,20 @@
+PPA Report for cascadable_divider.v (Module: cascadable_divider)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 6
+FF Count: 8
+IO Count: 7
+Cell Count: 36
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 309.74 MHz
+Reg-to-Reg Critical Path Delay: 3.299 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.699 W

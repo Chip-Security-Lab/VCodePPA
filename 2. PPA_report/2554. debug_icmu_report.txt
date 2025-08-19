@@ -1,0 +1,22 @@
+PPA Report for 2554. debug_icmu.sv (Module: debug_icmu)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 84
+FF Count: 84
+IO Count: 92
+Cell Count: 325
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 520.29 MHz
+End-to-End Path Delay: N/A (No valid path found) ns
+Reg-to-Reg Critical Path Delay: 1.792 ns
+Detected Clock Signals: clk
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.471 W

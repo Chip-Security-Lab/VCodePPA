@@ -1,0 +1,20 @@
+PPA Report for multi_io_ctrl.v (Module: multi_io_ctrl)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 2
+FF Count: 9
+IO Count: 7
+Cell Count: 31
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 293.44 MHz
+Reg-to-Reg Critical Path Delay: 3.122 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 1.734 W

@@ -1,0 +1,20 @@
+PPA Report for arith_shifter.v (Module: arith_shifter)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 14
+FF Count: 10
+IO Count: 22
+Cell Count: 81
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 632.91 MHz
+Reg-to-Reg Critical Path Delay: 1.333 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

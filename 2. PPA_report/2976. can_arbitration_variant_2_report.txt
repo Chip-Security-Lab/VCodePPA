@@ -1,0 +1,20 @@
+PPA Report for can_arbitration_axi.v (Module: can_arbitration_axi)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 47
+FF Count: 123
+IO Count: 71
+Cell Count: 313
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 686.34 MHz
+Reg-to-Reg Critical Path Delay: 1.253 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.470 W

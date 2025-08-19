@@ -1,0 +1,20 @@
+PPA Report for mipi_cphy_deserializer.v (Module: mipi_cphy_deserializer)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 28
+FF Count: 33
+IO Count: 14
+Cell Count: 98
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 589.97 MHz
+Reg-to-Reg Critical Path Delay: 1.421 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.455 W

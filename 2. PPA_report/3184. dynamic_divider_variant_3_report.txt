@@ -1,0 +1,20 @@
+PPA Report for dynamic_divider.v (Module: dynamic_divider)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 51
+FF Count: 49
+IO Count: 12
+Cell Count: 157
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 486.14 MHz
+Reg-to-Reg Critical Path Delay: 1.888 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

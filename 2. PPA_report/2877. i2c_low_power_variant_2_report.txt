@@ -1,0 +1,20 @@
+PPA Report for i2c_low_power.v (Module: i2c_low_power)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 12
+FF Count: 17
+IO Count: 4
+Cell Count: 47
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 310.16 MHz
+Reg-to-Reg Critical Path Delay: 3.051 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.884 W

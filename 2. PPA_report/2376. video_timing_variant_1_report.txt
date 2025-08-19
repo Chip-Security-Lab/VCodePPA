@@ -1,0 +1,20 @@
+PPA Report for video_timing.v (Module: video_timing)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 9
+FF Count: 31
+IO Count: 12
+Cell Count: 62
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 432.69 MHz
+Reg-to-Reg Critical Path Delay: 3.398 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 2.924 W

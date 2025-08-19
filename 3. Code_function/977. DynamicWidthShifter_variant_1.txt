@@ -1,0 +1,1 @@
+Pipelined variable-width serial shifter

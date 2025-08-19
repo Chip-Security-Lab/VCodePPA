@@ -1,0 +1,20 @@
+PPA Report for uart_break_detect.v (Module: uart_break_detect)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 6
+FF Count: 11
+IO Count: 13
+Cell Count: 40
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 680.27 MHz
+Reg-to-Reg Critical Path Delay: 1.164 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

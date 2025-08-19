@@ -1,0 +1,1 @@
+Fault-tolerant parity-checked data comparator

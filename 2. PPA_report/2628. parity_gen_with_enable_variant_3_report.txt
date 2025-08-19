@@ -1,0 +1,20 @@
+PPA Report for parity_gen_with_req_ack.v (Module: parity_gen_with_req_ack)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 4
+FF Count: 2
+IO Count: 20
+Cell Count: 66
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1199.04 MHz
+Reg-to-Reg Critical Path Delay: 0.580 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

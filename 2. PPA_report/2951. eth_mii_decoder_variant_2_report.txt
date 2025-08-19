@@ -1,0 +1,20 @@
+PPA Report for eth_mii_decoder.v (Module: eth_mii_decoder)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 9
+FF Count: 41
+IO Count: 20
+Cell Count: 93
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 695.89 MHz
+Reg-to-Reg Critical Path Delay: 1.222 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

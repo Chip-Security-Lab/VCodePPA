@@ -1,0 +1,20 @@
+PPA Report for MaskMatcher.v (Module: MaskMatcher)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 7
+FF Count: 0
+IO Count: 25
+Cell Count: 80
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+End-to-End Path Delay: 6.236 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.837 W

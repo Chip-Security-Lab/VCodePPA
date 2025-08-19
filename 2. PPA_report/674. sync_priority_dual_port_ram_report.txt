@@ -1,0 +1,20 @@
+PPA Report for sync_priority_dual_port_ram
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 4066
+FF Count: 2064
+IO Count: 52
+Cell Count: 6989
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 241.60 MHz
+Reg-to-Reg Critical Path Delay: 3.925 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.499 W

@@ -1,0 +1,20 @@
+PPA Report for AutoBaudUART.v (Module: AutoBaudUART)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 21
+FF Count: 37
+IO Count: 20
+Cell Count: 95
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 283.38 MHz
+Reg-to-Reg Critical Path Delay: 3.268 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.593 W

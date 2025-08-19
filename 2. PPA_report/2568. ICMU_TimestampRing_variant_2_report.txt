@@ -1,0 +1,20 @@
+PPA Report for ICMU_TimestampRing.v (Module: ICMU_TimestampRing)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 69
+FF Count: 69
+IO Count: 130
+Cell Count: 471
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 658.76 MHz
+Reg-to-Reg Critical Path Delay: 1.370 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.503 W

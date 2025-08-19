@@ -1,0 +1,20 @@
+PPA Report for s2p_shadow_reg.v (Module: s2p_shadow_reg)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 5
+FF Count: 16
+IO Count: 21
+Cell Count: 58
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 819.67 MHz
+Reg-to-Reg Critical Path Delay: 1.035 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.455 W

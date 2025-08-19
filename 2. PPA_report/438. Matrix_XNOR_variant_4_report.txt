@@ -1,0 +1,20 @@
+PPA Report for Matrix_XNOR_AXI.v (Module: Matrix_XNOR_AXI)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 12
+FF Count: 13
+IO Count: 51
+Cell Count: 101
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 642.26 MHz
+Reg-to-Reg Critical Path Delay: 1.412 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.462 W

@@ -1,0 +1,20 @@
+PPA Report for ICMU_PrioQueue.v (Module: ICMU_PrioQueue)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 237
+FF Count: 588
+IO Count: 138
+Cell Count: 1280
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 403.88 MHz
+Reg-to-Reg Critical Path Delay: 2.276 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.561 W

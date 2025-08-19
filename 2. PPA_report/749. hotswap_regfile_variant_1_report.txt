@@ -1,0 +1,21 @@
+PPA Report for hotswap_regfile.v (Module: hotswap_regfile)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 322
+FF Count: 896
+IO Count: 101
+Cell Count: 1661
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 212.65 MHz
+End-to-End Path Delay: 6.594 ns
+Reg-to-Reg Critical Path Delay: 5.109 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.486 W

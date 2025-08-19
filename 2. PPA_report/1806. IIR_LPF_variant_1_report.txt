@@ -1,0 +1,20 @@
+PPA Report for IIR_LPF.v (Module: IIR_LPF)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 37
+FF Count: 54
+IO Count: 18
+Cell Count: 144
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 423.01 MHz
+Reg-to-Reg Critical Path Delay: 2.201 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.459 W

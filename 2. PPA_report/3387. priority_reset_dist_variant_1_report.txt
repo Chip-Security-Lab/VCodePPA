@@ -1,0 +1,21 @@
+PPA Report for priority_reset_dist.v (Module: priority_reset_dist)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 6
+FF Count: 16
+IO Count: 23
+Cell Count: 74
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 736.38 MHz
+End-to-End Path Delay: 5.150 ns
+Reg-to-Reg Critical Path Delay: 1.214 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

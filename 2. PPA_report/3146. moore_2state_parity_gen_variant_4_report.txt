@@ -1,0 +1,21 @@
+PPA Report for moore_2state_parity_gen_axi_stream.v (Module: moore_2state_parity_gen_axi_stream)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 4
+FF Count: 3
+IO Count: 17
+Cell Count: 41
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1098.90 MHz
+End-to-End Path Delay: 4.891 ns
+Reg-to-Reg Critical Path Delay: 0.791 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

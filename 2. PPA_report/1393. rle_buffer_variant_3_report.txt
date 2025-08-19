@@ -1,0 +1,20 @@
+PPA Report for rle_buffer.v (Module: rle_buffer)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 18
+FF Count: 59
+IO Count: 26
+Cell Count: 131
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 276.32 MHz
+Reg-to-Reg Critical Path Delay: 3.349 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 2.163 W

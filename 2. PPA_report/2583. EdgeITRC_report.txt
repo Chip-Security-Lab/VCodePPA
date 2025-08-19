@@ -1,0 +1,22 @@
+PPA Report for 2583. EdgeITRC.sv (Module: EdgeITRC)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 25
+FF Count: 28
+IO Count: 15
+Cell Count: 96
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 575.37 MHz
+End-to-End Path Delay: N/A (No valid path found) ns
+Reg-to-Reg Critical Path Delay: 1.599 ns
+Detected Clock Signals: clock
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

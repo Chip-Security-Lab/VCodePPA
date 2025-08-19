@@ -1,0 +1,20 @@
+PPA Report for usb_protocol_analyzer.v (Module: usb_protocol_analyzer)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 24
+FF Count: 37
+IO Count: 25
+Cell Count: 112
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 550.66 MHz
+Reg-to-Reg Critical Path Delay: 1.588 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

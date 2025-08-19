@@ -1,0 +1,1 @@
+Intermittent beeper with programmable timing

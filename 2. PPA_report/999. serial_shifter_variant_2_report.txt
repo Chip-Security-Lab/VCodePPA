@@ -1,0 +1,21 @@
+PPA Report for serial_shifter_axi_stream.v (Module: serial_shifter_axi_stream)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 11
+FF Count: 9
+IO Count: 25
+Cell Count: 79
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1015.23 MHz
+End-to-End Path Delay: 4.988 ns
+Reg-to-Reg Critical Path Delay: 0.866 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

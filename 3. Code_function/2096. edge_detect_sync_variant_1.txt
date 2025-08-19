@@ -1,0 +1,1 @@
+Clock domain edge detection circuit

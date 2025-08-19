@@ -1,0 +1,19 @@
+PPA Report for ICMU_JTAGDebug.v (Module: ICMU_JTAGDebug)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 4
+FF Count: 102
+IO Count: 36
+Cell Count: 153
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.883 W

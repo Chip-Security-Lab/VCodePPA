@@ -1,0 +1,1 @@
+Multi-width SRAM memory module

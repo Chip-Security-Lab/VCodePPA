@@ -1,0 +1,20 @@
+PPA Report for load_complete_reg.v (Module: load_complete_reg)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 2
+FF Count: 18
+IO Count: 36
+Cell Count: 97
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 798.72 MHz
+Reg-to-Reg Critical Path Delay: 0.966 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

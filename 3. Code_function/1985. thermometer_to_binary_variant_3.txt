@@ -1,0 +1,1 @@
+Pipelined thermometer-to-binary converter

@@ -1,0 +1,1 @@
+Conditional multiplier or bitwise operations

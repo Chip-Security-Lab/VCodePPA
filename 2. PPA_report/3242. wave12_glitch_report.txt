@@ -1,0 +1,20 @@
+PPA Report for wave12_glitch
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 7
+FF Count: 9
+IO Count: 10
+Cell Count: 37
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 664.89 MHz
+Reg-to-Reg Critical Path Delay: 1.294 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.451 W

@@ -1,0 +1,20 @@
+PPA Report for ShiftLeft.v (Module: ShiftLeft)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 21
+FF Count: 36
+IO Count: 14
+Cell Count: 101
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 666.67 MHz
+Reg-to-Reg Critical Path Delay: 1.349 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

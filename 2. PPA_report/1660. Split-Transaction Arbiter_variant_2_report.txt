@@ -1,0 +1,20 @@
+PPA Report for split_transaction_arbiter.v (Module: split_transaction_arbiter)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 19
+FF Count: 24
+IO Count: 26
+Cell Count: 104
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 608.64 MHz
+Reg-to-Reg Critical Path Delay: 1.355 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.455 W

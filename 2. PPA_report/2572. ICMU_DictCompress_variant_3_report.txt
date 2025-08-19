@@ -1,0 +1,20 @@
+PPA Report for ICMU_DictCompress.v (Module: ICMU_DictCompress)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 230
+FF Count: 587
+IO Count: 163
+Cell Count: 1221
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 369.41 MHz
+Reg-to-Reg Critical Path Delay: 2.556 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.501 W

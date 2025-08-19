@@ -1,0 +1,20 @@
+PPA Report for fifo_arbiter.v (Module: fifo_arbiter)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 15
+FF Count: 34
+IO Count: 12
+Cell Count: 83
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 671.59 MHz
+Reg-to-Reg Critical Path Delay: 1.205 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.454 W

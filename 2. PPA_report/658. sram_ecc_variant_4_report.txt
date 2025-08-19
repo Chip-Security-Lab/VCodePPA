@@ -1,0 +1,20 @@
+PPA Report for sram_dual_clock.v (Module: sram_dual_clock)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 0
+FF Count: 60
+IO Count: 48
+Cell Count: 178
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 739.64 MHz
+Reg-to-Reg Critical Path Delay: 0.818 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.457 W

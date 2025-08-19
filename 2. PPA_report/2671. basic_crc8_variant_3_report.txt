@@ -1,0 +1,20 @@
+PPA Report for basic_crc8.v (Module: basic_crc8)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 10
+FF Count: 2
+IO Count: 19
+Cell Count: 67
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 470.81 MHz
+Reg-to-Reg Critical Path Delay: 1.618 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

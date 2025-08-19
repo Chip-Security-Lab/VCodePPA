@@ -1,0 +1,20 @@
+PPA Report for sync_down_counter.v (Module: sync_down_counter)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 0
+FF Count: 0
+IO Count: 11
+Cell Count: 22
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1069.52 MHz
+Reg-to-Reg Critical Path Delay: 0.429 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.458 W

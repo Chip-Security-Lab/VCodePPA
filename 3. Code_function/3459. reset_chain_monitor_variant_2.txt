@@ -1,0 +1,1 @@
+Reset chain validity detector

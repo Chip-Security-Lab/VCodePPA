@@ -1,0 +1,22 @@
+PPA Report for 2578. ICMU_Cache4Way.sv (Module: ICMU_Cache4Way)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 20308
+FF Count: 53269
+IO Count: 94
+Cell Count: 79462
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 129.53 MHz
+End-to-End Path Delay: 13.351 ns
+Reg-to-Reg Critical Path Delay: 7.221 ns
+Detected Clock Signals: clk
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.649 W

@@ -1,0 +1,20 @@
+PPA Report for band_pass_filter.v (Module: band_pass_filter)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 21
+FF Count: 51
+IO Count: 28
+Cell Count: 139
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 664.45 MHz
+Reg-to-Reg Critical Path Delay: 1.358 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.461 W

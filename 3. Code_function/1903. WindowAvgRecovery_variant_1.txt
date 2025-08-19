@@ -1,0 +1,1 @@
+Moving average filter with buffer

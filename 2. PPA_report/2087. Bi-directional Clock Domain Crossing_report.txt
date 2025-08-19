@@ -1,0 +1,20 @@
+PPA Report for Bi-directional Clock Domain Crossing
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 7
+FF Count: 48
+IO Count: 39
+Cell Count: 142
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 223.66 MHz
+Reg-to-Reg Critical Path Delay: 3.771 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 2.492 W

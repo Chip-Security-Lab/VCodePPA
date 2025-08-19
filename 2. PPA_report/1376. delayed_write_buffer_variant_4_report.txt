@@ -1,0 +1,21 @@
+PPA Report for delayed_write_buffer.v (Module: delayed_write_buffer)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 7
+FF Count: 52
+IO Count: 38
+Cell Count: 141
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 550.96 MHz
+End-to-End Path Delay: 5.013 ns
+Reg-to-Reg Critical Path Delay: 1.575 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

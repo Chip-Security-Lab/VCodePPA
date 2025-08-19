@@ -1,0 +1,1 @@
+Sequential input difference calculator.

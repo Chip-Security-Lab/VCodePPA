@@ -1,0 +1,1 @@
+Optimized CRC32 checksum calculator

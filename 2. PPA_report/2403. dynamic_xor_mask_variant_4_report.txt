@@ -1,0 +1,20 @@
+PPA Report for dynamic_xor_mask.v (Module: dynamic_xor_mask)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 13
+FF Count: 136
+IO Count: 130
+Cell Count: 418
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 944.29 MHz
+Reg-to-Reg Critical Path Delay: 0.918 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.510 W

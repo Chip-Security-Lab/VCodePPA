@@ -1,0 +1,20 @@
+PPA Report for edge_triggered_timer
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 43
+FF Count: 19
+IO Count: 21
+Cell Count: 141
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 385.21 MHz
+Reg-to-Reg Critical Path Delay: 2.336 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

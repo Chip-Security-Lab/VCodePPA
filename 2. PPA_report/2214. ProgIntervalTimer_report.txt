@@ -1,0 +1,20 @@
+PPA Report for ProgIntervalTimer
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 29
+FF Count: 17
+IO Count: 20
+Cell Count: 110
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 482.16 MHz
+Reg-to-Reg Critical Path Delay: 1.893 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

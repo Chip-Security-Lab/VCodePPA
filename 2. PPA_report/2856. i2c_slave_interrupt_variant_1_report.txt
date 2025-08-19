@@ -1,0 +1,20 @@
+PPA Report for i2c_slave_interrupt.v (Module: i2c_slave_interrupt)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 18
+FF Count: 27
+IO Count: 23
+Cell Count: 102
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 587.54 MHz
+Reg-to-Reg Critical Path Delay: 1.484 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

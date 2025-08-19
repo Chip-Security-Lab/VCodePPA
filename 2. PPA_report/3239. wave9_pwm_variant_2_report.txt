@@ -1,0 +1,20 @@
+PPA Report for wave9_pwm.v (Module: wave9_pwm)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 10
+FF Count: 10
+IO Count: 11
+Cell Count: 64
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 753.01 MHz
+Reg-to-Reg Critical Path Delay: 1.180 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

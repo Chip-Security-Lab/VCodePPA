@@ -1,0 +1,20 @@
+PPA Report for ITRC_PseudoRandom.v (Module: ITRC_PseudoRandom)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 21
+FF Count: 51
+IO Count: 13
+Cell Count: 112
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 741.29 MHz
+Reg-to-Reg Critical Path Delay: 1.231 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.454 W

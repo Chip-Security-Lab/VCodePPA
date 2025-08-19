@@ -1,0 +1,20 @@
+PPA Report for sync_circular_left_shifter.v (Module: sync_circular_left_shifter)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 16
+FF Count: 27
+IO Count: 20
+Cell Count: 91
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 744.60 MHz
+Reg-to-Reg Critical Path Delay: 1.203 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.454 W

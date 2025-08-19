@@ -1,0 +1,1 @@
+Selectable masked XNOR datapath

@@ -1,0 +1,1 @@
+Gated D-latch with enable

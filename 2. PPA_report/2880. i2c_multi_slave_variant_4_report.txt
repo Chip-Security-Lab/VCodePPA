@@ -1,0 +1,20 @@
+PPA Report for i2c_multi_slave.v (Module: i2c_multi_slave)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 58
+FF Count: 127
+IO Count: 64
+Cell Count: 339
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 548.25 MHz
+Reg-to-Reg Critical Path Delay: 1.549 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.462 W

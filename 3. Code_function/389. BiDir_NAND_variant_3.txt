@@ -1,0 +1,1 @@
+Bidirectional NAND with direction control

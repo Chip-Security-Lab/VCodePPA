@@ -1,0 +1,21 @@
+PPA Report for sram_async_read.v (Module: sram_async_read)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 25
+FF Count: 0
+IO Count: 45
+Cell Count: 157
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 402.97 MHz
+End-to-End Path Delay: 8.658 ns
+Reg-to-Reg Critical Path Delay: 2.371 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

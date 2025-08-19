@@ -1,0 +1,1 @@
+Hamming(7,4) error correction encoder

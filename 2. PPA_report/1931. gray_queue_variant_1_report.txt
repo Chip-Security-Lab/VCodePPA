@@ -1,0 +1,20 @@
+PPA Report for gray_queue.v (Module: gray_queue)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 18
+FF Count: 30
+IO Count: 20
+Cell Count: 102
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 779.42 MHz
+Reg-to-Reg Critical Path Delay: 1.108 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.454 W

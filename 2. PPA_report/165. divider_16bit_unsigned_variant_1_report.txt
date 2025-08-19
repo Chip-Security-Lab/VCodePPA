@@ -1,0 +1,20 @@
+PPA Report for divider_16bit_unsigned.v (Module: divider_16bit_unsigned)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 113
+FF Count: 170
+IO Count: 66
+Cell Count: 438
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 373.41 MHz
+Reg-to-Reg Critical Path Delay: 2.472 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.463 W

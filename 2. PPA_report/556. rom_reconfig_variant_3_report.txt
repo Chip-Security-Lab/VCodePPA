@@ -1,0 +1,20 @@
+PPA Report for rom_reconfig.v (Module: rom_reconfig)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 15
+FF Count: 35
+IO Count: 28
+Cell Count: 127
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 564.65 MHz
+Reg-to-Reg Critical Path Delay: 1.461 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.456 W

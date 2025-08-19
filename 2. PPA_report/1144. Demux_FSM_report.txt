@@ -1,0 +1,20 @@
+PPA Report for Demux_FSM
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 4
+FF Count: 32
+IO Count: 44
+Cell Count: 106
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 298.78 MHz
+Reg-to-Reg Critical Path Delay: 2.647 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.454 W

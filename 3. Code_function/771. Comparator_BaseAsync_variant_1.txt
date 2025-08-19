@@ -1,0 +1,1 @@
+Parametrized equality comparator using subtraction

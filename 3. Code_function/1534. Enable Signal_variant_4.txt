@@ -1,0 +1,1 @@
+Enabled data capture with shadow

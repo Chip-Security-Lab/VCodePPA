@@ -1,0 +1,1 @@
+NOT gate with high-impedance handling

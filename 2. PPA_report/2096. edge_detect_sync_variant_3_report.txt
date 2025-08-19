@@ -1,0 +1,20 @@
+PPA Report for edge_detect_sync_pipeline.v (Module: edge_detect_sync_pipeline)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 3
+FF Count: 7
+IO Count: 5
+Cell Count: 26
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 302.12 MHz
+Reg-to-Reg Critical Path Delay: 3.242 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.821 W

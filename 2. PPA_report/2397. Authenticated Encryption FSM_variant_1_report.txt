@@ -1,0 +1,20 @@
+PPA Report for auth_encrypt_fsm.v (Module: auth_encrypt_fsm)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 31
+FF Count: 38
+IO Count: 71
+Cell Count: 264
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 528.54 MHz
+Reg-to-Reg Critical Path Delay: 1.588 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.458 W

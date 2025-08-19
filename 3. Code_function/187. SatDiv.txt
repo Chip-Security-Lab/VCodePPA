@@ -1,0 +1,1 @@
+Division with divide-by-zero protection

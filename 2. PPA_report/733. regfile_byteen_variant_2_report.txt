@@ -1,0 +1,20 @@
+PPA Report for regfile_byteen.v (Module: regfile_byteen)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 288
+FF Count: 616
+IO Count: 74
+Cell Count: 1274
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 421.59 MHz
+Reg-to-Reg Critical Path Delay: 1.982 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.488 W

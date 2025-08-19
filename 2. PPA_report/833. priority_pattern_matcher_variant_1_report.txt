@@ -1,0 +1,20 @@
+PPA Report for priority_pattern_matcher.v (Module: priority_pattern_matcher)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 15
+FF Count: 3
+IO Count: 45
+Cell Count: 151
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 319.32 MHz
+Reg-to-Reg Critical Path Delay: 3.152 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

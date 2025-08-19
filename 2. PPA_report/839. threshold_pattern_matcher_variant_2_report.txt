@@ -1,0 +1,20 @@
+PPA Report for threshold_pattern_matcher.v (Module: threshold_pattern_matcher)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 52
+FF Count: 0
+IO Count: 33
+Cell Count: 174
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+End-to-End Path Delay: 8.658 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 1.924 W

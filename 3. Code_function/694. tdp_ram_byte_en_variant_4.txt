@@ -1,0 +1,1 @@
+Pipelined dual-port RAM with byte-enable

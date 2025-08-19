@@ -1,0 +1,1 @@
+Pipelined RAM with byte-enable control

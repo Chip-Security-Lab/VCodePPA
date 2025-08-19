@@ -1,0 +1,20 @@
+PPA Report for crossbar_error_check.v (Module: crossbar_error_check)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 15
+FF Count: 34
+IO Count: 43
+Cell Count: 155
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 863.56 MHz
+Reg-to-Reg Critical Path Delay: 1.013 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

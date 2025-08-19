@@ -1,0 +1,1 @@
+Variable-width serial data shifter

@@ -1,0 +1,1 @@
+Digital low-pass filter implementation

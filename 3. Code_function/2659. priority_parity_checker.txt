@@ -1,0 +1,1 @@
+Priority-based parity error detector

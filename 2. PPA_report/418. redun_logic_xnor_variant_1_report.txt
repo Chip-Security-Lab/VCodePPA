@@ -1,0 +1,20 @@
+PPA Report for redun_logic_xnor.v (Module: redun_logic_xnor)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 4
+FF Count: 3
+IO Count: 7
+Cell Count: 29
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1068.38 MHz
+Reg-to-Reg Critical Path Delay: 0.818 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

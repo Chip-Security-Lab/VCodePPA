@@ -1,0 +1,1 @@
+Fixed-width number saturation circuit

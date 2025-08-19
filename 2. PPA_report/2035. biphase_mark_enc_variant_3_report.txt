@@ -1,0 +1,21 @@
+PPA Report for biphase_mark_enc_axi_stream.v (Module: biphase_mark_enc_axi_stream)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 5
+FF Count: 5
+IO Count: 8
+Cell Count: 32
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1064.96 MHz
+End-to-End Path Delay: 4.983 ns
+Reg-to-Reg Critical Path Delay: 0.802 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

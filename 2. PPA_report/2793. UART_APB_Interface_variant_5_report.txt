@@ -1,0 +1,19 @@
+PPA Report for UART_APB_Interface.v (Module: UART_APB_Interface)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 33
+FF Count: 72
+IO Count: 60
+Cell Count: 229
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+
+POWER METRICS:
+-------------
+Total Power Consumption: 3.087 W

@@ -1,0 +1,1 @@
+Registered Brent-Kung parallel adder module

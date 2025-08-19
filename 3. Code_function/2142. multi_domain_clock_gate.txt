@@ -1,0 +1,1 @@
+Two-clock gating with different polarities

@@ -1,0 +1,20 @@
+PPA Report for CRCRecovery.v (Module: CRCRecovery)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 5
+FF Count: 9
+IO Count: 22
+Cell Count: 66
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 276.07 MHz
+Reg-to-Reg Critical Path Delay: 3.027 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

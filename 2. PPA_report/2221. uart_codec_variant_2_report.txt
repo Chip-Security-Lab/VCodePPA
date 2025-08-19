@@ -1,0 +1,20 @@
+PPA Report for uart_codec.v (Module: uart_codec)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 18
+FF Count: 18
+IO Count: 21
+Cell Count: 90
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 668.00 MHz
+Reg-to-Reg Critical Path Delay: 1.278 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

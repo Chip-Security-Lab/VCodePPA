@@ -1,0 +1,1 @@
+Four-stage pipeline with valid/ready

@@ -1,0 +1,20 @@
+PPA Report for async_peak_detector
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 18
+FF Count: 0
+IO Count: 37
+Cell Count: 114
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+End-to-End Path Delay: 6.110 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 4.196 W

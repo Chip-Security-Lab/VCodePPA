@@ -1,0 +1,20 @@
+PPA Report for sync_signed_divider.v (Module: sync_signed_divider)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 55
+FF Count: 86
+IO Count: 34
+Cell Count: 247
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 536.48 MHz
+Reg-to-Reg Critical Path Delay: 1.707 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.463 W

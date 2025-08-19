@@ -1,0 +1,20 @@
+PPA Report for spi_burst_master.v (Module: spi_burst_master)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 112
+FF Count: 122
+IO Count: 72
+Cell Count: 425
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 596.66 MHz
+Reg-to-Reg Critical Path Delay: 1.440 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.475 W

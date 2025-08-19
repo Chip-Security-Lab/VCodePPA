@@ -1,0 +1,20 @@
+PPA Report for TimeSlicedITRC
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 13
+FF Count: 13
+IO Count: 17
+Cell Count: 80
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 634.92 MHz
+Reg-to-Reg Critical Path Delay: 1.376 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

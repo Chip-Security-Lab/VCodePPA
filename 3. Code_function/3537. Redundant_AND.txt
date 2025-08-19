@@ -1,0 +1,1 @@
+Redundant AND operation with verification

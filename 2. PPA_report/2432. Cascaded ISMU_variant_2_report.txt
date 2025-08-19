@@ -1,0 +1,20 @@
+PPA Report for cascaded_ismu.v (Module: cascaded_ismu)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 15
+FF Count: 11
+IO Count: 25
+Cell Count: 99
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 614.25 MHz
+Reg-to-Reg Critical Path Delay: 1.378 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

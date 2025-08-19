@@ -1,0 +1,20 @@
+PPA Report for clock_gated_priority_comp.v (Module: clock_gated_priority_comp)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 5
+FF Count: 7
+IO Count: 14
+Cell Count: 59
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 920.81 MHz
+Reg-to-Reg Critical Path Delay: 0.923 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

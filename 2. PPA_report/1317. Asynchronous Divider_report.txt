@@ -1,0 +1,22 @@
+PPA Report for 1317. Asynchronous Divider.sv (Module: async_divider)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 3
+FF Count: 3
+IO Count: 4
+Cell Count: 16
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1345.90 MHz
+End-to-End Path Delay: N/A (No valid path found) ns
+Reg-to-Reg Critical Path Delay: 0.625 ns
+Detected Clock Signals: master_clk
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.456 W

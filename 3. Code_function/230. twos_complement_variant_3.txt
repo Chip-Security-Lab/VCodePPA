@@ -1,0 +1,1 @@
+Calculates absolute and negative values

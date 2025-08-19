@@ -1,0 +1,22 @@
+PPA Report for 2552. timeslice_icmu.sv (Module: timeslice_icmu)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 46
+FF Count: 24
+IO Count: 18
+Cell Count: 136
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 516.00 MHz
+End-to-End Path Delay: N/A (No valid path found) ns
+Reg-to-Reg Critical Path Delay: 1.737 ns
+Detected Clock Signals: i_clk
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

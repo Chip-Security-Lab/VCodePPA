@@ -1,0 +1,1 @@
+Synchronous flip-flop with reset

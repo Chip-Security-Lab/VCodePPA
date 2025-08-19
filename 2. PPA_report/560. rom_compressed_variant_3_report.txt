@@ -1,0 +1,20 @@
+PPA Report for rom_compressed.v (Module: rom_compressed)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 9
+FF Count: 33
+IO Count: 43
+Cell Count: 110
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1122.33 MHz
+Reg-to-Reg Critical Path Delay: 0.761 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.472 W

@@ -1,0 +1,1 @@
+Sparse memory with selective addressing

@@ -1,0 +1,20 @@
+PPA Report for multiclock_pattern_matcher
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 4
+FF Count: 2
+IO Count: 20
+Cell Count: 68
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 249.69 MHz
+Reg-to-Reg Critical Path Delay: 3.305 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.582 W

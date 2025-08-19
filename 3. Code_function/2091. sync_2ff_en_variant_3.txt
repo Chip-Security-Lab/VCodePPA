@@ -1,0 +1,1 @@
+Synchronizes data across clock domains

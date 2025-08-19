@@ -1,0 +1,20 @@
+PPA Report for UART_MultiBuffer.v (Module: UART_MultiBuffer)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 0
+FF Count: 8
+IO Count: 11
+Cell Count: 29
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 317.98 MHz
+Reg-to-Reg Critical Path Delay: 3.057 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 1.216 W

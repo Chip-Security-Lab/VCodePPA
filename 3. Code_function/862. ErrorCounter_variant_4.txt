@@ -1,0 +1,1 @@
+Pattern mismatch error counter alarm

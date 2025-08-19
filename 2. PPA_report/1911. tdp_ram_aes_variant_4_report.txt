@@ -1,0 +1,20 @@
+PPA Report for AdaptiveThreshold.v (Module: AdaptiveThreshold)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 23
+FF Count: 43
+IO Count: 10
+Cell Count: 114
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 831.26 MHz
+Reg-to-Reg Critical Path Delay: 1.000 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

@@ -1,0 +1,1 @@
+Parameterized register with reset capability

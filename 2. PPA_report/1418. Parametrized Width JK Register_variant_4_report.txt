@@ -1,0 +1,20 @@
+PPA Report for param_jk_register.v (Module: param_jk_register)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 11
+FF Count: 30
+IO Count: 13
+Cell Count: 80
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 916.59 MHz
+Reg-to-Reg Critical Path Delay: 0.961 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

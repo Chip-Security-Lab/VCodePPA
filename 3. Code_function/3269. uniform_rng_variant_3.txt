@@ -1,0 +1,1 @@
+Pipelined XORShift random number generator

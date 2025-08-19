@@ -1,0 +1,1 @@
+Buffered synchronous circular barrel shifter

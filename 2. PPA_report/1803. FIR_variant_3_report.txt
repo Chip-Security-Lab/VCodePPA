@@ -1,0 +1,20 @@
+PPA Report for FIR.v (Module: FIR)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 16
+FF Count: 41
+IO Count: 21
+Cell Count: 103
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 840.34 MHz
+Reg-to-Reg Critical Path Delay: 1.020 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.456 W

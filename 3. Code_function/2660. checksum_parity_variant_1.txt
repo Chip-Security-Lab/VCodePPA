@@ -1,0 +1,1 @@
+Checksum calculator with parity verification

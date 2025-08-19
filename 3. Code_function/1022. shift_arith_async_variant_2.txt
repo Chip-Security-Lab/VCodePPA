@@ -1,0 +1,1 @@
+Hierarchical arithmetic right shifter

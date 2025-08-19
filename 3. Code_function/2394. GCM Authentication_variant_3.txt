@@ -1,0 +1,1 @@
+Pipelined GCM authentication tag generator

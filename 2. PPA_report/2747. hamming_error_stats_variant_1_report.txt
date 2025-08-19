@@ -1,0 +1,20 @@
+PPA Report for hamming_error_stats.v (Module: hamming_error_stats)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 18
+FF Count: 39
+IO Count: 32
+Cell Count: 118
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 503.52 MHz
+Reg-to-Reg Critical Path Delay: 1.648 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.456 W

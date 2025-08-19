@@ -1,0 +1,20 @@
+PPA Report for PipelinedNOT.v (Module: PipelinedNOT)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 35
+FF Count: 34
+IO Count: 71
+Cell Count: 214
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 735.84 MHz
+Reg-to-Reg Critical Path Delay: 1.216 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.466 W

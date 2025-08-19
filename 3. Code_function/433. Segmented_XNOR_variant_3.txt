@@ -1,0 +1,1 @@
+Segmented cross-coupled XNOR operations

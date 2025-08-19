@@ -1,0 +1,1 @@
+Masked shift and XOR circuit

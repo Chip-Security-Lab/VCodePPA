@@ -1,0 +1,20 @@
+PPA Report for subtractor_8bit_2comp.v (Module: subtractor_8bit_2comp)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 14
+FF Count: 0
+IO Count: 25
+Cell Count: 74
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+End-to-End Path Delay: 5.547 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 4.727 W

@@ -1,0 +1,20 @@
+PPA Report for eth_checksum_verifier.v (Module: eth_checksum_verifier)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 38
+FF Count: 60
+IO Count: 15
+Cell Count: 157
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 609.76 MHz
+Reg-to-Reg Critical Path Delay: 1.431 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

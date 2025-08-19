@@ -1,0 +1,1 @@
+XNOR with booth multiplication shifting

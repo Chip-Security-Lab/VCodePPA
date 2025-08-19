@@ -1,0 +1,20 @@
+PPA Report for reset_pattern_gen
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 12
+FF Count: 10
+IO Count: 18
+Cell Count: 65
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 555.25 MHz
+Reg-to-Reg Critical Path Delay: 1.624 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

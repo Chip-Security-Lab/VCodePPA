@@ -1,0 +1,20 @@
+PPA Report for Parallel to Serial Converter
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 15
+FF Count: 14
+IO Count: 14
+Cell Count: 71
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 841.75 MHz
+Reg-to-Reg Critical Path Delay: 0.984 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

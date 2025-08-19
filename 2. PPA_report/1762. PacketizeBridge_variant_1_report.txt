@@ -1,0 +1,20 @@
+PPA Report for PacketizeBridge.v (Module: PacketizeBridge)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 20
+FF Count: 35
+IO Count: 68
+Cell Count: 213
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 942.51 MHz
+Reg-to-Reg Critical Path Delay: 0.833 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.473 W

@@ -1,0 +1,1 @@
+Configurable UART data width adapter

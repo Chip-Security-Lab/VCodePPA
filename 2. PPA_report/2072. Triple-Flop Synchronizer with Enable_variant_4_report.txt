@@ -1,0 +1,20 @@
+PPA Report for triple_flop_sync.v (Module: triple_flop_sync)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 0
+FF Count: 4
+IO Count: 20
+Cell Count: 39
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 284.36 MHz
+Reg-to-Reg Critical Path Delay: 2.983 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.650 W

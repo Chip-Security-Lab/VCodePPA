@@ -1,0 +1,20 @@
+PPA Report for ring_oscillator.v (Module: ring_oscillator)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 1
+FF Count: 0
+IO Count: 2
+Cell Count: 5
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+End-to-End Path Delay: 4.641 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.678 W

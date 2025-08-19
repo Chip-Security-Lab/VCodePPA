@@ -1,0 +1,20 @@
+PPA Report for toggle_buffer.v (Module: toggle_buffer)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 11
+FF Count: 51
+IO Count: 35
+Cell Count: 147
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 675.22 MHz
+Reg-to-Reg Critical Path Delay: 1.208 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.458 W

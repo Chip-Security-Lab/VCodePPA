@@ -1,0 +1,20 @@
+PPA Report for TTBridge_pipeline.v (Module: TTBridge_pipeline)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 45
+FF Count: 66
+IO Count: 35
+Cell Count: 223
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 389.71 MHz
+Reg-to-Reg Critical Path Delay: 2.335 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

@@ -1,0 +1,20 @@
+PPA Report for APB to Wishbone Bridge
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 8
+FF Count: 99
+IO Count: 202
+Cell Count: 516
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 738.55 MHz
+Reg-to-Reg Critical Path Delay: 1.069 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.480 W

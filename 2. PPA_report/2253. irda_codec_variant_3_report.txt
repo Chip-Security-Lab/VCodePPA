@@ -1,0 +1,20 @@
+PPA Report for irda_codec.v (Module: irda_codec)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 13
+FF Count: 10
+IO Count: 3
+Cell Count: 38
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 670.69 MHz
+Reg-to-Reg Critical Path Delay: 1.229 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

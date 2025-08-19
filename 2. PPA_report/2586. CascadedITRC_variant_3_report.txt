@@ -1,0 +1,20 @@
+PPA Report for CascadedITRC.v (Module: CascadedITRC)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 6
+FF Count: 16
+IO Count: 16
+Cell Count: 66
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 859.11 MHz
+Reg-to-Reg Critical Path Delay: 1.021 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

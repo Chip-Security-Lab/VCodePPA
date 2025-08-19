@@ -1,0 +1,1 @@
+Ring counter with preset capability

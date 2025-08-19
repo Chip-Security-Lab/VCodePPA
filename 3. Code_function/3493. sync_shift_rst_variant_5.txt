@@ -1,0 +1,1 @@
+Serial-input shift register with reset

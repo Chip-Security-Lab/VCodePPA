@@ -1,0 +1,21 @@
+PPA Report for pipelined_demux_axi_stream.v (Module: pipelined_demux_axi_stream)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 7
+FF Count: 28
+IO Count: 18
+Cell Count: 79
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 881.06 MHz
+End-to-End Path Delay: 4.884 ns
+Reg-to-Reg Critical Path Delay: 1.016 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

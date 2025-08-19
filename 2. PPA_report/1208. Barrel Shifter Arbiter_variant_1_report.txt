@@ -1,0 +1,20 @@
+PPA Report for barrel_arbiter.v (Module: barrel_arbiter)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 37
+FF Count: 11
+IO Count: 21
+Cell Count: 103
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 572.08 MHz
+Reg-to-Reg Critical Path Delay: 1.558 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.455 W

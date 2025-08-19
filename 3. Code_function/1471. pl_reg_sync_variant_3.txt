@@ -1,0 +1,1 @@
+Parameterized synchronous pipeline register module

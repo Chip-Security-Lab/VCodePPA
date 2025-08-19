@@ -1,0 +1,20 @@
+PPA Report for async_reset_regfile.v (Module: async_reset_regfile)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 148
+FF Count: 544
+IO Count: 75
+Cell Count: 953
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 854.70 MHz
+Reg-to-Reg Critical Path Delay: 0.957 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.486 W

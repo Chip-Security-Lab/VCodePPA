@@ -1,0 +1,1 @@
+Pipelined reset sequencing state machine

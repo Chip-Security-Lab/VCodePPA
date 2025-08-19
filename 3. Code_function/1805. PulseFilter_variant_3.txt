@@ -1,0 +1,1 @@
+Pulse filter with parallel subtractor

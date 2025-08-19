@@ -1,0 +1,1 @@
+AXI D-flip-flop with pipeline registers

@@ -1,0 +1,20 @@
+PPA Report for secded_hamming_gen.v (Module: secded_hamming_gen)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 30
+FF Count: 143
+IO Count: 138
+Cell Count: 454
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 466.64 MHz
+Reg-to-Reg Critical Path Delay: 1.961 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.515 W

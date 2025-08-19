@@ -1,0 +1,20 @@
+PPA Report for SyncOR_PipelineStage1.v (Module: SyncOR_PipelineStage1)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 1
+FF Count: 17
+IO Count: 36
+Cell Count: 95
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 528.85 MHz
+Reg-to-Reg Critical Path Delay: 2.312 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.455 W

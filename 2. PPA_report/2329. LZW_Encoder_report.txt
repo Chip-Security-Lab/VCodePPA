@@ -1,0 +1,20 @@
+PPA Report for LZW_Encoder
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 37
+FF Count: 32
+IO Count: 26
+Cell Count: 153
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 316.46 MHz
+Reg-to-Reg Critical Path Delay: 2.808 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.456 W

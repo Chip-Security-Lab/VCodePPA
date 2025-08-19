@@ -1,0 +1,1 @@
+Pipelined synchronous full adder circuit

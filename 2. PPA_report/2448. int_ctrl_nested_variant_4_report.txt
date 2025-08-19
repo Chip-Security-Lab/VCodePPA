@@ -1,0 +1,20 @@
+PPA Report for int_ctrl_edge_detect.v (Module: int_ctrl_edge_detect)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 17
+FF Count: 44
+IO Count: 20
+Cell Count: 106
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1061.57 MHz
+Reg-to-Reg Critical Path Delay: 0.794 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

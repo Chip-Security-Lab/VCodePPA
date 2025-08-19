@@ -1,0 +1,20 @@
+PPA Report for config_arbiter.v (Module: config_arbiter)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 47
+FF Count: 61
+IO Count: 16
+Cell Count: 165
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 487.80 MHz
+Reg-to-Reg Critical Path Delay: 1.858 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

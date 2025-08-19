@@ -1,0 +1,1 @@
+Multi-domain reset signal synchronizer

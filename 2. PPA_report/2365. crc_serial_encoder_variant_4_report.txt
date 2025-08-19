@@ -1,0 +1,20 @@
+PPA Report for crc_serial_encoder.v (Module: crc_serial_encoder)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 34
+FF Count: 53
+IO Count: 20
+Cell Count: 152
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 674.76 MHz
+Reg-to-Reg Critical Path Delay: 1.250 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

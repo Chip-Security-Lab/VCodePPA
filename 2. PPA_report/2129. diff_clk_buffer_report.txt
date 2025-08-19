@@ -1,0 +1,21 @@
+PPA Report for 2129. diff_clk_buffer.sv (Module: diff_clk_buffer)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 1
+FF Count: 0
+IO Count: 3
+Cell Count: 6
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A
+End-to-End Path Delay: 4.605 ns
+Detected Clock Signals: single_ended_clk
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.456 W

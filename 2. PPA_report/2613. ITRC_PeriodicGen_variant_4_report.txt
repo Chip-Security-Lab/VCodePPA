@@ -1,0 +1,20 @@
+PPA Report for ITRC_PeriodicGen.v (Module: ITRC_PeriodicGen)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 11
+FF Count: 17
+IO Count: 4
+Cell Count: 44
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 678.43 MHz
+Reg-to-Reg Critical Path Delay: 1.277 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

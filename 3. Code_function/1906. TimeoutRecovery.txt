@@ -1,0 +1,1 @@
+Signal stabilizer with timeout detection

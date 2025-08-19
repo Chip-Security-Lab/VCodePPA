@@ -1,0 +1,1 @@
+Parity checker using two-state FSM

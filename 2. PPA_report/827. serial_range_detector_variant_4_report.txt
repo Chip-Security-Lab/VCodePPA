@@ -1,0 +1,20 @@
+PPA Report for serial_range_detector.v (Module: serial_range_detector)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 11
+FF Count: 11
+IO Count: 21
+Cell Count: 87
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 585.48 MHz
+Reg-to-Reg Critical Path Delay: 1.575 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

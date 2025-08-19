@@ -1,0 +1,1 @@
+Power-efficient multi-stage logical shifter

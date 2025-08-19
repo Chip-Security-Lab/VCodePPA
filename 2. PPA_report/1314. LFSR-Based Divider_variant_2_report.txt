@@ -1,0 +1,20 @@
+PPA Report for lfsr_divider.v (Module: lfsr_divider)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 2
+FF Count: 8
+IO Count: 3
+Cell Count: 21
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1137.66 MHz
+Reg-to-Reg Critical Path Delay: 0.737 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

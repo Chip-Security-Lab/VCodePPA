@@ -1,0 +1,1 @@
+Synchronized in-range detector with handshaking

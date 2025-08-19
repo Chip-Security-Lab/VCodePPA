@@ -1,0 +1,20 @@
+PPA Report for pause_enabled_ring
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 1
+FF Count: 4
+IO Count: 7
+Cell Count: 20
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1153.40 MHz
+Reg-to-Reg Critical Path Delay: 0.748 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

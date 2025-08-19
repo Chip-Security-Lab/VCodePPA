@@ -1,0 +1,1 @@
+Parameterized multi-input OR gate array

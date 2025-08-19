@@ -1,0 +1,1 @@
+Fixed-point rounding with overflow detection

@@ -1,0 +1,20 @@
+PPA Report for pause_frame_gen.v (Module: pause_frame_gen)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 188
+FF Count: 67
+IO Count: 21
+Cell Count: 360
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 370.92 MHz
+Reg-to-Reg Critical Path Delay: 2.411 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.459 W

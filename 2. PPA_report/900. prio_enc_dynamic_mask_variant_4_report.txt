@@ -1,0 +1,20 @@
+PPA Report for prio_enc_dynamic_mask.v (Module: prio_enc_dynamic_mask)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 14
+FF Count: 30
+IO Count: 23
+Cell Count: 114
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 739.64 MHz
+Reg-to-Reg Critical Path Delay: 1.216 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

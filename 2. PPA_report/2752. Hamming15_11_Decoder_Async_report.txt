@@ -1,0 +1,20 @@
+PPA Report for Hamming15_11_Decoder_Async
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 18
+FF Count: 0
+IO Count: 30
+Cell Count: 78
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+End-to-End Path Delay: 6.042 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 7.163 W

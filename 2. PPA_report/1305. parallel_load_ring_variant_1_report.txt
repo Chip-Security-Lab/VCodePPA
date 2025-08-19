@@ -1,0 +1,20 @@
+PPA Report for parallel_load_ring.v (Module: parallel_load_ring)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 2
+FF Count: 22
+IO Count: 11
+Cell Count: 54
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 676.59 MHz
+Reg-to-Reg Critical Path Delay: 1.331 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

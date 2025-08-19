@@ -1,0 +1,1 @@
+Pattern-controlled data comparison circuit.

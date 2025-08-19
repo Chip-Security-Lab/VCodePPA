@@ -1,0 +1,1 @@
+Logarithmic-to-linear value converter

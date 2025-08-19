@@ -1,0 +1,1 @@
+Dual-read combinational register file

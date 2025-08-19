@@ -1,0 +1,1 @@
+Barrel shifters for bit rotation

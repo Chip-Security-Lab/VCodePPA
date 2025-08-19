@@ -1,0 +1,20 @@
+PPA Report for async_sawtooth.v (Module: async_sawtooth)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 8
+FF Count: 29
+IO Count: 20
+Cell Count: 84
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 816.99 MHz
+Reg-to-Reg Critical Path Delay: 1.039 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.459 W

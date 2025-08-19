@@ -1,0 +1,20 @@
+PPA Report for and_gate_reset.v (Module: and_gate_reset)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 104
+FF Count: 0
+IO Count: 33
+Cell Count: 196
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+End-to-End Path Delay: 8.586 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 7.459 W

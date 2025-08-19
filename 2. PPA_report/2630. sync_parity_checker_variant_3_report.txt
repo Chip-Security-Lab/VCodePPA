@@ -1,0 +1,20 @@
+PPA Report for sync_parity_checker.v (Module: sync_parity_checker)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 4
+FF Count: 8
+IO Count: 16
+Cell Count: 56
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1114.83 MHz
+Reg-to-Reg Critical Path Delay: 0.757 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

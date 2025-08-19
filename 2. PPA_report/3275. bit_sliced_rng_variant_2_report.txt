@@ -1,0 +1,20 @@
+PPA Report for bit_sliced_rng.v (Module: bit_sliced_rng)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 5
+FF Count: 32
+IO Count: 34
+Cell Count: 78
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 278.44 MHz
+Reg-to-Reg Critical Path Delay: 3.265 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 56.487 W

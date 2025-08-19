@@ -1,0 +1,20 @@
+PPA Report for differential_recovery
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 18
+FF Count: 9
+IO Count: 26
+Cell Count: 101
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 244.08 MHz
+Reg-to-Reg Critical Path Delay: 3.397 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.456 W

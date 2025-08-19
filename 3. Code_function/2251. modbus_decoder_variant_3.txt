@@ -1,0 +1,1 @@
+Modbus data decoder with CRC

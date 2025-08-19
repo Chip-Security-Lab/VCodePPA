@@ -1,0 +1,20 @@
+PPA Report for string_valid_xnor.v (Module: string_valid_xnor)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 12
+FF Count: 30
+IO Count: 28
+Cell Count: 118
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 811.69 MHz
+Reg-to-Reg Critical Path Delay: 1.002 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

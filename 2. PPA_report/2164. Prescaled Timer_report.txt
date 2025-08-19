@@ -1,0 +1,20 @@
+PPA Report for Prescaled Timer
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 44
+FF Count: 24
+IO Count: 44
+Cell Count: 195
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+End-to-End Path Delay: 5.603 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.952 W

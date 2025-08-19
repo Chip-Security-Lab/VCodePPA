@@ -1,0 +1,20 @@
+PPA Report for CounterMatcher.v (Module: CounterMatcher)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 6
+FF Count: 35
+IO Count: 36
+Cell Count: 122
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 801.28 MHz
+Reg-to-Reg Critical Path Delay: 1.117 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

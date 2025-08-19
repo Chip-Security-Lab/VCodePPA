@@ -1,0 +1,21 @@
+PPA Report for pwm_generator.v (Module: pwm_generator)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 23
+FF Count: 11
+IO Count: 13
+Cell Count: 85
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 588.58 MHz
+End-to-End Path Delay: 5.399 ns
+Reg-to-Reg Critical Path Delay: 1.495 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

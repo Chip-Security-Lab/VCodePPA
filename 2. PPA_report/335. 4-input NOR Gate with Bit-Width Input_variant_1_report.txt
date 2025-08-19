@@ -1,0 +1,20 @@
+PPA Report for nor4_bits.v (Module: nor4_bits)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 2
+FF Count: 6
+IO Count: 7
+Cell Count: 30
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1059.32 MHz
+Reg-to-Reg Critical Path Delay: 0.811 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.451 W

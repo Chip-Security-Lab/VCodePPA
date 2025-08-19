@@ -1,0 +1,1 @@
+Kogge-Stone 8-bit parallel adder

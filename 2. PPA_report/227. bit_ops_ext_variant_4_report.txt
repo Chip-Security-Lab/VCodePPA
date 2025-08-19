@@ -1,0 +1,20 @@
+PPA Report for bit_ops_ext.v (Module: bit_ops_ext)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 24
+FF Count: 44
+IO Count: 61
+Cell Count: 178
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 655.31 MHz
+Reg-to-Reg Critical Path Delay: 1.242 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.464 W

@@ -1,0 +1,1 @@
+Synchronous downward counter with reset

@@ -1,0 +1,1 @@
+Dual-reset pipelined register file

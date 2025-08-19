@@ -1,0 +1,1 @@
+Pipelined 8×4 bit multiplier

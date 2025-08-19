@@ -1,0 +1,20 @@
+PPA Report for ext_ack_ismu.v (Module: ext_ack_ismu)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 10
+FF Count: 21
+IO Count: 16
+Cell Count: 86
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 945.18 MHz
+Reg-to-Reg Critical Path Delay: 0.915 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

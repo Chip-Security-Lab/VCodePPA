@@ -1,0 +1,1 @@
+Asynchronous dual-clock FIFO buffer

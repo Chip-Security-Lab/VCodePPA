@@ -1,0 +1,20 @@
+PPA Report for lockstep_regfile
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 18
+FF Count: 0
+IO Count: 43
+Cell Count: 133
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 308.93 MHz
+Reg-to-Reg Critical Path Delay: 2.537 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.455 W

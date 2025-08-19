@@ -1,0 +1,20 @@
+PPA Report for Sparse Register File
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 185
+FF Count: 512
+IO Count: 84
+Cell Count: 917
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 200.28 MHz
+Reg-to-Reg Critical Path Delay: 4.293 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.466 W

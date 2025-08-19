@@ -1,0 +1,1 @@
+Parameterized 6-bit NOT gate

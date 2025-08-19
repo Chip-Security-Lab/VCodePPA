@@ -1,0 +1,21 @@
+PPA Report for multiply_divide_operator.v (Module: multiply_divide_operator)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 205
+FF Count: 50
+IO Count: 54
+Cell Count: 423
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 124.39 MHz
+End-to-End Path Delay: 3.826 ns
+Reg-to-Reg Critical Path Delay: 7.842 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.475 W

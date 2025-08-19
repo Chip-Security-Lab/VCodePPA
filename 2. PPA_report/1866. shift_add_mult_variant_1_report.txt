@@ -1,0 +1,20 @@
+PPA Report for shift_add_mult.v (Module: shift_add_mult)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 26
+FF Count: 30
+IO Count: 18
+Cell Count: 103
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 496.52 MHz
+Reg-to-Reg Critical Path Delay: 1.825 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.455 W

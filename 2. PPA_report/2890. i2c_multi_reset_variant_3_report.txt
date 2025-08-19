@@ -1,0 +1,20 @@
+PPA Report for i2c_multi_reset.v (Module: i2c_multi_reset)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 6
+FF Count: 14
+IO Count: 6
+Cell Count: 43
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 314.13 MHz
+Reg-to-Reg Critical Path Delay: 6.348 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.487 W

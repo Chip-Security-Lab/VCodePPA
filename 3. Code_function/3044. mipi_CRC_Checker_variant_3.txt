@@ -1,0 +1,1 @@
+Pipelined MIPI CRC-32 error detector

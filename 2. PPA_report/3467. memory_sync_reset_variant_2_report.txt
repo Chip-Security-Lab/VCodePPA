@@ -1,0 +1,20 @@
+PPA Report for memory_sync_reset.v (Module: memory_sync_reset)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 25
+FF Count: 76
+IO Count: 22
+Cell Count: 163
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 738.01 MHz
+Reg-to-Reg Critical Path Delay: 1.205 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

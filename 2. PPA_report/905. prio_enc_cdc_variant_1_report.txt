@@ -1,0 +1,20 @@
+PPA Report for prio_enc_cdc.v (Module: prio_enc_cdc)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 12
+FF Count: 34
+IO Count: 22
+Cell Count: 114
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 372.73 MHz
+Reg-to-Reg Critical Path Delay: 3.271 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 1.143 W

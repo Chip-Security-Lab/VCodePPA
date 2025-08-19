@@ -1,0 +1,20 @@
+PPA Report for mipi_rffe_register_file.v (Module: mipi_rffe_register_file)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 27
+FF Count: 69
+IO Count: 26
+Cell Count: 161
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 614.63 MHz
+Reg-to-Reg Critical Path Delay: 1.347 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

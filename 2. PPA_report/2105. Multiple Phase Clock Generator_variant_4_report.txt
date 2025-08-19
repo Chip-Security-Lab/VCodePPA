@@ -1,0 +1,20 @@
+PPA Report for multi_phase_clk_gen.v (Module: multi_phase_clk_gen)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 4
+FF Count: 6
+IO Count: 6
+Cell Count: 28
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 291.84 MHz
+Reg-to-Reg Critical Path Delay: 3.148 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 3.535 W

@@ -1,0 +1,1 @@
+Falling-edge 4-bit NOT pipeline

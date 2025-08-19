@@ -1,0 +1,20 @@
+PPA Report for float_lerp.v (Module: float_lerp)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 25
+FF Count: 0
+IO Count: 56
+Cell Count: 198
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+End-to-End Path Delay: 9.843 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 13.097 W

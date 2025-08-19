@@ -1,0 +1,20 @@
+PPA Report for free_counter.v (Module: free_counter)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 7
+FF Count: 9
+IO Count: 10
+Cell Count: 36
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 597.73 MHz
+Reg-to-Reg Critical Path Delay: 1.463 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.454 W

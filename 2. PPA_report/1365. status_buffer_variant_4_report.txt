@@ -1,0 +1,20 @@
+PPA Report for status_buffer.v (Module: status_buffer)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 10
+FF Count: 29
+IO Count: 21
+Cell Count: 87
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 865.05 MHz
+Reg-to-Reg Critical Path Delay: 1.019 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.455 W

@@ -1,0 +1,1 @@
+Clocked inequality comparator with register

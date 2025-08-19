@@ -1,0 +1,1 @@
+Pipelined pulse width counter

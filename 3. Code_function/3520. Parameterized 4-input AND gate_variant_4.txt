@@ -1,0 +1,1 @@
+Parameterized 4-input AND gate array

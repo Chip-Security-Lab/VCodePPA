@@ -1,0 +1,1 @@
+SR latch with set/reset inputs

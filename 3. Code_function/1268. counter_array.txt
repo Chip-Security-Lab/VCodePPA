@@ -1,0 +1,1 @@
+Multiple parallel synchronous counters array

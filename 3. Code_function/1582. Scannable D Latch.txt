@@ -1,0 +1,1 @@
+Scannable D-latch with enable

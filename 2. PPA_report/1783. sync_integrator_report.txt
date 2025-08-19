@@ -1,0 +1,20 @@
+PPA Report for sync_integrator
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 44
+FF Count: 24
+IO Count: 43
+Cell Count: 161
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 573.72 MHz
+Reg-to-Reg Critical Path Delay: 1.595 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.457 W

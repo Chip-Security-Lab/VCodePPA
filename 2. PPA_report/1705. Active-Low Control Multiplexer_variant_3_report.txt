@@ -1,0 +1,20 @@
+PPA Report for active_low_mux.v (Module: active_low_mux)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 24
+FF Count: 0
+IO Count: 74
+Cell Count: 199
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+End-to-End Path Delay: 4.302 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 11.942 W

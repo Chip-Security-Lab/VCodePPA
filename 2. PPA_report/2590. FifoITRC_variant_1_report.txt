@@ -1,0 +1,20 @@
+PPA Report for FifoITRC.v (Module: FifoITRC)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 30
+FF Count: 23
+IO Count: 15
+Cell Count: 98
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 462.96 MHz
+Reg-to-Reg Critical Path Delay: 1.854 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

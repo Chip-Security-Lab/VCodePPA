@@ -1,0 +1,1 @@
+Bidirectional 32-bit barrel rotator

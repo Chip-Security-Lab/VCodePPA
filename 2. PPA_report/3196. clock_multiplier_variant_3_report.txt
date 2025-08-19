@@ -1,0 +1,20 @@
+PPA Report for clock_multiplier.v (Module: clock_multiplier)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 1
+FF Count: 2
+IO Count: 2
+Cell Count: 13
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 309.74 MHz
+Reg-to-Reg Critical Path Delay: 2.929 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 1.221 W

@@ -1,0 +1,20 @@
+PPA Report for divider_lut_8bit.v (Module: divider_lut_8bit)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 1
+FF Count: 19
+IO Count: 28
+Cell Count: 74
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1207.73 MHz
+Reg-to-Reg Critical Path Delay: 0.709 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

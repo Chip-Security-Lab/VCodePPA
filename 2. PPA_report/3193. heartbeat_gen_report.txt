@@ -1,0 +1,20 @@
+PPA Report for heartbeat_gen
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 19
+FF Count: 12
+IO Count: 3
+Cell Count: 45
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 641.85 MHz
+Reg-to-Reg Critical Path Delay: 1.387 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.451 W

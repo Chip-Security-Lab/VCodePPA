@@ -1,0 +1,20 @@
+PPA Report for usb_token_encoder.v (Module: usb_token_encoder)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 6
+FF Count: 34
+IO Count: 31
+Cell Count: 103
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 689.18 MHz
+Reg-to-Reg Critical Path Delay: 1.252 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.457 W

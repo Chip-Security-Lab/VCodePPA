@@ -1,0 +1,20 @@
+PPA Report for can_message_filter.v (Module: can_message_filter)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 29
+FF Count: 1
+IO Count: 107
+Cell Count: 351
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 336.20 MHz
+Reg-to-Reg Critical Path Delay: 3.245 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

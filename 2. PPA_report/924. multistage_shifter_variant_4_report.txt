@@ -1,0 +1,20 @@
+PPA Report for multistage_shifter.v (Module: multistage_shifter)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 13
+FF Count: 30
+IO Count: 21
+Cell Count: 105
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 914.08 MHz
+Reg-to-Reg Critical Path Delay: 0.896 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.454 W

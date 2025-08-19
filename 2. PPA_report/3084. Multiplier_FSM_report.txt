@@ -1,0 +1,20 @@
+PPA Report for 3084. Multiplier_FSM.sv (Module: Multiplier_FSM)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 37
+FF Count: 58
+IO Count: 36
+Cell Count: 182
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 668.45 MHz
+Longest Path Delay: 1.298 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

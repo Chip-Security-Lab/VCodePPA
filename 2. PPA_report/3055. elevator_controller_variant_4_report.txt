@@ -1,0 +1,20 @@
+PPA Report for elevator_controller.v (Module: elevator_controller)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 18
+FF Count: 30
+IO Count: 12
+Cell Count: 80
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 587.20 MHz
+Reg-to-Reg Critical Path Delay: 1.568 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.454 W

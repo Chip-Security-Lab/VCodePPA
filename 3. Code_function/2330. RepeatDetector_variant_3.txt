@@ -1,0 +1,1 @@
+Data repeat detector with counter

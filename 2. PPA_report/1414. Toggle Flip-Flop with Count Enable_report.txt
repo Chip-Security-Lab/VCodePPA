@@ -1,0 +1,20 @@
+PPA Report for Toggle Flip-Flop with Count Enable
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 2
+FF Count: 4
+IO Count: 7
+Cell Count: 25
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1179.25 MHz
+Reg-to-Reg Critical Path Delay: 0.729 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.454 W

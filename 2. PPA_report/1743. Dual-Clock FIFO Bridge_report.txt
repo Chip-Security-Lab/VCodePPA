@@ -1,0 +1,19 @@
+PPA Report for Dual-Clock FIFO Bridge
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 88
+FF Count: 320
+IO Count: 71
+Cell Count: 596
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+
+POWER METRICS:
+-------------
+Total Power Consumption: 27.644 W

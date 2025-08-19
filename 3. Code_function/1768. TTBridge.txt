@@ -1,0 +1,1 @@
+Scheduled interval-based trigger generator

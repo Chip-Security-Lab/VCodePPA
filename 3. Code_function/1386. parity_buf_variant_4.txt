@@ -1,0 +1,1 @@
+Parity-protected data buffer register

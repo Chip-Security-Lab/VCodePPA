@@ -1,0 +1,20 @@
+PPA Report for memory_based_rng.v (Module: memory_based_rng)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 147
+FF Count: 176
+IO Count: 15
+Cell Count: 417
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 458.30 MHz
+Reg-to-Reg Critical Path Delay: 1.921 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.460 W

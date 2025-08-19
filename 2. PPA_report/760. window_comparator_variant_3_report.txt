@@ -1,0 +1,20 @@
+PPA Report for window_comparator.v (Module: window_comparator)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 25
+FF Count: 43
+IO Count: 41
+Cell Count: 205
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 612.00 MHz
+Reg-to-Reg Critical Path Delay: 1.499 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

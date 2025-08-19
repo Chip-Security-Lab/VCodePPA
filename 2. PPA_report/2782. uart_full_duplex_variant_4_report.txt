@@ -1,0 +1,20 @@
+PPA Report for uart_full_duplex.v (Module: uart_full_duplex)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 47
+FF Count: 58
+IO Count: 24
+Cell Count: 171
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 460.19 MHz
+Reg-to-Reg Critical Path Delay: 1.957 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

@@ -1,0 +1,20 @@
+PPA Report for DoubleBufferTimer.v (Module: DoubleBufferTimer)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 10
+FF Count: 17
+IO Count: 18
+Cell Count: 70
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 622.67 MHz
+Reg-to-Reg Critical Path Delay: 1.459 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.455 W

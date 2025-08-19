@@ -1,0 +1,1 @@
+Subtraction and bitwise XNOR operations

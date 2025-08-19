@@ -1,0 +1,1 @@
+Input synchronizer with reset

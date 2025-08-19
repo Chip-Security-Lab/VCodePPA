@@ -1,0 +1,1 @@
+Pipelined configurable shift/rotate unit

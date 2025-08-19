@@ -1,0 +1,20 @@
+PPA Report for AsyncHandshakeBridge.v (Module: AsyncHandshakeBridge)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 4
+FF Count: 68
+IO Count: 70
+Cell Count: 220
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 371.36 MHz
+Reg-to-Reg Critical Path Delay: 2.454 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 5.814 W

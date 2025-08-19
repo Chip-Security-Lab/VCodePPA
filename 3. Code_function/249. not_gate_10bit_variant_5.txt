@@ -1,0 +1,1 @@
+10-bit inverter using single inverters

@@ -1,0 +1,20 @@
+PPA Report for cam_restart.v (Module: cam_restart)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 196
+FF Count: 441
+IO Count: 61
+Cell Count: 758
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 439.17 MHz
+Reg-to-Reg Critical Path Delay: 1.986 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.464 W

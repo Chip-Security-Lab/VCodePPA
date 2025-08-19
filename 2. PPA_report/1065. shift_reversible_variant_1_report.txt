@@ -1,0 +1,20 @@
+PPA Report for shift_reversible.v (Module: shift_reversible)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 12
+FF Count: 8
+IO Count: 18
+Cell Count: 66
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1592.36 MHz
+Reg-to-Reg Critical Path Delay: 0.460 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.454 W

@@ -1,0 +1,20 @@
+PPA Report for edge_sensitive_clock_gate.v (Module: edge_sensitive_clock_gate)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 3
+FF Count: 3
+IO Count: 4
+Cell Count: 19
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A
+End-to-End Path Delay: 4.675 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.593 W

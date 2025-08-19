@@ -1,0 +1,1 @@
+Parameterized dual-stage reset synchronizer

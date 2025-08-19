@@ -1,0 +1,1 @@
+Log2-based pipeline with AXI4-Lite interface

@@ -1,0 +1,20 @@
+PPA Report for CascadeMux.v (Module: CascadeMux)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 21
+FF Count: 39
+IO Count: 62
+Cell Count: 235
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 807.75 MHz
+Reg-to-Reg Critical Path Delay: 1.093 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.461 W

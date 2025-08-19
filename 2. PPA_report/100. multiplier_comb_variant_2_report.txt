@@ -1,0 +1,20 @@
+PPA Report for multiplier_comb.v (Module: multiplier_comb)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 75
+FF Count: 35
+IO Count: 36
+Cell Count: 218
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 634.52 MHz
+Reg-to-Reg Critical Path Delay: 1.309 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.455 W

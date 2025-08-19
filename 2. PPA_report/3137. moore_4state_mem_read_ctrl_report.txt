@@ -1,0 +1,20 @@
+PPA Report for moore_4state_mem_read_ctrl
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 3
+FF Count: 8
+IO Count: 9
+Cell Count: 32
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 764.53 MHz
+Reg-to-Reg Critical Path Delay: 1.032 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

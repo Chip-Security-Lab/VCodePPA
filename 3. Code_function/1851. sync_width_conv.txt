@@ -1,0 +1,1 @@
+Width-converting FIFO buffer controller

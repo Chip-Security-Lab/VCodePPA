@@ -1,0 +1,21 @@
+PPA Report for combo_logic_xnor.v (Module: combo_logic_xnor)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 8
+FF Count: 8
+IO Count: 9
+Cell Count: 42
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 833.33 MHz
+End-to-End Path Delay: 4.899 ns
+Reg-to-Reg Critical Path Delay: 0.979 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

@@ -1,0 +1,20 @@
+PPA Report for hamming_encoder_with_status.v (Module: hamming_encoder_with_status)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 6
+FF Count: 30
+IO Count: 26
+Cell Count: 88
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 786.78 MHz
+Reg-to-Reg Critical Path Delay: 1.132 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

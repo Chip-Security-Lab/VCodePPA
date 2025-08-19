@@ -1,0 +1,20 @@
+PPA Report for lcd_controller.v (Module: lcd_controller)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 28
+FF Count: 55
+IO Count: 24
+Cell Count: 141
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 421.41 MHz
+Reg-to-Reg Critical Path Delay: 2.235 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

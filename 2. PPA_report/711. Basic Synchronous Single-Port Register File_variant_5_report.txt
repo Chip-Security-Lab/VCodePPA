@@ -1,0 +1,21 @@
+PPA Report for basic_regfile.v (Module: basic_regfile)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 328
+FF Count: 1024
+IO Count: 72
+Cell Count: 1634
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 348.31 MHz
+End-to-End Path Delay: 6.693 ns
+Reg-to-Reg Critical Path Delay: 4.654 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.491 W

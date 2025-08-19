@@ -1,0 +1,20 @@
+PPA Report for var_dir_shifter_axi4lite.v (Module: var_dir_shifter_axi4lite)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 103
+FF Count: 90
+IO Count: 58
+Cell Count: 343
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 574.71 MHz
+Reg-to-Reg Critical Path Delay: 1.598 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.464 W

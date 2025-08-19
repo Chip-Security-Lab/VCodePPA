@@ -1,0 +1,20 @@
+PPA Report for usb_host_scheduler.v (Module: usb_host_scheduler)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 39
+FF Count: 15
+IO Count: 46
+Cell Count: 181
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 377.79 MHz
+Reg-to-Reg Critical Path Delay: 2.340 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.455 W

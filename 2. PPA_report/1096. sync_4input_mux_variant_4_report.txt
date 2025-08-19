@@ -1,0 +1,21 @@
+PPA Report for sync_4input_mux_valid_ready.v (Module: sync_4input_mux_valid_ready)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 5
+FF Count: 8
+IO Count: 10
+Cell Count: 42
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 973.71 MHz
+End-to-End Path Delay: 4.334 ns
+Reg-to-Reg Critical Path Delay: 0.908 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

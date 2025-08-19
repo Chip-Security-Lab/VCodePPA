@@ -1,0 +1,20 @@
+PPA Report for binary_gray_counter.v (Module: binary_gray_counter)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 22
+FF Count: 16
+IO Count: 21
+Cell Count: 76
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 181.20 MHz
+Reg-to-Reg Critical Path Delay: 3.410 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 4.003 W

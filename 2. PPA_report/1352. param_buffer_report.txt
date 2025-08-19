@@ -1,0 +1,20 @@
+PPA Report for param_buffer
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 0
+FF Count: 16
+IO Count: 34
+Cell Count: 89
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 346.74 MHz
+Reg-to-Reg Critical Path Delay: 2.184 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.455 W

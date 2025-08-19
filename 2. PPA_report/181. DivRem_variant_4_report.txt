@@ -1,0 +1,20 @@
+PPA Report for DivRem.v (Module: DivRem)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 153
+FF Count: 0
+IO Count: 32
+Cell Count: 265
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+End-to-End Path Delay: 12.206 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 13.418 W

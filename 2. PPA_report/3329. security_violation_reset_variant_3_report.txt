@@ -1,0 +1,20 @@
+PPA Report for security_violation_axi_stream.v (Module: security_violation_axi_stream)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 8
+FF Count: 6
+IO Count: 28
+Cell Count: 83
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1089.32 MHz
+Reg-to-Reg Critical Path Delay: 0.800 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

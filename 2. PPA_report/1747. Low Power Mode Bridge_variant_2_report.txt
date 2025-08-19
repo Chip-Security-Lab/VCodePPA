@@ -1,0 +1,20 @@
+PPA Report for low_power_bridge.v (Module: low_power_bridge)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 8
+FF Count: 68
+IO Count: 72
+Cell Count: 227
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 850.34 MHz
+Reg-to-Reg Critical Path Delay: 0.952 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.462 W

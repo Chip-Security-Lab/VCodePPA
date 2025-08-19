@@ -1,0 +1,20 @@
+PPA Report for vmem_ctrl.v (Module: vmem_ctrl)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 17
+FF Count: 60
+IO Count: 17
+Cell Count: 109
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 523.83 MHz
+Reg-to-Reg Critical Path Delay: 1.768 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

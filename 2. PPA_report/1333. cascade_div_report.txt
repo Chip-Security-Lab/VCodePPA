@@ -1,0 +1,22 @@
+PPA Report for 1333. cascade_div.sv (Module: cascade_div)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 4
+FF Count: 6
+IO Count: 6
+Cell Count: 26
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1221.00 MHz
+End-to-End Path Delay: 7.005 ns
+Reg-to-Reg Critical Path Delay: 0.700 ns
+Detected Clock Signals: clk clk_
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.457 W

@@ -1,0 +1,20 @@
+PPA Report for triple_buffer_codec.v (Module: triple_buffer_codec)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 359
+FF Count: 77
+IO Count: 67
+Cell Count: 684
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 345.90 MHz
+Reg-to-Reg Critical Path Delay: 2.638 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.474 W

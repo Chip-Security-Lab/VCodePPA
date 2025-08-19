@@ -1,0 +1,1 @@
+CRC-16 byte-wise calculation module

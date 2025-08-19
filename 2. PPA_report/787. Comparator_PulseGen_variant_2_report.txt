@@ -1,0 +1,21 @@
+PPA Report for Comparator_PulseGen.v (Module: Comparator_PulseGen)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 7
+FF Count: 1
+IO Count: 18
+Cell Count: 64
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 380.69 MHz
+End-to-End Path Delay: 5.301 ns
+Reg-to-Reg Critical Path Delay: 2.294 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.451 W

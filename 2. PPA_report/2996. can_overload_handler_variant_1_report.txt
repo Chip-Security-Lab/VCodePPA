@@ -1,0 +1,20 @@
+PPA Report for can_overload_handler.v (Module: can_overload_handler)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 12
+FF Count: 11
+IO Count: 8
+Cell Count: 49
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 427.17 MHz
+Reg-to-Reg Critical Path Delay: 2.095 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.451 W

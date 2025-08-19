@@ -1,0 +1,20 @@
+PPA Report for fifo_parity.v (Module: fifo_parity)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 2
+FF Count: 164
+IO Count: 154
+Cell Count: 344
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 773.99 MHz
+Reg-to-Reg Critical Path Delay: 1.021 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.566 W

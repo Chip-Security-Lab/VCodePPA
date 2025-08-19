@@ -1,0 +1,20 @@
+PPA Report for crc_adaptive.v (Module: crc_adaptive)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 2073
+FF Count: 232
+IO Count: 56
+Cell Count: 2782
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 173.07 MHz
+Reg-to-Reg Critical Path Delay: 5.594 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.561 W

@@ -1,0 +1,1 @@
+Manchester protocol decoder with handshaking

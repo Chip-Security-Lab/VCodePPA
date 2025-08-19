@@ -1,0 +1,20 @@
+PPA Report for ITRC_ClockCrossing.v (Module: ITRC_ClockCrossing)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 0
+FF Count: 2
+IO Count: 3
+Cell Count: 13
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1367.99 MHz
+Reg-to-Reg Critical Path Delay: 0.612 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.451 W

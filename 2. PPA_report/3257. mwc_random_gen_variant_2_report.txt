@@ -1,0 +1,21 @@
+PPA Report for mwc_random_gen_pipeline_valid_ready.v (Module: mwc_random_gen_pipeline_valid_ready)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 23
+FF Count: 100
+IO Count: 39
+Cell Count: 200
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 475.74 MHz
+End-to-End Path Delay: 4.629 ns
+Reg-to-Reg Critical Path Delay: 1.700 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.489 W

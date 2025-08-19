@@ -1,0 +1,20 @@
+PPA Report for bitserial_crc.v (Module: bitserial_crc)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 2
+FF Count: 10
+IO Count: 12
+Cell Count: 39
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 813.01 MHz
+Reg-to-Reg Critical Path Delay: 1.083 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.457 W

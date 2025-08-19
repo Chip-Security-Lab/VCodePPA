@@ -1,0 +1,21 @@
+PPA Report for not_gate_2bit.v (Module: not_gate_2bit)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 2
+FF Count: 1
+IO Count: 7
+Cell Count: 25
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 527.93 MHz
+End-to-End Path Delay: 4.591 ns
+Reg-to-Reg Critical Path Delay: 1.673 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

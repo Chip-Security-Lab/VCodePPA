@@ -1,0 +1,1 @@
+Extends reset signal duration.

@@ -1,0 +1,1 @@
+CRC-8 calculator with enable signal

@@ -1,0 +1,1 @@
+Pipelined RGB888 to RGB444 converter

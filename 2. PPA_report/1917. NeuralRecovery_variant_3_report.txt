@@ -1,0 +1,20 @@
+PPA Report for NeuralRecovery.v (Module: NeuralRecovery)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 47
+FF Count: 43
+IO Count: 17
+Cell Count: 143
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 583.77 MHz
+Reg-to-Reg Critical Path Delay: 1.573 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.458 W

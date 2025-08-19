@@ -1,0 +1,1 @@
+Dual D-flip-flop with buffered enable

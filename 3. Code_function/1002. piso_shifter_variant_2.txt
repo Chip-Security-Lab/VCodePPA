@@ -1,0 +1,1 @@
+Pipelined parallel-in serial-out shifter

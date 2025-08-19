@@ -1,0 +1,1 @@
+Synchronous 12-bit register with preset

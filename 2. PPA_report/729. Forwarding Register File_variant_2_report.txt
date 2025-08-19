@@ -1,0 +1,21 @@
+PPA Report for forwarding_regfile.v (Module: forwarding_regfile)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 647
+FF Count: 1024
+IO Count: 210
+Cell Count: 2511
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 668.45 MHz
+End-to-End Path Delay: 8.111 ns
+Reg-to-Reg Critical Path Delay: 1.350 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.574 W

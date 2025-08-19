@@ -1,0 +1,20 @@
+PPA Report for moore_5state_branch_axi_stream.v (Module: moore_5state_branch_axi_stream)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 7
+FF Count: 10
+IO Count: 10
+Cell Count: 43
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 655.31 MHz
+Reg-to-Reg Critical Path Delay: 1.251 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.451 W

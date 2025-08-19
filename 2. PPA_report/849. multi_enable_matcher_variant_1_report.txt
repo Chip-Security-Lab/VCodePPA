@@ -1,0 +1,20 @@
+PPA Report for multi_enable_matcher.v (Module: multi_enable_matcher)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 6
+FF Count: 9
+IO Count: 21
+Cell Count: 78
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 718.39 MHz
+Reg-to-Reg Critical Path Delay: 1.259 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.451 W

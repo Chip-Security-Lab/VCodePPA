@@ -1,0 +1,1 @@
+Configurable random number generator module

@@ -1,0 +1,20 @@
+PPA Report for sync_rate_limiter
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 41
+FF Count: 12
+IO Count: 26
+Cell Count: 141
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 346.86 MHz
+Reg-to-Reg Critical Path Delay: 2.736 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.457 W

@@ -1,0 +1,20 @@
+PPA Report for piso_reg_axi4lite.v (Module: piso_reg_axi4lite)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 32
+FF Count: 52
+IO Count: 65
+Cell Count: 206
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 636.94 MHz
+Reg-to-Reg Critical Path Delay: 1.442 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.466 W

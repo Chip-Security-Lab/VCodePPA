@@ -1,0 +1,1 @@
+Parameterized pipelined multi-stage register

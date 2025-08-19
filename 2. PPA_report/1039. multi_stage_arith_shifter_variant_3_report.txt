@@ -1,0 +1,21 @@
+PPA Report for multi_stage_arith_shifter_valid_ready.v (Module: multi_stage_arith_shifter_valid_ready)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 44
+FF Count: 116
+IO Count: 42
+Cell Count: 270
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 517.87 MHz
+End-to-End Path Delay: 5.895 ns
+Reg-to-Reg Critical Path Delay: 1.627 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.456 W

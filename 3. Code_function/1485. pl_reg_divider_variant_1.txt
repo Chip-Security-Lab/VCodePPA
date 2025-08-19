@@ -1,0 +1,1 @@
+Clock-divided data register module

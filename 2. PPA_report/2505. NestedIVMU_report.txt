@@ -1,0 +1,20 @@
+PPA Report for NestedIVMU
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 17
+FF Count: 17
+IO Count: 41
+Cell Count: 99
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 611.25 MHz
+Reg-to-Reg Critical Path Delay: 1.414 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.462 W

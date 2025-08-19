@@ -1,0 +1,1 @@
+Asynchronous reset synchronization shift register

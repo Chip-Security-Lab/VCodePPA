@@ -1,0 +1,20 @@
+PPA Report for clk_gate_shift_en.v (Module: clk_gate_shift_en)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 6
+FF Count: 13
+IO Count: 9
+Cell Count: 42
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 931.10 MHz
+Reg-to-Reg Critical Path Delay: 0.882 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

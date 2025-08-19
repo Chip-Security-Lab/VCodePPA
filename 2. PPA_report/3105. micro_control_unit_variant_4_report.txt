@@ -1,0 +1,21 @@
+PPA Report for micro_control_unit.v (Module: micro_control_unit)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 3
+FF Count: 5
+IO Count: 11
+Cell Count: 37
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 997.01 MHz
+End-to-End Path Delay: 4.900 ns
+Reg-to-Reg Critical Path Delay: 0.883 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

@@ -1,0 +1,20 @@
+PPA Report for Hamming_Error_Injection.v (Module: Hamming_Error_Injection)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 19
+FF Count: 28
+IO Count: 27
+Cell Count: 115
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 825.76 MHz
+Reg-to-Reg Critical Path Delay: 0.975 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

@@ -1,0 +1,22 @@
+PPA Report for 2815. quad_spi_controller.sv (Module: quad_spi_controller)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 37
+FF Count: 29
+IO Count: 58
+Cell Count: 234
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 507.61 MHz
+End-to-End Path Delay: N/A (No valid path found) ns
+Reg-to-Reg Critical Path Delay: 1.821 ns
+Detected Clock Signals: clk
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.456 W

@@ -1,0 +1,20 @@
+PPA Report for cellular_automata_rng.v (Module: cellular_automata_rng)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 8
+FF Count: 64
+IO Count: 18
+Cell Count: 105
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 892.06 MHz
+Reg-to-Reg Critical Path Delay: 1.002 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.464 W

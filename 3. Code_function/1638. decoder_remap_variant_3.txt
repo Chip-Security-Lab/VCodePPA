@@ -1,0 +1,1 @@
+Pipelined address range decoder select

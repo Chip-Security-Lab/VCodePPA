@@ -1,0 +1,20 @@
+PPA Report for snapshot_buffer.v (Module: snapshot_buffer)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 15
+FF Count: 99
+IO Count: 67
+Cell Count: 254
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 586.51 MHz
+Reg-to-Reg Critical Path Delay: 1.558 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.468 W

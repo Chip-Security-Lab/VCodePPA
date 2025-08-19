@@ -1,0 +1,21 @@
+PPA Report for cam_async_reset.v (Module: cam_async_reset)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 12
+FF Count: 8
+IO Count: 16
+Cell Count: 58
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 325.26 MHz
+End-to-End Path Delay: 5.077 ns
+Reg-to-Reg Critical Path Delay: 2.222 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

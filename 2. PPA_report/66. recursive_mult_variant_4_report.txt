@@ -1,0 +1,20 @@
+PPA Report for recursive_mult.v (Module: recursive_mult)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 93
+FF Count: 0
+IO Count: 32
+Cell Count: 181
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+End-to-End Path Delay: 7.665 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 11.596 W

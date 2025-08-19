@@ -1,0 +1,1 @@
+Two-stage CRC7 calculator circuit

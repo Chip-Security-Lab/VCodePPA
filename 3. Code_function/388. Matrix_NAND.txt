@@ -1,0 +1,1 @@
+NAND operation with masked data

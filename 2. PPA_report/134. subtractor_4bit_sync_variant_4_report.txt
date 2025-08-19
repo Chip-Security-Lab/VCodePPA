@@ -1,0 +1,20 @@
+PPA Report for subtractor_4bit_axi_stream.v (Module: subtractor_4bit_axi_stream)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 9
+FF Count: 38
+IO Count: 15
+Cell Count: 82
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 663.57 MHz
+Reg-to-Reg Critical Path Delay: 1.302 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

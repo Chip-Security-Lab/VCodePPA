@@ -1,0 +1,1 @@
+Registered pipelined address decoder

@@ -1,0 +1,20 @@
+PPA Report for cam_dynamic.v (Module: cam_dynamic)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 5
+FF Count: 1
+IO Count: 141
+Cell Count: 177
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 88.07 MHz
+Reg-to-Reg Critical Path Delay: 4.983 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.503 W

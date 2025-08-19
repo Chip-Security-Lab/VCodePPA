@@ -1,0 +1,20 @@
+PPA Report for mipi_csi_packet_decoder.v (Module: mipi_csi_packet_decoder)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 3
+FF Count: 56
+IO Count: 64
+Cell Count: 186
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 934.58 MHz
+Reg-to-Reg Critical Path Delay: 0.936 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.457 W

@@ -1,0 +1,22 @@
+PPA Report for 1170. adaptive_crossbar.sv (Module: adaptive_crossbar)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 44
+FF Count: 64
+IO Count: 77
+Cell Count: 278
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 675.68 MHz
+End-to-End Path Delay: N/A (No valid path found) ns
+Reg-to-Reg Critical Path Delay: 1.280 ns
+Detected Clock Signals: clk
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.484 W

@@ -1,0 +1,1 @@
+Synchronous 8-bit subtractor with pipeline

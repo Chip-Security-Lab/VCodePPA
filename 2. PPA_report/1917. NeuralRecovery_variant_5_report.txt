@@ -1,0 +1,20 @@
+PPA Report for NeuralRecovery_Pipelined.v (Module: NeuralRecovery_Pipelined)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 13
+FF Count: 27
+IO Count: 20
+Cell Count: 102
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 482.63 MHz
+Reg-to-Reg Critical Path Delay: 1.937 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.458 W

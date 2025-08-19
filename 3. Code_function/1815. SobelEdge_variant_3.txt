@@ -1,0 +1,1 @@
+Pipelined Sobel edge detection operator

@@ -1,0 +1,20 @@
+PPA Report for async_onehot_priority_comp.v (Module: async_onehot_priority_comp)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 6
+FF Count: 0
+IO Count: 17
+Cell Count: 42
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+End-to-End Path Delay: 5.272 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 1.182 W

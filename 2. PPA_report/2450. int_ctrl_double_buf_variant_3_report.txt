@@ -1,0 +1,20 @@
+PPA Report for int_ctrl_double_buf.v (Module: int_ctrl_double_buf)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 7
+FF Count: 16
+IO Count: 18
+Cell Count: 67
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 632.91 MHz
+Reg-to-Reg Critical Path Delay: 1.430 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.457 W

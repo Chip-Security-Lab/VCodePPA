@@ -1,0 +1,1 @@
+Synchronous digital low-pass filter

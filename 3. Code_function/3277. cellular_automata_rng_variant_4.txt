@@ -1,0 +1,1 @@
+Rule 30 cellular automaton RNG

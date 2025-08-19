@@ -1,0 +1,20 @@
+PPA Report for async_read_regfile.v (Module: async_read_regfile)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 0
+FF Count: 6
+IO Count: 142
+Cell Count: 315
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 871.84 MHz
+Reg-to-Reg Critical Path Delay: 0.716 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.534 W

@@ -1,0 +1,20 @@
+PPA Report for sync_odd_parity_gen.v (Module: sync_odd_parity_gen)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 6
+FF Count: 15
+IO Count: 14
+Cell Count: 62
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 921.66 MHz
+Reg-to-Reg Critical Path Delay: 0.966 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

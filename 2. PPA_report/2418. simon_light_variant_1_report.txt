@@ -1,0 +1,20 @@
+PPA Report for simon_light.v (Module: simon_light)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 96
+FF Count: 325
+IO Count: 165
+Cell Count: 806
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 209.95 MHz
+Reg-to-Reg Critical Path Delay: 4.580 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.499 W

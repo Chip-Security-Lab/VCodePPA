@@ -1,0 +1,21 @@
+PPA Report for spi_multiple_slave.v (Module: spi_multiple_slave)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 26
+FF Count: 59
+IO Count: 32
+Cell Count: 163
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 604.59 MHz
+End-to-End Path Delay: 4.907 ns
+Reg-to-Reg Critical Path Delay: 1.378 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.456 W

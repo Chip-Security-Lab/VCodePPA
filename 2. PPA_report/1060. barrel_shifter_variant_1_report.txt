@@ -1,0 +1,20 @@
+PPA Report for barrel_shifter.v (Module: barrel_shifter)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 24
+FF Count: 34
+IO Count: 20
+Cell Count: 112
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 559.60 MHz
+Reg-to-Reg Critical Path Delay: 1.618 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.455 W

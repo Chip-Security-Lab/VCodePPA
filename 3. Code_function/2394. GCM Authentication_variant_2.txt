@@ -1,0 +1,1 @@
+GCM authentication tag generator

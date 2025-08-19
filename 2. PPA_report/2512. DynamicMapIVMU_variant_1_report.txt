@@ -1,0 +1,20 @@
+PPA Report for DynamicMapIVMU.v (Module: DynamicMapIVMU)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 21
+FF Count: 38
+IO Count: 50
+Cell Count: 154
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 976.56 MHz
+Reg-to-Reg Critical Path Delay: 0.869 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.463 W

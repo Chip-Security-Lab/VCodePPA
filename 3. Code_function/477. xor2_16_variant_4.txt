@@ -1,0 +1,1 @@
+Registered 2-input XOR gate

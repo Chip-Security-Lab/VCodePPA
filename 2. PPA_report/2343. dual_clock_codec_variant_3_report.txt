@@ -1,0 +1,20 @@
+PPA Report for dual_clock_codec.v (Module: dual_clock_codec)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 59
+FF Count: 193
+IO Count: 39
+Cell Count: 352
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 261.30 MHz
+Reg-to-Reg Critical Path Delay: 2.384 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.460 W

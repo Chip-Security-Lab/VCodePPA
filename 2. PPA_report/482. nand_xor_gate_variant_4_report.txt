@@ -1,0 +1,20 @@
+PPA Report for nand_xor_gate.v (Module: nand_xor_gate)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 3
+FF Count: 4
+IO Count: 6
+Cell Count: 26
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1182.03 MHz
+Reg-to-Reg Critical Path Delay: 0.716 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

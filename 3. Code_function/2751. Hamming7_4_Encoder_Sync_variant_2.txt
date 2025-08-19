@@ -1,0 +1,1 @@
+Synchronous Hamming 7-4 code encoder

@@ -1,0 +1,19 @@
+PPA Report for sync_left_shifter_pipeline.v (Module: sync_left_shifter_pipeline)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 74
+FF Count: 104
+IO Count: 75
+Cell Count: 359
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+
+POWER METRICS:
+-------------
+Total Power Consumption: 22.457 W

@@ -1,0 +1,1 @@
+Pipelined CRC-7 calculation circuit

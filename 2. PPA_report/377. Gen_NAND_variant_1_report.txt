@@ -1,0 +1,19 @@
+PPA Report for Gen_NAND_AXI4Lite.v (Module: Gen_NAND_AXI4Lite)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 80
+FF Count: 160
+IO Count: 100
+Cell Count: 472
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+
+POWER METRICS:
+-------------
+Total Power Consumption: 4.725 W

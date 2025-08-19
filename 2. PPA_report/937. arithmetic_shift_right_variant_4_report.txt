@@ -1,0 +1,19 @@
+PPA Report for arithmetic_shift_right.v (Module: arithmetic_shift_right)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 77
+FF Count: 104
+IO Count: 73
+Cell Count: 357
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+
+POWER METRICS:
+-------------
+Total Power Consumption: 31.553 W

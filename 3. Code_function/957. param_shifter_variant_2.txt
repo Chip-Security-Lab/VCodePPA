@@ -1,0 +1,1 @@
+Parameterized pipelined serial-to-parallel shift register

@@ -1,0 +1,20 @@
+PPA Report for manchester_encoder_axi4lite.v (Module: manchester_encoder_axi4lite)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 14
+FF Count: 20
+IO Count: 59
+Cell Count: 134
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 819.00 MHz
+Reg-to-Reg Critical Path Delay: 1.018 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.465 W

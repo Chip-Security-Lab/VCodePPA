@@ -1,0 +1,20 @@
+PPA Report for clk_gate_mask.v (Module: clk_gate_mask)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 2
+FF Count: 4
+IO Count: 9
+Cell Count: 27
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 887.31 MHz
+Reg-to-Reg Critical Path Delay: 0.922 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.451 W

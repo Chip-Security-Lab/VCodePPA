@@ -1,0 +1,20 @@
+PPA Report for keypad_scanner.v (Module: keypad_scanner)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 26
+FF Count: 49
+IO Count: 15
+Cell Count: 115
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 303.33 MHz
+Reg-to-Reg Critical Path Delay: 3.108 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 1.799 W

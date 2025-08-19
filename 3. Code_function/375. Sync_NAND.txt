@@ -1,0 +1,1 @@
+Clocked NAND gate with registers

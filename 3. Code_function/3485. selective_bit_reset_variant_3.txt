@@ -1,0 +1,1 @@
+Selective bit resetting with pipelining

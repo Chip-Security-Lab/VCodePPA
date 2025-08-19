@@ -1,0 +1,1 @@
+Moore parity bit generator

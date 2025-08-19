@@ -1,0 +1,20 @@
+PPA Report for 3087. CrossDomainFSM.sv (Module: CrossDomainFSM)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 1
+FF Count: 3
+IO Count: 4
+Cell Count: 17
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic) MHz
+Longest Path Delay: 3.047 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.650 W

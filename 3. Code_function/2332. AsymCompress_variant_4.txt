@@ -1,0 +1,1 @@
+Data compressor using XOR operations

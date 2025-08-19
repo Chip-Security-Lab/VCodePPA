@@ -1,0 +1,1 @@
+Parity-checked barrel shift decoder

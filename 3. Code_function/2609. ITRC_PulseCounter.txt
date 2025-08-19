@@ -1,0 +1,1 @@
+Pulse threshold detector counter module

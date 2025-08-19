@@ -1,0 +1,1 @@
+Resettable preset ring counter

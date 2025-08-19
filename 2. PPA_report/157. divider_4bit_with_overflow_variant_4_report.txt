@@ -1,0 +1,20 @@
+PPA Report for divider_4bit_with_overflow.v (Module: divider_4bit_with_overflow)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 30
+FF Count: 26
+IO Count: 19
+Cell Count: 103
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 783.70 MHz
+Reg-to-Reg Critical Path Delay: 1.071 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.454 W

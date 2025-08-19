@@ -1,0 +1,20 @@
+PPA Report for key_debouncer
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 22
+FF Count: 20
+IO Count: 5
+Cell Count: 64
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 595.24 MHz
+Reg-to-Reg Critical Path Delay: 1.503 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

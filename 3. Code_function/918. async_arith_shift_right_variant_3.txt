@@ -1,0 +1,1 @@
+Arithmetically right-shifts data when enabled

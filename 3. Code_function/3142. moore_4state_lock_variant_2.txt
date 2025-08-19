@@ -1,0 +1,1 @@
+One-hot sequence lock controller

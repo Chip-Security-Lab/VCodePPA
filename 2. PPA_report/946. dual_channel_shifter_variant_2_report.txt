@@ -1,0 +1,20 @@
+PPA Report for dual_channel_shifter.v (Module: dual_channel_shifter)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 70
+FF Count: 71
+IO Count: 74
+Cell Count: 298
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 529.66 MHz
+Reg-to-Reg Critical Path Delay: 1.677 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.463 W

@@ -1,0 +1,20 @@
+PPA Report for pulse_recovery_unit
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 7
+FF Count: 8
+IO Count: 5
+Cell Count: 32
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 881.83 MHz
+Reg-to-Reg Critical Path Delay: 0.913 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

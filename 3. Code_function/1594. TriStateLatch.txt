@@ -1,0 +1,1 @@
+Tristate latch with enable control

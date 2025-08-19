@@ -1,0 +1,21 @@
+PPA Report for trigger_shadow_reg.v (Module: trigger_shadow_reg)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 11
+FF Count: 69
+IO Count: 54
+Cell Count: 208
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 718.39 MHz
+End-to-End Path Delay: 3.824 ns
+Reg-to-Reg Critical Path Delay: 1.156 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.458 W

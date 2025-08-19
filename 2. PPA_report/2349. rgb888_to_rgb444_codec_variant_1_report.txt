@@ -1,0 +1,21 @@
+PPA Report for rgb888_to_rgb444_codec.v (Module: rgb888_to_rgb444_codec)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 16
+FF Count: 56
+IO Count: 49
+Cell Count: 202
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 712.76 MHz
+End-to-End Path Delay: 4.782 ns
+Reg-to-Reg Critical Path Delay: 1.223 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.454 W

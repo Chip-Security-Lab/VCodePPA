@@ -1,0 +1,20 @@
+PPA Report for sync_rst_decoder.v (Module: sync_rst_decoder)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 9
+FF Count: 38
+IO Count: 22
+Cell Count: 96
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 768.64 MHz
+Reg-to-Reg Critical Path Delay: 0.997 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

@@ -1,0 +1,20 @@
+PPA Report for ext_clk_monitor.v (Module: ext_clk_monitor)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 6
+FF Count: 13
+IO Count: 5
+Cell Count: 36
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 109.60 MHz
+Reg-to-Reg Critical Path Delay: 7.070 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

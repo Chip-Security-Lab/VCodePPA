@@ -1,0 +1,1 @@
+Enabled signed 4-bit multiplier

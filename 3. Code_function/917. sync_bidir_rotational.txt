@@ -1,0 +1,1 @@
+Synchronous bidirectional barrel shifter/rotator

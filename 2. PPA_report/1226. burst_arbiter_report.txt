@@ -1,0 +1,20 @@
+PPA Report for burst_arbiter
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 6
+FF Count: 10
+IO Count: 10
+Cell Count: 43
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 861.33 MHz
+Reg-to-Reg Critical Path Delay: 1.024 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

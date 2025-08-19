@@ -1,0 +1,20 @@
+PPA Report for dram_3d_stack.v (Module: dram_3d_stack)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 4
+FF Count: 18
+IO Count: 12
+Cell Count: 49
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1113.59 MHz
+Reg-to-Reg Critical Path Delay: 0.768 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

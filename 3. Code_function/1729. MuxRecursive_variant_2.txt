@@ -1,0 +1,1 @@
+Parameterized multiplexer with one-hot encoding

@@ -1,0 +1,1 @@
+Pipelined right-shift barrel shifter

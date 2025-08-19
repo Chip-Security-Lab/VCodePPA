@@ -1,0 +1,20 @@
+PPA Report for gray_ring_counter.v (Module: gray_ring_counter)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 2
+FF Count: 6
+IO Count: 6
+Cell Count: 21
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1145.48 MHz
+Reg-to-Reg Critical Path Delay: 0.754 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.454 W

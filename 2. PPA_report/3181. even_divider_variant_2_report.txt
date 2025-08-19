@@ -1,0 +1,20 @@
+PPA Report for even_divider.v (Module: even_divider)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 8
+FF Count: 9
+IO Count: 3
+Cell Count: 31
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 305.37 MHz
+Reg-to-Reg Critical Path Delay: 2.977 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.608 W

@@ -1,0 +1,20 @@
+PPA Report for cdc_arbiter.v (Module: cdc_arbiter)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 3
+FF Count: 16
+IO Count: 11
+Cell Count: 49
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 297.57 MHz
+Reg-to-Reg Critical Path Delay: 3.245 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 1.065 W

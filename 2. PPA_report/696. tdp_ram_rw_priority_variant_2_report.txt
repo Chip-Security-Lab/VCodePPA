@@ -1,0 +1,20 @@
+PPA Report for tdp_ram_rw_priority.v (Module: tdp_ram_rw_priority)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 0
+FF Count: 0
+IO Count: 85
+Cell Count: 196
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 344.22 MHz
+Reg-to-Reg Critical Path Delay: 2.473 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.503 W

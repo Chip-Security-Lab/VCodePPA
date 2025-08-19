@@ -1,0 +1,20 @@
+PPA Report for manchester_encoder_valid_ready.v (Module: manchester_encoder_valid_ready)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 6
+FF Count: 5
+IO Count: 8
+Cell Count: 32
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 668.90 MHz
+Reg-to-Reg Critical Path Delay: 1.268 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.451 W

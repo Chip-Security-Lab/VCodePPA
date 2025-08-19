@@ -1,0 +1,1 @@
+Registered clock-gated 3-to-8 decoder

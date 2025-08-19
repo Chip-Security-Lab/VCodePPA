@@ -1,0 +1,1 @@
+Pipelined arithmetic right shifter circuit

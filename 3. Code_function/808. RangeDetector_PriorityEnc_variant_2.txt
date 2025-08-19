@@ -1,0 +1,1 @@
+Parallel range detector with priority

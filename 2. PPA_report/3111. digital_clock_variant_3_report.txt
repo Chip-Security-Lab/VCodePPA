@@ -1,0 +1,20 @@
+PPA Report for digital_clock.v (Module: digital_clock)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 55
+FF Count: 75
+IO Count: 23
+Cell Count: 185
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 499.25 MHz
+Reg-to-Reg Critical Path Delay: 1.806 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.457 W

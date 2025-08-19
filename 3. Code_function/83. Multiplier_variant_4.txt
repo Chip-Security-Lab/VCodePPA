@@ -1,0 +1,1 @@
+Three-stage pipelined 4-bit multiplier

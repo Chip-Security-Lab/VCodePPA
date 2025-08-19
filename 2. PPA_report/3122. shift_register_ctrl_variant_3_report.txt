@@ -1,0 +1,20 @@
+PPA Report for shift_register_ctrl.v (Module: shift_register_ctrl)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 204
+FF Count: 49
+IO Count: 56
+Cell Count: 436
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 999.00 MHz
+Reg-to-Reg Critical Path Delay: 0.816 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.487 W

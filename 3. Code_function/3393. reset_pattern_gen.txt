@@ -1,0 +1,1 @@
+Sequential reset pattern generator

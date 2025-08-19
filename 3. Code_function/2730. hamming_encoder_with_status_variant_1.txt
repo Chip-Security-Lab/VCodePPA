@@ -1,0 +1,1 @@
+Pipelined Hamming encoder with status

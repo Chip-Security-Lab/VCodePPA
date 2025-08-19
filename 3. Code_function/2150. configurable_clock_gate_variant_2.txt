@@ -1,0 +1,1 @@
+Configurable clock and binary multipliers

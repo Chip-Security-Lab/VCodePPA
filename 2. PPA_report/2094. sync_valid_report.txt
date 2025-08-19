@@ -1,0 +1,20 @@
+PPA Report for sync_valid
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 2
+FF Count: 20
+IO Count: 35
+Cell Count: 97
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 244.08 MHz
+Reg-to-Reg Critical Path Delay: 3.397 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 1.097 W

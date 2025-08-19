@@ -1,0 +1,20 @@
+PPA Report for duty_cycle_clock_gate
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 5
+FF Count: 3
+IO Count: 6
+Cell Count: 28
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 172.98 MHz
+Reg-to-Reg Critical Path Delay: 5.081 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.828 W

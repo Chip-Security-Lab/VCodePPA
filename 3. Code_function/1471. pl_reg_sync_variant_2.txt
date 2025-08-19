@@ -1,0 +1,1 @@
+Three-stage pipeline register module

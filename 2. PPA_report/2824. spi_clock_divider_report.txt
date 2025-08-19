@@ -1,0 +1,19 @@
+PPA Report for spi_clock_divider
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 94
+FF Count: 94
+IO Count: 57
+Cell Count: 386
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+
+POWER METRICS:
+-------------
+Total Power Consumption: 1.534 W

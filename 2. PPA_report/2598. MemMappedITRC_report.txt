@@ -1,0 +1,22 @@
+PPA Report for 2598. MemMappedITRC.sv (Module: MemMappedITRC)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 57
+FF Count: 137
+IO Count: 33
+Cell Count: 303
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 803.86 MHz
+End-to-End Path Delay: N/A (No valid path found) ns
+Reg-to-Reg Critical Path Delay: 1.044 ns
+Detected Clock Signals: clk
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.456 W

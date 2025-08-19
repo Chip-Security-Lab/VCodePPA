@@ -1,0 +1,20 @@
+PPA Report for decoder_pipelined.v (Module: decoder_pipelined)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 1
+FF Count: 2
+IO Count: 22
+Cell Count: 42
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 439.81 MHz
+Reg-to-Reg Critical Path Delay: 1.800 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

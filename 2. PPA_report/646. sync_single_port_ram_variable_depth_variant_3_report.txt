@@ -1,0 +1,20 @@
+PPA Report for sync_single_port_ram_variable_depth.v (Module: sync_single_port_ram_variable_depth)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 863
+FF Count: 2109
+IO Count: 27
+Cell Count: 3481
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 254.91 MHz
+Reg-to-Reg Critical Path Delay: 3.638 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.463 W

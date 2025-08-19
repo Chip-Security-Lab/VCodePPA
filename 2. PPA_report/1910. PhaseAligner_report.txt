@@ -1,0 +1,22 @@
+PPA Report for 1910. PhaseAligner.sv (Module: PhaseAligner)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 3
+FF Count: 5
+IO Count: 10
+Cell Count: 26
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 274.05 MHz
+End-to-End Path Delay: N/A (No valid path found) ns
+Reg-to-Reg Critical Path Delay: 2.949 ns
+Detected Clock Signals: clk clk_
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.577 W

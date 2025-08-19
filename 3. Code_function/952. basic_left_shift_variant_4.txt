@@ -1,0 +1,1 @@
+Left-shift serial-in serial-out register

@@ -1,0 +1,20 @@
+PPA Report for irq_bridge.v (Module: irq_bridge)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 146
+FF Count: 137
+IO Count: 78
+Cell Count: 582
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 339.21 MHz
+Reg-to-Reg Critical Path Delay: 2.755 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.470 W

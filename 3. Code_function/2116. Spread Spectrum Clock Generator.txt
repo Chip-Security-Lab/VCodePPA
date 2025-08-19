@@ -1,0 +1,1 @@
+Spread spectrum clock generation module

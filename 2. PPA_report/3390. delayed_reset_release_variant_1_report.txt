@@ -1,0 +1,20 @@
+PPA Report for delayed_reset_release.v (Module: delayed_reset_release)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 25
+FF Count: 35
+IO Count: 62
+Cell Count: 169
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 292.88 MHz
+Reg-to-Reg Critical Path Delay: 3.231 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 3.338 W

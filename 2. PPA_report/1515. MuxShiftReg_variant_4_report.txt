@@ -1,0 +1,20 @@
+PPA Report for ShiftControl.v (Module: ShiftControl)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 1
+FF Count: 0
+IO Count: 6
+Cell Count: 13
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A
+End-to-End Path Delay: 4.557 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.964 W

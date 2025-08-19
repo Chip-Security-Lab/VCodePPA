@@ -1,0 +1,20 @@
+PPA Report for interval_timer
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 24
+FF Count: 13
+IO Count: 16
+Cell Count: 107
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 442.87 MHz
+Reg-to-Reg Critical Path Delay: 1.965 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

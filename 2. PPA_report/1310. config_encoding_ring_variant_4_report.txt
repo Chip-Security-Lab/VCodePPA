@@ -1,0 +1,20 @@
+PPA Report for config_encoding_ring.v (Module: config_encoding_ring)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 0
+FF Count: 12
+IO Count: 6
+Cell Count: 26
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 867.30 MHz
+Reg-to-Reg Critical Path Delay: 1.034 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

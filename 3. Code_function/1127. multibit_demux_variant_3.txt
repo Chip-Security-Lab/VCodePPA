@@ -1,0 +1,1 @@
+Parameterized multi-bit demultiplexer with decoder

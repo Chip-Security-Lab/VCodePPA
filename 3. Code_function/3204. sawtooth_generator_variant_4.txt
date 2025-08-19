@@ -1,0 +1,1 @@
+Enabled sawtooth counter with reset

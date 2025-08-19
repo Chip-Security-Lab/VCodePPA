@@ -1,0 +1,20 @@
+PPA Report for 3-input AND gate using generate statement
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 1
+FF Count: 0
+IO Count: 4
+Cell Count: 11
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+End-to-End Path Delay: 4.542 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.591 W

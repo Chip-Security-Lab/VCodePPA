@@ -1,0 +1,1 @@
+Configurable width/depth SRAM module

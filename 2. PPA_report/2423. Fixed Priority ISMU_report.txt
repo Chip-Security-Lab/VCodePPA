@@ -1,0 +1,20 @@
+PPA Report for Fixed Priority ISMU
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 6
+FF Count: 3
+IO Count: 15
+Cell Count: 49
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 321.54 MHz
+Reg-to-Reg Critical Path Delay: 2.410 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

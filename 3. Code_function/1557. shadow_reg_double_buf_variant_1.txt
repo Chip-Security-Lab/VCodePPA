@@ -1,0 +1,1 @@
+Double-buffered shadow register system

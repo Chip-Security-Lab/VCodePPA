@@ -1,0 +1,1 @@
+Reset delay detector with timer

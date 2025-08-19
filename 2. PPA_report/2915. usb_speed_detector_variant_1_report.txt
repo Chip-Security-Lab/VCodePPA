@@ -1,0 +1,20 @@
+PPA Report for usb_speed_detector.v (Module: usb_speed_detector)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 64
+FF Count: 163
+IO Count: 102
+Cell Count: 463
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 621.50 MHz
+Reg-to-Reg Critical Path Delay: 1.332 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.471 W

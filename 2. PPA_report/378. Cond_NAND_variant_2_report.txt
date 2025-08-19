@@ -1,0 +1,20 @@
+PPA Report for Cond_NAND.v (Module: Cond_NAND)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 7
+FF Count: 23
+IO Count: 15
+Cell Count: 72
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1036.27 MHz
+Reg-to-Reg Critical Path Delay: 0.817 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

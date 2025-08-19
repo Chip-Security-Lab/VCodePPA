@@ -1,0 +1,1 @@
+Status bit accumulator with reset

@@ -1,0 +1,22 @@
+PPA Report for 689. sync_dual_port_ram_with_clock_select.sv (Module: sync_dual_port_ram_with_clock_select)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 1
+FF Count: 0
+IO Count: 53
+Cell Count: 135
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 250.82 MHz
+End-to-End Path Delay: N/A (No valid path found) ns
+Reg-to-Reg Critical Path Delay: 3.287 ns
+Detected Clock Signals: clk clk_
+
+POWER METRICS:
+-------------
+Total Power Consumption: 27.769 W

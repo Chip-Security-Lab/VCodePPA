@@ -1,0 +1,20 @@
+PPA Report for param_odd_parity_reg_top.v (Module: param_odd_parity_reg_top)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 7
+FF Count: 7
+IO Count: 34
+Cell Count: 121
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1152.07 MHz
+Reg-to-Reg Critical Path Delay: 0.687 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

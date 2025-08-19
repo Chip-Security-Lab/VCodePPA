@@ -1,0 +1,20 @@
+PPA Report for delta_encoder.v (Module: delta_encoder)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 0
+FF Count: 3
+IO Count: 16
+Cell Count: 29
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 274.24 MHz
+Reg-to-Reg Critical Path Delay: 3.023 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.651 W

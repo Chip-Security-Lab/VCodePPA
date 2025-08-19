@@ -1,0 +1,20 @@
+PPA Report for pwm_generator_reset.v (Module: pwm_generator_reset)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 5
+FF Count: 41
+IO Count: 11
+Cell Count: 88
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 699.30 MHz
+Reg-to-Reg Critical Path Delay: 1.287 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

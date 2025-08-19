@@ -1,0 +1,1 @@
+Pipelined parity checker with reset

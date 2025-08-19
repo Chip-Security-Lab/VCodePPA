@@ -1,0 +1,20 @@
+PPA Report for dual_sampler.v (Module: dual_sampler)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 0
+FF Count: 2
+IO Count: 4
+Cell Count: 14
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 556.36 MHz
+Reg-to-Reg Critical Path Delay: 1.634 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

@@ -1,0 +1,1 @@
+Resetable XNOR logic gate

@@ -1,0 +1,20 @@
+PPA Report for variable_slope_triangle.v (Module: variable_slope_triangle)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 36
+FF Count: 36
+IO Count: 26
+Cell Count: 155
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 285.61 MHz
+Reg-to-Reg Critical Path Delay: 3.139 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 5.617 W

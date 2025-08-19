@@ -1,0 +1,1 @@
+Enabled register with shadow capture

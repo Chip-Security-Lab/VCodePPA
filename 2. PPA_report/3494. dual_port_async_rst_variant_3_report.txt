@@ -1,0 +1,21 @@
+PPA Report for dual_port_async_rst.v (Module: dual_port_async_rst)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 54
+FF Count: 136
+IO Count: 40
+Cell Count: 313
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 829.19 MHz
+End-to-End Path Delay: 5.621 ns
+Reg-to-Reg Critical Path Delay: 1.069 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.457 W

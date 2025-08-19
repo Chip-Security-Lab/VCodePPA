@@ -1,0 +1,20 @@
+PPA Report for rng_toggle_9_pipeline_valid_ready.v (Module: rng_toggle_9_pipeline_valid_ready)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 2
+FF Count: 6
+IO Count: 12
+Cell Count: 30
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1025.64 MHz
+Reg-to-Reg Critical Path Delay: 0.839 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

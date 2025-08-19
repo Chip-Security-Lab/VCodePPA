@@ -1,0 +1,1 @@
+Pipelined byte parity calculator

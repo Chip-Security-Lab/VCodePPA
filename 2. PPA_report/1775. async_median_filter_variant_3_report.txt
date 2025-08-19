@@ -1,0 +1,20 @@
+PPA Report for async_median_filter.v (Module: async_median_filter)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 64
+FF Count: 0
+IO Count: 64
+Cell Count: 248
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+End-to-End Path Delay: 5.698 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 18.114 W

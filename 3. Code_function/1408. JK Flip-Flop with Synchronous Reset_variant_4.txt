@@ -1,0 +1,1 @@
+Synchronous JK flip-flop with reset

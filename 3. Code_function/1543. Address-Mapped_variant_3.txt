@@ -1,0 +1,1 @@
+Register with shadow storage mechanism

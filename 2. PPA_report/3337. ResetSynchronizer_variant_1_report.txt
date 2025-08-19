@@ -1,0 +1,19 @@
+PPA Report for ResetSynchronizer_AXI4Lite.v (Module: ResetSynchronizer_AXI4Lite)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 12
+FF Count: 47
+IO Count: 57
+Cell Count: 156
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+
+POWER METRICS:
+-------------
+Total Power Consumption: 1.777 W

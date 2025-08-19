@@ -1,0 +1,20 @@
+PPA Report for basic_sync_timer.v (Module: basic_sync_timer)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 56
+FF Count: 73
+IO Count: 36
+Cell Count: 179
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 671.14 MHz
+Reg-to-Reg Critical Path Delay: 1.312 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.475 W

@@ -1,0 +1,1 @@
+Gaussian noise generator using LFSRs

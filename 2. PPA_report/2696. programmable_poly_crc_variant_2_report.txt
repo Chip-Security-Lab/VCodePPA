@@ -1,0 +1,21 @@
+PPA Report for programmable_poly_crc.v (Module: programmable_poly_crc)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 26
+FF Count: 45
+IO Count: 48
+Cell Count: 183
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 449.24 MHz
+End-to-End Path Delay: 5.183 ns
+Reg-to-Reg Critical Path Delay: 2.053 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.464 W

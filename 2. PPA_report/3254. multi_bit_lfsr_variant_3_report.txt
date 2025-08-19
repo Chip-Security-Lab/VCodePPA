@@ -1,0 +1,20 @@
+PPA Report for multi_bit_lfsr.v (Module: multi_bit_lfsr)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 4
+FF Count: 44
+IO Count: 22
+Cell Count: 78
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 843.17 MHz
+Reg-to-Reg Critical Path Delay: 1.067 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.467 W

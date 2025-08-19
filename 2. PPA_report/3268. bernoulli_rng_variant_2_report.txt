@@ -1,0 +1,20 @@
+PPA Report for bernoulli_rng_pipeline.v (Module: bernoulli_rng_pipeline)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 4
+FF Count: 10
+IO Count: 5
+Cell Count: 27
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1064.96 MHz
+Reg-to-Reg Critical Path Delay: 0.802 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

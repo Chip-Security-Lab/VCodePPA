@@ -1,0 +1,1 @@
+Handshake-based data transfer buffer

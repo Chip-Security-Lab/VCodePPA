@@ -1,0 +1,1 @@
+Pipelined random number generator shuffle

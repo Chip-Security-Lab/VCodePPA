@@ -1,0 +1,20 @@
+PPA Report for counter_array.v (Module: counter_array)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 10
+FF Count: 20
+IO Count: 18
+Cell Count: 65
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 949.67 MHz
+Reg-to-Reg Critical Path Delay: 0.820 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.463 W

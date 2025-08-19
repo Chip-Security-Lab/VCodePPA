@@ -1,0 +1,21 @@
+PPA Report for partial_product_gen.v (Module: partial_product_gen)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 11
+FF Count: 17
+IO Count: 30
+Cell Count: 94
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1119.82 MHz
+End-to-End Path Delay: 4.996 ns
+Reg-to-Reg Critical Path Delay: 0.672 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

@@ -1,0 +1,20 @@
+PPA Report for MultiCoreIVMU_pipelined.v (Module: MultiCoreIVMU_pipelined)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 93
+FF Count: 142
+IO Count: 154
+Cell Count: 485
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 449.84 MHz
+Reg-to-Reg Critical Path Delay: 2.044 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.494 W

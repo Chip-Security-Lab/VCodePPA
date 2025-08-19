@@ -1,0 +1,21 @@
+PPA Report for Parity_XNOR_Valid_Ready.v (Module: Parity_XNOR_Valid_Ready)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 6
+FF Count: 3
+IO Count: 17
+Cell Count: 55
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 812.35 MHz
+End-to-End Path Delay: 4.786 ns
+Reg-to-Reg Critical Path Delay: 0.957 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

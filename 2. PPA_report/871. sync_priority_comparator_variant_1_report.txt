@@ -1,0 +1,20 @@
+PPA Report for sync_priority_comparator.v (Module: sync_priority_comparator)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 7
+FF Count: 12
+IO Count: 14
+Cell Count: 58
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 574.71 MHz
+Reg-to-Reg Critical Path Delay: 1.560 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

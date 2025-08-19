@@ -1,0 +1,22 @@
+PPA Report for 820. pipelined_range_detector.sv (Module: pipelined_range_detector)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 25
+FF Count: 4
+IO Count: 75
+Cell Count: 285
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1069.52 MHz
+End-to-End Path Delay: N/A (No valid path found) ns
+Reg-to-Reg Critical Path Delay: 0.665 ns
+Detected Clock Signals: clock
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

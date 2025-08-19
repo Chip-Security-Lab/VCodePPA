@@ -1,0 +1,1 @@
+Buffered FIFO with dual-stage synchronization

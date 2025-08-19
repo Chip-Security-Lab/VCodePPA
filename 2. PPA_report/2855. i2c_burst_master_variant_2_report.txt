@@ -1,0 +1,21 @@
+PPA Report for i2c_burst_master_axi_stream.v (Module: i2c_burst_master_axi_stream)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 48
+FF Count: 37
+IO Count: 25
+Cell Count: 141
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 594.53 MHz
+End-to-End Path Delay: 5.667 ns
+Reg-to-Reg Critical Path Delay: 1.423 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

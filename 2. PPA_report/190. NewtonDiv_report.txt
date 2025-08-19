@@ -1,0 +1,20 @@
+PPA Report for NewtonDiv
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 6
+FF Count: 17
+IO Count: 49
+Cell Count: 151
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 391.70 MHz
+Reg-to-Reg Critical Path Delay: 2.361 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

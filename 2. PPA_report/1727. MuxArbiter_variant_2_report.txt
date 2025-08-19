@@ -1,0 +1,20 @@
+PPA Report for MuxArbiter.v (Module: MuxArbiter)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 22
+FF Count: 62
+IO Count: 50
+Cell Count: 224
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 638.98 MHz
+Reg-to-Reg Critical Path Delay: 1.379 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.455 W

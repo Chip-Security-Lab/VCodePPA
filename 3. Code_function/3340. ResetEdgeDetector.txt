@@ -1,0 +1,1 @@
+Rising reset edge detector

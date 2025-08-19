@@ -1,0 +1,20 @@
+PPA Report for usb_transaction_ctrl.v (Module: usb_transaction_ctrl)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 3
+FF Count: 15
+IO Count: 9
+Cell Count: 41
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 413.04 MHz
+Reg-to-Reg Critical Path Delay: 3.096 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 1.824 W

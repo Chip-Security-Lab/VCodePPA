@@ -1,0 +1,1 @@
+Bidirectional rotating bit pattern counter

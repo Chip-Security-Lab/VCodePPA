@@ -1,0 +1,20 @@
+PPA Report for param_wide_xnor.v (Module: param_wide_xnor)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 37
+FF Count: 0
+IO Count: 48
+Cell Count: 153
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+End-to-End Path Delay: 6.524 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 14.638 W

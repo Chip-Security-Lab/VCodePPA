@@ -1,0 +1,20 @@
+PPA Report for addr_comparator.v (Module: addr_comparator)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 34
+FF Count: 67
+IO Count: 51
+Cell Count: 277
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 793.65 MHz
+Reg-to-Reg Critical Path Delay: 1.120 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

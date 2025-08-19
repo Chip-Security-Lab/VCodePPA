@@ -1,0 +1,20 @@
+PPA Report for serial_display_codec.v (Module: serial_display_codec)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 52
+FF Count: 103
+IO Count: 91
+Cell Count: 366
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 557.41 MHz
+Reg-to-Reg Critical Path Delay: 1.519 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.472 W

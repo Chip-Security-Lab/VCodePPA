@@ -1,0 +1,21 @@
+PPA Report for multi_context_regfile.v (Module: multi_context_regfile)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 621
+FF Count: 2151
+IO Count: 97
+Cell Count: 3373
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 341.53 MHz
+End-to-End Path Delay: 4.652 ns
+Reg-to-Reg Critical Path Delay: 2.660 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.511 W

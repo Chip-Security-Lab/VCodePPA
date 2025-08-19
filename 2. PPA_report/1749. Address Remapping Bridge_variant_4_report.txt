@@ -1,0 +1,20 @@
+PPA Report for remap_bridge.v (Module: remap_bridge)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 28
+FF Count: 169
+IO Count: 136
+Cell Count: 494
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 616.14 MHz
+Reg-to-Reg Critical Path Delay: 1.345 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.476 W

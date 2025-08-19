@@ -1,0 +1,1 @@
+Reverses bits sequentially using FSM

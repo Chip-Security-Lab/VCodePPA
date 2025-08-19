@@ -1,0 +1,20 @@
+PPA Report for two_stage_decoder_req_ack.v (Module: two_stage_decoder_req_ack)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 11
+FF Count: 22
+IO Count: 24
+Cell Count: 82
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 659.63 MHz
+Reg-to-Reg Critical Path Delay: 1.291 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

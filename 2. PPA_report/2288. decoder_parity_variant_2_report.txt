@@ -1,0 +1,21 @@
+PPA Report for decoder_parity.v (Module: decoder_parity)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 8
+FF Count: 1
+IO Count: 19
+Cell Count: 54
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1386.96 MHz
+End-to-End Path Delay: 5.435 ns
+Reg-to-Reg Critical Path Delay: 0.602 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

@@ -1,0 +1,1 @@
+Pattern difference and Hamming calculator

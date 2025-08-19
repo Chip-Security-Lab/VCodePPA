@@ -1,0 +1,20 @@
+PPA Report for mipi_timing_controller.v (Module: mipi_timing_controller)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 299
+FF Count: 199
+IO Count: 117
+Cell Count: 985
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 373.83 MHz
+Reg-to-Reg Critical Path Delay: 2.484 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.471 W

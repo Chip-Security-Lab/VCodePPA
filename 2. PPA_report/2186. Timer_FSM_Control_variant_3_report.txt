@@ -1,0 +1,20 @@
+PPA Report for Timer_FSM_Control.v (Module: Timer_FSM_Control)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 13
+FF Count: 11
+IO Count: 4
+Cell Count: 40
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 559.60 MHz
+Reg-to-Reg Critical Path Delay: 1.505 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.451 W

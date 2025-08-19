@@ -1,0 +1,1 @@
+Masked CRC checksum calculator

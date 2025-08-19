@@ -1,0 +1,20 @@
+PPA Report for shift_multiphase.v (Module: shift_multiphase)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 0
+FF Count: 24
+IO Count: 16
+Cell Count: 61
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 220.12 MHz
+Reg-to-Reg Critical Path Delay: 4.138 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.454 W

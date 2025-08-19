@@ -1,0 +1,20 @@
+PPA Report for usb_pid_decoder.v (Module: usb_pid_decoder)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 42
+FF Count: 28
+IO Count: 19
+Cell Count: 120
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 556.79 MHz
+Reg-to-Reg Critical Path Delay: 1.593 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

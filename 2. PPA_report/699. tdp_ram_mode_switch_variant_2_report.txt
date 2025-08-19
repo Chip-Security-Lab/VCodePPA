@@ -1,0 +1,20 @@
+PPA Report for tdp_ram_mode_switch.v (Module: tdp_ram_mode_switch)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 1
+FF Count: 24
+IO Count: 150
+Cell Count: 353
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 611.62 MHz
+Reg-to-Reg Critical Path Delay: 1.120 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.520 W

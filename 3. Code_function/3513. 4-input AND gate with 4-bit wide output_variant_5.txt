@@ -1,0 +1,1 @@
+Four-input four-bit AND gate

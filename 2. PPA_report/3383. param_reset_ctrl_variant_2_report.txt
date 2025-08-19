@@ -1,0 +1,21 @@
+PPA Report for param_reset_ctrl_with_multiplier.v (Module: param_reset_ctrl_with_multiplier)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 10
+FF Count: 10
+IO Count: 33
+Cell Count: 95
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 575.37 MHz
+End-to-End Path Delay: 5.506 ns
+Reg-to-Reg Critical Path Delay: 2.559 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.455 W

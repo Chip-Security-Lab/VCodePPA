@@ -1,0 +1,22 @@
+PPA Report for 1313. Duty Cycle Preserving Divider.sv (Module: duty_preserve_divider)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 21
+FF Count: 5
+IO Count: 7
+Cell Count: 55
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 261.37 MHz
+End-to-End Path Delay: N/A (No valid path found) ns
+Reg-to-Reg Critical Path Delay: 3.126 ns
+Detected Clock Signals: clock clock_
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.803 W

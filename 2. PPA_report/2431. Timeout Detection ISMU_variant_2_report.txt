@@ -1,0 +1,20 @@
+PPA Report for timeout_ismu.v (Module: timeout_ismu)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 64
+FF Count: 45
+IO Count: 23
+Cell Count: 220
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 526.32 MHz
+Reg-to-Reg Critical Path Delay: 1.637 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

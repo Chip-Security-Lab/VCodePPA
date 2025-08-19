@@ -1,0 +1,1 @@
+CRC-16 bytewise checksum calculator

@@ -1,0 +1,20 @@
+PPA Report for bitwise_mix.v (Module: bitwise_mix)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 9
+FF Count: 32
+IO Count: 34
+Cell Count: 122
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1086.96 MHz
+Reg-to-Reg Critical Path Delay: 0.785 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.456 W

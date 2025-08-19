@@ -1,0 +1,20 @@
+PPA Report for programmable_pulse.v (Module: programmable_pulse)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 24
+FF Count: 17
+IO Count: 34
+Cell Count: 159
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 677.05 MHz
+Reg-to-Reg Critical Path Delay: 1.233 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

@@ -1,0 +1,20 @@
+PPA Report for triangular_dist_rng_pipeline.v (Module: triangular_dist_rng_pipeline)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 10
+FF Count: 35
+IO Count: 12
+Cell Count: 70
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 767.46 MHz
+Reg-to-Reg Critical Path Delay: 1.095 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.458 W

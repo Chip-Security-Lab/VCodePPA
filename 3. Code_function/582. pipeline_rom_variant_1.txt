@@ -1,0 +1,1 @@
+Pipelined ROM with 3-stage delay

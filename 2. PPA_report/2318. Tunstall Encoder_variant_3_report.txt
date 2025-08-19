@@ -1,0 +1,20 @@
+PPA Report for tunstall_encoder.v (Module: tunstall_encoder)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 3
+FF Count: 23
+IO Count: 11
+Cell Count: 53
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 298.55 MHz
+Reg-to-Reg Critical Path Delay: 3.161 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.695 W

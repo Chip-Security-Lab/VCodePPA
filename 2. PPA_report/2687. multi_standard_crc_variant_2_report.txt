@@ -1,0 +1,20 @@
+PPA Report for multi_standard_crc.v (Module: multi_standard_crc)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 22
+FF Count: 32
+IO Count: 37
+Cell Count: 113
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 720.46 MHz
+Reg-to-Reg Critical Path Delay: 1.222 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.477 W

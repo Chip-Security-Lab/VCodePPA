@@ -1,0 +1,1 @@
+Parallel adder with parity generator

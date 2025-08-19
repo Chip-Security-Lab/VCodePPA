@@ -1,0 +1,1 @@
+Pipelined shadow register comparison circuit

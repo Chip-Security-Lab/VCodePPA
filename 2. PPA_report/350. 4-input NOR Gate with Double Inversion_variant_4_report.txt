@@ -1,0 +1,20 @@
+PPA Report for nor4_double_invert.v (Module: nor4_double_invert)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 2
+FF Count: 8
+IO Count: 5
+Cell Count: 25
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 171.46 MHz
+Reg-to-Reg Critical Path Delay: 3.168 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.563 W

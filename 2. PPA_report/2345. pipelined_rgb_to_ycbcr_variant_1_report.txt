@@ -1,0 +1,21 @@
+PPA Report for pipelined_rgb_to_ycbcr.v (Module: pipelined_rgb_to_ycbcr)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 205
+FF Count: 265
+IO Count: 54
+Cell Count: 692
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 385.95 MHz
+End-to-End Path Delay: 3.829 ns
+Reg-to-Reg Critical Path Delay: 2.383 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.477 W

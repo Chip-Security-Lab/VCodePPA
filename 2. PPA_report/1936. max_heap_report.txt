@@ -1,0 +1,22 @@
+PPA Report for 1936. max_heap.sv (Module: max_heap)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 61
+FF Count: 141
+IO Count: 18
+Cell Count: 261
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 511.51 MHz
+End-to-End Path Delay: N/A (No valid path found) ns
+Reg-to-Reg Critical Path Delay: 1.678 ns
+Detected Clock Signals: clk
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.454 W

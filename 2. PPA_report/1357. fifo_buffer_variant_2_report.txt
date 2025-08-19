@@ -1,0 +1,20 @@
+PPA Report for fifo_buffer.v (Module: fifo_buffer)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 28
+FF Count: 26
+IO Count: 38
+Cell Count: 158
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 544.37 MHz
+Reg-to-Reg Critical Path Delay: 1.566 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.454 W

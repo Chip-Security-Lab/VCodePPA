@@ -1,0 +1,1 @@
+IrDA signal encoder/decoder chip

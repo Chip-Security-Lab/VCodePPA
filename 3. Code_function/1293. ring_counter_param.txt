@@ -1,0 +1,1 @@
+Parameterized ring counter with reset

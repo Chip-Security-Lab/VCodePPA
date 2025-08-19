@@ -1,0 +1,20 @@
+PPA Report for Timer_WindowCompare.v (Module: Timer_WindowCompare)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 15
+FF Count: 25
+IO Count: 20
+Cell Count: 117
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 691.56 MHz
+Reg-to-Reg Critical Path Delay: 1.298 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

@@ -1,0 +1,1 @@
+NOT gate using function implementation

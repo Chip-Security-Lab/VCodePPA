@@ -1,0 +1,20 @@
+PPA Report for dram_write_mask.v (Module: dram_write_mask)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 8
+FF Count: 200
+IO Count: 137
+Cell Count: 495
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 964.32 MHz
+Reg-to-Reg Critical Path Delay: 0.737 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.500 W

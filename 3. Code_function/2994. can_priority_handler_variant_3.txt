@@ -1,0 +1,1 @@
+CAN message priority selector

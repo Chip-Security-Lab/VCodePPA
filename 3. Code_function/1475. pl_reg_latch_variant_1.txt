@@ -1,0 +1,1 @@
+Gated data latch with control

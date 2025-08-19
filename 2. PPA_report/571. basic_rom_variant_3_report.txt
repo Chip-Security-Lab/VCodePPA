@@ -1,0 +1,21 @@
+PPA Report for basic_rom_with_multiplier.v (Module: basic_rom_with_multiplier)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 37
+FF Count: 45
+IO Count: 48
+Cell Count: 196
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 447.03 MHz
+End-to-End Path Delay: 5.809 ns
+Reg-to-Reg Critical Path Delay: 2.049 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.454 W

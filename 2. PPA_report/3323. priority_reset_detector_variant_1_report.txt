@@ -1,0 +1,20 @@
+PPA Report for priority_reset_detector.v (Module: priority_reset_detector)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 47
+FF Count: 12
+IO Count: 46
+Cell Count: 187
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 290.07 MHz
+Reg-to-Reg Critical Path Delay: 7.232 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.456 W

@@ -1,0 +1,20 @@
+PPA Report for eth_preamble_detector.v (Module: eth_preamble_detector)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 9
+FF Count: 14
+IO Count: 13
+Cell Count: 63
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 628.93 MHz
+Reg-to-Reg Critical Path Delay: 1.414 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.451 W

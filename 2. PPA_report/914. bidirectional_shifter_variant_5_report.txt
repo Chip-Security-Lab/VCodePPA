@@ -1,0 +1,20 @@
+PPA Report for bidirectional_shifter.v (Module: bidirectional_shifter)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 115
+FF Count: 165
+IO Count: 72
+Cell Count: 481
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 758.73 MHz
+Reg-to-Reg Critical Path Delay: 1.141 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.491 W

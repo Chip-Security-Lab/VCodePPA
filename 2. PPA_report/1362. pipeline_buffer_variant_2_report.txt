@@ -1,0 +1,20 @@
+PPA Report for pipeline_buffer.v (Module: pipeline_buffer)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 4
+FF Count: 35
+IO Count: 38
+Cell Count: 121
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 672.04 MHz
+Reg-to-Reg Critical Path Delay: 1.353 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.454 W

@@ -1,0 +1,20 @@
+PPA Report for subpixel_render.v (Module: subpixel_render)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 22
+FF Count: 38
+IO Count: 30
+Cell Count: 141
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 267.38 MHz
+Reg-to-Reg Critical Path Delay: 3.373 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 4.997 W

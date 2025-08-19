@@ -1,0 +1,20 @@
+PPA Report for glitch_free_clock_gate.v (Module: glitch_free_clock_gate)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 11
+FF Count: 9
+IO Count: 68
+Cell Count: 147
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A
+End-to-End Path Delay: 15.234 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 5.177 W

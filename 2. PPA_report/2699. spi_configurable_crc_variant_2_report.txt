@@ -1,0 +1,20 @@
+PPA Report for spi_configurable_crc.v (Module: spi_configurable_crc)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 20
+FF Count: 40
+IO Count: 24
+Cell Count: 102
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 582.07 MHz
+Reg-to-Reg Critical Path Delay: 1.500 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.455 W

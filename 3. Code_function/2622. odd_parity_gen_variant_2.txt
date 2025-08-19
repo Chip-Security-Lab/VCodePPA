@@ -1,0 +1,1 @@
+Configurable odd parity bit generator

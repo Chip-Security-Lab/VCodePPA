@@ -1,0 +1,20 @@
+PPA Report for usb_descriptor_parser.v (Module: usb_descriptor_parser)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 39
+FF Count: 111
+IO Count: 72
+Cell Count: 273
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 489.48 MHz
+Reg-to-Reg Critical Path Delay: 1.784 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.471 W

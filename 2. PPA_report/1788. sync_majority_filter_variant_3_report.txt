@@ -1,0 +1,20 @@
+PPA Report for async_debounce_filter.v (Module: async_debounce_filter)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 3
+FF Count: 0
+IO Count: 10
+Cell Count: 25
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+End-to-End Path Delay: 4.856 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 1.947 W

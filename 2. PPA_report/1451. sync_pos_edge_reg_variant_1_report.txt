@@ -1,0 +1,20 @@
+PPA Report for sync_pos_edge_reg_axi.v (Module: sync_pos_edge_reg_axi)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 36
+FF Count: 60
+IO Count: 129
+Cell Count: 388
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 652.74 MHz
+Reg-to-Reg Critical Path Delay: 1.303 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.468 W

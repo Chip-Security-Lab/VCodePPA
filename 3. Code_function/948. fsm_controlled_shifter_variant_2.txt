@@ -1,0 +1,1 @@
+Pipelined FSM-controlled bit shifter

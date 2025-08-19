@@ -1,0 +1,21 @@
+PPA Report for spread_spectrum_clk.v (Module: spread_spectrum_clk)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 16
+FF Count: 13
+IO Count: 13
+Cell Count: 67
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 525.76 MHz
+End-to-End Path Delay: 5.144 ns
+Reg-to-Reg Critical Path Delay: 1.756 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

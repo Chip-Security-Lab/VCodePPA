@@ -1,0 +1,1 @@
+8×4-bit pipelined multiplier with handshaking

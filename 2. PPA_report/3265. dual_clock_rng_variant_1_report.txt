@@ -1,0 +1,20 @@
+PPA Report for dual_clock_rng_axi_stream.v (Module: dual_clock_rng_axi_stream)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 5
+FF Count: 101
+IO Count: 40
+Cell Count: 161
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A
+End-to-End Path Delay: 6.055 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 6.160 W

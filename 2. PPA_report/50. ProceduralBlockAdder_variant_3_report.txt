@@ -1,0 +1,20 @@
+PPA Report for implements.v (Module: implements)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 7
+FF Count: 19
+IO Count: 21
+Cell Count: 81
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 880.28 MHz
+Reg-to-Reg Critical Path Delay: 1.000 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.455 W

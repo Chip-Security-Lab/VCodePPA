@@ -1,0 +1,1 @@
+Synchronous timer with rollover output.

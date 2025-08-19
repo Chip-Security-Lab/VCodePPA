@@ -1,0 +1,20 @@
+PPA Report for and_gate_generate.v (Module: and_gate_generate)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 2
+FF Count: 3
+IO Count: 5
+Cell Count: 21
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1088.14 MHz
+Reg-to-Reg Critical Path Delay: 0.786 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.451 W

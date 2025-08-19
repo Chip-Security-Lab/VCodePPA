@@ -1,0 +1,20 @@
+PPA Report for crc_fsm.v (Module: crc_fsm)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 13
+FF Count: 19
+IO Count: 28
+Cell Count: 89
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 744.05 MHz
+Reg-to-Reg Critical Path Delay: 1.086 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.464 W

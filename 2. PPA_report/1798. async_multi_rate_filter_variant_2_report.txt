@@ -1,0 +1,20 @@
+PPA Report for async_multi_rate_filter.v (Module: async_multi_rate_filter)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 87
+FF Count: 0
+IO Count: 34
+Cell Count: 228
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+End-to-End Path Delay: 7.113 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 8.893 W

@@ -1,0 +1,1 @@
+Parameterized serial-in parallel-out shift register

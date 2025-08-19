@@ -1,0 +1,20 @@
+PPA Report for seg7_sync_decoder.v (Module: seg7_sync_decoder)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 5
+FF Count: 7
+IO Count: 14
+Cell Count: 45
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 184.85 MHz
+Reg-to-Reg Critical Path Delay: 2.113 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

@@ -1,0 +1,20 @@
+PPA Report for fsm_arbiter.v (Module: fsm_arbiter)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 5
+FF Count: 9
+IO Count: 10
+Cell Count: 42
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 838.22 MHz
+Reg-to-Reg Critical Path Delay: 0.972 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

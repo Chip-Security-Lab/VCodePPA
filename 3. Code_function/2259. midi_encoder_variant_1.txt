@@ -1,0 +1,1 @@
+MIDI note encoder state machine

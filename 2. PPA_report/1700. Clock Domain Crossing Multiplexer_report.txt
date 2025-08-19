@@ -1,0 +1,20 @@
+PPA Report for Clock Domain Crossing Multiplexer
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 9
+FF Count: 32
+IO Count: 51
+Cell Count: 173
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 227.22 MHz
+Reg-to-Reg Critical Path Delay: 3.701 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 5.102 W

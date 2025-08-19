@@ -1,0 +1,1 @@
+Interrupt edge detection module

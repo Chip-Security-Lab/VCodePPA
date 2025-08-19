@@ -1,0 +1,20 @@
+PPA Report for parametric_crc.v (Module: parametric_crc)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 27
+FF Count: 57
+IO Count: 21
+Cell Count: 143
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 729.93 MHz
+Reg-to-Reg Critical Path Delay: 1.072 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

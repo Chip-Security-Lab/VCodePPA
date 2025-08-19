@@ -1,0 +1,20 @@
+PPA Report for DigitalPLL.v (Module: DigitalPLL)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 36
+FF Count: 74
+IO Count: 3
+Cell Count: 147
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 312.72 MHz
+Reg-to-Reg Critical Path Delay: 3.078 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 1.654 W

@@ -1,0 +1,1 @@
+Four-phase rotary shift register

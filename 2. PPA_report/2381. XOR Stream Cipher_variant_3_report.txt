@@ -1,0 +1,20 @@
+PPA Report for xor_stream_cipher.v (Module: xor_stream_cipher)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 18
+FF Count: 42
+IO Count: 44
+Cell Count: 171
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 945.18 MHz
+Reg-to-Reg Critical Path Delay: 0.908 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.464 W

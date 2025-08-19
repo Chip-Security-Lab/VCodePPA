@@ -1,0 +1,1 @@
+Shifted ring counter with inversion

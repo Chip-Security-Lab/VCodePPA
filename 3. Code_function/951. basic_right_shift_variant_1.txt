@@ -1,0 +1,1 @@
+Pipelined right shift register circuit

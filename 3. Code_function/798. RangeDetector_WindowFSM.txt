@@ -1,0 +1,1 @@
+Window crossing event detector

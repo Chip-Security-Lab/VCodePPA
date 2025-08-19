@@ -1,0 +1,20 @@
+PPA Report for bcd2bin.v (Module: bcd2bin)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 13
+FF Count: 7
+IO Count: 17
+Cell Count: 67
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 431.67 MHz
+Reg-to-Reg Critical Path Delay: 2.311 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

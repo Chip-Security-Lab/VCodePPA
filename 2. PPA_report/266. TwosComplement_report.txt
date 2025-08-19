@@ -1,0 +1,20 @@
+PPA Report for TwosComplement
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 11
+FF Count: 0
+IO Count: 32
+Cell Count: 81
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+End-to-End Path Delay: 5.625 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 4.158 W

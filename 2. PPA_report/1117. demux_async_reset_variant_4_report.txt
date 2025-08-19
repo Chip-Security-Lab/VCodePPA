@@ -1,0 +1,20 @@
+PPA Report for demux_async_reset_pipeline.v (Module: demux_async_reset_pipeline)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 17
+FF Count: 19
+IO Count: 18
+Cell Count: 78
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 797.45 MHz
+Reg-to-Reg Critical Path Delay: 1.068 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

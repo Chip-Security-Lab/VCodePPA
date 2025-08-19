@@ -1,0 +1,20 @@
+PPA Report for sram_fifo.v (Module: sram_fifo)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 32
+FF Count: 40
+IO Count: 70
+Cell Count: 250
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 346.26 MHz
+Reg-to-Reg Critical Path Delay: 1.963 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.471 W

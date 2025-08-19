@@ -1,0 +1,1 @@
+Trigger-based count-up timer circuit

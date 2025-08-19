@@ -1,0 +1,20 @@
+PPA Report for quad_encoder_timer.v (Module: quad_encoder_timer)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 21
+FF Count: 104
+IO Count: 38
+Cell Count: 197
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 717.88 MHz
+Reg-to-Reg Critical Path Delay: 1.206 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.468 W

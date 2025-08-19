@@ -1,0 +1,20 @@
+PPA Report for eth_statistics_collector
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 89
+FF Count: 230
+IO Count: 207
+Cell Count: 592
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 373.69 MHz
+Reg-to-Reg Critical Path Delay: 2.526 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.521 W

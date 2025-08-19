@@ -1,0 +1,1 @@
+Pipelined LFSR data descrambler

@@ -1,0 +1,20 @@
+PPA Report for int_ctrl_sync_fixed.v (Module: int_ctrl_sync_fixed)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 9
+FF Count: 34
+IO Count: 14
+Cell Count: 85
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 837.52 MHz
+Reg-to-Reg Critical Path Delay: 1.009 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

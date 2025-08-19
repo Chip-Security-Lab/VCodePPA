@@ -1,0 +1,1 @@
+Resettable clock generator module

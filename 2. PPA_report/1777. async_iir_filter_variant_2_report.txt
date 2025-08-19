@@ -1,0 +1,20 @@
+PPA Report for async_iir_filter.v (Module: async_iir_filter)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 36
+FF Count: 60
+IO Count: 72
+Cell Count: 330
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 784.31 MHz
+Reg-to-Reg Critical Path Delay: 0.992 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.480 W

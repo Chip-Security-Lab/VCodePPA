@@ -1,0 +1,20 @@
+PPA Report for serialize_reg.v (Module: serialize_reg)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 6
+FF Count: 21
+IO Count: 21
+Cell Count: 79
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 681.20 MHz
+Reg-to-Reg Critical Path Delay: 1.327 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

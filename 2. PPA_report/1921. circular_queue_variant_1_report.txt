@@ -1,0 +1,20 @@
+PPA Report for circular_queue.v (Module: circular_queue)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 64
+FF Count: 197
+IO Count: 21
+Cell Count: 338
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 476.87 MHz
+Reg-to-Reg Critical Path Delay: 1.828 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.458 W

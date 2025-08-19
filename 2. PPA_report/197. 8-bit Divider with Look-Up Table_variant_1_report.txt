@@ -1,0 +1,20 @@
+PPA Report for subtractor_lut_8bit.v (Module: subtractor_lut_8bit)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 9
+FF Count: 40
+IO Count: 26
+Cell Count: 117
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 798.08 MHz
+Reg-to-Reg Critical Path Delay: 1.122 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.456 W

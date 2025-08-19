@@ -1,0 +1,20 @@
+PPA Report for ITRC_DigitalFilter.v (Module: ITRC_DigitalFilter)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 23
+FF Count: 65
+IO Count: 18
+Cell Count: 143
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 838.93 MHz
+Reg-to-Reg Critical Path Delay: 0.917 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.456 W

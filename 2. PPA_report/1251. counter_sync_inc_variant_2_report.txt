@@ -1,0 +1,20 @@
+PPA Report for counter_sync_inc.v (Module: counter_sync_inc)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 7
+FF Count: 8
+IO Count: 11
+Cell Count: 38
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 804.51 MHz
+Reg-to-Reg Critical Path Delay: 1.090 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

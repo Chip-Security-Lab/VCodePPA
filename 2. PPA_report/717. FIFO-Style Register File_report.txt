@@ -1,0 +1,20 @@
+PPA Report for FIFO-Style Register File
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 29
+FF Count: 24
+IO Count: 42
+Cell Count: 162
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 588.24 MHz
+Reg-to-Reg Critical Path Delay: 1.417 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.457 W

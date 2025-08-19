@@ -1,0 +1,21 @@
+PPA Report for adaptive_threshold_recovery.v (Module: adaptive_threshold_recovery)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 12
+FF Count: 18
+IO Count: 29
+Cell Count: 114
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 720.98 MHz
+End-to-End Path Delay: 5.221 ns
+Reg-to-Reg Critical Path Delay: 1.268 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

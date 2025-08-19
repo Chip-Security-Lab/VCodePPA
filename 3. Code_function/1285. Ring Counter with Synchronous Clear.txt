@@ -1,0 +1,1 @@
+Clearable rotating single bit counter

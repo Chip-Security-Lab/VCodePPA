@@ -1,0 +1,20 @@
+PPA Report for cam_5_axi_stream.v (Module: cam_5_axi_stream)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 11
+FF Count: 72
+IO Count: 41
+Cell Count: 169
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 481.93 MHz
+Reg-to-Reg Critical Path Delay: 1.886 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

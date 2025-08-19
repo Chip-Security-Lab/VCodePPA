@@ -1,0 +1,19 @@
+PPA Report for Comparator_AXIWrapper.v (Module: Comparator_AXIWrapper)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 58
+FF Count: 111
+IO Count: 89
+Cell Count: 358
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+
+POWER METRICS:
+-------------
+Total Power Consumption: 5.448 W

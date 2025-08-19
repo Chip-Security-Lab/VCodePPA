@@ -1,0 +1,19 @@
+PPA Report for bcd2bin_axi4lite.v (Module: bcd2bin_axi4lite)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 53
+FF Count: 101
+IO Count: 70
+Cell Count: 297
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+
+POWER METRICS:
+-------------
+Total Power Consumption: 4.023 W

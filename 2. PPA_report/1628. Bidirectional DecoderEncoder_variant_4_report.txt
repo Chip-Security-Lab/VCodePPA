@@ -1,0 +1,20 @@
+PPA Report for bidir_decoder.v (Module: bidir_decoder)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 13
+FF Count: 0
+IO Count: 24
+Cell Count: 65
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+End-to-End Path Delay: 5.962 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 1.455 W

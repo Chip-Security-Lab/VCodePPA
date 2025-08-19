@@ -1,0 +1,21 @@
+PPA Report for jkff_with_multiplier.v (Module: jkff_with_multiplier)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 102
+FF Count: 1
+IO Count: 37
+Cell Count: 208
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1135.07 MHz
+End-to-End Path Delay: 8.658 ns
+Reg-to-Reg Critical Path Delay: 0.762 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.462 W

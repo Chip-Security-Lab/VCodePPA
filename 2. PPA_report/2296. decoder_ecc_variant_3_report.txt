@@ -1,0 +1,20 @@
+PPA Report for decoder_ecc.v (Module: decoder_ecc)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 9
+FF Count: 0
+IO Count: 22
+Cell Count: 49
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+End-to-End Path Delay: 6.202 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 1.738 W

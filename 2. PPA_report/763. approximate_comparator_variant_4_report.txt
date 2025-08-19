@@ -1,0 +1,20 @@
+PPA Report for approximate_comparator.v (Module: approximate_comparator)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 31
+FF Count: 61
+IO Count: 40
+Cell Count: 248
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 535.62 MHz
+Reg-to-Reg Critical Path Delay: 1.748 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

@@ -1,0 +1,20 @@
+PPA Report for counter_mac
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 86
+FF Count: 16
+IO Count: 34
+Cell Count: 204
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 846.74 MHz
+Reg-to-Reg Critical Path Delay: 1.036 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.464 W

@@ -1,0 +1,20 @@
+PPA Report for gaussian_noise.v (Module: gaussian_noise)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 11
+FF Count: 40
+IO Count: 10
+Cell Count: 76
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 552.18 MHz
+Reg-to-Reg Critical Path Delay: 1.664 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.458 W

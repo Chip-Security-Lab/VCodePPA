@@ -1,0 +1,20 @@
+PPA Report for dual_cnt_div.v (Module: dual_cnt_div)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 3
+FF Count: 7
+IO Count: 3
+Cell Count: 24
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1123.60 MHz
+Reg-to-Reg Critical Path Delay: 0.753 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

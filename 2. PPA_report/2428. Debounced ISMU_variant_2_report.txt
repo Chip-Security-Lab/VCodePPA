@@ -1,0 +1,20 @@
+PPA Report for debounce_ismu.v (Module: debounce_ismu)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 40
+FF Count: 80
+IO Count: 18
+Cell Count: 177
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 753.01 MHz
+Reg-to-Reg Critical Path Delay: 1.113 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

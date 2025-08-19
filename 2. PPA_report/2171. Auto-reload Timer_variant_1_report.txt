@@ -1,0 +1,20 @@
+PPA Report for auto_reload_timer.v (Module: auto_reload_timer)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 53
+FF Count: 65
+IO Count: 69
+Cell Count: 280
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 472.59 MHz
+Reg-to-Reg Critical Path Delay: 1.988 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.468 W

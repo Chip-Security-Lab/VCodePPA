@@ -1,0 +1,20 @@
+PPA Report for config_timer.v (Module: config_timer)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 55
+FF Count: 70
+IO Count: 60
+Cell Count: 272
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 352.77 MHz
+Reg-to-Reg Critical Path Delay: 2.465 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 1.114 W

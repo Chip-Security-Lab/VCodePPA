@@ -1,0 +1,20 @@
+PPA Report for pwm_dead_time.v (Module: pwm_dead_time)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 18
+FF Count: 38
+IO Count: 16
+Cell Count: 119
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 836.12 MHz
+Reg-to-Reg Critical Path Delay: 1.063 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

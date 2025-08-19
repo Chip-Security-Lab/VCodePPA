@@ -1,0 +1,20 @@
+PPA Report for shift_compare_top.v (Module: shift_compare_top)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 2
+FF Count: 0
+IO Count: 21
+Cell Count: 44
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+End-to-End Path Delay: 5.135 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 2.083 W

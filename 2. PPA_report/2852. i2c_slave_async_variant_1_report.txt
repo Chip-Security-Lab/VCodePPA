@@ -1,0 +1,20 @@
+PPA Report for i2c_slave_async_axi_stream.v (Module: i2c_slave_async_axi_stream)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 37
+FF Count: 29
+IO Count: 22
+Cell Count: 119
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 521.65 MHz
+Reg-to-Reg Critical Path Delay: 1.608 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

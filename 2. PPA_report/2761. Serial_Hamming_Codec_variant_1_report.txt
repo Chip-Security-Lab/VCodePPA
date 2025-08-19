@@ -1,0 +1,20 @@
+PPA Report for Serial_Hamming_Codec.v (Module: Serial_Hamming_Codec)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 1
+FF Count: 1
+IO Count: 5
+Cell Count: 16
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1394.70 MHz
+Reg-to-Reg Critical Path Delay: 0.598 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.451 W

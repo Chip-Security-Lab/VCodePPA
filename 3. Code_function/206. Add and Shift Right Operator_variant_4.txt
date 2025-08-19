@@ -1,0 +1,1 @@
+Manchester adder with right shift.

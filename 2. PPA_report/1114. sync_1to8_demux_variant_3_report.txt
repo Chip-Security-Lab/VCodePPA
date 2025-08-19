@@ -1,0 +1,20 @@
+PPA Report for data_register.v (Module: data_register)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 0
+FF Count: 4
+IO Count: 9
+Cell Count: 27
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 278.61 MHz
+Reg-to-Reg Critical Path Delay: 1.719 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

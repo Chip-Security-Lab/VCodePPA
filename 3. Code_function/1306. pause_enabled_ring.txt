@@ -1,0 +1,1 @@
+Rotating ring counter with pause

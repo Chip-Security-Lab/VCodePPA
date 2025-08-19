@@ -1,0 +1,20 @@
+PPA Report for async_rng.v (Module: async_rng)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 17
+FF Count: 80
+IO Count: 19
+Cell Count: 130
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 269.84 MHz
+Reg-to-Reg Critical Path Delay: 3.384 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 14.152 W

@@ -1,0 +1,1 @@
+Four-channel state-controlled data demultiplexer

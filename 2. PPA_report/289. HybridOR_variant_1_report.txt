@@ -1,0 +1,19 @@
+PPA Report for WallaceMultiplier8x8_Pipelined.v (Module: WallaceMultiplier8x8_Pipelined)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 31
+FF Count: 75
+IO Count: 30
+Cell Count: 186
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+
+POWER METRICS:
+-------------
+Total Power Consumption: 7.610 W

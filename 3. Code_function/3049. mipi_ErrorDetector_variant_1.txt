@@ -1,0 +1,1 @@
+MIPI error detection and counting

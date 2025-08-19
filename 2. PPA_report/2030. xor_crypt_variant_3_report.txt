@@ -1,0 +1,20 @@
+PPA Report for xor_crypt.v (Module: xor_crypt)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 5
+FF Count: 27
+IO Count: 20
+Cell Count: 77
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 959.69 MHz
+Reg-to-Reg Critical Path Delay: 0.909 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

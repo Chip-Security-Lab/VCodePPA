@@ -1,0 +1,20 @@
+PPA Report for divider_param.v (Module: divider_param)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 2224
+FF Count: 0
+IO Count: 128
+Cell Count: 2902
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+End-to-End Path Delay: 36.763 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 146.967 W

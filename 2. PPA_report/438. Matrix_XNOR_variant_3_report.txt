@@ -1,0 +1,19 @@
+PPA Report for Matrix_XNOR_AXI4Lite.v (Module: Matrix_XNOR_AXI4Lite)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 37
+FF Count: 38
+IO Count: 73
+Cell Count: 219
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+
+POWER METRICS:
+-------------
+Total Power Consumption: 1.164 W

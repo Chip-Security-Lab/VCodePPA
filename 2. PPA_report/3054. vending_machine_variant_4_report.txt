@@ -1,0 +1,21 @@
+PPA Report for vending_machine_axi_stream.v (Module: vending_machine_axi_stream)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 9
+FF Count: 7
+IO Count: 10
+Cell Count: 44
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 649.77 MHz
+End-to-End Path Delay: 4.925 ns
+Reg-to-Reg Critical Path Delay: 1.331 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

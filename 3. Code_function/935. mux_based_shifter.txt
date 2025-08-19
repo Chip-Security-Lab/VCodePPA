@@ -1,0 +1,1 @@
+Rotates bits based on shift

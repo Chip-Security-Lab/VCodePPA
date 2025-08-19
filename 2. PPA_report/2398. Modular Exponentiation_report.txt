@@ -1,0 +1,20 @@
+PPA Report for Modular Exponentiation
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 643
+FF Count: 34
+IO Count: 68
+Cell Count: 1004
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 75.63 MHz
+Reg-to-Reg Critical Path Delay: 12.741 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.474 W

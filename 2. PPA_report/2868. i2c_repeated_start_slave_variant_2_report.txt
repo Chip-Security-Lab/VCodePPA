@@ -1,0 +1,20 @@
+PPA Report for i2c_repeated_start_to_axis.v (Module: i2c_repeated_start_to_axis)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 28
+FF Count: 32
+IO Count: 22
+Cell Count: 116
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 534.76 MHz
+Reg-to-Reg Critical Path Delay: 1.586 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

@@ -1,0 +1,20 @@
+PPA Report for priority_shifter_valid_ready.v (Module: priority_shifter_valid_ready)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 48
+FF Count: 49
+IO Count: 53
+Cell Count: 232
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 544.37 MHz
+Reg-to-Reg Critical Path Delay: 1.635 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.459 W

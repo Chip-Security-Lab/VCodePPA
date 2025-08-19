@@ -1,0 +1,1 @@
+CRC-8 generator with borrow logic

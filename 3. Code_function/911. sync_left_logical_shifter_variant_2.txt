@@ -1,0 +1,1 @@
+Synchronous left logical barrel shifter

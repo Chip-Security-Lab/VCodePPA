@@ -1,0 +1,20 @@
+PPA Report for gcm_auth.v (Module: gcm_auth)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 312
+FF Count: 65
+IO Count: 101
+Cell Count: 623
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 498.01 MHz
+Reg-to-Reg Critical Path Delay: 1.868 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.495 W

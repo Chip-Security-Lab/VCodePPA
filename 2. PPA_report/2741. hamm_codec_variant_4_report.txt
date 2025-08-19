@@ -1,0 +1,20 @@
+PPA Report for hamm_codec.v (Module: hamm_codec)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 11
+FF Count: 68
+IO Count: 19
+Cell Count: 119
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 777.60 MHz
+Reg-to-Reg Critical Path Delay: 1.059 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

@@ -1,0 +1,20 @@
+PPA Report for usb_low_power_ctrl.v (Module: usb_low_power_ctrl)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 39
+FF Count: 23
+IO Count: 8
+Cell Count: 98
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 287.23 MHz
+Reg-to-Reg Critical Path Delay: 3.258 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.980 W

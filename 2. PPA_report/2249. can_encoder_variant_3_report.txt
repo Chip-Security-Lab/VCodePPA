@@ -1,0 +1,20 @@
+PPA Report for can_encoder.v (Module: can_encoder)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 50
+FF Count: 73
+IO Count: 23
+Cell Count: 202
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 483.09 MHz
+Reg-to-Reg Critical Path Delay: 1.872 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

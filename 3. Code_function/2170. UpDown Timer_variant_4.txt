@@ -1,0 +1,1 @@
+Pipelined up/down counter with flags

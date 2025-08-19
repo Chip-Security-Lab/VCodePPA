@@ -1,0 +1,20 @@
+PPA Report for pipeline_arbiter.v (Module: pipeline_arbiter)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 2
+FF Count: 1
+IO Count: 12
+Cell Count: 33
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1508.30 MHz
+Reg-to-Reg Critical Path Delay: 0.544 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

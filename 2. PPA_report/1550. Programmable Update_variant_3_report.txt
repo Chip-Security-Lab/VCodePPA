@@ -1,0 +1,20 @@
+PPA Report for programmable_shadow_reg_pipeline.v (Module: programmable_shadow_reg_pipeline)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 23
+FF Count: 68
+IO Count: 54
+Cell Count: 234
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 514.67 MHz
+Reg-to-Reg Critical Path Delay: 1.728 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.462 W

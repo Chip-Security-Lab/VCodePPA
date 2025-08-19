@@ -1,0 +1,20 @@
+PPA Report for pipo_reg.v (Module: pipo_reg)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 0
+FF Count: 26
+IO Count: 19
+Cell Count: 70
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 291.56 MHz
+Reg-to-Reg Critical Path Delay: 3.368 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 2.018 W

@@ -1,0 +1,1 @@
+Selectively updates bits when enabled

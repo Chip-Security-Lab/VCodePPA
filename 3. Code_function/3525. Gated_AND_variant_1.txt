@@ -1,0 +1,1 @@
+Enabled 4-bit AND with gating

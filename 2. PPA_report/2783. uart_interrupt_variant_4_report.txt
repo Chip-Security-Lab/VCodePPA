@@ -1,0 +1,20 @@
+PPA Report for uart_interrupt.v (Module: uart_interrupt)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 46
+FF Count: 66
+IO Count: 29
+Cell Count: 201
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 541.42 MHz
+Reg-to-Reg Critical Path Delay: 1.595 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

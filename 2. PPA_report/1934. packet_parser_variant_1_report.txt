@@ -1,0 +1,20 @@
+PPA Report for packet_parser.v (Module: packet_parser)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 0
+FF Count: 74
+IO Count: 50
+Cell Count: 180
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 826.45 MHz
+Reg-to-Reg Critical Path Delay: 1.073 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.461 W

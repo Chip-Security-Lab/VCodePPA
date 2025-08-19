@@ -1,0 +1,54 @@
+//SystemVerilog
+module Serial_Hamming_Codec(
+    input clk,
+    input serial_in,
+    output reg serial_out,
+    input mode // 0-编码 1-解码
+);
+    reg [7:0] shift_reg;
+    reg [2:0] bit_counter;
+    
+    // 添加初始化
+    initial begin
+        shift_reg = 8'h0;
+        bit_counter = 3'h0;
+        serial_out = 1'b0;
+    end
+    
+    // 实现汉明编码函数
+    function HammingEncode;
+        input [7:0] data;
+        begin
+            // 简化的汉明编码，只处理单比特
+            HammingEncode = data[0] ^ data[1] ^ data[3];
+        end
+    endfunction
+    
+    // 实现汉明解码函数
+    function HammingDecode;
+        input [7:0] code;
+        begin
+            // 简化的汉明解码，只处理单比特
+            HammingDecode = code[0];
+        end
+    endfunction
+
+    always @(posedge clk) begin
+        if(bit_counter < 7) begin
+            shift_reg <= {shift_reg[6:0], serial_in};
+            bit_counter <= bit_counter + 1;
+            // 确保serial_out有默认值
+            serial_out <= serial_out;
+        end 
+        else if(bit_counter == 7 && !mode) begin
+            // 处理完整字节，编码模式
+            serial_out <= HammingEncode(shift_reg);
+            bit_counter <= 0;
+        end
+        else if(bit_counter == 7 && mode) begin
+            // 处理完整字节，解码模式
+            serial_out <= HammingDecode(shift_reg);
+            bit_counter <= 0;
+        end
+    end
+endmodule

@@ -1,0 +1,21 @@
+PPA Report for byte_enabled_buffer.v (Module: byte_enabled_buffer)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 8
+FF Count: 103
+IO Count: 75
+Cell Count: 271
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 775.19 MHz
+End-to-End Path Delay: 3.621 ns
+Reg-to-Reg Critical Path Delay: 1.011 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.467 W

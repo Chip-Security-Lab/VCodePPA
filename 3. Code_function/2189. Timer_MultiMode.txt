@@ -1,0 +1,1 @@
+Multimode timer with configurable behavior

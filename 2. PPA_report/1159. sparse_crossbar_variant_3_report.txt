@@ -1,0 +1,20 @@
+PPA Report for sparse_crossbar.v (Module: sparse_crossbar)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 24
+FF Count: 80
+IO Count: 64
+Cell Count: 251
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 841.04 MHz
+Reg-to-Reg Critical Path Delay: 1.052 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.473 W

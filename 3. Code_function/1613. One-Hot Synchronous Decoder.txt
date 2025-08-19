@@ -1,0 +1,1 @@
+Synchronous one-hot address decoder

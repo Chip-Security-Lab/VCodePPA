@@ -1,0 +1,20 @@
+PPA Report for fsm_converter.v (Module: fsm_converter)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 19
+FF Count: 48
+IO Count: 22
+Cell Count: 116
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 626.17 MHz
+Reg-to-Reg Critical Path Delay: 1.400 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.454 W

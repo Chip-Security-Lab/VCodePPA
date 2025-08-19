@@ -1,0 +1,20 @@
+PPA Report for bin_to_johnson_pipeline.v (Module: bin_to_johnson_pipeline)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 9
+FF Count: 24
+IO Count: 13
+Cell Count: 67
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 995.02 MHz
+Reg-to-Reg Critical Path Delay: 0.861 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.454 W

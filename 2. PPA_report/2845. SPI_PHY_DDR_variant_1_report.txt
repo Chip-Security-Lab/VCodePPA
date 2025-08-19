@@ -1,0 +1,20 @@
+PPA Report for SPI_PHY_DDR.v (Module: SPI_PHY_DDR)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 0
+FF Count: 24
+IO Count: 39
+Cell Count: 80
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1116.07 MHz
+Reg-to-Reg Critical Path Delay: 0.711 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.464 W

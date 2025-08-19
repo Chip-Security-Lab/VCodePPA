@@ -1,0 +1,1 @@
+5-bit CRC generator combinational circuit

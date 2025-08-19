@@ -1,0 +1,20 @@
+PPA Report for rom_case.v (Module: rom_case)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 0
+FF Count: 8
+IO Count: 13
+Cell Count: 35
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1002.00 MHz
+Reg-to-Reg Critical Path Delay: 0.879 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

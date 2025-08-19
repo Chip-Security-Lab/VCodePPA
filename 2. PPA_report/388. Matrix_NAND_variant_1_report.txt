@@ -1,0 +1,20 @@
+PPA Report for Matrix_NAND_AXI4Lite.v (Module: Matrix_NAND_AXI4Lite)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 23
+FF Count: 33
+IO Count: 66
+Cell Count: 180
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 654.45 MHz
+Reg-to-Reg Critical Path Delay: 1.393 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.463 W

@@ -1,0 +1,20 @@
+PPA Report for pl_reg_parity.v (Module: pl_reg_parity)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 6
+FF Count: 22
+IO Count: 23
+Cell Count: 78
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 895.26 MHz
+Reg-to-Reg Critical Path Delay: 0.981 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

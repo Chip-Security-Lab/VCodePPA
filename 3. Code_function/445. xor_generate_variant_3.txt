@@ -1,0 +1,1 @@
+Pipelined XOR operator with registers

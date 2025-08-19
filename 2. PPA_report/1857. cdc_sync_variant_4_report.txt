@@ -1,0 +1,20 @@
+PPA Report for cdc_sync.v (Module: cdc_sync)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 0
+FF Count: 2
+IO Count: 4
+Cell Count: 15
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1262.63 MHz
+Reg-to-Reg Critical Path Delay: 0.673 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.451 W

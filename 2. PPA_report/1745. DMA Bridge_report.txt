@@ -1,0 +1,22 @@
+PPA Report for 1745. DMA Bridge.sv (Module: dma_bridge)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 133
+FF Count: 185
+IO Count: 184
+Cell Count: 753
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 489.24 MHz
+End-to-End Path Delay: N/A (No valid path found) ns
+Reg-to-Reg Critical Path Delay: 1.768 ns
+Detected Clock Signals: clk
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.508 W

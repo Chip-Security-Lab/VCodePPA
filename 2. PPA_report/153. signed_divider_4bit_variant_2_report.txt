@@ -1,0 +1,20 @@
+PPA Report for signed_divider_4bit.v (Module: signed_divider_4bit)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 40
+FF Count: 36
+IO Count: 18
+Cell Count: 134
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 612.00 MHz
+Reg-to-Reg Critical Path Delay: 1.432 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.456 W

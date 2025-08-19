@@ -1,0 +1,20 @@
+PPA Report for rtc_counter.v (Module: rtc_counter)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 35
+FF Count: 35
+IO Count: 36
+Cell Count: 130
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 246.97 MHz
+Reg-to-Reg Critical Path Delay: 3.632 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 2.167 W

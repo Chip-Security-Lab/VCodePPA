@@ -1,0 +1,20 @@
+PPA Report for pl_reg_divider.v (Module: pl_reg_divider)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 117
+FF Count: 61
+IO Count: 18
+Cell Count: 253
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 317.46 MHz
+Reg-to-Reg Critical Path Delay: 2.965 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

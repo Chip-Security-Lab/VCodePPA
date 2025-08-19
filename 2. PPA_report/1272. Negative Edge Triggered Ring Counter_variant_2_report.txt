@@ -1,0 +1,20 @@
+PPA Report for neg_edge_ring_counter.v (Module: neg_edge_ring_counter)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 0
+FF Count: 6
+IO Count: 5
+Cell Count: 17
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1146.79 MHz
+Reg-to-Reg Critical Path Delay: 0.753 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

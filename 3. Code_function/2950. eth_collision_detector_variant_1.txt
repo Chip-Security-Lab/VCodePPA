@@ -1,0 +1,1 @@
+Ethernet collision detection and backoff

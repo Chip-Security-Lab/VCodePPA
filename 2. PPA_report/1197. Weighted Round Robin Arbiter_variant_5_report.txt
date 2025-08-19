@@ -1,0 +1,20 @@
+PPA Report for weighted_rr_arbiter.v (Module: weighted_rr_arbiter)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 17
+FF Count: 23
+IO Count: 14
+Cell Count: 81
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 494.56 MHz
+Reg-to-Reg Critical Path Delay: 1.822 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

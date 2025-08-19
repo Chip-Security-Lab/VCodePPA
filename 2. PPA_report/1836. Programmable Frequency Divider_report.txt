@@ -1,0 +1,20 @@
+PPA Report for Programmable Frequency Divider
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 26
+FF Count: 33
+IO Count: 20
+Cell Count: 133
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 264.06 MHz
+Reg-to-Reg Critical Path Delay: 3.087 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 1.393 W

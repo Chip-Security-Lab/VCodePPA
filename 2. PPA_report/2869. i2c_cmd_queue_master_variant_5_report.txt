@@ -1,0 +1,20 @@
+PPA Report for i2c_cmd_queue_master.v (Module: i2c_cmd_queue_master)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 70
+FF Count: 122
+IO Count: 24
+Cell Count: 261
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 497.76 MHz
+Reg-to-Reg Critical Path Delay: 1.771 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.454 W

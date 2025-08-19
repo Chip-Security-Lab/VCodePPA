@@ -1,0 +1,20 @@
+PPA Report for uart_tx_parity.v (Module: uart_tx_parity)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 24
+FF Count: 19
+IO Count: 15
+Cell Count: 91
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 586.85 MHz
+Reg-to-Reg Critical Path Delay: 1.502 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

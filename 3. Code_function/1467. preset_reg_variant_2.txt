@@ -1,0 +1,1 @@
+Preset-loadable 12-bit register

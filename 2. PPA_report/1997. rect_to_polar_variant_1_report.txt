@@ -1,0 +1,20 @@
+PPA Report for rect_to_polar.v (Module: rect_to_polar)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 526
+FF Count: 378
+IO Count: 68
+Cell Count: 1338
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 402.09 MHz
+Reg-to-Reg Critical Path Delay: 2.290 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.480 W

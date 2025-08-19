@@ -1,0 +1,1 @@
+Enabled JK flip-flop with control

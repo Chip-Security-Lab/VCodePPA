@@ -1,0 +1,1 @@
+Trigger-based countdown timer with completion.

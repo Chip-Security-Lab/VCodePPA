@@ -1,0 +1,20 @@
+PPA Report for sync_quadrupole_ram.v (Module: sync_quadrupole_ram)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 8051
+FF Count: 2282
+IO Count: 102
+Cell Count: 12697
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 183.22 MHz
+Reg-to-Reg Critical Path Delay: 5.353 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.571 W

@@ -1,0 +1,20 @@
+PPA Report for Separate Address Register File
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 180
+FF Count: 512
+IO Count: 76
+Cell Count: 890
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 210.00 MHz
+Reg-to-Reg Critical Path Delay: 4.062 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.479 W

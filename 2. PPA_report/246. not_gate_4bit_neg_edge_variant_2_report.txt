@@ -1,0 +1,20 @@
+PPA Report for not_gate_4bit_neg_edge_pipelined.v (Module: not_gate_4bit_neg_edge_pipelined)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 8
+FF Count: 4
+IO Count: 9
+Cell Count: 35
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1574.80 MHz
+Reg-to-Reg Critical Path Delay: 0.460 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

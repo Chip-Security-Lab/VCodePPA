@@ -1,0 +1,20 @@
+PPA Report for enabled_pattern_compare.v (Module: enabled_pattern_compare)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 6
+FF Count: 1
+IO Count: 20
+Cell Count: 67
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 215.58 MHz
+Reg-to-Reg Critical Path Delay: 2.477 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.451 W

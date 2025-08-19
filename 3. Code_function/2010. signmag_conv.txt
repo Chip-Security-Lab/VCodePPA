@@ -1,0 +1,1 @@
+Converts two's complement to sign-magnitude

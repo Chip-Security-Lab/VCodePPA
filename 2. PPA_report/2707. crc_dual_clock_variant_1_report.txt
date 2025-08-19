@@ -1,0 +1,20 @@
+PPA Report for crc_dual_clock.v (Module: crc_dual_clock)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 8
+FF Count: 48
+IO Count: 27
+Cell Count: 111
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 233.10 MHz
+Reg-to-Reg Critical Path Delay: 3.243 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 12.791 W

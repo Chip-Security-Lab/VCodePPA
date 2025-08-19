@@ -1,0 +1,20 @@
+PPA Report for eth_packet_filter.v (Module: eth_packet_filter)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 52
+FF Count: 55
+IO Count: 82
+Cell Count: 363
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 618.81 MHz
+Reg-to-Reg Critical Path Delay: 1.430 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.454 W

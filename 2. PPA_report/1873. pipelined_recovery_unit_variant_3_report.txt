@@ -1,0 +1,20 @@
+PPA Report for pipelined_recovery_unit.v (Module: pipelined_recovery_unit)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 0
+FF Count: 51
+IO Count: 36
+Cell Count: 127
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 975.61 MHz
+Reg-to-Reg Critical Path Delay: 0.742 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.455 W

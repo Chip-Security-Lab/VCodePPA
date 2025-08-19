@@ -1,0 +1,20 @@
+PPA Report for ITRC_PulseCounter.v (Module: ITRC_PulseCounter)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 41
+FF Count: 32
+IO Count: 11
+Cell Count: 122
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 628.14 MHz
+Reg-to-Reg Critical Path Delay: 1.473 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

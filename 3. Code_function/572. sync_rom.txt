@@ -1,0 +1,1 @@
+Synchronous read-only memory module

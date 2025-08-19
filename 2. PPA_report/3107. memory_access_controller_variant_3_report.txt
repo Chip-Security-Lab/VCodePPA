@@ -1,0 +1,20 @@
+PPA Report for memory_access_controller.v (Module: memory_access_controller)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 187
+FF Count: 46
+IO Count: 72
+Cell Count: 416
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1082.25 MHz
+Reg-to-Reg Critical Path Delay: 0.804 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.478 W

@@ -1,0 +1,1 @@
+Analog signal sample and hold

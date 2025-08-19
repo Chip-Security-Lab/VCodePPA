@@ -1,0 +1,1 @@
+Configurable reset source manager

@@ -1,0 +1,1 @@
+Synchronized priority encoder with reset

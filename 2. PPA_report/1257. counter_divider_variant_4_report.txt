@@ -1,0 +1,20 @@
+PPA Report for counter_divider.v (Module: counter_divider)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 5
+FF Count: 18
+IO Count: 3
+Cell Count: 35
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 751.31 MHz
+Reg-to-Reg Critical Path Delay: 1.047 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

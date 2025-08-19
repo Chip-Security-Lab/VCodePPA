@@ -1,0 +1,20 @@
+PPA Report for async_reset_shifter.v (Module: async_reset_shifter)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 1
+FF Count: 10
+IO Count: 5
+Cell Count: 26
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1053.74 MHz
+Reg-to-Reg Critical Path Delay: 0.830 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.451 W

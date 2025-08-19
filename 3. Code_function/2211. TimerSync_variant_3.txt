@@ -1,0 +1,1 @@
+Parameterized timer with reset control

@@ -1,0 +1,20 @@
+PPA Report for hamming_recovery.v (Module: hamming_recovery)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 13
+FF Count: 35
+IO Count: 26
+Cell Count: 110
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 702.74 MHz
+Reg-to-Reg Critical Path Delay: 1.231 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.455 W

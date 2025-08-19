@@ -1,0 +1,20 @@
+PPA Report for prio_enc_fsm.v (Module: prio_enc_fsm)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 8
+FF Count: 22
+IO Count: 12
+Cell Count: 63
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 952.38 MHz
+Reg-to-Reg Critical Path Delay: 0.901 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

@@ -1,0 +1,20 @@
+PPA Report for BinaryComplement.v (Module: BinaryComplement)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 2
+FF Count: 0
+IO Count: 8
+Cell Count: 19
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+End-to-End Path Delay: 5.093 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 1.594 W

@@ -1,0 +1,20 @@
+PPA Report for SignedMultiplier.v (Module: SignedMultiplier)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 62
+FF Count: 64
+IO Count: 34
+Cell Count: 235
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 423.55 MHz
+Reg-to-Reg Critical Path Delay: 2.162 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.463 W

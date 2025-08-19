@@ -1,0 +1,1 @@
+Pipelined multiplier with adder stages

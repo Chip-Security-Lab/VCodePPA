@@ -1,0 +1,22 @@
+PPA Report for 2810. UART_CRC_Check.sv (Module: UART_CRC_Check)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 23
+FF Count: 17
+IO Count: 37
+Cell Count: 154
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 594.53 MHz
+End-to-End Path Delay: N/A (No valid path found) ns
+Reg-to-Reg Critical Path Delay: 1.534 ns
+Detected Clock Signals: clk
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

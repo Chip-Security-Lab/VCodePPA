@@ -1,0 +1,22 @@
+PPA Report for 737. dual_clock_regfile.sv (Module: dual_clock_regfile)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 0
+FF Count: 0
+IO Count: 109
+Cell Count: 238
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 245.70 MHz
+End-to-End Path Delay: N/A (No valid path found) ns
+Reg-to-Reg Critical Path Delay: 3.370 ns
+Detected Clock Signals: wr_clk rd_clk
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.509 W

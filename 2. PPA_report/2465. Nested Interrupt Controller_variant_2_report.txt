@@ -1,0 +1,20 @@
+PPA Report for nested_intr_ctrl.v (Module: nested_intr_ctrl)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 54
+FF Count: 22
+IO Count: 39
+Cell Count: 197
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 410.34 MHz
+Reg-to-Reg Critical Path Delay: 2.248 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.454 W

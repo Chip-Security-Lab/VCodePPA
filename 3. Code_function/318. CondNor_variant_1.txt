@@ -1,0 +1,1 @@
+Conditional multiplier with NOR logic

@@ -1,0 +1,20 @@
+PPA Report for MemMappedIVMU.v (Module: MemMappedIVMU)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 504
+FF Count: 697
+IO Count: 122
+Cell Count: 1524
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 452.69 MHz
+Reg-to-Reg Critical Path Delay: 2.028 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.507 W

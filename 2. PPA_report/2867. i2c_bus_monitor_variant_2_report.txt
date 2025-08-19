@@ -1,0 +1,20 @@
+PPA Report for i2c_bus_monitor.v (Module: i2c_bus_monitor)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 25
+FF Count: 48
+IO Count: 23
+Cell Count: 119
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 484.73 MHz
+Reg-to-Reg Critical Path Delay: 1.831 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

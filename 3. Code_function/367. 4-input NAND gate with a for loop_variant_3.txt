@@ -1,0 +1,1 @@
+Pipelined 4-input 4-bit NAND gate

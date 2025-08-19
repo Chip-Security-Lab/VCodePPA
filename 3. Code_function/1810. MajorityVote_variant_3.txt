@@ -1,0 +1,1 @@
+Majority voter using carry chain

@@ -1,0 +1,20 @@
+PPA Report for ChecksumMux.v (Module: ChecksumMux)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 11
+FF Count: 35
+IO Count: 50
+Cell Count: 174
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 749.63 MHz
+Reg-to-Reg Critical Path Delay: 1.125 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.456 W

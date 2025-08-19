@@ -1,0 +1,1 @@
+Resetable enabled counter with register

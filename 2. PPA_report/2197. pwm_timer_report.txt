@@ -1,0 +1,20 @@
+PPA Report for pwm_timer
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 29
+FF Count: 13
+IO Count: 27
+Cell Count: 143
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 245.46 MHz
+Reg-to-Reg Critical Path Delay: 3.374 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 1.352 W

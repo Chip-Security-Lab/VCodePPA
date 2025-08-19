@@ -1,0 +1,19 @@
+PPA Report for biphase_mark_codec_axi.v (Module: biphase_mark_codec_axi)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 81
+FF Count: 207
+IO Count: 95
+Cell Count: 491
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+
+POWER METRICS:
+-------------
+Total Power Consumption: 20.983 W

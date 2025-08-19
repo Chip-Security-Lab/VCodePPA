@@ -1,0 +1,20 @@
+PPA Report for active_low_enable_reg
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 1
+FF Count: 12
+IO Count: 27
+Cell Count: 72
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 280.43 MHz
+Reg-to-Reg Critical Path Delay: 2.866 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.454 W

@@ -1,0 +1,20 @@
+PPA Report for rng_lcg
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 21
+FF Count: 32
+IO Count: 35
+Cell Count: 132
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 236.85 MHz
+Reg-to-Reg Critical Path Delay: 4.077 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.513 W

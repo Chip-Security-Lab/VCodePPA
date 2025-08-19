@@ -1,0 +1,20 @@
+PPA Report for pipeline_stage.v (Module: pipeline_stage)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 6
+FF Count: 35
+IO Count: 73
+Cell Count: 193
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 689.66 MHz
+Reg-to-Reg Critical Path Delay: 1.172 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.462 W

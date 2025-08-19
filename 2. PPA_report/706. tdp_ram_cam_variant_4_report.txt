@@ -1,0 +1,20 @@
+PPA Report for tdp_ram_cam.v (Module: tdp_ram_cam)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 1042
+FF Count: 1031
+IO Count: 79
+Cell Count: 2576
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 217.44 MHz
+Reg-to-Reg Critical Path Delay: 4.281 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.491 W

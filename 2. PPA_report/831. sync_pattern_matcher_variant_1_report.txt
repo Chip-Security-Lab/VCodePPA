@@ -1,0 +1,20 @@
+PPA Report for sync_pattern_matcher.v (Module: sync_pattern_matcher)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 4
+FF Count: 38
+IO Count: 21
+Cell Count: 104
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 888.89 MHz
+Reg-to-Reg Critical Path Delay: 1.006 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

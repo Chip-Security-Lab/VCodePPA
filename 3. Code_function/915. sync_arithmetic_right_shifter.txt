@@ -1,0 +1,1 @@
+Synchronous arithmetic right shifter module

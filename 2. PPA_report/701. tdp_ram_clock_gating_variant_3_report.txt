@@ -1,0 +1,20 @@
+PPA Report for tdp_ram_clock_gating.v (Module: tdp_ram_clock_gating)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 20320
+FF Count: 9252
+IO Count: 96
+Cell Count: 38020
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 169.32 MHz
+Reg-to-Reg Critical Path Delay: 5.668 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.690 W

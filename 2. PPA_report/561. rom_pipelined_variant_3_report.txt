@@ -1,0 +1,20 @@
+PPA Report for rom_pipelined_han_carlson.v (Module: rom_pipelined_han_carlson)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 10
+FF Count: 10
+IO Count: 19
+Cell Count: 69
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 661.81 MHz
+Reg-to-Reg Critical Path Delay: 1.057 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.458 W

@@ -1,0 +1,20 @@
+PPA Report for basic_rom_axi.v (Module: basic_rom_axi)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 11
+FF Count: 18
+IO Count: 52
+Cell Count: 112
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 815.66 MHz
+Reg-to-Reg Critical Path Delay: 1.006 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.465 W

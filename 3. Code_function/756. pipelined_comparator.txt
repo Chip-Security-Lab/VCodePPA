@@ -1,0 +1,1 @@
+Pipelined two-number magnitude comparator

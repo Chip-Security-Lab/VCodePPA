@@ -1,0 +1,1 @@
+Clock-gated priority encoder circuit

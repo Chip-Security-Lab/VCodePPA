@@ -1,0 +1,1 @@
+Multiplexed shift register with modes

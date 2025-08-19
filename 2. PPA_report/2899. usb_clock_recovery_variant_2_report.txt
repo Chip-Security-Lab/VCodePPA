@@ -1,0 +1,20 @@
+PPA Report for usb_clock_recovery.v (Module: usb_clock_recovery)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 12
+FF Count: 11
+IO Count: 6
+Cell Count: 43
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 567.21 MHz
+Reg-to-Reg Critical Path Delay: 1.633 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.451 W

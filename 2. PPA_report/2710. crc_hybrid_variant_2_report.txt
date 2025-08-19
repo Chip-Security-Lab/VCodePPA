@@ -1,0 +1,20 @@
+PPA Report for crc_hybrid.v (Module: crc_hybrid)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 15
+FF Count: 132
+IO Count: 68
+Cell Count: 300
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 865.80 MHz
+Reg-to-Reg Critical Path Delay: 0.977 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.489 W

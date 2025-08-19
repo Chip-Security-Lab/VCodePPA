@@ -1,0 +1,1 @@
+Synchronizes input with buffered stages.

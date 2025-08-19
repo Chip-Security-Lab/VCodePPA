@@ -1,0 +1,1 @@
+Four-input logical AND gate

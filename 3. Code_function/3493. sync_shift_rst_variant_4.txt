@@ -1,0 +1,1 @@
+Buffered synchronous shift register

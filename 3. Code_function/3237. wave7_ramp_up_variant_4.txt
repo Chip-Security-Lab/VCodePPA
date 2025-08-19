@@ -1,0 +1,1 @@
+Configurable stepped ramp signal generator

@@ -1,0 +1,20 @@
+PPA Report for lfsr_generator.v (Module: lfsr_generator)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 2
+FF Count: 33
+IO Count: 36
+Cell Count: 80
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 683.06 MHz
+Reg-to-Reg Critical Path Delay: 1.321 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.476 W

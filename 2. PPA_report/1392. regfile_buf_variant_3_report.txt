@@ -1,0 +1,20 @@
+PPA Report for regfile_buf.v (Module: regfile_buf)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 37
+FF Count: 195
+IO Count: 73
+Cell Count: 388
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 978.47 MHz
+Reg-to-Reg Critical Path Delay: 0.873 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.475 W

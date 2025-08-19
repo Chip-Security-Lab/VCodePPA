@@ -1,0 +1,20 @@
+PPA Report for int_ctrl_group.v (Module: int_ctrl_group)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 2
+FF Count: 2
+IO Count: 14
+Cell Count: 45
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 187.44 MHz
+Reg-to-Reg Critical Path Delay: 1.868 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

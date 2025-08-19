@@ -1,0 +1,1 @@
+Non-restoring binary division with validation

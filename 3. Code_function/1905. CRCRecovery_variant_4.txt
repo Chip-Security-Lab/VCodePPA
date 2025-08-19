@@ -1,0 +1,1 @@
+Pipelined CRC error detection circuit

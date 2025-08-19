@@ -1,0 +1,20 @@
+PPA Report for enc_64b66b.v (Module: enc_64b66b)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 10
+FF Count: 8
+IO Count: 139
+Cell Count: 172
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 594.18 MHz
+Reg-to-Reg Critical Path Delay: 1.393 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.471 W

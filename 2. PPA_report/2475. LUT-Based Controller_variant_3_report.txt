@@ -1,0 +1,20 @@
+PPA Report for lut_priority_intr_ctrl.v (Module: lut_priority_intr_ctrl)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 7
+FF Count: 3
+IO Count: 13
+Cell Count: 48
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 306.71 MHz
+Reg-to-Reg Critical Path Delay: 2.255 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

@@ -1,0 +1,20 @@
+PPA Report for Comparator_DynamicWidth.v (Module: Comparator_DynamicWidth)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 23
+FF Count: 38
+IO Count: 45
+Cell Count: 191
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 707.71 MHz
+Reg-to-Reg Critical Path Delay: 1.278 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

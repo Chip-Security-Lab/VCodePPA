@@ -1,0 +1,20 @@
+PPA Report for dual_clock_regfile_pipeline.v (Module: dual_clock_regfile_pipeline)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 48
+FF Count: 167
+IO Count: 111
+Cell Count: 455
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 726.74 MHz
+Reg-to-Reg Critical Path Delay: 0.855 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.510 W

@@ -1,0 +1,1 @@
+ASCII-to-binary converter with AXI4-Lite

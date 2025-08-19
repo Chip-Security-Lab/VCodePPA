@@ -1,0 +1,20 @@
+PPA Report for one_time_pad.v (Module: one_time_pad)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 81
+FF Count: 313
+IO Count: 77
+Cell Count: 612
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 296.89 MHz
+Reg-to-Reg Critical Path Delay: 2.340 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 1.192 W

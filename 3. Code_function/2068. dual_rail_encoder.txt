@@ -1,0 +1,1 @@
+Dual-rail data encoding circuit

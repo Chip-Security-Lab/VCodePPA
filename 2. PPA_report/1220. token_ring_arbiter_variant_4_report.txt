@@ -1,0 +1,20 @@
+PPA Report for token_ring_arbiter.v (Module: token_ring_arbiter)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 9
+FF Count: 22
+IO Count: 10
+Cell Count: 58
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 527.70 MHz
+Reg-to-Reg Critical Path Delay: 1.758 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

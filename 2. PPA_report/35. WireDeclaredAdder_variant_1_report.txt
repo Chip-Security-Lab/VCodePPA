@@ -1,0 +1,19 @@
+PPA Report for pipelined_adder_8bit.v (Module: pipelined_adder_8bit)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 20
+FF Count: 26
+IO Count: 28
+Cell Count: 126
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+
+POWER METRICS:
+-------------
+Total Power Consumption: 5.004 W

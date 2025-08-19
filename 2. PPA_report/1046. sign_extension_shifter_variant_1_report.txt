@@ -1,0 +1,21 @@
+PPA Report for sign_extension_shifter_valid_ready.v (Module: sign_extension_shifter_valid_ready)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 38
+FF Count: 22
+IO Count: 43
+Cell Count: 162
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 738.55 MHz
+End-to-End Path Delay: 4.997 ns
+Reg-to-Reg Critical Path Delay: 1.235 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.454 W

@@ -1,0 +1,20 @@
+PPA Report for watchdog_rst_sync.v (Module: watchdog_rst_sync)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 2
+FF Count: 3
+IO Count: 4
+Cell Count: 18
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1184.83 MHz
+Reg-to-Reg Critical Path Delay: 0.711 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.451 W

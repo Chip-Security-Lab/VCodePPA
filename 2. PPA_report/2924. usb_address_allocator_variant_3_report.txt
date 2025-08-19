@@ -1,0 +1,20 @@
+PPA Report for usb_address_allocator.v (Module: usb_address_allocator)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 368
+FF Count: 163
+IO Count: 154
+Cell Count: 783
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 376.36 MHz
+Reg-to-Reg Critical Path Delay: 2.455 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.501 W

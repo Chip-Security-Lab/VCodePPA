@@ -1,0 +1,20 @@
+PPA Report for DelayCompBridge.v (Module: DelayCompBridge)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 49
+FF Count: 68
+IO Count: 66
+Cell Count: 271
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 995.02 MHz
+Reg-to-Reg Critical Path Delay: 0.806 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.475 W

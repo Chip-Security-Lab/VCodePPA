@@ -1,0 +1,1 @@
+Multi-function 32-bit barrel shifter

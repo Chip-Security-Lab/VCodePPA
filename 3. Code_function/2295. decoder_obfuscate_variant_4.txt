@@ -1,0 +1,1 @@
+XOR-decrypted address to one-hot decoder

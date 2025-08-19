@@ -1,0 +1,1 @@
+Pipelined edge-triggered timer circuit

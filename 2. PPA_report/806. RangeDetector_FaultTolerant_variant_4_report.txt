@@ -1,0 +1,20 @@
+PPA Report for RangeDetector_FaultTolerant.v (Module: RangeDetector_FaultTolerant)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 12
+FF Count: 7
+IO Count: 30
+Cell Count: 119
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1046.03 MHz
+Reg-to-Reg Critical Path Delay: 0.819 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

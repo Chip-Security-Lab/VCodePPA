@@ -1,0 +1,1 @@
+Parameterized latch array with enable

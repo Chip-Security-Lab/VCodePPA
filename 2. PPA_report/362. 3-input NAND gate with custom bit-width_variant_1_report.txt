@@ -1,0 +1,20 @@
+PPA Report for nand3_4.v (Module: nand3_4)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 17
+FF Count: 0
+IO Count: 16
+Cell Count: 59
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+End-to-End Path Delay: 5.927 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 2.262 W

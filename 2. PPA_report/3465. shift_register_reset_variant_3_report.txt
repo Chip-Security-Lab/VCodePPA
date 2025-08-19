@@ -1,0 +1,20 @@
+PPA Report for shift_register_reset.v (Module: shift_register_reset)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 8
+FF Count: 24
+IO Count: 44
+Cell Count: 122
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 969.93 MHz
+Reg-to-Reg Critical Path Delay: 0.846 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.459 W

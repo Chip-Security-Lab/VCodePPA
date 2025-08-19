@@ -1,0 +1,20 @@
+PPA Report for PipeSub
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 16
+FF Count: 32
+IO Count: 49
+Cell Count: 170
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 921.66 MHz
+Reg-to-Reg Critical Path Delay: 0.899 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.461 W

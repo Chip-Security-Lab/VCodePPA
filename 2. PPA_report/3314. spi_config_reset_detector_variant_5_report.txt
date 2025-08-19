@@ -1,0 +1,20 @@
+PPA Report for spi_config_reset_detector_axi_stream.v (Module: spi_config_reset_detector_axi_stream)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 10
+FF Count: 31
+IO Count: 20
+Cell Count: 88
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 865.05 MHz
+Reg-to-Reg Critical Path Delay: 0.930 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

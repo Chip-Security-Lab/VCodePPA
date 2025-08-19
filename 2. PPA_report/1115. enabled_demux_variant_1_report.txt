@@ -1,0 +1,20 @@
+PPA Report for enabled_demux.v (Module: enabled_demux)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 31
+FF Count: 30
+IO Count: 20
+Cell Count: 115
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 544.66 MHz
+Reg-to-Reg Critical Path Delay: 1.560 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

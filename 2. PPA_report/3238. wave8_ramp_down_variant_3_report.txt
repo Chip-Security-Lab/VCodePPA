@@ -1,0 +1,20 @@
+PPA Report for wave8_ramp_down.v (Module: wave8_ramp_down)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 7
+FF Count: 8
+IO Count: 10
+Cell Count: 35
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 507.87 MHz
+Reg-to-Reg Critical Path Delay: 1.696 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

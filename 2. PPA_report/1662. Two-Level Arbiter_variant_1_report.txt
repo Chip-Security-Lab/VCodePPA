@@ -1,0 +1,20 @@
+PPA Report for two_level_arbiter.v (Module: two_level_arbiter)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 9
+FF Count: 30
+IO Count: 20
+Cell Count: 95
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 932.84 MHz
+Reg-to-Reg Critical Path Delay: 0.864 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

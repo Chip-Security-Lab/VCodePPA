@@ -1,0 +1,1 @@
+8-bit synchronous counter with enable

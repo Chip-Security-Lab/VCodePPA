@@ -1,0 +1,20 @@
+PPA Report for RangeDetector_WindowFSM.v (Module: RangeDetector_WindowFSM)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 8
+FF Count: 2
+IO Count: 18
+Cell Count: 66
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1085.78 MHz
+Reg-to-Reg Critical Path Delay: 0.788 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

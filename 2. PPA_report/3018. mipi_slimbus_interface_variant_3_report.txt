@@ -1,0 +1,20 @@
+PPA Report for mipi_slimbus_interface.v (Module: mipi_slimbus_interface)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 50
+FF Count: 83
+IO Count: 47
+Cell Count: 230
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 463.82 MHz
+Reg-to-Reg Critical Path Delay: 1.995 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.462 W

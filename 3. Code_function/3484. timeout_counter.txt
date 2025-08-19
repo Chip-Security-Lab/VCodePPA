@@ -1,0 +1,1 @@
+Configurable counter with timeout flag

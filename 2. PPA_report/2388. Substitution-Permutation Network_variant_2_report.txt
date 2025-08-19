@@ -1,0 +1,20 @@
+PPA Report for sub_perm_network.v (Module: sub_perm_network)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 3
+FF Count: 2
+IO Count: 20
+Cell Count: 34
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1090.51 MHz
+Reg-to-Reg Critical Path Delay: 0.702 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

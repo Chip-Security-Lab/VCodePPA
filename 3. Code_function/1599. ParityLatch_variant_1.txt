@@ -1,0 +1,1 @@
+LUT-based parity data latch

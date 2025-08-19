@@ -1,0 +1,1 @@
+Parameterized synchronous FIFO interrupt controller

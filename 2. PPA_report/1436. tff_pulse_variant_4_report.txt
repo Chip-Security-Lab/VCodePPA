@@ -1,0 +1,20 @@
+PPA Report for tff_pulse.v (Module: tff_pulse)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 2
+FF Count: 7
+IO Count: 6
+Cell Count: 26
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1146.79 MHz
+Reg-to-Reg Critical Path Delay: 0.753 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

@@ -1,0 +1,20 @@
+PPA Report for DRAM_Controller.v (Module: DRAM_Controller)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 27
+FF Count: 35
+IO Count: 25
+Cell Count: 119
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 495.79 MHz
+Reg-to-Reg Critical Path Delay: 1.832 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.455 W

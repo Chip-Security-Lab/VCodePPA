@@ -1,0 +1,1 @@
+CRC-4 calculation and validation

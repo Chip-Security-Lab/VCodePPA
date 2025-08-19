@@ -1,0 +1,20 @@
+PPA Report for PrioTimer.v (Module: PrioTimer)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 26
+FF Count: 38
+IO Count: 8
+Cell Count: 104
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 671.14 MHz
+Reg-to-Reg Critical Path Delay: 1.350 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

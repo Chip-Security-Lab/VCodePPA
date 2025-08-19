@@ -1,0 +1,20 @@
+PPA Report for rng_combine
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 3
+FF Count: 5
+IO Count: 11
+Cell Count: 28
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 657.89 MHz
+Reg-to-Reg Critical Path Delay: 1.387 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.451 W

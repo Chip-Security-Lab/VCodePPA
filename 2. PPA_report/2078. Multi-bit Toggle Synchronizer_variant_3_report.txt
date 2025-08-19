@@ -1,0 +1,20 @@
+PPA Report for multibit_toggle_sync_pipeline.v (Module: multibit_toggle_sync_pipeline)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 2
+FF Count: 32
+IO Count: 12
+Cell Count: 67
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 294.81 MHz
+Reg-to-Reg Critical Path Delay: 1.359 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

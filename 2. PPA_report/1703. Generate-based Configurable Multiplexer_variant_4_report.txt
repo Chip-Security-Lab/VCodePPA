@@ -1,0 +1,20 @@
+PPA Report for generate_mux.v (Module: generate_mux)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 78
+FF Count: 32
+IO Count: 142
+Cell Count: 531
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 513.87 MHz
+Reg-to-Reg Critical Path Delay: 1.762 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.460 W

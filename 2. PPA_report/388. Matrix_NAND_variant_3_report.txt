@@ -1,0 +1,21 @@
+PPA Report for Matrix_NAND.v (Module: Matrix_NAND)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 9
+FF Count: 18
+IO Count: 22
+Cell Count: 77
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 739.64 MHz
+End-to-End Path Delay: 5.017 ns
+Reg-to-Reg Critical Path Delay: 1.137 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

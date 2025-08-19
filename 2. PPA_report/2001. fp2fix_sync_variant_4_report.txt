@@ -1,0 +1,20 @@
+PPA Report for fp2fix_sync.v (Module: fp2fix_sync)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 267
+FF Count: 180
+IO Count: 65
+Cell Count: 654
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 364.17 MHz
+Reg-to-Reg Critical Path Delay: 2.530 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.469 W

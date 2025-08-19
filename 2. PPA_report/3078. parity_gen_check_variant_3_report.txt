@@ -1,0 +1,20 @@
+PPA Report for parity_gen_check.v (Module: parity_gen_check)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 9
+FF Count: 13
+IO Count: 11
+Cell Count: 54
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 802.57 MHz
+Reg-to-Reg Critical Path Delay: 1.114 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

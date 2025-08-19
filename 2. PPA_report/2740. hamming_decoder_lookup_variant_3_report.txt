@@ -1,0 +1,20 @@
+PPA Report for hamming_decoder_lookup.v (Module: hamming_decoder_lookup)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 11
+FF Count: 16
+IO Count: 23
+Cell Count: 81
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 945.18 MHz
+Reg-to-Reg Critical Path Delay: 0.752 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

@@ -1,0 +1,20 @@
+PPA Report for async_rst_sync_pipeline.v (Module: async_rst_sync_pipeline)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 0
+FF Count: 18
+IO Count: 8
+Cell Count: 39
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 298.26 MHz
+Reg-to-Reg Critical Path Delay: 1.873 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.451 W

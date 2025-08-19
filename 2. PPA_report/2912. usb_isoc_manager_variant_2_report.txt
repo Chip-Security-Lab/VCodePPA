@@ -1,0 +1,20 @@
+PPA Report for usb_isoc_manager.v (Module: usb_isoc_manager)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 74
+FF Count: 137
+IO Count: 58
+Cell Count: 354
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 290.07 MHz
+Reg-to-Reg Critical Path Delay: 3.797 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 2.296 W

@@ -1,0 +1,20 @@
+PPA Report for data_selector_reset.v (Module: data_selector_reset)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 9
+FF Count: 34
+IO Count: 44
+Cell Count: 162
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 375.35 MHz
+Reg-to-Reg Critical Path Delay: 2.209 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.455 W

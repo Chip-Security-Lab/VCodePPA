@@ -1,0 +1,20 @@
+PPA Report for Demux_LUT
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 38
+FF Count: 0
+IO Count: 99
+Cell Count: 242
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+End-to-End Path Delay: 7.104 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 14.675 W

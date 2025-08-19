@@ -1,0 +1,20 @@
+PPA Report for tdp_ram_latency_match.v (Module: tdp_ram_latency_match)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 0
+FF Count: 308
+IO Count: 213
+Cell Count: 761
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 709.22 MHz
+Reg-to-Reg Critical Path Delay: 0.840 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.600 W

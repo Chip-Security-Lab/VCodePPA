@@ -1,0 +1,1 @@
+Bidirectional binary/gray counter with reset

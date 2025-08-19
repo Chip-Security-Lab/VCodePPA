@@ -1,0 +1,1 @@
+Enabled range detector with flag

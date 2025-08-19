@@ -1,0 +1,19 @@
+PPA Report for MultiResetDetector_AXI4Lite.v (Module: MultiResetDetector_AXI4Lite)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 11
+FF Count: 16
+IO Count: 58
+Cell Count: 125
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+
+POWER METRICS:
+-------------
+Total Power Consumption: 2.363 W

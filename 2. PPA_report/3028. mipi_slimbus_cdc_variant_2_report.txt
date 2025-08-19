@@ -1,0 +1,20 @@
+PPA Report for mipi_slimbus_cdc.v (Module: mipi_slimbus_cdc)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 25
+FF Count: 41
+IO Count: 69
+Cell Count: 238
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 263.50 MHz
+Reg-to-Reg Critical Path Delay: 0.802 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.474 W

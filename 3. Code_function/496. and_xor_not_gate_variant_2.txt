@@ -1,0 +1,1 @@
+Pipelined Boolean logic expression calculator

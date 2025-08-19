@@ -1,0 +1,1 @@
+Display controller generates timing signals.

@@ -1,0 +1,20 @@
+PPA Report for eth_mdio_interface.v (Module: eth_mdio_interface)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 109
+FF Count: 64
+IO Count: 50
+Cell Count: 321
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 366.17 MHz
+Reg-to-Reg Critical Path Delay: 2.516 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.455 W

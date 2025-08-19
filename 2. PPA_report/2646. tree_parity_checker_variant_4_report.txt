@@ -1,0 +1,20 @@
+PPA Report for tree_parity_checker.v (Module: tree_parity_checker)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 9
+FF Count: 2
+IO Count: 37
+Cell Count: 121
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 653.17 MHz
+Reg-to-Reg Critical Path Delay: 1.190 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

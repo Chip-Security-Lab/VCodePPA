@@ -1,0 +1,1 @@
+Pipelined barrel shifter with preload

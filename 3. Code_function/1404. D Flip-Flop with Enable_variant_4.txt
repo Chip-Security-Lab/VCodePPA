@@ -1,0 +1,1 @@
+Enable-controlled D flip-flop with pipeline

@@ -1,0 +1,20 @@
+PPA Report for lsl_shifter.v (Module: lsl_shifter)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 13
+FF Count: 19
+IO Count: 22
+Cell Count: 86
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 743.49 MHz
+Reg-to-Reg Critical Path Delay: 1.197 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.454 W

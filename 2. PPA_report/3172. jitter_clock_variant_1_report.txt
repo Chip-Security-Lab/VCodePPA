@@ -1,0 +1,20 @@
+PPA Report for jitter_clock.v (Module: jitter_clock)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 9
+FF Count: 6
+IO Count: 7
+Cell Count: 39
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 528.85 MHz
+Reg-to-Reg Critical Path Delay: 3.255 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.713 W

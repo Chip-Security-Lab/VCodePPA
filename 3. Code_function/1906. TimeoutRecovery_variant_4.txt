@@ -1,0 +1,1 @@
+Pipelined timeout-based signal stabilizer

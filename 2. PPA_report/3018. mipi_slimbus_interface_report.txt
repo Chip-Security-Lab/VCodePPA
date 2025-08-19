@@ -1,0 +1,20 @@
+PPA Report for 3018. mipi_slimbus_interface.sv (Module: mipi_slimbus_interface)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 29
+FF Count: 50
+IO Count: 46
+Cell Count: 158
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic) MHz
+Longest Path Delay: 3.352 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.462 W

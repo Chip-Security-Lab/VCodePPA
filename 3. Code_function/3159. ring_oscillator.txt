@@ -1,0 +1,1 @@
+Gated five-stage ring oscillator

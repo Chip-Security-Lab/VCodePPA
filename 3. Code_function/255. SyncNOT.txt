@@ -1,0 +1,1 @@
+Synchronized inverter for 16-bit input

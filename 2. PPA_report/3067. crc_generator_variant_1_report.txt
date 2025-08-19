@@ -1,0 +1,20 @@
+PPA Report for crc_generator.v (Module: crc_generator)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 7
+FF Count: 11
+IO Count: 9
+Cell Count: 42
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 636.13 MHz
+Reg-to-Reg Critical Path Delay: 1.426 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.454 W

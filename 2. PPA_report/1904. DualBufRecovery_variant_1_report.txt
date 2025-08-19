@@ -1,0 +1,20 @@
+PPA Report for DualBufRecovery.v (Module: DualBufRecovery)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 24
+FF Count: 56
+IO Count: 18
+Cell Count: 129
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 278.44 MHz
+Reg-to-Reg Critical Path Delay: 3.293 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 2.815 W

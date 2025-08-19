@@ -1,0 +1,20 @@
+PPA Report for onehot2bin.v (Module: onehot2bin)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 6
+FF Count: 14
+IO Count: 13
+Cell Count: 59
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 676.59 MHz
+Reg-to-Reg Critical Path Delay: 1.346 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

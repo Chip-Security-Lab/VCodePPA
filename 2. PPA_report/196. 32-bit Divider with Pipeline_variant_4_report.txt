@@ -1,0 +1,20 @@
+PPA Report for divider_pipeline_32bit.v (Module: divider_pipeline_32bit)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 1266
+FF Count: 1109
+IO Count: 132
+Cell Count: 3002
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 397.30 MHz
+Reg-to-Reg Critical Path Delay: 2.237 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.564 W

@@ -1,0 +1,20 @@
+PPA Report for mipi_mphy_fifo.v (Module: mipi_mphy_fifo)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 156
+FF Count: 557
+IO Count: 76
+Cell Count: 971
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 195.12 MHz
+Reg-to-Reg Critical Path Delay: 3.806 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.493 W

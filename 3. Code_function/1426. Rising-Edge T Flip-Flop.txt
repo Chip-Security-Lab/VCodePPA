@@ -1,0 +1,1 @@
+T-triggered toggle flip-flop

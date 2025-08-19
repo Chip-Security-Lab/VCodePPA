@@ -1,0 +1,1 @@
+Pipelined negation with lookup table

@@ -1,0 +1,1 @@
+Buffered D-latch with enable signal

@@ -1,0 +1,19 @@
+PPA Report for decoder_fsm_axi.v (Module: decoder_fsm_axi)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 30
+FF Count: 46
+IO Count: 56
+Cell Count: 173
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+
+POWER METRICS:
+-------------
+Total Power Consumption: 2.735 W

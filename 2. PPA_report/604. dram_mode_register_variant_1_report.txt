@@ -1,0 +1,20 @@
+PPA Report for dram_mode_register.v (Module: dram_mode_register)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 81
+FF Count: 297
+IO Count: 39
+Cell Count: 516
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 482.16 MHz
+Reg-to-Reg Critical Path Delay: 1.808 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.458 W

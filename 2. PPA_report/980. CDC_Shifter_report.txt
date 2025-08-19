@@ -1,0 +1,22 @@
+PPA Report for 980. CDC_Shifter.sv (Module: CDC_Shifter)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 0
+FF Count: 16
+IO Count: 18
+Cell Count: 59
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 300.84 MHz
+End-to-End Path Delay: N/A (No valid path found) ns
+Reg-to-Reg Critical Path Delay: 1.279 ns
+Detected Clock Signals: src_clk dst_clk
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.454 W

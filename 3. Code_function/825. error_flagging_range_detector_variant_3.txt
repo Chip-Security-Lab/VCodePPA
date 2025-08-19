@@ -1,0 +1,1 @@
+Range detector with handshaking protocol

@@ -1,0 +1,1 @@
+Scaled quantized value with saturation

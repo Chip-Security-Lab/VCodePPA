@@ -1,0 +1,20 @@
+PPA Report for bitplane_encoder.v (Module: bitplane_encoder)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 20
+FF Count: 10
+IO Count: 17
+Cell Count: 87
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 567.86 MHz
+Reg-to-Reg Critical Path Delay: 1.403 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

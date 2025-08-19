@@ -1,0 +1,20 @@
+PPA Report for SARDiv.v (Module: SARDiv)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 34
+FF Count: 20
+IO Count: 26
+Cell Count: 127
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 517.06 MHz
+Reg-to-Reg Critical Path Delay: 1.798 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

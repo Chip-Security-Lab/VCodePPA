@@ -1,0 +1,20 @@
+PPA Report for eth_rmii_interface.v (Module: eth_rmii_interface)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 5
+FF Count: 23
+IO Count: 23
+Cell Count: 76
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1003.01 MHz
+Reg-to-Reg Critical Path Delay: 0.775 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

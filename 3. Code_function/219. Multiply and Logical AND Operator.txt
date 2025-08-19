@@ -1,0 +1,1 @@
+Multiplier with bitwise AND operation

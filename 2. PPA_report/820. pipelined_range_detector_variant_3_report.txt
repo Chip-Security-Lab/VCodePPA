@@ -1,0 +1,20 @@
+PPA Report for pipelined_range_detector.v (Module: pipelined_range_detector)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 25
+FF Count: 1
+IO Count: 75
+Cell Count: 282
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 250.92 MHz
+Reg-to-Reg Critical Path Delay: 3.185 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

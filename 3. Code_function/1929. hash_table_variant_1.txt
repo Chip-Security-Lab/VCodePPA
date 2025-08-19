@@ -1,0 +1,1 @@
+Pipelined hash function generator module

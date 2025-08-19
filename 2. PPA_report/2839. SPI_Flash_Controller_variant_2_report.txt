@@ -1,0 +1,20 @@
+PPA Report for SPI_Flash_Controller.v (Module: SPI_Flash_Controller)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 39
+FF Count: 34
+IO Count: 40
+Cell Count: 180
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 385.80 MHz
+Reg-to-Reg Critical Path Delay: 2.370 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.456 W

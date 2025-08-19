@@ -1,0 +1,1 @@
+Serial-to-parallel cyclic left shifter

@@ -1,0 +1,20 @@
+PPA Report for cdc_mux.v (Module: cdc_mux)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 33
+FF Count: 35
+IO Count: 51
+Cell Count: 209
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 331.42 MHz
+Reg-to-Reg Critical Path Delay: 4.270 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 5.411 W

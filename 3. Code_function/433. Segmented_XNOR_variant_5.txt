@@ -1,0 +1,1 @@
+Pipelined cross-segmented XNOR operation

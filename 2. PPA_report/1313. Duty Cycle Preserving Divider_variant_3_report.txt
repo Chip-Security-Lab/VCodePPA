@@ -1,0 +1,20 @@
+PPA Report for duty_preserve_divider.v (Module: duty_preserve_divider)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 21
+FF Count: 5
+IO Count: 7
+Cell Count: 55
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 293.44 MHz
+Reg-to-Reg Critical Path Delay: 2.978 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.818 W

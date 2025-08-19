@@ -1,0 +1,1 @@
+Masked XNOR with enable selector

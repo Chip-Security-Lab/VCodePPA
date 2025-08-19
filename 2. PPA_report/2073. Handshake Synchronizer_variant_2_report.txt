@@ -1,0 +1,20 @@
+PPA Report for handshake_sync.v (Module: handshake_sync)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 9
+FF Count: 14
+IO Count: 7
+Cell Count: 47
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 298.55 MHz
+Reg-to-Reg Critical Path Delay: 3.408 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.863 W

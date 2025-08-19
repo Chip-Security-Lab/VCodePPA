@@ -1,0 +1,1 @@
+Buffered quadrature sine wave generator

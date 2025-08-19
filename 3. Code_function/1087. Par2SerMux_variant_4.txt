@@ -1,0 +1,1 @@
+Parallel-to-serial converter with validation

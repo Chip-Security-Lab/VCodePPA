@@ -1,0 +1,20 @@
+PPA Report for hybrid_icmu_axi_stream.v (Module: hybrid_icmu_axi_stream)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 36
+FF Count: 50
+IO Count: 57
+Cell Count: 227
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 768.05 MHz
+Reg-to-Reg Critical Path Delay: 1.157 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.459 W

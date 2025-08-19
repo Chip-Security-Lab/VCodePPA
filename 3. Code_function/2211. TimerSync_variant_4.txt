@@ -1,0 +1,1 @@
+Synchronous counter with overflow signal

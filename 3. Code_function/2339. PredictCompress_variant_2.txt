@@ -1,0 +1,1 @@
+Delta compression using Kogge-Stone adder.

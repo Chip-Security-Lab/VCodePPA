@@ -1,0 +1,1 @@
+Pipelined PWM signal generator

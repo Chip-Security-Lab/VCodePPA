@@ -1,0 +1,1 @@
+UART automatic baudrate detection circuit

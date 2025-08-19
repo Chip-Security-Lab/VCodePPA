@@ -1,0 +1,1 @@
+Registered full adder with reset

@@ -1,0 +1,20 @@
+PPA Report for sync_ram_with_error_detection
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 850
+FF Count: 2057
+IO Count: 28
+Cell Count: 3424
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 294.46 MHz
+Reg-to-Reg Critical Path Delay: 3.108 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.465 W

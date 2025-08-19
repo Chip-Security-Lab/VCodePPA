@@ -1,0 +1,20 @@
+PPA Report for fifo_shadow_reg.v (Module: fifo_shadow_reg)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 15
+FF Count: 16
+IO Count: 22
+Cell Count: 92
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 630.52 MHz
+Reg-to-Reg Critical Path Delay: 1.217 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.454 W

@@ -1,0 +1,22 @@
+PPA Report for 1396. qos_buffer.sv (Module: qos_buffer)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 34
+FF Count: 130
+IO Count: 166
+Cell Count: 602
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1196.17 MHz
+End-to-End Path Delay: N/A (No valid path found) ns
+Reg-to-Reg Critical Path Delay: 0.717 ns
+Detected Clock Signals: clk
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.517 W

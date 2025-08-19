@@ -1,0 +1,20 @@
+PPA Report for decoder_cascade.v (Module: decoder_cascade)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 5
+FF Count: 13
+IO Count: 15
+Cell Count: 56
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 363.35 MHz
+Reg-to-Reg Critical Path Delay: 3.272 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 1.315 W

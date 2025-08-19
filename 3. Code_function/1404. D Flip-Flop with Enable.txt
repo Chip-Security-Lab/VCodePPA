@@ -1,0 +1,1 @@
+Enabled D flip-flop register

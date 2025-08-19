@@ -1,0 +1,20 @@
+PPA Report for i2c_master_clkdiv.v (Module: i2c_master_clkdiv)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 13
+FF Count: 11
+IO Count: 14
+Cell Count: 51
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 600.24 MHz
+Reg-to-Reg Critical Path Delay: 1.527 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.451 W

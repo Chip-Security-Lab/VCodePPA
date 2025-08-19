@@ -1,0 +1,20 @@
+PPA Report for DynamicWidthShift.v (Module: DynamicWidthShift)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 7
+FF Count: 15
+IO Count: 23
+Cell Count: 63
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 833.33 MHz
+Reg-to-Reg Critical Path Delay: 1.081 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

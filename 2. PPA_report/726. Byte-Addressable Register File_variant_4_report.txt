@@ -1,0 +1,21 @@
+PPA Report for byte_addressable_regfile.v (Module: byte_addressable_regfile)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 808
+FF Count: 2048
+IO Count: 57
+Cell Count: 3357
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 186.71 MHz
+End-to-End Path Delay: 7.528 ns
+Reg-to-Reg Critical Path Delay: 4.869 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.497 W

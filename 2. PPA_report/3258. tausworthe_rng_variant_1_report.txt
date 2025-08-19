@@ -1,0 +1,20 @@
+PPA Report for tausworthe_rng.v (Module: tausworthe_rng)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 0
+FF Count: 3
+IO Count: 34
+Cell Count: 45
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 278.52 MHz
+Reg-to-Reg Critical Path Delay: 3.047 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.465 W

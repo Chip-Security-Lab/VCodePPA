@@ -1,0 +1,20 @@
+PPA Report for moore_2state_parity_gen.v (Module: moore_2state_parity_gen)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 1
+FF Count: 1
+IO Count: 4
+Cell Count: 16
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1106.19 MHz
+Reg-to-Reg Critical Path Delay: 0.784 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

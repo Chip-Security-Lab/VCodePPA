@@ -1,0 +1,20 @@
+PPA Report for dual_clock_priority_comp.v (Module: dual_clock_priority_comp)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 11
+FF Count: 22
+IO Count: 17
+Cell Count: 78
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 269.92 MHz
+Reg-to-Reg Critical Path Delay: 3.264 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 1.510 W

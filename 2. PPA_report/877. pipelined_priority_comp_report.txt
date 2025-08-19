@@ -1,0 +1,20 @@
+PPA Report for pipelined_priority_comp
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 16
+FF Count: 39
+IO Count: 23
+Cell Count: 120
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 535.33 MHz
+Reg-to-Reg Critical Path Delay: 1.691 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

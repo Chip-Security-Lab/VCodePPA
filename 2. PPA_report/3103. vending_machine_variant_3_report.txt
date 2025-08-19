@@ -1,0 +1,20 @@
+PPA Report for vending_machine.v (Module: vending_machine)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 20
+FF Count: 9
+IO Count: 12
+Cell Count: 56
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 663.13 MHz
+Reg-to-Reg Critical Path Delay: 1.389 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

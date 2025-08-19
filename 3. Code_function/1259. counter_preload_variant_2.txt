@@ -1,0 +1,1 @@
+Loadable enabled counter with registers

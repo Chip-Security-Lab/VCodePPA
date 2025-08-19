@@ -1,0 +1,20 @@
+PPA Report for CRC_Filter.v (Module: CRC_Filter)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 6
+FF Count: 17
+IO Count: 25
+Cell Count: 71
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1006.04 MHz
+Reg-to-Reg Critical Path Delay: 0.857 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.458 W

@@ -1,0 +1,20 @@
+PPA Report for ITRC_ShiftTracker
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 1
+FF Count: 32
+IO Count: 38
+Cell Count: 86
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 907.44 MHz
+Reg-to-Reg Critical Path Delay: 0.954 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.474 W

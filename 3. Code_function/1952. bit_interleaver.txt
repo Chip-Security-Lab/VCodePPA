@@ -1,0 +1,1 @@
+Interleaves bits from two inputs.

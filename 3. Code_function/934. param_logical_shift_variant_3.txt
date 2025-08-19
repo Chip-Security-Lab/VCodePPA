@@ -1,0 +1,1 @@
+Pipelined logical shift left module

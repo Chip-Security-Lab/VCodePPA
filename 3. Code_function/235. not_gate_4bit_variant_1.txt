@@ -1,0 +1,1 @@
+1-bit and 4-bit NOT gates

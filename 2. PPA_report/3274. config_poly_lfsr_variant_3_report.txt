@@ -1,0 +1,20 @@
+PPA Report for config_poly_lfsr.v (Module: config_poly_lfsr)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 9
+FF Count: 16
+IO Count: 34
+Cell Count: 98
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 597.37 MHz
+Reg-to-Reg Critical Path Delay: 1.533 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.464 W

@@ -1,0 +1,1 @@
+Resettable sawtooth counter using adder

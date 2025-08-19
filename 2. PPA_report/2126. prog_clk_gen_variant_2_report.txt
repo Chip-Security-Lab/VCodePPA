@@ -1,0 +1,20 @@
+PPA Report for prog_clk_gen.v (Module: prog_clk_gen)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 15
+FF Count: 23
+IO Count: 10
+Cell Count: 79
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 574.05 MHz
+Reg-to-Reg Critical Path Delay: 1.624 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

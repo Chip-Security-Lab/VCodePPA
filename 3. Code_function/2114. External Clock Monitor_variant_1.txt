@@ -1,0 +1,1 @@
+Clock monitor with timeout detection

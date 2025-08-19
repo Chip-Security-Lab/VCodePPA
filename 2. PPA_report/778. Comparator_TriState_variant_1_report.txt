@@ -1,0 +1,20 @@
+PPA Report for Comparator_TriState.v (Module: Comparator_TriState)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 7
+FF Count: 0
+IO Count: 26
+Cell Count: 84
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+End-to-End Path Delay: 7.675 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.628 W

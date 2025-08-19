@@ -1,0 +1,20 @@
+PPA Report for ICMU_DoubleBuffer
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 19
+FF Count: 65
+IO Count: 68
+Cell Count: 244
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 761.61 MHz
+Reg-to-Reg Critical Path Delay: 1.027 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.471 W

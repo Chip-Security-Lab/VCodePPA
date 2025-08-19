@@ -1,0 +1,1 @@
+Dithered truncation with pipelined LFSR

@@ -1,0 +1,20 @@
+PPA Report for mux_based_shifter.v (Module: mux_based_shifter)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 17
+FF Count: 10
+IO Count: 25
+Cell Count: 88
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 838.22 MHz
+Reg-to-Reg Critical Path Delay: 0.991 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

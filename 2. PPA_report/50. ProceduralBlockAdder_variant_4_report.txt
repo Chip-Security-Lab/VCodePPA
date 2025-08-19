@@ -1,0 +1,20 @@
+PPA Report for proc_adder.v (Module: proc_adder)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 14
+FF Count: 7
+IO Count: 21
+Cell Count: 76
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 453.64 MHz
+Reg-to-Reg Critical Path Delay: 2.591 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.455 W

@@ -1,0 +1,20 @@
+PPA Report for bus_sync_valid.v (Module: bus_sync_valid)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 1
+FF Count: 34
+IO Count: 37
+Cell Count: 117
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 257.60 MHz
+Reg-to-Reg Critical Path Delay: 2.472 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.456 W

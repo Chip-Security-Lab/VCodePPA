@@ -1,0 +1,20 @@
+PPA Report for crossbar_sync_4x4
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 33
+FF Count: 32
+IO Count: 74
+Cell Count: 226
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 356.51 MHz
+Reg-to-Reg Critical Path Delay: 2.105 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.484 W

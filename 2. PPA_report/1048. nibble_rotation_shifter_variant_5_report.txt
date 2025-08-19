@@ -1,0 +1,21 @@
+PPA Report for nibble_rotation_shifter_axi_stream.v (Module: nibble_rotation_shifter_axi_stream)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 35
+FF Count: 23
+IO Count: 45
+Cell Count: 159
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 657.46 MHz
+End-to-End Path Delay: 4.847 ns
+Reg-to-Reg Critical Path Delay: 1.254 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.454 W

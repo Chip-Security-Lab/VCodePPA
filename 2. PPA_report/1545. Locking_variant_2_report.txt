@@ -1,0 +1,21 @@
+PPA Report for locking_shadow_reg.v (Module: locking_shadow_reg)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 5
+FF Count: 60
+IO Count: 42
+Cell Count: 155
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 880.28 MHz
+End-to-End Path Delay: 5.359 ns
+Reg-to-Reg Critical Path Delay: 0.993 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

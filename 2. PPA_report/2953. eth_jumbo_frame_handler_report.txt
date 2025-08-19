@@ -1,0 +1,20 @@
+PPA Report for eth_jumbo_frame_handler
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 24
+FF Count: 25
+IO Count: 24
+Cell Count: 110
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 568.50 MHz
+Reg-to-Reg Critical Path Delay: 1.582 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

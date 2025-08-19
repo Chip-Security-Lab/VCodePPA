@@ -1,0 +1,20 @@
+PPA Report for GammaCorrection.v (Module: GammaCorrection)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 0
+FF Count: 0
+IO Count: 17
+Cell Count: 40
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 274.15 MHz
+Reg-to-Reg Critical Path Delay: 1.737 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.456 W

@@ -1,0 +1,1 @@
+Activity-based AXI4-Lite clock gater

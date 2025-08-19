@@ -1,0 +1,21 @@
+PPA Report for hamming_decoder_16bit.v (Module: hamming_decoder_16bit)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 15
+FF Count: 67
+IO Count: 49
+Cell Count: 189
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 621.50 MHz
+End-to-End Path Delay: 5.525 ns
+Reg-to-Reg Critical Path Delay: 1.407 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.455 W

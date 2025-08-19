@@ -1,0 +1,20 @@
+PPA Report for dual_clock_timer.v (Module: dual_clock_timer)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 6
+FF Count: 42
+IO Count: 20
+Cell Count: 110
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 368.80 MHz
+Reg-to-Reg Critical Path Delay: 2.940 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.594 W

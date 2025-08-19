@@ -1,0 +1,1 @@
+SPI with parity checking circuit

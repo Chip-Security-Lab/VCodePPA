@@ -1,0 +1,20 @@
+PPA Report for UART_PreambleDetect.v (Module: UART_PreambleDetect)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 7
+FF Count: 16
+IO Count: 5
+Cell Count: 40
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 888.89 MHz
+Reg-to-Reg Critical Path Delay: 0.975 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.451 W

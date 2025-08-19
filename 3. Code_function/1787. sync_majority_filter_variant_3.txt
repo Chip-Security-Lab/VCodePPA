@@ -1,0 +1,1 @@
+Pipelined majority filter with window

@@ -1,0 +1,1 @@
+Pseudorandom sequence generator with feedback

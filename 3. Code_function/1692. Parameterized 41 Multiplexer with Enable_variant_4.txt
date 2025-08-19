@@ -1,0 +1,1 @@
+Enableable 2-bit subtract with carry

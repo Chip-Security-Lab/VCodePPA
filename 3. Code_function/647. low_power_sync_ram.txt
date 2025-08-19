@@ -1,0 +1,1 @@
+Low-power synchronous RAM module

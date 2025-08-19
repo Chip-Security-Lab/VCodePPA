@@ -1,0 +1,1 @@
+Pipelined NOR gate with reset

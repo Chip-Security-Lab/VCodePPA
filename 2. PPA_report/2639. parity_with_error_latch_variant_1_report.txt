@@ -1,0 +1,20 @@
+PPA Report for parity_with_error_latch_pipeline.v (Module: parity_with_error_latch_pipeline)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 3
+FF Count: 1
+IO Count: 13
+Cell Count: 43
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 365.39 MHz
+Reg-to-Reg Critical Path Delay: 2.520 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.451 W

@@ -1,0 +1,20 @@
+PPA Report for carry_skip_adder.v (Module: carry_skip_adder)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 9
+FF Count: 0
+IO Count: 14
+Cell Count: 43
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+End-to-End Path Delay: 5.701 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 2.816 W

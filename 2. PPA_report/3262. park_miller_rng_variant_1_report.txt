@@ -1,0 +1,20 @@
+PPA Report for park_miller_rng.v (Module: park_miller_rng)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 1902
+FF Count: 97
+IO Count: 34
+Cell Count: 2367
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 46.33 MHz
+Reg-to-Reg Critical Path Delay: 21.766 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.539 W

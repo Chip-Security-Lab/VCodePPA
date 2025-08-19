@@ -1,0 +1,1 @@
+Pipelined field selector from struct

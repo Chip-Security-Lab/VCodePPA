@@ -1,0 +1,1 @@
+Asynchronous register with load capability

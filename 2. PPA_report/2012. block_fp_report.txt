@@ -1,0 +1,21 @@
+PPA Report for 2012. block_fp.sv (Module: block_fp)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 223
+FF Count: 0
+IO Count: 148
+Cell Count: 552
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+End-to-End Path Delay: 9.119 ns
+Detected Clock Signals: None
+
+POWER METRICS:
+-------------
+Total Power Consumption: 82.453 W

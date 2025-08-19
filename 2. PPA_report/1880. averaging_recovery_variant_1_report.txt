@@ -1,0 +1,20 @@
+PPA Report for averaging_recovery.v (Module: averaging_recovery)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 30
+FF Count: 39
+IO Count: 19
+Cell Count: 127
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 603.50 MHz
+Reg-to-Reg Critical Path Delay: 1.374 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

@@ -1,0 +1,1 @@
+SRAM with non-volatile backup

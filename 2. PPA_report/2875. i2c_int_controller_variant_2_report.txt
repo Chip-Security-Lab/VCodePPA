@@ -1,0 +1,20 @@
+PPA Report for i2c_int_controller.v (Module: i2c_int_controller)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 4
+FF Count: 6
+IO Count: 14
+Cell Count: 36
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1029.87 MHz
+Reg-to-Reg Critical Path Delay: 0.766 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

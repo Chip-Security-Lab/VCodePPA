@@ -1,0 +1,21 @@
+PPA Report for recovery_sequence_controller_axi4lite.v (Module: recovery_sequence_controller_axi4lite)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 33
+FF Count: 28
+IO Count: 34
+Cell Count: 139
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 532.48 MHz
+End-to-End Path Delay: 5.061 ns
+Reg-to-Reg Critical Path Delay: 1.693 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

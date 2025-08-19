@@ -1,0 +1,20 @@
+PPA Report for ParityLatch.v (Module: ParityLatch)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 3
+FF Count: 17
+IO Count: 17
+Cell Count: 59
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1161.44 MHz
+Reg-to-Reg Critical Path Delay: 0.715 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

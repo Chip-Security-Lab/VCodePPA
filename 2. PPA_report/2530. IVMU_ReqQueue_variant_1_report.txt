@@ -1,0 +1,20 @@
+PPA Report for IVMU_ReqQueue.v (Module: IVMU_ReqQueue)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 12
+FF Count: 32
+IO Count: 18
+Cell Count: 98
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1040.58 MHz
+Reg-to-Reg Critical Path Delay: 0.843 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

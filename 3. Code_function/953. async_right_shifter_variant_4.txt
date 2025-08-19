@@ -1,0 +1,1 @@
+Pipelined controllable right shift register

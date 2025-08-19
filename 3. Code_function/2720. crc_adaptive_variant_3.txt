@@ -1,0 +1,1 @@
+Pipelined adaptive CRC calculator

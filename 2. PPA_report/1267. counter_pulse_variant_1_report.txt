@@ -1,0 +1,20 @@
+PPA Report for counter_pulse.v (Module: counter_pulse)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 4
+FF Count: 6
+IO Count: 3
+Cell Count: 23
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 858.37 MHz
+Reg-to-Reg Critical Path Delay: 0.947 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.451 W

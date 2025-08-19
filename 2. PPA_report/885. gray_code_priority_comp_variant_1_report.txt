@@ -1,0 +1,20 @@
+PPA Report for gray_code_priority_comp.v (Module: gray_code_priority_comp)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 7
+FF Count: 6
+IO Count: 17
+Cell Count: 55
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 304.96 MHz
+Reg-to-Reg Critical Path Delay: 2.379 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

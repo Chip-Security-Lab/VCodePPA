@@ -1,0 +1,1 @@
+Pipelined configuration reset controller

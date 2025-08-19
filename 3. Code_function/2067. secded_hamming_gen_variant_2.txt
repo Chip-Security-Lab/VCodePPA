@@ -1,0 +1,1 @@
+Hamming ECC generator; 32-bit adder

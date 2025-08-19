@@ -1,0 +1,20 @@
+PPA Report for sync_fifo.v (Module: sync_fifo)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 73
+FF Count: 266
+IO Count: 23
+Cell Count: 429
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 211.73 MHz
+Reg-to-Reg Critical Path Delay: 4.010 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.457 W

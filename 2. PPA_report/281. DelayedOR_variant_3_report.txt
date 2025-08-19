@@ -1,0 +1,20 @@
+PPA Report for DelayedOR.v (Module: DelayedOR)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 125
+FF Count: 0
+IO Count: 24
+Cell Count: 240
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+End-to-End Path Delay: 13.629 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 8.864 W

@@ -1,0 +1,1 @@
+Barrel logical right shift register

@@ -1,0 +1,1 @@
+4-bit decoder to powers of-2

@@ -1,0 +1,20 @@
+PPA Report for agc_unit.v (Module: agc_unit)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 620
+FF Count: 70
+IO Count: 33
+Cell Count: 894
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 53.20 MHz
+Reg-to-Reg Critical Path Delay: 18.805 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.478 W

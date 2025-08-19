@@ -1,0 +1,20 @@
+PPA Report for yuv_to_rgb_codec.v (Module: yuv_to_rgb_codec)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 17
+FF Count: 0
+IO Count: 48
+Cell Count: 185
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+End-to-End Path Delay: 9.669 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 10.745 W

@@ -1,0 +1,20 @@
+PPA Report for i2c_dual_addr_slave.v (Module: i2c_dual_addr_slave)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 22
+FF Count: 34
+IO Count: 21
+Cell Count: 109
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 470.59 MHz
+Reg-to-Reg Critical Path Delay: 1.840 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

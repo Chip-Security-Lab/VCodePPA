@@ -1,0 +1,1 @@
+Tristate buffer with zero default

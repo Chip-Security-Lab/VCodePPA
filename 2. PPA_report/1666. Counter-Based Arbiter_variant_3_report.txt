@@ -1,0 +1,20 @@
+PPA Report for counter_arbiter.v (Module: counter_arbiter)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 5
+FF Count: 12
+IO Count: 10
+Cell Count: 45
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 664.89 MHz
+Reg-to-Reg Critical Path Delay: 1.253 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

@@ -1,0 +1,1 @@
+Configurable Hamming error correction codec

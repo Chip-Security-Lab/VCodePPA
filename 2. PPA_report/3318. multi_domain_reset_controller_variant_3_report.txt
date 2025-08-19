@@ -1,0 +1,20 @@
+PPA Report for multi_domain_reset_controller.v (Module: multi_domain_reset_controller)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 6
+FF Count: 20
+IO Count: 9
+Cell Count: 53
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 956.94 MHz
+Reg-to-Reg Critical Path Delay: 0.909 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.451 W

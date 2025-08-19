@@ -1,0 +1,1 @@
+Interrupt controller with auto-clear mechanism

@@ -1,0 +1,1 @@
+Delayed 2-input NAND gate

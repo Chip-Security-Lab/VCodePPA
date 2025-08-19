@@ -1,0 +1,20 @@
+PPA Report for not_gate_clk
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 1
+FF Count: 1
+IO Count: 3
+Cell Count: 13
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 437.06 MHz
+Reg-to-Reg Critical Path Delay: 1.588 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.451 W

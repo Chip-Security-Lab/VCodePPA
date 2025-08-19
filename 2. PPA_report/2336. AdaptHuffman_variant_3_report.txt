@@ -1,0 +1,20 @@
+PPA Report for AdaptHuffman.v (Module: AdaptHuffman)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 434
+FF Count: 556
+IO Count: 26
+Cell Count: 1154
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 448.63 MHz
+Reg-to-Reg Critical Path Delay: 1.936 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.457 W

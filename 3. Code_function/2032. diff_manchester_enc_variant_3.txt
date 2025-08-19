@@ -1,0 +1,1 @@
+Differential Manchester data encoder

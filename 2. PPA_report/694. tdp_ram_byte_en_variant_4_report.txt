@@ -1,0 +1,20 @@
+PPA Report for tdp_ram_byte_en_pipeline.v (Module: tdp_ram_byte_en_pipeline)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 50100
+FF Count: 33470
+IO Count: 158
+Cell Count: 101110
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 115.83 MHz
+Reg-to-Reg Critical Path Delay: 8.422 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 1.156 W

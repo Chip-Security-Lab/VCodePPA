@@ -1,0 +1,20 @@
+PPA Report for error_detect_mux.v (Module: error_detect_mux)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 12
+FF Count: 13
+IO Count: 53
+Cell Count: 163
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 188.61 MHz
+Reg-to-Reg Critical Path Delay: 2.217 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.463 W

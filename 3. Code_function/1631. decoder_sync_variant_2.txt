@@ -1,0 +1,1 @@
+Synchronous subtraction-based address decoder

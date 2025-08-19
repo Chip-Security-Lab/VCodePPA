@@ -1,0 +1,20 @@
+PPA Report for async_single_port_ram
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 841
+FF Count: 2048
+IO Count: 25
+Cell Count: 3397
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+End-to-End Path Delay: 7.854 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 13.298 W

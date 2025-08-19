@@ -1,0 +1,20 @@
+PPA Report for axi2apb_bridge.v (Module: axi2apb_bridge)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 46
+FF Count: 106
+IO Count: 240
+Cell Count: 670
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 439.37 MHz
+Reg-to-Reg Critical Path Delay: 1.899 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.494 W

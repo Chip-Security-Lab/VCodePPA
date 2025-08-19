@@ -1,0 +1,1 @@
+Pipelined burst counter circuit

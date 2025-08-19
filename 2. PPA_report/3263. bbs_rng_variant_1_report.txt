@@ -1,0 +1,20 @@
+PPA Report for bbs_rng_axi_stream.v (Module: bbs_rng_axi_stream)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 255
+FF Count: 17
+IO Count: 12
+Cell Count: 356
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 144.43 MHz
+Reg-to-Reg Critical Path Delay: 6.505 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.457 W

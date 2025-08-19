@@ -1,0 +1,20 @@
+PPA Report for sram_mbist.v (Module: sram_mbist)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 7
+FF Count: 15
+IO Count: 3
+Cell Count: 37
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 113.48 MHz
+Reg-to-Reg Critical Path Delay: 2.984 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 1.323 W

@@ -1,0 +1,20 @@
+PPA Report for multi_clock_shifter.v (Module: multi_clock_shifter)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 19
+FF Count: 48
+IO Count: 24
+Cell Count: 141
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 337.07 MHz
+Reg-to-Reg Critical Path Delay: 3.138 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 3.391 W

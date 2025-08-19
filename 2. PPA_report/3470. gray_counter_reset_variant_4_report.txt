@@ -1,0 +1,20 @@
+PPA Report for gray_counter_reset.v (Module: gray_counter_reset)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 4
+FF Count: 7
+IO Count: 7
+Cell Count: 29
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1114.83 MHz
+Reg-to-Reg Critical Path Delay: 0.778 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.454 W

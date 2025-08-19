@@ -1,0 +1,20 @@
+PPA Report for shift_control.v (Module: shift_control)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 138
+FF Count: 0
+IO Count: 70
+Cell Count: 306
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+End-to-End Path Delay: 5.464 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 26.345 W

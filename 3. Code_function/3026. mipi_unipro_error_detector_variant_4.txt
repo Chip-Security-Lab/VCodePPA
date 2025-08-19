@@ -1,0 +1,1 @@
+MIPI protocol error detection pipeline

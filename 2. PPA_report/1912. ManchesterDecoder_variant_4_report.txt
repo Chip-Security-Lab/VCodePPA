@@ -1,0 +1,20 @@
+PPA Report for ManchesterDecoder.v (Module: ManchesterDecoder)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 4
+FF Count: 25
+IO Count: 12
+Cell Count: 51
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 286.15 MHz
+Reg-to-Reg Critical Path Delay: 3.162 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.547 W

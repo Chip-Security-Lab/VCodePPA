@@ -1,0 +1,1 @@
+Width-converting FIFO with pipelined stages

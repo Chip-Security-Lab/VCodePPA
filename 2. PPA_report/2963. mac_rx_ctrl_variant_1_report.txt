@@ -1,0 +1,20 @@
+PPA Report for mac_rx_ctrl.v (Module: mac_rx_ctrl)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 89
+FF Count: 140
+IO Count: 62
+Cell Count: 333
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 429.37 MHz
+Reg-to-Reg Critical Path Delay: 2.129 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.503 W

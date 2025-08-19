@@ -1,0 +1,20 @@
+PPA Report for can_frame_parser.v (Module: can_frame_parser)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 31
+FF Count: 39
+IO Count: 86
+Cell Count: 175
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 595.95 MHz
+Reg-to-Reg Critical Path Delay: 1.407 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.457 W

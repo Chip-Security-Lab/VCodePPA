@@ -1,0 +1,20 @@
+PPA Report for d_ff_async_preset_pipelined.v (Module: d_ff_async_preset_pipelined)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 6
+FF Count: 12
+IO Count: 8
+Cell Count: 45
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 749.63 MHz
+Reg-to-Reg Critical Path Delay: 1.216 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

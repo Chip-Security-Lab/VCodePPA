@@ -1,0 +1,20 @@
+PPA Report for WindowMatcher.v (Module: WindowMatcher)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 12
+FF Count: 39
+IO Count: 11
+Cell Count: 85
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 701.75 MHz
+Reg-to-Reg Critical Path Delay: 1.237 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

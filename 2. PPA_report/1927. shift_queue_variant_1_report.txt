@@ -1,0 +1,20 @@
+PPA Report for shift_queue_pipelined.v (Module: shift_queue_pipelined)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 35
+FF Count: 69
+IO Count: 47
+Cell Count: 260
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 989.12 MHz
+Reg-to-Reg Critical Path Delay: 0.825 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

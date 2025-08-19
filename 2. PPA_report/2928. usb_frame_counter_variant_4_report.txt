@@ -1,0 +1,20 @@
+PPA Report for usb_frame_counter.v (Module: usb_frame_counter)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 17
+FF Count: 29
+IO Count: 52
+Cell Count: 147
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 816.99 MHz
+Reg-to-Reg Critical Path Delay: 0.989 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.468 W

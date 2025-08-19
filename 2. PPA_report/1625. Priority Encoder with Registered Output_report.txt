@@ -1,0 +1,20 @@
+PPA Report for Priority Encoder with Registered Output
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 6
+FF Count: 4
+IO Count: 13
+Cell Count: 47
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 303.67 MHz
+Reg-to-Reg Critical Path Delay: 2.593 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

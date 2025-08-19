@@ -1,0 +1,1 @@
+Synchronous RS flip-flop with priority

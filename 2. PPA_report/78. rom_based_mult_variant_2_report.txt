@@ -1,0 +1,20 @@
+PPA Report for rom_based_mult.v (Module: rom_based_mult)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 6
+FF Count: 4
+IO Count: 21
+Cell Count: 57
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1082.25 MHz
+Reg-to-Reg Critical Path Delay: 0.719 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

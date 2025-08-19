@@ -1,0 +1,20 @@
+PPA Report for ITRC_SoftAck.v (Module: ITRC_SoftAck)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 17
+FF Count: 32
+IO Count: 26
+Cell Count: 114
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1088.14 MHz
+Reg-to-Reg Critical Path Delay: 0.800 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.454 W

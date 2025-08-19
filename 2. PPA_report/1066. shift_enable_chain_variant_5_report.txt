@@ -1,0 +1,20 @@
+PPA Report for shift_enable_chain_pipeline.v (Module: shift_enable_chain_pipeline)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 1
+FF Count: 32
+IO Count: 19
+Cell Count: 76
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 895.26 MHz
+Reg-to-Reg Critical Path Delay: 0.970 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

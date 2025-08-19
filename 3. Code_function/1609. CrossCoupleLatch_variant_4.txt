@@ -1,0 +1,1 @@
+SR latch and Wallace multiplier

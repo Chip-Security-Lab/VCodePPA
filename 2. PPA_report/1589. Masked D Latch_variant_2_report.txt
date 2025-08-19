@@ -1,0 +1,20 @@
+PPA Report for masked_d_latch.v (Module: masked_d_latch)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 9
+FF Count: 8
+IO Count: 27
+Cell Count: 84
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1510.57 MHz
+Reg-to-Reg Critical Path Delay: 0.543 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

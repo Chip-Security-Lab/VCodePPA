@@ -1,0 +1,1 @@
+Double-buffered programmable timer counter

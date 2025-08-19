@@ -1,0 +1,1 @@
+Pipelined 101 sequence pattern detector

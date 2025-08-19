@@ -1,0 +1,20 @@
+PPA Report for TwoLevelIVMU_pipelined.v (Module: TwoLevelIVMU_pipelined)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 30
+FF Count: 48
+IO Count: 67
+Cell Count: 224
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 547.35 MHz
+Reg-to-Reg Critical Path Delay: 1.692 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.466 W

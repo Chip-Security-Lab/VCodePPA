@@ -1,0 +1,1 @@
+Bidirectional shifter with OR operation

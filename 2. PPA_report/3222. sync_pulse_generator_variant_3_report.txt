@@ -1,0 +1,20 @@
+PPA Report for sync_pulse_generator.v (Module: sync_pulse_generator)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 35
+FF Count: 18
+IO Count: 38
+Cell Count: 188
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 260.86 MHz
+Reg-to-Reg Critical Path Delay: 3.477 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 1.375 W

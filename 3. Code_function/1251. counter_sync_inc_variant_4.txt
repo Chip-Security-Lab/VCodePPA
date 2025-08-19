@@ -1,0 +1,1 @@
+Synchronized parameterized counter with enable.

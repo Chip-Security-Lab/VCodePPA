@@ -1,0 +1,1 @@
+Gray-code decoder with lookup table

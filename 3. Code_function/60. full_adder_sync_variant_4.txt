@@ -1,0 +1,1 @@
+Pipelined carry-lookahead adder with registers

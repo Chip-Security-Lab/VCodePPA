@@ -1,0 +1,20 @@
+PPA Report for pipelined_mult.v (Module: pipelined_mult)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 325
+FF Count: 243
+IO Count: 65
+Cell Count: 827
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 307.88 MHz
+Reg-to-Reg Critical Path Delay: 3.067 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.514 W

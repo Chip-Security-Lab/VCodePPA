@@ -1,0 +1,20 @@
+PPA Report for cordic_sine.v (Module: cordic_sine)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 28
+FF Count: 29
+IO Count: 20
+Cell Count: 108
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 644.33 MHz
+Reg-to-Reg Critical Path Delay: 1.408 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.459 W

@@ -1,0 +1,21 @@
+PPA Report for hybrid_regfile.v (Module: hybrid_regfile)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 133
+FF Count: 0
+IO Count: 74
+Cell Count: 391
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 276.57 MHz
+End-to-End Path Delay: 5.131 ns
+Reg-to-Reg Critical Path Delay: 2.390 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.468 W

@@ -1,0 +1,1 @@
+External clock precision timer module

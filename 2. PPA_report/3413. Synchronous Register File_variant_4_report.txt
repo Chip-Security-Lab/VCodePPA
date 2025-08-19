@@ -1,0 +1,20 @@
+PPA Report for RD3.v (Module: RD3)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 12
+FF Count: 59
+IO Count: 21
+Cell Count: 121
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 631.31 MHz
+Reg-to-Reg Critical Path Delay: 1.367 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

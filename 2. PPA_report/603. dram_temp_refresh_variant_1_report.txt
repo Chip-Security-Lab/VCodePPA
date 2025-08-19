@@ -1,0 +1,20 @@
+PPA Report for temp_coeff_calc.v (Module: temp_coeff_calc)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 12
+FF Count: 0
+IO Count: 24
+Cell Count: 62
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A
+End-to-End Path Delay: 5.530 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 6.933 W

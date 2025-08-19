@@ -1,0 +1,1 @@
+Tristate XNOR gate with enable

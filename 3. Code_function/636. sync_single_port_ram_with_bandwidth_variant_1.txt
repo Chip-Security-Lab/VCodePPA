@@ -1,0 +1,1 @@
+Bandwidth-controlled synchronous RAM module

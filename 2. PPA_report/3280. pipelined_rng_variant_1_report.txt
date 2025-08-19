@@ -1,0 +1,20 @@
+PPA Report for pipelined_rng_axi_stream.v (Module: pipelined_rng_axi_stream)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 77
+FF Count: 200
+IO Count: 37
+Cell Count: 341
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 666.22 MHz
+Reg-to-Reg Critical Path Delay: 1.228 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.488 W

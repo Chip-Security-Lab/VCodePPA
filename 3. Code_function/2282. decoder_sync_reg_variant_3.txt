@@ -1,0 +1,1 @@
+Registered barrel-shifter address decoder

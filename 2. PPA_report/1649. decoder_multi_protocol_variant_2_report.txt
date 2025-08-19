@@ -1,0 +1,20 @@
+PPA Report for baugh_wooley_multiplier.v (Module: baugh_wooley_multiplier)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 39
+FF Count: 34
+IO Count: 68
+Cell Count: 227
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 845.31 MHz
+Reg-to-Reg Critical Path Delay: 0.953 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.486 W

@@ -1,0 +1,1 @@
+Asynchronous AND gate with reset

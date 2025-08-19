@@ -1,0 +1,21 @@
+PPA Report for clk_gate_dff.v (Module: clk_gate_dff)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 2
+FF Count: 6
+IO Count: 9
+Cell Count: 32
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 323.62 MHz
+End-to-End Path Delay: 4.384 ns
+Reg-to-Reg Critical Path Delay: 0.420 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

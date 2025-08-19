@@ -1,0 +1,21 @@
+PPA Report for hex2ascii_axi_stream.v (Module: hex2ascii_axi_stream)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 6
+FF Count: 7
+IO Count: 19
+Cell Count: 56
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1280.41 MHz
+End-to-End Path Delay: 4.817 ns
+Reg-to-Reg Critical Path Delay: 0.561 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

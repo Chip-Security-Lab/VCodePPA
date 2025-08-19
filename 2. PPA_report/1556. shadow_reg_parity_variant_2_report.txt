@@ -1,0 +1,20 @@
+PPA Report for shadow_reg_parity.v (Module: shadow_reg_parity)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 3
+FF Count: 10
+IO Count: 20
+Cell Count: 57
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1180.64 MHz
+Reg-to-Reg Critical Path Delay: 0.728 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.454 W

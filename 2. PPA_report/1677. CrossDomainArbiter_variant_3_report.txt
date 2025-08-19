@@ -1,0 +1,20 @@
+PPA Report for CrossDomainArbiter.v (Module: CrossDomainArbiter)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 0
+FF Count: 4
+IO Count: 5
+Cell Count: 24
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 288.88 MHz
+Reg-to-Reg Critical Path Delay: 3.005 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.651 W

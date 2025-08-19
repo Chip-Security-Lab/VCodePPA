@@ -1,0 +1,20 @@
+PPA Report for spi_master_fifo.v (Module: spi_master_fifo)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 5
+FF Count: 5
+IO Count: 17
+Cell Count: 40
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 591.72 MHz
+Reg-to-Reg Critical Path Delay: 1.553 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.451 W

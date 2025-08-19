@@ -1,0 +1,20 @@
+PPA Report for pulse_width_monitor.v (Module: pulse_width_monitor)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 3
+FF Count: 4
+IO Count: 3
+Cell Count: 19
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 816.99 MHz
+Reg-to-Reg Critical Path Delay: 1.021 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.451 W

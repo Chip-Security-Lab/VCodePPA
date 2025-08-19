@@ -1,0 +1,1 @@
+Byte-selectable register with clear

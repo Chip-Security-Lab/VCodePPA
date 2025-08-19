@@ -1,0 +1,1 @@
+Shifted XNOR bit comparison circuit

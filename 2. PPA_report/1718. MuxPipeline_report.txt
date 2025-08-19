@@ -1,0 +1,20 @@
+PPA Report for MuxPipeline
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 16
+FF Count: 32
+IO Count: 83
+Cell Count: 269
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1137.66 MHz
+Reg-to-Reg Critical Path Delay: 0.740 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.468 W

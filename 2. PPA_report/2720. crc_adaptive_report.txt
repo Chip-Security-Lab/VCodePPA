@@ -1,0 +1,22 @@
+PPA Report for 2720. crc_adaptive.sv (Module: crc_adaptive)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 1284
+FF Count: 32
+IO Count: 102
+Cell Count: 1821
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 149.77 MHz
+End-to-End Path Delay: N/A (No valid path found) ns
+Reg-to-Reg Critical Path Delay: 6.493 ns
+Detected Clock Signals: clk
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.760 W

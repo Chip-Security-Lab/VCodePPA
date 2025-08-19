@@ -1,0 +1,20 @@
+PPA Report for PrioCAM_4Loc
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 20
+FF Count: 35
+IO Count: 18
+Cell Count: 103
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 644.75 MHz
+Reg-to-Reg Critical Path Delay: 1.367 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

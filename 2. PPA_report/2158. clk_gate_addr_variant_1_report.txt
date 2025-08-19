@@ -1,0 +1,20 @@
+PPA Report for clk_gate_addr.v (Module: clk_gate_addr)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 3
+FF Count: 14
+IO Count: 8
+Cell Count: 39
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1194.74 MHz
+Reg-to-Reg Critical Path Delay: 0.718 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

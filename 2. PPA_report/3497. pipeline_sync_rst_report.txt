@@ -1,0 +1,20 @@
+PPA Report for pipeline_sync_rst
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 0
+FF Count: 16
+IO Count: 26
+Cell Count: 65
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1021.45 MHz
+Reg-to-Reg Critical Path Delay: 0.839 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.455 W

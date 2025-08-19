@@ -1,0 +1,21 @@
+PPA Report for transparent_buffer.v (Module: transparent_buffer)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 3
+FF Count: 9
+IO Count: 22
+Cell Count: 62
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 642.67 MHz
+End-to-End Path Delay: 4.746 ns
+Reg-to-Reg Critical Path Delay: 1.328 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

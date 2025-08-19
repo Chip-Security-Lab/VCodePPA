@@ -1,0 +1,1 @@
+Captures data on trigger match

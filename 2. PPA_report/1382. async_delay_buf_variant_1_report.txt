@@ -1,0 +1,20 @@
+PPA Report for async_delay_buf.v (Module: async_delay_buf)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 15
+FF Count: 37
+IO Count: 18
+Cell Count: 96
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 531.63 MHz
+Reg-to-Reg Critical Path Delay: 1.604 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

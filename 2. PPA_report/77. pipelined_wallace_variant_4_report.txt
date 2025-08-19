@@ -1,0 +1,20 @@
+PPA Report for pipelined_wallace.v (Module: pipelined_wallace)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 189
+FF Count: 510
+IO Count: 65
+Cell Count: 994
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 490.44 MHz
+Reg-to-Reg Critical Path Delay: 1.889 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.505 W

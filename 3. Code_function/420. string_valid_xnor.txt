@@ -1,0 +1,1 @@
+Bitwise XNOR with validity check

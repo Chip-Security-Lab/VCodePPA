@@ -1,0 +1,1 @@
+Four-bit NOT gate array

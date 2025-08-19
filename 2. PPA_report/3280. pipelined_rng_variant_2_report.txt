@@ -1,0 +1,20 @@
+PPA Report for pipelined_rng.v (Module: pipelined_rng)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 43
+FF Count: 79
+IO Count: 34
+Cell Count: 171
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 722.54 MHz
+Reg-to-Reg Critical Path Delay: 1.178 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.514 W

@@ -1,0 +1,1 @@
+Clock gater with FSM control

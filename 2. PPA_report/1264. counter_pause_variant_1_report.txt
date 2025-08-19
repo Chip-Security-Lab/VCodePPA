@@ -1,0 +1,21 @@
+PPA Report for counter_pause.v (Module: counter_pause)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 4
+FF Count: 16
+IO Count: 10
+Cell Count: 43
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 920.81 MHz
+End-to-End Path Delay: 5.044 ns
+Reg-to-Reg Critical Path Delay: 0.860 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

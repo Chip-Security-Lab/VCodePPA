@@ -1,0 +1,20 @@
+PPA Report for debounced_reset.v (Module: debounced_reset)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 4
+FF Count: 4
+IO Count: 3
+Cell Count: 24
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 835.42 MHz
+Reg-to-Reg Critical Path Delay: 0.961 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.451 W

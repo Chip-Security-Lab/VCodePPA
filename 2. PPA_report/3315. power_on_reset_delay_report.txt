@@ -1,0 +1,20 @@
+PPA Report for power_on_reset_delay
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 11
+FF Count: 12
+IO Count: 3
+Cell Count: 37
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 563.06 MHz
+Reg-to-Reg Critical Path Delay: 1.494 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.451 W

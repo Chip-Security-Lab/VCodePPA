@@ -1,0 +1,20 @@
+PPA Report for rs232_codec.v (Module: rs232_codec)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 55
+FF Count: 65
+IO Count: 22
+Cell Count: 188
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 238.54 MHz
+Reg-to-Reg Critical Path Delay: 3.394 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 1.079 W

@@ -1,0 +1,20 @@
+PPA Report for dynamic_sbox_aes.v (Module: dynamic_sbox_aes)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 23
+FF Count: 26
+IO Count: 18
+Cell Count: 98
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 567.21 MHz
+Reg-to-Reg Critical Path Delay: 1.639 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.457 W

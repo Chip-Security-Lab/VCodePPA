@@ -1,0 +1,20 @@
+PPA Report for UART_DMA_Interface.v (Module: UART_DMA_Interface)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 14
+FF Count: 14
+IO Count: 39
+Cell Count: 87
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 228.87 MHz
+Reg-to-Reg Critical Path Delay: 3.049 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.569 W

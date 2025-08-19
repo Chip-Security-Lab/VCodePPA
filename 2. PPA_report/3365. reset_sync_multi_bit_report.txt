@@ -1,0 +1,20 @@
+PPA Report for reset_sync_multi_bit
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 1
+FF Count: 2
+IO Count: 6
+Cell Count: 16
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1212.12 MHz
+Reg-to-Reg Critical Path Delay: 0.706 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.451 W

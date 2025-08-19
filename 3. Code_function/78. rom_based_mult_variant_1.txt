@@ -1,0 +1,1 @@
+ROM-based multiplier for 4-bit inputs.

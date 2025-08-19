@@ -1,0 +1,1 @@
+Watchdog timer triggers system reset

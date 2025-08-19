@@ -1,0 +1,1 @@
+32-bit checksum with parity validation

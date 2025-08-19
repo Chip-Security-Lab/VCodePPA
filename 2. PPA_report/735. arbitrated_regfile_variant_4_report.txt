@@ -1,0 +1,20 @@
+PPA Report for arbitrated_regfile.v (Module: arbitrated_regfile)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 4
+FF Count: 18
+IO Count: 11
+Cell Count: 57
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1091.70 MHz
+Reg-to-Reg Critical Path Delay: 0.775 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

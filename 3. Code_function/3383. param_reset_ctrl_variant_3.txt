@@ -1,0 +1,1 @@
+Pipelined configurable reset signal generator

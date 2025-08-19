@@ -1,0 +1,20 @@
+PPA Report for matrix_transpose.v (Module: matrix_transpose)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 5
+FF Count: 98
+IO Count: 42
+Cell Count: 170
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 939.85 MHz
+Reg-to-Reg Critical Path Delay: 0.834 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.465 W

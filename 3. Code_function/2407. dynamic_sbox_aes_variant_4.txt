@@ -1,0 +1,1 @@
+Pipelined dynamic AES S-box implementation

@@ -1,0 +1,1 @@
+Bounded priority encoder with validation

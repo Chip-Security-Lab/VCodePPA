@@ -1,0 +1,1 @@
+Majority voter with threshold

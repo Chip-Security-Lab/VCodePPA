@@ -1,0 +1,1 @@
+CRC16 serial data calculation module

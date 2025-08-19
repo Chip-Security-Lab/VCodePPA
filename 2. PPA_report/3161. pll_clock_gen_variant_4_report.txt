@@ -1,0 +1,20 @@
+PPA Report for pll_clock_gen.v (Module: pll_clock_gen)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 40
+FF Count: 10
+IO Count: 11
+Cell Count: 101
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 287.60 MHz
+Reg-to-Reg Critical Path Delay: 3.164 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.953 W

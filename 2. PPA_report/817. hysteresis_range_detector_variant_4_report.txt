@@ -1,0 +1,20 @@
+PPA Report for hysteresis_range_detector.v (Module: hysteresis_range_detector)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 27
+FF Count: 30
+IO Count: 31
+Cell Count: 165
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 461.25 MHz
+Reg-to-Reg Critical Path Delay: 2.049 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

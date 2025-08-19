@@ -1,0 +1,1 @@
+Reset synchronizer with watchdog logic

@@ -1,0 +1,1 @@
+Byte-enabled register file with reset

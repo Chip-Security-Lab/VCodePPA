@@ -1,0 +1,20 @@
+PPA Report for adaptive_reset_threshold
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 14
+FF Count: 9
+IO Count: 22
+Cell Count: 103
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 762.78 MHz
+Reg-to-Reg Critical Path Delay: 1.088 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

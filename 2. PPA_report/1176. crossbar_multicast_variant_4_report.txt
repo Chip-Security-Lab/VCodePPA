@@ -1,0 +1,20 @@
+PPA Report for crossbar_multicast.v (Module: crossbar_multicast)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 164
+FF Count: 0
+IO Count: 80
+Cell Count: 385
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A
+End-to-End Path Delay: 6.717 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.495 W

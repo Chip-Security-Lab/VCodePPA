@@ -1,0 +1,1 @@
+Clock-domain pulse transfer synchronizer

@@ -1,0 +1,20 @@
+PPA Report for MIPI_ErrorDetector.v (Module: MIPI_ErrorDetector)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 5
+FF Count: 6
+IO Count: 19
+Cell Count: 62
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 938.09 MHz
+Reg-to-Reg Critical Path Delay: 0.931 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

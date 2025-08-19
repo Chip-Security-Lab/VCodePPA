@@ -1,0 +1,20 @@
+PPA Report for SyncFIFOCompress.v (Module: SyncFIFOCompress)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 36
+FF Count: 28
+IO Count: 22
+Cell Count: 126
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 368.19 MHz
+Reg-to-Reg Critical Path Delay: 2.547 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.455 W

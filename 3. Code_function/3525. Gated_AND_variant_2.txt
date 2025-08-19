@@ -1,0 +1,1 @@
+Gated multiplier with output control

@@ -1,0 +1,20 @@
+PPA Report for MIPI_PacketGenerator.v (Module: MIPI_PacketGenerator)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 22
+FF Count: 23
+IO Count: 12
+Cell Count: 71
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 620.35 MHz
+Reg-to-Reg Critical Path Delay: 1.380 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.456 W

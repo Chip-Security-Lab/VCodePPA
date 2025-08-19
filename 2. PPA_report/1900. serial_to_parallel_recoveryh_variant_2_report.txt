@@ -1,0 +1,20 @@
+PPA Report for serial_to_parallel_recovery.v (Module: serial_to_parallel_recovery)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 7
+FF Count: 32
+IO Count: 13
+Cell Count: 69
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 831.95 MHz
+Reg-to-Reg Critical Path Delay: 1.083 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.451 W

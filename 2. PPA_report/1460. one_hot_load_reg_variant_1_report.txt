@@ -1,0 +1,20 @@
+PPA Report for one_hot_load_reg.v (Module: one_hot_load_reg)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 1
+FF Count: 51
+IO Count: 53
+Cell Count: 166
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1068.38 MHz
+Reg-to-Reg Critical Path Delay: 0.720 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.468 W

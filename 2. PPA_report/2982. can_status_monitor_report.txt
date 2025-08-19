@@ -1,0 +1,20 @@
+PPA Report for can_status_monitor
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 8
+FF Count: 53
+IO Count: 59
+Cell Count: 147
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 802.57 MHz
+Reg-to-Reg Critical Path Delay: 1.101 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.465 W

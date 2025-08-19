@@ -1,0 +1,1 @@
+Reset interrupt generator with AXI-Stream

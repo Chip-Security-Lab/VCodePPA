@@ -1,0 +1,20 @@
+PPA Report for sync_fir_filter.v (Module: sync_fir_filter)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 0
+FF Count: 0
+IO Count: 66
+Cell Count: 207
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 622.67 MHz
+Reg-to-Reg Critical Path Delay: 1.416 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.492 W

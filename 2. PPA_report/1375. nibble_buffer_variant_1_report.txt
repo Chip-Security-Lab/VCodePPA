@@ -1,0 +1,20 @@
+PPA Report for nibble_buffer.v (Module: nibble_buffer)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 6
+FF Count: 11
+IO Count: 18
+Cell Count: 56
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 879.51 MHz
+Reg-to-Reg Critical Path Delay: 1.018 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

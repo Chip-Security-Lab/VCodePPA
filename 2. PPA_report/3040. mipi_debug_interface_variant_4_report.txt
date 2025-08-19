@@ -1,0 +1,19 @@
+PPA Report for mipi_debug_interface.v (Module: mipi_debug_interface)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 174
+FF Count: 553
+IO Count: 120
+Cell Count: 1108
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+
+POWER METRICS:
+-------------
+Total Power Consumption: 3.966 W

@@ -1,0 +1,20 @@
+PPA Report for async_threshold_filter.v (Module: async_threshold_filter)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 11
+FF Count: 6
+IO Count: 28
+Cell Count: 114
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1055.97 MHz
+Reg-to-Reg Critical Path Delay: 0.820 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

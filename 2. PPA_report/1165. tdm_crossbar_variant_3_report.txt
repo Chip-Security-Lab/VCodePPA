@@ -1,0 +1,20 @@
+PPA Report for tdm_crossbar.v (Module: tdm_crossbar)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 53
+FF Count: 74
+IO Count: 82
+Cell Count: 301
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 487.09 MHz
+Reg-to-Reg Critical Path Delay: 1.777 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.497 W

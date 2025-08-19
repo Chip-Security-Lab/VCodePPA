@@ -1,0 +1,20 @@
+PPA Report for integer_to_fraction.v (Module: integer_to_fraction)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 160
+FF Count: 64
+IO Count: 34
+Cell Count: 351
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 108.91 MHz
+Reg-to-Reg Critical Path Delay: 8.944 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.465 W

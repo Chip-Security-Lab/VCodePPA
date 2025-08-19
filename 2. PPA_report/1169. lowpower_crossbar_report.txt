@@ -1,0 +1,22 @@
+PPA Report for 1169. lowpower_crossbar.sv (Module: lowpower_crossbar)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 136
+FF Count: 64
+IO Count: 142
+Cell Count: 506
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 276.47 MHz
+End-to-End Path Delay: N/A (No valid path found) ns
+Reg-to-Reg Critical Path Delay: 2.917 ns
+Detected Clock Signals: clk
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.497 W

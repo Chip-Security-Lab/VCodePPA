@@ -1,0 +1,1 @@
+Multi-stage shift register with shadow

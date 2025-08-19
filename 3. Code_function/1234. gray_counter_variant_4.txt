@@ -1,0 +1,1 @@
+Parameterized binary-to-Gray code counter

@@ -1,0 +1,1 @@
+Pipelined single-entry content-addressable memory

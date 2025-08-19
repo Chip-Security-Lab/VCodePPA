@@ -1,0 +1,20 @@
+PPA Report for 2970. pause_frame_gen.sv (Module: pause_frame_gen)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 98
+FF Count: 65
+IO Count: 21
+Cell Count: 233
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 437.25 MHz
+Longest Path Delay: 2.020 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.458 W

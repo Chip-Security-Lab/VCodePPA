@@ -1,0 +1,1 @@
+Johnson counter with variable stages

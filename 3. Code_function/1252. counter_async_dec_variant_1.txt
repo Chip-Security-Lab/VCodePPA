@@ -1,0 +1,1 @@
+Asynchronous decrementing counter with enable

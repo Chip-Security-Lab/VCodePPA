@@ -1,0 +1,1 @@
+MIPI DSI command packet encoder

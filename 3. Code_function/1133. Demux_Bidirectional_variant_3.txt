@@ -1,0 +1,1 @@
+Bidirectional demultiplexer with direction control

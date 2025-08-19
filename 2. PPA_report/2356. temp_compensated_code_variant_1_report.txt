@@ -1,0 +1,19 @@
+PPA Report for temp_compensated_codec_axi.v (Module: temp_compensated_codec_axi)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 215
+FF Count: 82
+IO Count: 83
+Cell Count: 490
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+
+POWER METRICS:
+-------------
+Total Power Consumption: 4.429 W

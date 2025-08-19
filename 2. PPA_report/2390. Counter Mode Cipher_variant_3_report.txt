@@ -1,0 +1,20 @@
+PPA Report for counter_mode_cipher.v (Module: counter_mode_cipher)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 69
+FF Count: 162
+IO Count: 116
+Cell Count: 536
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 467.95 MHz
+Reg-to-Reg Critical Path Delay: 1.955 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.493 W

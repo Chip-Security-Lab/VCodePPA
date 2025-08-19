@@ -1,0 +1,20 @@
+PPA Report for crc_galois.v (Module: crc_galois)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 15
+FF Count: 16
+IO Count: 18
+Cell Count: 77
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 803.21 MHz
+Reg-to-Reg Critical Path Delay: 1.081 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.458 W

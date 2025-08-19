@@ -1,0 +1,20 @@
+PPA Report for delayed_read_sync_ram.v (Module: delayed_read_sync_ram)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 12
+FF Count: 19
+IO Count: 27
+Cell Count: 105
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 616.52 MHz
+Reg-to-Reg Critical Path Delay: 1.296 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.457 W

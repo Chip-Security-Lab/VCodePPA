@@ -1,0 +1,1 @@
+Priority queue selects highest value

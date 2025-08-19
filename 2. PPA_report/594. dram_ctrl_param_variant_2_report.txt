@@ -1,0 +1,20 @@
+PPA Report for dram_ctrl_param.v (Module: dram_ctrl_param)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 16
+FF Count: 12
+IO Count: 4
+Cell Count: 43
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 541.13 MHz
+Reg-to-Reg Critical Path Delay: 1.672 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.451 W

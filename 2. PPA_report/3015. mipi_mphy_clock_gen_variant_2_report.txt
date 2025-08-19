@@ -1,0 +1,20 @@
+PPA Report for mipi_mphy_clock_gen.v (Module: mipi_mphy_clock_gen)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 18
+FF Count: 17
+IO Count: 11
+Cell Count: 67
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 556.48 MHz
+Reg-to-Reg Critical Path Delay: 1.678 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

@@ -1,0 +1,20 @@
+PPA Report for usb_phy_interface.v (Module: usb_phy_interface)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 8
+FF Count: 8
+IO Count: 21
+Cell Count: 61
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 665.34 MHz
+Reg-to-Reg Critical Path Delay: 1.299 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.454 W

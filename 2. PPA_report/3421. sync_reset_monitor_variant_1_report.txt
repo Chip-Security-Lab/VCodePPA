@@ -1,0 +1,20 @@
+PPA Report for sync_reset_monitor.v (Module: sync_reset_monitor)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 7
+FF Count: 15
+IO Count: 3
+Cell Count: 33
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 791.14 MHz
+Reg-to-Reg Critical Path Delay: 1.057 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.451 W

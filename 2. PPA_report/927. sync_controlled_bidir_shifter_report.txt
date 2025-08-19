@@ -1,0 +1,22 @@
+PPA Report for 927. sync_controlled_bidir_shifter.sv (Module: sync_controlled_bidir_shifter)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 236
+FF Count: 32
+IO Count: 73
+Cell Count: 469
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 220.85 MHz
+End-to-End Path Delay: N/A (No valid path found) ns
+Reg-to-Reg Critical Path Delay: 3.828 ns
+Detected Clock Signals: clock
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.495 W

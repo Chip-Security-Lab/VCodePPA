@@ -1,0 +1,1 @@
+Parity detector with lookup table

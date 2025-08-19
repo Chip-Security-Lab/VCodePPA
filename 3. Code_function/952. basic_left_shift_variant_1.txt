@@ -1,0 +1,1 @@
+Pipelined serial shift register

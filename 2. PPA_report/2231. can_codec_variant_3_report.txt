@@ -1,0 +1,20 @@
+PPA Report for can_codec.v (Module: can_codec)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 15
+FF Count: 20
+IO Count: 125
+Cell Count: 198
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 624.61 MHz
+Reg-to-Reg Critical Path Delay: 1.369 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.454 W

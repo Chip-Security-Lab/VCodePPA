@@ -1,0 +1,20 @@
+PPA Report for MuxParity.v (Module: MuxParity)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 81
+FF Count: 0
+IO Count: 43
+Cell Count: 226
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+End-to-End Path Delay: 9.384 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 8.943 W

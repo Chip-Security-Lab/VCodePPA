@@ -1,0 +1,1 @@
+Pipelined window value range detector

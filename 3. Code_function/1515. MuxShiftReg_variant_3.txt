@@ -1,0 +1,1 @@
+Configurable multi-operation shift register

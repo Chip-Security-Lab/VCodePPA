@@ -1,0 +1,20 @@
+PPA Report for Parameterized Gate with Input Width
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 8
+FF Count: 0
+IO Count: 24
+Cell Count: 64
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+End-to-End Path Delay: 5.013 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 1.972 W

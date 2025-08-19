@@ -1,0 +1,1 @@
+Sigma-delta PWM with error diffusion

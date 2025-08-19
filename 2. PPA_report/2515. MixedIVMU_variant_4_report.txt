@@ -1,0 +1,20 @@
+PPA Report for vector_table_rom.v (Module: vector_table_rom)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 0
+FF Count: 0
+IO Count: 35
+Cell Count: 43
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A
+End-to-End Path Delay: 4.805 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 1.755 W

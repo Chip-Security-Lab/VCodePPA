@@ -1,0 +1,20 @@
+PPA Report for jk_ff_sync_reset.v (Module: jk_ff_sync_reset)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 1
+FF Count: 1
+IO Count: 5
+Cell Count: 19
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 549.96 MHz
+Reg-to-Reg Critical Path Delay: 2.856 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.760 W

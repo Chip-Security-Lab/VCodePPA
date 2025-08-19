@@ -1,0 +1,1 @@
+APB-controlled range detection circuit

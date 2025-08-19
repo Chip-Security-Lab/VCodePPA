@@ -1,0 +1,20 @@
+PPA Report for seedable_rng_pipeline.v (Module: seedable_rng_pipeline)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 108
+FF Count: 200
+IO Count: 70
+Cell Count: 554
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 612.00 MHz
+Reg-to-Reg Critical Path Delay: 1.369 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.466 W

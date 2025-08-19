@@ -1,0 +1,1 @@
+Asynchronous parallel data latch register

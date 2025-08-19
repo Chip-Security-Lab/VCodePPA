@@ -1,0 +1,20 @@
+PPA Report for nonlinear_quant.v (Module: nonlinear_quant)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 2
+FF Count: 8
+IO Count: 9
+Cell Count: 38
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1064.96 MHz
+Reg-to-Reg Critical Path Delay: 0.802 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

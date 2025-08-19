@@ -1,0 +1,1 @@
+Synchronized Kogge-Stone 8-bit subtractor

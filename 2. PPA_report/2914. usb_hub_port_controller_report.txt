@@ -1,0 +1,20 @@
+PPA Report for usb_hub_port_controller
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 23
+FF Count: 22
+IO Count: 13
+Cell Count: 79
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 254.97 MHz
+Reg-to-Reg Critical Path Delay: 3.222 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.479 W

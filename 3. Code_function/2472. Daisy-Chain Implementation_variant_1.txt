@@ -1,0 +1,1 @@
+Daisy-chain interrupt controller with multiplier

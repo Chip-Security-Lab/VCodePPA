@@ -1,0 +1,20 @@
+PPA Report for UART_Timestamp.v (Module: UART_Timestamp)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 86
+FF Count: 198
+IO Count: 69
+Cell Count: 422
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 762.78 MHz
+Reg-to-Reg Critical Path Delay: 1.015 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.471 W

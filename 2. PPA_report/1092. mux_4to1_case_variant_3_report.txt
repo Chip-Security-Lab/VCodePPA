@@ -1,0 +1,20 @@
+PPA Report for mux4to1_pipeline.v (Module: mux4to1_pipeline)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 58
+FF Count: 147
+IO Count: 44
+Cell Count: 359
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 551.27 MHz
+Reg-to-Reg Critical Path Delay: 1.617 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.458 W

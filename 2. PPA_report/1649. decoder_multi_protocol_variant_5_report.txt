@@ -1,0 +1,20 @@
+PPA Report for decoder_multi_protocol.v (Module: decoder_multi_protocol)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 12
+FF Count: 21
+IO Count: 22
+Cell Count: 85
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 745.16 MHz
+Reg-to-Reg Critical Path Delay: 1.124 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

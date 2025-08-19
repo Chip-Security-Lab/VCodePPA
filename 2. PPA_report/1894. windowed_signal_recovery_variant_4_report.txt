@@ -1,0 +1,20 @@
+PPA Report for windowed_signal_recovery.v (Module: windowed_signal_recovery)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 53
+FF Count: 37
+IO Count: 23
+Cell Count: 147
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 408.83 MHz
+Reg-to-Reg Critical Path Delay: 2.304 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.460 W

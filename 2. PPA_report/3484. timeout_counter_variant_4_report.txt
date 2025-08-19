@@ -1,0 +1,20 @@
+PPA Report for timeout_counter.v (Module: timeout_counter)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 10
+FF Count: 15
+IO Count: 4
+Cell Count: 42
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 669.79 MHz
+Reg-to-Reg Critical Path Delay: 1.354 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.451 W

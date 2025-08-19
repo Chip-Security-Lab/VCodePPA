@@ -1,0 +1,20 @@
+PPA Report for TwoLevelIVMU.v (Module: TwoLevelIVMU)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 24
+FF Count: 6
+IO Count: 67
+Cell Count: 176
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 189.20 MHz
+Reg-to-Reg Critical Path Delay: 3.438 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.463 W

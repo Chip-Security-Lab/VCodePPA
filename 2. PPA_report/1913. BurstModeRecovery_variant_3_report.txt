@@ -1,0 +1,20 @@
+PPA Report for BurstModeRecovery.v (Module: BurstModeRecovery)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 17
+FF Count: 36
+IO Count: 75
+Cell Count: 267
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1081.08 MHz
+Reg-to-Reg Critical Path Delay: 0.748 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

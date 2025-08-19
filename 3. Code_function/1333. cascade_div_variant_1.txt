@@ -1,0 +1,1 @@
+Pipelined cascaded clock frequency divider

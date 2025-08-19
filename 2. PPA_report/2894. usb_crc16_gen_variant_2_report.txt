@@ -1,0 +1,20 @@
+PPA Report for usb_crc16_gen.v (Module: usb_crc16_gen)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 16
+FF Count: 0
+IO Count: 40
+Cell Count: 110
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+End-to-End Path Delay: 6.012 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 9.836 W

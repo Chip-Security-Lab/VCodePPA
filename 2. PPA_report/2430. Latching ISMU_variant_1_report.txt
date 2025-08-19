@@ -1,0 +1,21 @@
+PPA Report for latch_ismu.v (Module: latch_ismu)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 43
+FF Count: 116
+IO Count: 55
+Cell Count: 298
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 588.93 MHz
+End-to-End Path Delay: 5.591 ns
+Reg-to-Reg Critical Path Delay: 1.392 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.456 W

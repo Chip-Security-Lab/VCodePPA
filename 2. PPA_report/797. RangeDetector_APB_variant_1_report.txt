@@ -1,0 +1,20 @@
+PPA Report for RangeDetector_APB.v (Module: RangeDetector_APB)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 14
+FF Count: 26
+IO Count: 27
+Cell Count: 110
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 733.14 MHz
+Reg-to-Reg Critical Path Delay: 1.220 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

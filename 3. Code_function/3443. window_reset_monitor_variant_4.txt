@@ -1,0 +1,1 @@
+Reset window validator pipeline circuit

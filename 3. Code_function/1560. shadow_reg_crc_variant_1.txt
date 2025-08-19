@@ -1,0 +1,1 @@
+Pipeline CRC calculation with carry-lookahead

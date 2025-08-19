@@ -1,0 +1,1 @@
+Terminal count parameterized synchronous counter

@@ -1,0 +1,20 @@
+PPA Report for spi_transmit_only_axi4lite.v (Module: spi_transmit_only_axi4lite)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 49
+FF Count: 65
+IO Count: 61
+Cell Count: 254
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 614.63 MHz
+Reg-to-Reg Critical Path Delay: 1.240 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.464 W

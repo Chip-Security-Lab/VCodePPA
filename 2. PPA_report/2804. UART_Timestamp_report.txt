@@ -1,0 +1,22 @@
+PPA Report for 2804. UART_Timestamp.sv (Module: UART_Timestamp)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 1
+FF Count: 96
+IO Count: 68
+Cell Count: 182
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 810.37 MHz
+End-to-End Path Delay: N/A (No valid path found) ns
+Reg-to-Reg Critical Path Delay: 1.093 ns
+Detected Clock Signals: clk
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.507 W

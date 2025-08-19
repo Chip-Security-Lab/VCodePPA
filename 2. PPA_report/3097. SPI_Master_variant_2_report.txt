@@ -1,0 +1,20 @@
+PPA Report for Wallace_Multiplier_5bit_Pipelined.v (Module: Wallace_Multiplier_5bit_Pipelined)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 44
+FF Count: 68
+IO Count: 24
+Cell Count: 192
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 931.97 MHz
+Reg-to-Reg Critical Path Delay: 0.875 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.456 W

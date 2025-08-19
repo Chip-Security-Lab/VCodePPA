@@ -1,0 +1,20 @@
+PPA Report for async_buffer.v (Module: async_buffer)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 9
+FF Count: 16
+IO Count: 35
+Cell Count: 109
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 461.47 MHz
+Reg-to-Reg Critical Path Delay: 2.325 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.454 W

@@ -1,0 +1,19 @@
+PPA Report for FastDiv.v (Module: FastDiv)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 543
+FF Count: 17
+IO Count: 50
+Cell Count: 803
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+
+POWER METRICS:
+-------------
+Total Power Consumption: 22.075 W

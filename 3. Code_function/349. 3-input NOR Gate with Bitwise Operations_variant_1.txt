@@ -1,0 +1,1 @@
+NOR3 with AXI-Stream interface

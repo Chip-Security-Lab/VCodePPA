@@ -1,0 +1,20 @@
+PPA Report for divider_iterative_32bit.v (Module: divider_iterative_32bit)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 2049
+FF Count: 0
+IO Count: 128
+Cell Count: 2902
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+End-to-End Path Delay: 51.602 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 145.491 W

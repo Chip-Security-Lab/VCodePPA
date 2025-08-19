@@ -1,0 +1,1 @@
+Huffman encoder with conditional subtraction

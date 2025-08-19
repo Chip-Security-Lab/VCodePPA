@@ -1,0 +1,1 @@
+Triangle wave generator with pipeline

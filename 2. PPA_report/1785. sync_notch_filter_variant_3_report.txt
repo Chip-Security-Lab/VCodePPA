@@ -1,0 +1,20 @@
+PPA Report for sync_notch_filter.v (Module: sync_notch_filter)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 73
+FF Count: 149
+IO Count: 40
+Cell Count: 420
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 412.71 MHz
+Reg-to-Reg Critical Path Delay: 2.234 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.464 W

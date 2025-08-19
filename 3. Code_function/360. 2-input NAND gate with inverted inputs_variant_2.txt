@@ -1,0 +1,1 @@
+NAND2 with inverted inputs implementation

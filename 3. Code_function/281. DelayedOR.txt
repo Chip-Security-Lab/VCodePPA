@@ -1,0 +1,1 @@
+Delayed OR gate with propagation

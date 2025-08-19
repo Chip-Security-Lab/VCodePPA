@@ -1,0 +1,20 @@
+PPA Report for gen_ring_counter.v (Module: gen_ring_counter)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 0
+FF Count: 27
+IO Count: 12
+Cell Count: 47
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 860.59 MHz
+Reg-to-Reg Critical Path Delay: 0.974 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

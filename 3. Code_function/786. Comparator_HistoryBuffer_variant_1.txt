@@ -1,0 +1,1 @@
+Comparator with equality history register

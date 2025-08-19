@@ -1,0 +1,1 @@
+Pipelined preloadable 6-bit counter

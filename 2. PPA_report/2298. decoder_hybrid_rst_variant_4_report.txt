@@ -1,0 +1,20 @@
+PPA Report for decoder_hybrid_rst.v (Module: decoder_hybrid_rst)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 9
+FF Count: 21
+IO Count: 23
+Cell Count: 78
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 712.25 MHz
+Reg-to-Reg Critical Path Delay: 1.195 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

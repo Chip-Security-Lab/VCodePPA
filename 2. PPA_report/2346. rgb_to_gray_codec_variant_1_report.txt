@@ -1,0 +1,19 @@
+PPA Report for rgb_to_gray_codec.v (Module: rgb_to_gray_codec)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 116
+FF Count: 151
+IO Count: 83
+Cell Count: 458
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+
+POWER METRICS:
+-------------
+Total Power Consumption: 7.614 W

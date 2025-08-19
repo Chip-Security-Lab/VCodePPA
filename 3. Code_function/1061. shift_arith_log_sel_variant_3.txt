@@ -1,0 +1,1 @@
+Selectable arithmetic/logical right shifter

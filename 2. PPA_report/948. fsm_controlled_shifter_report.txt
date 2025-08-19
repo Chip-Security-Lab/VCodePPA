@@ -1,0 +1,22 @@
+PPA Report for 948. fsm_controlled_shifter.sv (Module: fsm_controlled_shifter)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 23
+FF Count: 39
+IO Count: 73
+Cell Count: 235
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 575.37 MHz
+End-to-End Path Delay: N/A (No valid path found) ns
+Reg-to-Reg Critical Path Delay: 1.456 ns
+Detected Clock Signals: clk
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.484 W

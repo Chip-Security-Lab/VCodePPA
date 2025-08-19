@@ -1,0 +1,22 @@
+PPA Report for 1856. async_ram_ctrl.sv (Module: async_ram_ctrl)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 48
+FF Count: 136
+IO Count: 28
+Cell Count: 281
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 238.32 MHz
+End-to-End Path Delay: N/A (No valid path found) ns
+Reg-to-Reg Critical Path Delay: 2.594 ns
+Detected Clock Signals: wr_clk rd_clk
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.455 W

@@ -1,0 +1,20 @@
+PPA Report for lfsr_parity_gen.v (Module: lfsr_parity_gen)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 6
+FF Count: 17
+IO Count: 13
+Cell Count: 62
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 884.96 MHz
+Reg-to-Reg Critical Path Delay: 0.993 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

@@ -1,0 +1,1 @@
+Pipelined equality comparator with flag

@@ -1,0 +1,20 @@
+PPA Report for phase_shift_clk.v (Module: phase_shift_clk)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 2
+FF Count: 9
+IO Count: 6
+Cell Count: 31
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 298.65 MHz
+Reg-to-Reg Critical Path Delay: 3.044 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.862 W

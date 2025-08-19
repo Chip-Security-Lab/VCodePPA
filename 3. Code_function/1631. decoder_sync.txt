@@ -1,0 +1,1 @@
+Synchronous address-to-data mapping decoder

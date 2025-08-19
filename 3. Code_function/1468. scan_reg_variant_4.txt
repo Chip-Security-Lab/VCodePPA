@@ -1,0 +1,1 @@
+Scan register with parallel load

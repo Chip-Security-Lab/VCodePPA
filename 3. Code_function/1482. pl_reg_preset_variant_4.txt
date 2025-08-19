@@ -1,0 +1,1 @@
+Parallel-loadable shift register with preset.

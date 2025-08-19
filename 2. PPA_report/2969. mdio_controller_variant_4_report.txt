@@ -1,0 +1,20 @@
+PPA Report for mdio_controller.v (Module: mdio_controller)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 42
+FF Count: 88
+IO Count: 43
+Cell Count: 246
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 456.83 MHz
+Reg-to-Reg Critical Path Delay: 1.899 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

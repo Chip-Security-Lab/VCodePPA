@@ -1,0 +1,1 @@
+Four-bit rotating ring counter

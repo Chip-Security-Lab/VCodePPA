@@ -1,0 +1,1 @@
+Bit-by-bit number comparison FSM

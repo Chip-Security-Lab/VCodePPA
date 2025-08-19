@@ -1,0 +1,1 @@
+Delayed synchronizer with reset pipeline

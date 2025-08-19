@@ -1,0 +1,1 @@
+Pipelined BCD to 7-segment decoder

@@ -1,0 +1,1 @@
+Pipelined bidirectional bit shifter

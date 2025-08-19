@@ -1,0 +1,21 @@
+PPA Report for dram_bank_conflict.v (Module: dram_bank_conflict)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 9
+FF Count: 8
+IO Count: 9
+Cell Count: 49
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1034.13 MHz
+End-to-End Path Delay: 4.930 ns
+Reg-to-Reg Critical Path Delay: 0.849 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.451 W

@@ -1,0 +1,20 @@
+PPA Report for scan_divider.v (Module: scan_divider)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 3
+FF Count: 6
+IO Count: 7
+Cell Count: 29
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1106.19 MHz
+Reg-to-Reg Critical Path Delay: 0.786 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

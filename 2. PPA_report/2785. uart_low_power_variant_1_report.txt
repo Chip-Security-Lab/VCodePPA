@@ -1,0 +1,20 @@
+PPA Report for uart_low_power.v (Module: uart_low_power)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 44
+FF Count: 56
+IO Count: 24
+Cell Count: 169
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 254.26 MHz
+Reg-to-Reg Critical Path Delay: 4.035 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

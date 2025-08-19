@@ -1,0 +1,1 @@
+External clock monitoring with timeout

@@ -1,0 +1,1 @@
+Synchronous parameterized full adder circuit

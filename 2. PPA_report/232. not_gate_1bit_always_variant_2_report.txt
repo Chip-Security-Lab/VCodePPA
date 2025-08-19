@@ -1,0 +1,21 @@
+PPA Report for not_gate_1bit_always.v (Module: not_gate_1bit_always)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 6
+FF Count: 6
+IO Count: 9
+Cell Count: 38
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 920.81 MHz
+End-to-End Path Delay: 4.832 ns
+Reg-to-Reg Critical Path Delay: 0.968 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.451 W

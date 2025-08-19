@@ -1,0 +1,20 @@
+PPA Report for eth_packet_generator.v (Module: eth_packet_generator)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 105
+FF Count: 160
+IO Count: 144
+Cell Count: 716
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 382.26 MHz
+Reg-to-Reg Critical Path Delay: 2.335 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.461 W

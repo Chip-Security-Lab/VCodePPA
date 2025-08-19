@@ -1,0 +1,20 @@
+PPA Report for eth_pause_frame_gen.v (Module: eth_pause_frame_gen)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 71
+FF Count: 96
+IO Count: 77
+Cell Count: 397
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 485.67 MHz
+Reg-to-Reg Critical Path Delay: 1.855 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.467 W

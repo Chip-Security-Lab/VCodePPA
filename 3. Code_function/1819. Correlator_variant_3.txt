@@ -1,0 +1,1 @@
+FIR correlator with fixed coefficients

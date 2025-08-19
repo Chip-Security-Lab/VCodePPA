@@ -1,0 +1,21 @@
+PPA Report for UART_HW_FlowControl.v (Module: UART_HW_FlowControl)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 6
+FF Count: 4
+IO Count: 20
+Cell Count: 69
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1182.03 MHz
+End-to-End Path Delay: 5.142 ns
+Reg-to-Reg Critical Path Delay: 0.711 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

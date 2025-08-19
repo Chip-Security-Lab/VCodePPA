@@ -1,0 +1,20 @@
+PPA Report for divider_4bit_with_remainder_axi.v (Module: divider_4bit_with_remainder_axi)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 18
+FF Count: 21
+IO Count: 60
+Cell Count: 143
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 788.64 MHz
+Reg-to-Reg Critical Path Delay: 0.989 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.465 W

@@ -1,0 +1,20 @@
+PPA Report for CascadedShifter.v (Module: CascadedShifter)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 20
+FF Count: 27
+IO Count: 4
+Cell Count: 75
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 716.85 MHz
+Reg-to-Reg Critical Path Delay: 1.277 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

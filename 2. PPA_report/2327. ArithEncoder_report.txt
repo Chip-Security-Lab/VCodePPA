@@ -1,0 +1,20 @@
+PPA Report for ArithEncoder
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 60
+FF Count: 17
+IO Count: 18
+Cell Count: 154
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 294.12 MHz
+Reg-to-Reg Critical Path Delay: 3.278 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.456 W

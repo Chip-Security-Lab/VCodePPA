@@ -1,0 +1,20 @@
+PPA Report for signed_to_unsigned.v (Module: signed_to_unsigned)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 9
+FF Count: 64
+IO Count: 35
+Cell Count: 155
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 823.72 MHz
+Reg-to-Reg Critical Path Delay: 1.025 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.455 W

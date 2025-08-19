@@ -1,0 +1,20 @@
+PPA Report for i2c_timeout_master.v (Module: i2c_timeout_master)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 21
+FF Count: 18
+IO Count: 14
+Cell Count: 68
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 621.50 MHz
+Reg-to-Reg Critical Path Delay: 1.384 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

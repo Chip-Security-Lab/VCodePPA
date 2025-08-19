@@ -1,0 +1,20 @@
+PPA Report for twos_comp_to_sign_mag.v (Module: twos_comp_to_sign_mag)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 14
+FF Count: 48
+IO Count: 34
+Cell Count: 140
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 435.73 MHz
+Reg-to-Reg Critical Path Delay: 2.105 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.457 W

@@ -1,0 +1,1 @@
+Configurable SPI interface with registers

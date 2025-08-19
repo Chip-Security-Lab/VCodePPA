@@ -1,0 +1,1 @@
+Rotates data with handshaking protocol

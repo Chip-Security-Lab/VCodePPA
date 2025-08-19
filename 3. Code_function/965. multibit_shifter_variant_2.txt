@@ -1,0 +1,1 @@
+Multi-stage two-bit shift register

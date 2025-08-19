@@ -1,0 +1,20 @@
+PPA Report for alarm_controller.v (Module: alarm_controller)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 14
+FF Count: 16
+IO Count: 19
+Cell Count: 83
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 558.04 MHz
+Reg-to-Reg Critical Path Delay: 1.646 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

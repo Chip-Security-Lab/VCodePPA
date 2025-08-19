@@ -1,0 +1,1 @@
+Dual-read single-write register file

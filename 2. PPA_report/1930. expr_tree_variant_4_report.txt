@@ -1,0 +1,20 @@
+PPA Report for expr_tree.v (Module: expr_tree)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 84
+FF Count: 0
+IO Count: 34
+Cell Count: 200
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+End-to-End Path Delay: 7.551 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 4.520 W

@@ -1,0 +1,20 @@
+PPA Report for multiplier_high_priority
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 71
+FF Count: 0
+IO Count: 32
+Cell Count: 163
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+End-to-End Path Delay: 7.304 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 10.848 W

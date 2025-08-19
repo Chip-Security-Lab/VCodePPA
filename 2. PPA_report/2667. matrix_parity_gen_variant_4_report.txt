@@ -1,0 +1,21 @@
+PPA Report for matrix_parity_gen.v (Module: matrix_parity_gen)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 11
+FF Count: 9
+IO Count: 30
+Cell Count: 94
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1070.66 MHz
+End-to-End Path Delay: 5.060 ns
+Reg-to-Reg Critical Path Delay: 0.675 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.454 W

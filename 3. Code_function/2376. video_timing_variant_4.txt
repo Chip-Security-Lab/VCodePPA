@@ -1,0 +1,1 @@
+Pipelined video horizontal sync generator

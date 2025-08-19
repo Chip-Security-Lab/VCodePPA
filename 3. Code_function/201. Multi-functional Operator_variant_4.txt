@@ -1,0 +1,1 @@
+Arithmetic operator with division safeguard

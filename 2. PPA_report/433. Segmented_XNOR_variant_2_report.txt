@@ -1,0 +1,21 @@
+PPA Report for Segmented_XNOR.v (Module: Segmented_XNOR)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 11
+FF Count: 9
+IO Count: 30
+Cell Count: 94
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1002.00 MHz
+End-to-End Path Delay: 4.794 ns
+Reg-to-Reg Critical Path Delay: 0.757 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

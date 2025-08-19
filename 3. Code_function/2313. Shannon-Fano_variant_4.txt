@@ -1,0 +1,1 @@
+Pipelined Shannon-Fano encoder implementation

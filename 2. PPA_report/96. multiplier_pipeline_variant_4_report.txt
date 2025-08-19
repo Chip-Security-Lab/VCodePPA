@@ -1,0 +1,20 @@
+PPA Report for multiplier_pipeline.v (Module: multiplier_pipeline)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 105
+FF Count: 88
+IO Count: 38
+Cell Count: 313
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 364.43 MHz
+Reg-to-Reg Critical Path Delay: 2.538 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

@@ -1,0 +1,20 @@
+PPA Report for twofish_key_schedule.v (Module: twofish_key_schedule)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 76
+FF Count: 304
+IO Count: 220
+Cell Count: 983
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 632.91 MHz
+Reg-to-Reg Critical Path Delay: 1.283 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.475 W

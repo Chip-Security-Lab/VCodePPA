@@ -1,0 +1,20 @@
+PPA Report for threshold_comparator.v (Module: threshold_comparator)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 13
+FF Count: 12
+IO Count: 23
+Cell Count: 101
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 745.71 MHz
+Reg-to-Reg Critical Path Delay: 1.136 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

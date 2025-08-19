@@ -1,0 +1,20 @@
+PPA Report for int_ctrl_secure.v (Module: int_ctrl_secure)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 20
+FF Count: 21
+IO Count: 26
+Cell Count: 119
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 651.89 MHz
+Reg-to-Reg Critical Path Delay: 1.351 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

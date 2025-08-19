@@ -1,0 +1,20 @@
+PPA Report for BayesianRecovery.v (Module: BayesianRecovery)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 30
+FF Count: 61
+IO Count: 17
+Cell Count: 143
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 697.84 MHz
+Reg-to-Reg Critical Path Delay: 1.235 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.457 W

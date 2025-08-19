@@ -1,0 +1,1 @@
+Pipelined multichannel data buffer

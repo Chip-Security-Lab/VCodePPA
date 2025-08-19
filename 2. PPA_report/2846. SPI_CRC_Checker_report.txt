@@ -1,0 +1,22 @@
+PPA Report for 2846. SPI_CRC_Checker.sv (Module: SPI_CRC_Checker)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 3
+FF Count: 8
+IO Count: 13
+Cell Count: 37
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 609.76 MHz
+End-to-End Path Delay: N/A (No valid path found) ns
+Reg-to-Reg Critical Path Delay: 1.521 ns
+Detected Clock Signals: clk sclk
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

@@ -1,0 +1,20 @@
+PPA Report for spi_codec.v (Module: spi_codec)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 16
+FF Count: 33
+IO Count: 25
+Cell Count: 107
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A
+End-to-End Path Delay: 5.145 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 1.285 W

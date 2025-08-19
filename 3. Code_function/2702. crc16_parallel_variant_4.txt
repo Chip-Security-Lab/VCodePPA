@@ -1,0 +1,1 @@
+Parallel CRC16 with lookup table

@@ -1,0 +1,20 @@
+PPA Report for RotateRightLoad.v (Module: RotateRightLoad)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 11
+FF Count: 18
+IO Count: 21
+Cell Count: 77
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1012.15 MHz
+Reg-to-Reg Critical Path Delay: 0.870 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.454 W

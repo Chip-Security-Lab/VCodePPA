@@ -1,0 +1,20 @@
+PPA Report for divider_with_counter_pipelined.v (Module: divider_with_counter_pipelined)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 148
+FF Count: 71
+IO Count: 34
+Cell Count: 337
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 681.66 MHz
+Reg-to-Reg Critical Path Delay: 1.243 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.464 W

@@ -1,0 +1,1 @@
+Synchronous pattern matcher circuit

@@ -1,0 +1,20 @@
+PPA Report for can_crc_generator.v (Module: can_crc_generator)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 32
+FF Count: 54
+IO Count: 24
+Cell Count: 146
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 587.54 MHz
+Reg-to-Reg Critical Path Delay: 1.534 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

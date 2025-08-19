@@ -1,0 +1,1 @@
+Parameterized threshold-based reset generator.

@@ -1,0 +1,20 @@
+PPA Report for rng_hash_15_axi4lite.v (Module: rng_hash_15_axi4lite)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 15
+FF Count: 23
+IO Count: 34
+Cell Count: 114
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 559.60 MHz
+Reg-to-Reg Critical Path Delay: 1.566 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.454 W

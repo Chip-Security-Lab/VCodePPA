@@ -1,0 +1,20 @@
+PPA Report for RegEnMux_Pipelined.v (Module: RegEnMux_Pipelined)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 14
+FF Count: 58
+IO Count: 42
+Cell Count: 185
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 777.00 MHz
+Reg-to-Reg Critical Path Delay: 0.996 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.455 W

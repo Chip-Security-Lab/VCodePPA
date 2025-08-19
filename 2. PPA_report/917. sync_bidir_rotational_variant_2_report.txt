@@ -1,0 +1,20 @@
+PPA Report for sync_bidir_rotational.v (Module: sync_bidir_rotational)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 192
+FF Count: 64
+IO Count: 136
+Cell Count: 541
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 218.48 MHz
+Reg-to-Reg Critical Path Delay: 3.662 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.533 W

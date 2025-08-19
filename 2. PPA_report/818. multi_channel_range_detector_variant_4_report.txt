@@ -1,0 +1,20 @@
+PPA Report for multi_channel_range_detector.v (Module: multi_channel_range_detector)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 18
+FF Count: 34
+IO Count: 35
+Cell Count: 178
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 654.45 MHz
+Reg-to-Reg Critical Path Delay: 1.318 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

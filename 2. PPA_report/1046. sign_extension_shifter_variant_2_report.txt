@@ -1,0 +1,21 @@
+PPA Report for sign_extension_shifter_axi_stream.v (Module: sign_extension_shifter_axi_stream)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 37
+FF Count: 39
+IO Count: 44
+Cell Count: 176
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 509.94 MHz
+End-to-End Path Delay: 5.631 ns
+Reg-to-Reg Critical Path Delay: 1.824 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.454 W

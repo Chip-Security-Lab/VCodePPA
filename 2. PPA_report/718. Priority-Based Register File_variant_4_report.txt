@@ -1,0 +1,21 @@
+PPA Report for priority_regfile.v (Module: priority_regfile)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 192
+FF Count: 512
+IO Count: 149
+Cell Count: 1197
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 225.52 MHz
+End-to-End Path Delay: 5.250 ns
+Reg-to-Reg Critical Path Delay: 3.720 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.486 W

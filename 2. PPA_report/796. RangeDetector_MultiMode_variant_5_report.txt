@@ -1,0 +1,21 @@
+PPA Report for RangeDetector_MultiMode.v (Module: RangeDetector_MultiMode)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 18
+FF Count: 28
+IO Count: 25
+Cell Count: 130
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 634.52 MHz
+End-to-End Path Delay: 5.153 ns
+Reg-to-Reg Critical Path Delay: 1.276 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

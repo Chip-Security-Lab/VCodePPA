@@ -1,0 +1,20 @@
+PPA Report for crossbar_bidir.v (Module: crossbar_bidir)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 97
+FF Count: 128
+IO Count: 50
+Cell Count: 378
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 618.81 MHz
+Reg-to-Reg Critical Path Delay: 1.439 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.469 W

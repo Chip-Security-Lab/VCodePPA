@@ -1,0 +1,20 @@
+PPA Report for async_dram_ctrl.v (Module: async_dram_ctrl)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 137
+FF Count: 79
+IO Count: 82
+Cell Count: 543
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 262.54 MHz
+Reg-to-Reg Critical Path Delay: 3.476 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.502 W

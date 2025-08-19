@@ -1,0 +1,21 @@
+PPA Report for spi_master_configurable.v (Module: spi_master_configurable)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 16
+FF Count: 30
+IO Count: 27
+Cell Count: 110
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 598.80 MHz
+End-to-End Path Delay: 4.994 ns
+Reg-to-Reg Critical Path Delay: 1.431 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.454 W

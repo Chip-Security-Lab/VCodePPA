@@ -1,0 +1,20 @@
+PPA Report for logic_processing_unit.v (Module: logic_processing_unit)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 4
+FF Count: 4
+IO Count: 7
+Cell Count: 35
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 860.59 MHz
+Reg-to-Reg Critical Path Delay: 1.029 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

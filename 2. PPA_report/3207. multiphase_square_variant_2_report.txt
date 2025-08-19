@@ -1,0 +1,20 @@
+PPA Report for multiphase_square.v (Module: multiphase_square)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 21
+FF Count: 12
+IO Count: 14
+Cell Count: 78
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 588.58 MHz
+Reg-to-Reg Critical Path Delay: 1.511 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

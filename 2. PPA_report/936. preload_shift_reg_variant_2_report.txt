@@ -1,0 +1,20 @@
+PPA Report for preload_shift_reg.v (Module: preload_shift_reg)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 41
+FF Count: 57
+IO Count: 42
+Cell Count: 195
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 317.09 MHz
+Reg-to-Reg Critical Path Delay: 3.398 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 2.844 W

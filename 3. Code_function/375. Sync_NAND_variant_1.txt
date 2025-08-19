@@ -1,0 +1,1 @@
+Clocked parallel NAND operations register

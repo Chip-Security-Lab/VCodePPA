@@ -1,0 +1,1 @@
+Moore memory write controller FSM

@@ -1,0 +1,13 @@
+module key_encoder (
+    input [15:0] keys,
+    output reg [3:0] code
+);
+always @(*) begin
+    casez(keys)
+        16'b????_????_????_???1: code = 4'h0;
+        16'b????_????_????_??10: code = 4'h1;
+        // ... 继续所有编码情况
+        default: code = 4'hF;
+    endcase
+end
+endmodule

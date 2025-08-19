@@ -1,0 +1,1 @@
+Conditional pipelined shift register

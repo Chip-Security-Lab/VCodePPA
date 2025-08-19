@@ -1,0 +1,1 @@
+Synchronized binary-to-one-hot decoder

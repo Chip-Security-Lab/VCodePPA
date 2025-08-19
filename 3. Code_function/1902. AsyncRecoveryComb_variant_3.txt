@@ -1,0 +1,1 @@
+Bit permutation with XOR operation

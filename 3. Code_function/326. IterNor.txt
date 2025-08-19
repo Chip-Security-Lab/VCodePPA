@@ -1,0 +1,1 @@
+Bitwise NOR using for loop

@@ -1,0 +1,1 @@
+Bit concatenation and reversal circuit

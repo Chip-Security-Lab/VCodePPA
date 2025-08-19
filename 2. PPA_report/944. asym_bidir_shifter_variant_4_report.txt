@@ -1,0 +1,20 @@
+PPA Report for asym_bidir_shifter.v (Module: asym_bidir_shifter)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 72
+FF Count: 95
+IO Count: 45
+Cell Count: 282
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 615.01 MHz
+Reg-to-Reg Critical Path Delay: 1.400 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.456 W

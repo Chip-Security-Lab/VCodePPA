@@ -1,0 +1,20 @@
+PPA Report for RangeDetector_RAMConfig.v (Module: RangeDetector_RAMConfig)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 21
+FF Count: 61
+IO Count: 23
+Cell Count: 159
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 747.94 MHz
+Reg-to-Reg Critical Path Delay: 1.201 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

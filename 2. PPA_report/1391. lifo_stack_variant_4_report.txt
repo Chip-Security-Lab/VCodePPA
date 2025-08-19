@@ -1,0 +1,20 @@
+PPA Report for lifo_stack.v (Module: lifo_stack)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 38
+FF Count: 91
+IO Count: 24
+Cell Count: 183
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 534.19 MHz
+Reg-to-Reg Critical Path Delay: 1.591 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.454 W

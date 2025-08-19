@@ -1,0 +1,1 @@
+Pipelined FSM with active output

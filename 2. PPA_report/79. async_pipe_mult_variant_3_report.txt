@@ -1,0 +1,20 @@
+PPA Report for async_pipe_mult.v (Module: async_pipe_mult)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 77
+FF Count: 52
+IO Count: 36
+Cell Count: 233
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 550.06 MHz
+Reg-to-Reg Critical Path Delay: 1.591 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

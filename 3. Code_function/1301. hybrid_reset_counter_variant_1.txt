@@ -1,0 +1,1 @@
+Pipelined counter with reset controls

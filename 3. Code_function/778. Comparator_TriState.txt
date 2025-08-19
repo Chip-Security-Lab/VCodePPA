@@ -1,0 +1,1 @@
+Tri-state equality comparator with enable

@@ -1,0 +1,1 @@
+Pipelined quad SPI flash controller

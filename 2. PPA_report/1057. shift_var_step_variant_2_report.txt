@@ -1,0 +1,20 @@
+PPA Report for shift_var_step.v (Module: shift_var_step)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 10
+FF Count: 27
+IO Count: 21
+Cell Count: 90
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 730.46 MHz
+Reg-to-Reg Critical Path Delay: 1.231 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.454 W

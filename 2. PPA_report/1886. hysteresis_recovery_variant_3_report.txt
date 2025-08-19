@@ -1,0 +1,20 @@
+PPA Report for hysteresis_recovery.v (Module: hysteresis_recovery)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 12
+FF Count: 32
+IO Count: 42
+Cell Count: 165
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 459.98 MHz
+Reg-to-Reg Critical Path Delay: 1.938 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.455 W

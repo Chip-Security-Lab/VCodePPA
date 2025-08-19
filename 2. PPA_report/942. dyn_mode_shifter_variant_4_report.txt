@@ -1,0 +1,21 @@
+PPA Report for dyn_mode_shifter.v (Module: dyn_mode_shifter)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 101
+FF Count: 17
+IO Count: 44
+Cell Count: 228
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 893.66 MHz
+End-to-End Path Delay: 4.700 ns
+Reg-to-Reg Critical Path Delay: 0.856 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.456 W

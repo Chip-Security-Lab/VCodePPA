@@ -1,0 +1,1 @@
+Local maximum signal peak detector

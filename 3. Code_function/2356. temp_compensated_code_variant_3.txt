@@ -1,0 +1,1 @@
+Temperature-compensated RGB to RGB565 converter

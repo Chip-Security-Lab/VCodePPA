@@ -1,0 +1,20 @@
+PPA Report for 3044. mipi_CRC_Checker.sv (Module: MIPI_CRC_Checker)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 5
+FF Count: 7
+IO Count: 44
+Cell Count: 83
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic) MHz
+Longest Path Delay: 1.909 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.467 W

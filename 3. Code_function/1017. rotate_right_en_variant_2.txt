@@ -1,0 +1,1 @@
+Enabled right-rotation register with reset

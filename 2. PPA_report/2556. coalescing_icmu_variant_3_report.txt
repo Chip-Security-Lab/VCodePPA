@@ -1,0 +1,20 @@
+PPA Report for coalescing_icmu.v (Module: coalescing_icmu)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 638
+FF Count: 642
+IO Count: 41
+Cell Count: 1448
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 477.33 MHz
+Reg-to-Reg Critical Path Delay: 1.888 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.465 W

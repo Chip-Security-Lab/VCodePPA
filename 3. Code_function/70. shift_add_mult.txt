@@ -1,0 +1,1 @@
+Binary multiplication via shift-add

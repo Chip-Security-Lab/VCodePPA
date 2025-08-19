@@ -1,0 +1,1 @@
+Enable-controlled digital ring oscillator

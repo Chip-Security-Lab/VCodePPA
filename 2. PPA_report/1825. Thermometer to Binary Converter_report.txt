@@ -1,0 +1,20 @@
+PPA Report for Thermometer to Binary Converter
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 4
+FF Count: 0
+IO Count: 10
+Cell Count: 30
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+End-to-End Path Delay: 5.330 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 2.234 W

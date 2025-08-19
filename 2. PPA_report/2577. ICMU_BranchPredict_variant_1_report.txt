@@ -1,0 +1,20 @@
+PPA Report for BP_Buffer.v (Module: BP_Buffer)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 40
+FF Count: 64
+IO Count: 135
+Cell Count: 430
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 216.09 MHz
+Reg-to-Reg Critical Path Delay: 3.269 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 28.938 W

@@ -1,0 +1,1 @@
+Multi-bit NOR logic gate

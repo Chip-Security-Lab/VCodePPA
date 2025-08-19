@@ -1,0 +1,20 @@
+PPA Report for usb_ping_handler.v (Module: usb_ping_handler)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 9
+FF Count: 9
+IO Count: 18
+Cell Count: 64
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 309.85 MHz
+Reg-to-Reg Critical Path Delay: 3.434 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 1.382 W

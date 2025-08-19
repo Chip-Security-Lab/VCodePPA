@@ -1,0 +1,22 @@
+PPA Report for 2600. HybridITRC.sv (Module: HybridITRC)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 8
+FF Count: 4
+IO Count: 21
+Cell Count: 66
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1386.96 MHz
+End-to-End Path Delay: 5.356 ns
+Reg-to-Reg Critical Path Delay: 0.602 ns
+Detected Clock Signals: clk
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

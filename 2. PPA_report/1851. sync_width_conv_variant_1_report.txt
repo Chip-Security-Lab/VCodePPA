@@ -1,0 +1,20 @@
+PPA Report for sync_width_conv.v (Module: sync_width_conv)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 24
+FF Count: 69
+IO Count: 30
+Cell Count: 158
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 697.35 MHz
+Reg-to-Reg Critical Path Delay: 1.171 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.458 W

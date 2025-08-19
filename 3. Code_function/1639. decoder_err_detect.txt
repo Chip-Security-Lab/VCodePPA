@@ -1,0 +1,1 @@
+Address range validator and detector.

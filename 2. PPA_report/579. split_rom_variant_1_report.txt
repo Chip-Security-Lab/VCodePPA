@@ -1,0 +1,20 @@
+PPA Report for rom_8bit.v (Module: rom_8bit)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 3
+FF Count: 3
+IO Count: 12
+Cell Count: 28
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1312.34 MHz
+Reg-to-Reg Critical Path Delay: 0.558 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

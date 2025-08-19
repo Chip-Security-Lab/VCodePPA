@@ -1,0 +1,1 @@
+Pipelined config register with reset

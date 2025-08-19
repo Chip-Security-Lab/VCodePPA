@@ -1,0 +1,20 @@
+PPA Report for watchdog_buf.v (Module: watchdog_buf)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 19
+FF Count: 28
+IO Count: 21
+Cell Count: 98
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 585.48 MHz
+Reg-to-Reg Critical Path Delay: 1.486 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

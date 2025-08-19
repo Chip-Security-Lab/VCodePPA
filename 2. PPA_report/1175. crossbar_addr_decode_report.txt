@@ -1,0 +1,21 @@
+PPA Report for 1175. crossbar_addr_decode.sv (Module: crossbar_addr_decode)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 64
+FF Count: 0
+IO Count: 148
+Cell Count: 316
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A
+End-to-End Path Delay: 7.642 ns
+Detected Clock Signals: clk
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.493 W

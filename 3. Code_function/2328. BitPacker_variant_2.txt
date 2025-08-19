@@ -1,0 +1,1 @@
+Bit packer with pipelined stages

@@ -1,0 +1,20 @@
+PPA Report for ElasticBufferBridge.v (Module: ElasticBufferBridge)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 38
+FF Count: 88
+IO Count: 22
+Cell Count: 187
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 466.20 MHz
+Reg-to-Reg Critical Path Delay: 1.867 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.456 W

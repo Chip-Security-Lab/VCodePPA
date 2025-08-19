@@ -1,0 +1,20 @@
+PPA Report for rng_fib_lfsr_axi4lite.v (Module: rng_fib_lfsr_axi4lite)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 47
+FF Count: 64
+IO Count: 39
+Cell Count: 190
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 277.75 MHz
+Reg-to-Reg Critical Path Delay: 3.225 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 2.481 W

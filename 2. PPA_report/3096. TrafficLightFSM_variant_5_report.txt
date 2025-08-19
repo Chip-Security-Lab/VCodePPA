@@ -1,0 +1,20 @@
+PPA Report for TrafficLightFSM.v (Module: TrafficLightFSM)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 15
+FF Count: 19
+IO Count: 5
+Cell Count: 52
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 694.44 MHz
+Reg-to-Reg Critical Path Delay: 1.246 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.451 W

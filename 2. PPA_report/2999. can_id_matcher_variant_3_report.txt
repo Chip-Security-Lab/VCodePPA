@@ -1,0 +1,20 @@
+PPA Report for can_id_matcher.v (Module: can_id_matcher)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 50
+FF Count: 21
+IO Count: 127
+Cell Count: 431
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 681.20 MHz
+Reg-to-Reg Critical Path Delay: 1.193 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.458 W

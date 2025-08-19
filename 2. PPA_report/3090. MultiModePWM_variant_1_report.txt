@@ -1,0 +1,21 @@
+PPA Report for MultiModePWM.v (Module: MultiModePWM)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 65
+FF Count: 20
+IO Count: 15
+Cell Count: 164
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 698.81 MHz
+End-to-End Path Delay: 6.343 ns
+Reg-to-Reg Critical Path Delay: 1.279 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

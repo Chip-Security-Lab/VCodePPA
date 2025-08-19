@@ -1,0 +1,1 @@
+Pipelined multi-segment equality comparator

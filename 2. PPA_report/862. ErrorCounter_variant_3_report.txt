@@ -1,0 +1,21 @@
+PPA Report for ErrorCounter.v (Module: ErrorCounter)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 8
+FF Count: 9
+IO Count: 22
+Cell Count: 82
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 862.81 MHz
+End-to-End Path Delay: 4.835 ns
+Reg-to-Reg Critical Path Delay: 1.040 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

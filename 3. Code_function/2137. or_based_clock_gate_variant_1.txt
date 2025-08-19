@@ -1,0 +1,1 @@
+OR-based clock gating circuit

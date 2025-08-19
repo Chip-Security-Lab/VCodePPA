@@ -1,0 +1,21 @@
+PPA Report for p2s_buffer.v (Module: p2s_buffer)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 18
+FF Count: 21
+IO Count: 16
+Cell Count: 86
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 649.77 MHz
+End-to-End Path Delay: 5.301 ns
+Reg-to-Reg Critical Path Delay: 1.314 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

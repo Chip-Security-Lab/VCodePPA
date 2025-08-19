@@ -1,0 +1,22 @@
+PPA Report for 1523.  FlowCtrlShift.sv (Module: FlowCtrlShift)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 16
+FF Count: 21
+IO Count: 22
+Cell Count: 91
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 996.02 MHz
+End-to-End Path Delay: 5.276 ns
+Reg-to-Reg Critical Path Delay: 0.694 ns
+Detected Clock Signals: clk
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

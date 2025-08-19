@@ -1,0 +1,1 @@
+Pipelined circular buffer bit storage

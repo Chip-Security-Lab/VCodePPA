@@ -1,0 +1,20 @@
+PPA Report for and_gate_8.v (Module: and_gate_8)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 17
+FF Count: 38
+IO Count: 30
+Cell Count: 129
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 745.71 MHz
+Reg-to-Reg Critical Path Delay: 1.114 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

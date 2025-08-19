@@ -1,0 +1,20 @@
+PPA Report for pipelined_divider.v (Module: pipelined_divider)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 40
+FF Count: 44
+IO Count: 21
+Cell Count: 165
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 627.35 MHz
+Reg-to-Reg Critical Path Delay: 1.331 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

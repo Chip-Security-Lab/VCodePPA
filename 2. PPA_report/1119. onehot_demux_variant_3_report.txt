@@ -1,0 +1,20 @@
+PPA Report for onehot_demux.v (Module: onehot_demux)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 3
+FF Count: 14
+IO Count: 11
+Cell Count: 47
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1088.14 MHz
+Reg-to-Reg Critical Path Delay: 0.786 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

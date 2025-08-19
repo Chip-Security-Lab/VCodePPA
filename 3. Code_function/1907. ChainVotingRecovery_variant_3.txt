@@ -1,0 +1,1 @@
+Pipelined noise filtering voting circuit

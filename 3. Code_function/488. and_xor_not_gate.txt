@@ -1,0 +1,1 @@
+Combinational logic with three inputs.

@@ -1,0 +1,20 @@
+PPA Report for eth_frame_parser.v (Module: eth_frame_parser)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 17
+FF Count: 120
+IO Count: 124
+Cell Count: 289
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 491.88 MHz
+Reg-to-Reg Critical Path Delay: 1.766 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.488 W

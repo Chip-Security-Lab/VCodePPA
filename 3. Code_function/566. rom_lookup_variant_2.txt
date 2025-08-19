@@ -1,0 +1,1 @@
+Thermometer code decoder using shifts

@@ -1,0 +1,20 @@
+PPA Report for PipelinedOR.v (Module: PipelinedOR)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 16
+FF Count: 64
+IO Count: 49
+Cell Count: 199
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1230.01 MHz
+Reg-to-Reg Critical Path Delay: 0.683 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.455 W

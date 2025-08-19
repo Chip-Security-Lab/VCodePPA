@@ -1,0 +1,21 @@
+PPA Report for bitwise_transform.v (Module: bitwise_transform)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 7
+FF Count: 10
+IO Count: 14
+Cell Count: 53
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 641.03 MHz
+End-to-End Path Delay: 5.098 ns
+Reg-to-Reg Critical Path Delay: 1.285 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

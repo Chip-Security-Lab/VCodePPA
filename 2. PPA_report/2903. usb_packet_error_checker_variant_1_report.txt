@@ -1,0 +1,21 @@
+PPA Report for usb_packet_error_checker.v (Module: usb_packet_error_checker)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 43
+FF Count: 29
+IO Count: 35
+Cell Count: 174
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 425.35 MHz
+End-to-End Path Delay: 5.266 ns
+Reg-to-Reg Critical Path Delay: 2.104 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

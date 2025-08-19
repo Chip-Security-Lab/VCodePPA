@@ -1,0 +1,20 @@
+PPA Report for gray_counter_div.v (Module: gray_counter_div)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 5
+FF Count: 7
+IO Count: 9
+Cell Count: 31
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 303.94 MHz
+Reg-to-Reg Critical Path Delay: 3.076 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 1.990 W

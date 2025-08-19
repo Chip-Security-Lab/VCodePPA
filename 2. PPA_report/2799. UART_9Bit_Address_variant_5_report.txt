@@ -1,0 +1,20 @@
+PPA Report for UART_9Bit_Address.v (Module: UART_9Bit_Address)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 10
+FF Count: 13
+IO Count: 24
+Cell Count: 79
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 632.11 MHz
+Reg-to-Reg Critical Path Delay: 1.384 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

@@ -1,0 +1,20 @@
+PPA Report for sync_adaptive_thresh.v (Module: sync_adaptive_thresh)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 11
+FF Count: 25
+IO Count: 27
+Cell Count: 120
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 631.31 MHz
+Reg-to-Reg Critical Path Delay: 1.457 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

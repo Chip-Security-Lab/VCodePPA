@@ -1,0 +1,20 @@
+PPA Report for tdp_ram_dual_clock
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 32
+FF Count: 66
+IO Count: 150
+Cell Count: 458
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 199.92 MHz
+Reg-to-Reg Critical Path Delay: 4.302 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 112.381 W

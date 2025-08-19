@@ -1,0 +1,1 @@
+SECDED encoder with handshaking protocol

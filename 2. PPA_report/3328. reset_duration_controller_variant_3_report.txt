@@ -1,0 +1,20 @@
+PPA Report for reset_duration_controller.v (Module: reset_duration_controller)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 37
+FF Count: 33
+IO Count: 19
+Cell Count: 145
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 444.44 MHz
+Reg-to-Reg Critical Path Delay: 1.973 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

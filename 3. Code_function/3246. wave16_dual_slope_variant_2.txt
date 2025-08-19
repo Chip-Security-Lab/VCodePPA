@@ -1,0 +1,1 @@
+Dual-slope waveform generator

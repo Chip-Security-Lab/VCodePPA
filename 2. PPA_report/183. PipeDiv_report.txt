@@ -1,0 +1,20 @@
+PPA Report for PipeDiv
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 1094
+FF Count: 64
+IO Count: 97
+Cell Count: 1581
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 831.26 MHz
+Reg-to-Reg Critical Path Delay: 0.841 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.533 W

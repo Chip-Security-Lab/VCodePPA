@@ -1,0 +1,1 @@
+Pipelined AXI 4-bit logic calculator

@@ -1,0 +1,20 @@
+PPA Report for seg_dynamic_scan.v (Module: seg_dynamic_scan)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 11
+FF Count: 24
+IO Count: 45
+Cell Count: 153
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1062.70 MHz
+Reg-to-Reg Critical Path Delay: 0.749 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.461 W

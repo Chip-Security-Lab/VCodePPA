@@ -1,0 +1,21 @@
+PPA Report for gated_clk_gen.v (Module: gated_clk_gen)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 1
+FF Count: 1
+IO Count: 3
+Cell Count: 12
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 557.72 MHz
+End-to-End Path Delay: 4.736 ns
+Reg-to-Reg Critical Path Delay: 1.630 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.454 W

@@ -1,0 +1,1 @@
+Range-based sensor alert detector

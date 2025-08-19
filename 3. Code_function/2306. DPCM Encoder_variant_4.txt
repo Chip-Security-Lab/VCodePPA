@@ -1,0 +1,1 @@
+Pipelined differential audio encoder

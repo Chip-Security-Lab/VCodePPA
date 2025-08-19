@@ -1,0 +1,1 @@
+Level-sensitive D-latch with enable

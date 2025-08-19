@@ -1,0 +1,1 @@
+Conditional bitwise NAND with mask

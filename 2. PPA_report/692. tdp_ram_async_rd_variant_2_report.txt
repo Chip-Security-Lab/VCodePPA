@@ -1,0 +1,21 @@
+PPA Report for tdp_ram_async_rd.v (Module: tdp_ram_async_rd)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 912
+FF Count: 517
+IO Count: 78
+Cell Count: 1780
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 347.46 MHz
+End-to-End Path Delay: 6.159 ns
+Reg-to-Reg Critical Path Delay: 2.600 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.500 W

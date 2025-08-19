@@ -1,0 +1,1 @@
+Pipelined exponential waveform generator

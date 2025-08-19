@@ -1,0 +1,20 @@
+PPA Report for registered_crc16.v (Module: registered_crc16)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 20
+FF Count: 34
+IO Count: 37
+Cell Count: 133
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 662.69 MHz
+Reg-to-Reg Critical Path Delay: 1.228 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.457 W

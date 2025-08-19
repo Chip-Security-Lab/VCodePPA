@@ -1,0 +1,20 @@
+PPA Report for PositionMatcher.v (Module: PositionMatcher)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 1
+FF Count: 3
+IO Count: 11
+Cell Count: 33
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1245.33 MHz
+Reg-to-Reg Critical Path Delay: 0.666 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

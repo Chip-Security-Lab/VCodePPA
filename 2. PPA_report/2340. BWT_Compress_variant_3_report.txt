@@ -1,0 +1,20 @@
+PPA Report for BWT_Compress.v (Module: BWT_Compress)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 616
+FF Count: 128
+IO Count: 130
+Cell Count: 1257
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 811.69 MHz
+Reg-to-Reg Critical Path Delay: 1.048 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.588 W

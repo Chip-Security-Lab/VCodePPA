@@ -1,0 +1,20 @@
+PPA Report for decoder_delay_comp.v (Module: decoder_delay_comp)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 8
+FF Count: 96
+IO Count: 38
+Cell Count: 162
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1025.64 MHz
+Reg-to-Reg Critical Path Delay: 0.783 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.464 W

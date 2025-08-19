@@ -1,0 +1,20 @@
+PPA Report for RoundRobinIVMU.v (Module: RoundRobinIVMU)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 62
+FF Count: 16
+IO Count: 44
+Cell Count: 161
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 442.67 MHz
+Reg-to-Reg Critical Path Delay: 1.984 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.464 W

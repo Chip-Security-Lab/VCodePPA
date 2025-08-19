@@ -1,0 +1,1 @@
+Pipelined parity error detector/corrector

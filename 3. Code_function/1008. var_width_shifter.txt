@@ -1,0 +1,1 @@
+Variable-width shifter with masking

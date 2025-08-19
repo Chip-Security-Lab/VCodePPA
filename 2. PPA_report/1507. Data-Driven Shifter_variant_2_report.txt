@@ -1,0 +1,20 @@
+PPA Report for data_driven_shifter.v (Module: data_driven_shifter)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 4
+FF Count: 16
+IO Count: 12
+Cell Count: 48
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 878.73 MHz
+Reg-to-Reg Critical Path Delay: 0.984 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.456 W

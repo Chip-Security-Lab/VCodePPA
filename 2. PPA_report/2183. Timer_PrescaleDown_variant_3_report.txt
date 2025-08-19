@@ -1,0 +1,20 @@
+PPA Report for Timer_PrescaleDown.v (Module: Timer_PrescaleDown)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 15
+FF Count: 15
+IO Count: 12
+Cell Count: 73
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 606.80 MHz
+Reg-to-Reg Critical Path Delay: 1.417 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

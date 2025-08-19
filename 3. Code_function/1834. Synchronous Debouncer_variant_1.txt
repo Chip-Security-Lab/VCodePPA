@@ -1,0 +1,1 @@
+Rising edge counter with limit

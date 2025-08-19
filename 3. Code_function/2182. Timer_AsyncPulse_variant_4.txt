@@ -1,0 +1,1 @@
+Counting timer with pulse output

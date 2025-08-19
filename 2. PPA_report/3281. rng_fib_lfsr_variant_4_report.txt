@@ -1,0 +1,20 @@
+PPA Report for rng_fib_lfsr_axi_stream.v (Module: rng_fib_lfsr_axi_stream)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 5
+FF Count: 27
+IO Count: 15
+Cell Count: 61
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 698.32 MHz
+Reg-to-Reg Critical Path Delay: 1.127 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

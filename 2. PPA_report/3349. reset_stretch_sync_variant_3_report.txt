@@ -1,0 +1,20 @@
+PPA Report for reset_stretch_sync.v (Module: reset_stretch_sync)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 6
+FF Count: 7
+IO Count: 3
+Cell Count: 29
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 843.88 MHz
+Reg-to-Reg Critical Path Delay: 0.979 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.451 W

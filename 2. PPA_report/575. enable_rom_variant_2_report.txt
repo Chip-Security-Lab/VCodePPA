@@ -1,0 +1,20 @@
+PPA Report for enable_rom.v (Module: enable_rom)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 4
+FF Count: 7
+IO Count: 14
+Cell Count: 43
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 436.85 MHz
+Reg-to-Reg Critical Path Delay: 2.133 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

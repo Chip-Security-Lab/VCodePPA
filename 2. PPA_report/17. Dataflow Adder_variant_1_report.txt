@@ -1,0 +1,20 @@
+PPA Report for dataflow_adder.v (Module: dataflow_adder)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 9
+FF Count: 43
+IO Count: 27
+Cell Count: 122
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 848.18 MHz
+Reg-to-Reg Critical Path Delay: 1.000 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.456 W

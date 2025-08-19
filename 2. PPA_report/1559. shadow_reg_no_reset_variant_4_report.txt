@@ -1,0 +1,20 @@
+PPA Report for shadow_reg_no_reset.v (Module: shadow_reg_no_reset)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 0
+FF Count: 4
+IO Count: 10
+Cell Count: 29
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 243.20 MHz
+Reg-to-Reg Critical Path Delay: 1.860 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

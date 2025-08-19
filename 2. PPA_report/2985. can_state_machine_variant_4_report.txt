@@ -1,0 +1,20 @@
+PPA Report for can_state_machine.v (Module: can_state_machine)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 6
+FF Count: 7
+IO Count: 12
+Cell Count: 43
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 677.97 MHz
+Reg-to-Reg Critical Path Delay: 1.357 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

@@ -1,0 +1,1 @@
+Synchronous incrementing counter with enable

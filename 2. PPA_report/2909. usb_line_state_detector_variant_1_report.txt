@@ -1,0 +1,20 @@
+PPA Report for usb_line_state_detector.v (Module: usb_line_state_detector)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 13
+FF Count: 24
+IO Count: 11
+Cell Count: 64
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 643.92 MHz
+Reg-to-Reg Critical Path Delay: 1.275 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

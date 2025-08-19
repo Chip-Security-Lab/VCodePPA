@@ -1,0 +1,20 @@
+PPA Report for reset_pulse_stretch.v (Module: reset_pulse_stretch)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 3
+FF Count: 4
+IO Count: 3
+Cell Count: 18
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 772.20 MHz
+Reg-to-Reg Critical Path Delay: 1.159 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

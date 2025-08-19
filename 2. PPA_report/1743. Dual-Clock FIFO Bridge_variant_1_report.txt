@@ -1,0 +1,20 @@
+PPA Report for dual_clk_fifo.v (Module: dual_clk_fifo)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 88
+FF Count: 312
+IO Count: 71
+Cell Count: 588
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 378.93 MHz
+Reg-to-Reg Critical Path Delay: 1.948 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.491 W

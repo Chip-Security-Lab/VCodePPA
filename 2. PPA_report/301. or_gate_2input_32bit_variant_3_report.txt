@@ -1,0 +1,20 @@
+PPA Report for or_gate_2input_32bit.v (Module: or_gate_2input_32bit)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 33
+FF Count: 96
+IO Count: 98
+Cell Count: 362
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1083.42 MHz
+Reg-to-Reg Critical Path Delay: 0.804 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.474 W

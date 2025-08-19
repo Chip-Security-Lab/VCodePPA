@@ -1,0 +1,20 @@
+PPA Report for clk_gated_decoder.v (Module: clk_gated_decoder)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 16
+FF Count: 22
+IO Count: 68
+Cell Count: 158
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 889.68 MHz
+Reg-to-Reg Critical Path Delay: 0.974 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.465 W

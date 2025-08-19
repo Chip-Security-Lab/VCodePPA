@@ -1,0 +1,20 @@
+PPA Report for ICMU_PipelineFSM.v (Module: ICMU_PipelineFSM)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 2
+FF Count: 11
+IO Count: 36
+Cell Count: 58
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 953.29 MHz
+Reg-to-Reg Critical Path Delay: 0.858 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.461 W

@@ -1,0 +1,20 @@
+PPA Report for probabilistic_arbiter.v (Module: probabilistic_arbiter)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 123
+FF Count: 68
+IO Count: 26
+Cell Count: 335
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 218.05 MHz
+Reg-to-Reg Critical Path Delay: 4.385 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.454 W

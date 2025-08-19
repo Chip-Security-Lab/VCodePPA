@@ -1,0 +1,1 @@
+Resettable parameterized data register

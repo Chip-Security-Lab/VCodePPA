@@ -1,0 +1,20 @@
+PPA Report for idea_math_unit
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 403
+FF Count: 16
+IO Count: 50
+Cell Count: 628
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 89.63 MHz
+Reg-to-Reg Critical Path Delay: 10.457 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.471 W

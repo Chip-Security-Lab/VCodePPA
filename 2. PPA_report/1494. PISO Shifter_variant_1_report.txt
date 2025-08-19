@@ -1,0 +1,20 @@
+PPA Report for piso_shifter.v (Module: piso_shifter)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 4
+FF Count: 8
+IO Count: 12
+Cell Count: 54
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1061.57 MHz
+Reg-to-Reg Critical Path Delay: 0.824 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

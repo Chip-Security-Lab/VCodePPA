@@ -1,0 +1,1 @@
+UART receiver with parity checking

@@ -1,0 +1,20 @@
+PPA Report for ConditionalOR.v (Module: ConditionalOR)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 13
+FF Count: 42
+IO Count: 27
+Cell Count: 127
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 904.16 MHz
+Reg-to-Reg Critical Path Delay: 0.928 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.454 W

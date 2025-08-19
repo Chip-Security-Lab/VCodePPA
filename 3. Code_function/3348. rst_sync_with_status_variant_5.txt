@@ -1,0 +1,1 @@
+Asynchronous reset synchronizer with status

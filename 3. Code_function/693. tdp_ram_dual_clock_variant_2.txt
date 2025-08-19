@@ -1,0 +1,1 @@
+Dual-clock pipelined dual-port RAM

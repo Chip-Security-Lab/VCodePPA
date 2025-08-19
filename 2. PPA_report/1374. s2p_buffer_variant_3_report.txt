@@ -1,0 +1,20 @@
+PPA Report for s2p_buffer.v (Module: s2p_buffer)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 2
+FF Count: 11
+IO Count: 13
+Cell Count: 37
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 606.43 MHz
+Reg-to-Reg Critical Path Delay: 1.435 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

@@ -1,0 +1,1 @@
+FSM-controlled left shift register

@@ -1,0 +1,20 @@
+PPA Report for priority_encoded_shifter.v (Module: priority_encoded_shifter)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 12
+FF Count: 19
+IO Count: 21
+Cell Count: 85
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 633.71 MHz
+Reg-to-Reg Critical Path Delay: 1.428 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.454 W

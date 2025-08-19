@@ -1,0 +1,21 @@
+PPA Report for multi_port_regfile.v (Module: multi_port_regfile)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 904
+FF Count: 1024
+IO Count: 151
+Cell Count: 2575
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 200.06 MHz
+End-to-End Path Delay: 6.655 ns
+Reg-to-Reg Critical Path Delay: 4.031 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.564 W

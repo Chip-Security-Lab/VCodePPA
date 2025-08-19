@@ -1,0 +1,1 @@
+Bidirectional parallel-loadable shift register

@@ -1,0 +1,1 @@
+Pipelined 2:1 multiplexer with registers

@@ -1,0 +1,20 @@
+PPA Report for regfile_pipelined.v (Module: regfile_pipelined)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 17
+FF Count: 22
+IO Count: 45
+Cell Count: 162
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 811.69 MHz
+Reg-to-Reg Critical Path Delay: 1.104 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.456 W

@@ -1,0 +1,1 @@
+XNOR matrix with pattern 0x55

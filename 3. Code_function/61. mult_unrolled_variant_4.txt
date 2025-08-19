@@ -1,0 +1,1 @@
+Unrolled 4-bit multiplier with pipelining

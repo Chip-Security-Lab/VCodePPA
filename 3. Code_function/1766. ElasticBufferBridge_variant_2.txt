@@ -1,0 +1,1 @@
+Elastic FIFO with buffered pointers

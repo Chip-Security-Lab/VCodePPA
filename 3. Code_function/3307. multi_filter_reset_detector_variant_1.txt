@@ -1,0 +1,1 @@
+Multi-channel glitch-filtered reset detector

@@ -1,0 +1,20 @@
+PPA Report for Comparator_CrossCompare.v (Module: Comparator_CrossCompare)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 43
+FF Count: 0
+IO Count: 67
+Cell Count: 245
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+End-to-End Path Delay: 5.131 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 1.194 W

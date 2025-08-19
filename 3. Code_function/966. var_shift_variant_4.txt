@@ -1,0 +1,1 @@
+Variable-width configurable right-shift register

@@ -1,0 +1,1 @@
+Clocked D latch with enable

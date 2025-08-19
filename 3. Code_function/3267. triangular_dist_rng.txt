@@ -1,0 +1,1 @@
+Triangular random number generator

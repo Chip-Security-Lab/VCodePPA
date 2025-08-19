@@ -1,0 +1,20 @@
+PPA Report for can_bit_stuffer_axi4lite.v (Module: can_bit_stuffer_axi4lite)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 52
+FF Count: 90
+IO Count: 93
+Cell Count: 347
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 296.89 MHz
+Reg-to-Reg Critical Path Delay: 2.585 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 5.807 W

@@ -1,0 +1,20 @@
+PPA Report for sequential_reset_controller.v (Module: sequential_reset_controller)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 11
+FF Count: 14
+IO Count: 6
+Cell Count: 47
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 878.73 MHz
+Reg-to-Reg Critical Path Delay: 0.906 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.451 W

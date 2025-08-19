@@ -1,0 +1,20 @@
+PPA Report for Demux_DynamicWidth.v (Module: Demux_DynamicWidth)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 65
+FF Count: 166
+IO Count: 167
+Cell Count: 517
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 565.93 MHz
+Reg-to-Reg Critical Path Delay: 1.499 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.522 W

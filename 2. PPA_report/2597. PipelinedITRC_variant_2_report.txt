@@ -1,0 +1,20 @@
+PPA Report for PipelinedITRC.v (Module: PipelinedITRC)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 7
+FF Count: 12
+IO Count: 14
+Cell Count: 57
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1009.08 MHz
+Reg-to-Reg Critical Path Delay: 0.807 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

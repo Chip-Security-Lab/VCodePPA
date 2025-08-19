@@ -1,0 +1,20 @@
+PPA Report for TimeoutMatcher.v (Module: TimeoutMatcher)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 18
+FF Count: 30
+IO Count: 21
+Cell Count: 114
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 629.33 MHz
+Reg-to-Reg Critical Path Delay: 1.397 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

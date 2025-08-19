@@ -1,0 +1,20 @@
+PPA Report for pipeline_bridge.v (Module: pipeline_bridge)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 7
+FF Count: 100
+IO Count: 70
+Cell Count: 252
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 816.33 MHz
+Reg-to-Reg Critical Path Delay: 0.952 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.471 W

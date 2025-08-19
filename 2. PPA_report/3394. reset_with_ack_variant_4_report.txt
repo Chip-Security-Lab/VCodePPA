@@ -1,0 +1,20 @@
+PPA Report for reset_with_ack.v (Module: reset_with_ack)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 9
+FF Count: 22
+IO Count: 11
+Cell Count: 62
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 662.69 MHz
+Reg-to-Reg Critical Path Delay: 1.363 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

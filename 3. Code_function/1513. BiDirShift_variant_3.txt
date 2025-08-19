@@ -1,0 +1,1 @@
+Bidirectional configurable shift register

@@ -1,0 +1,20 @@
+PPA Report for nor4_always.v (Module: nor4_always)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 8
+FF Count: 0
+IO Count: 48
+Cell Count: 120
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+End-to-End Path Delay: 5.602 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 1.957 W

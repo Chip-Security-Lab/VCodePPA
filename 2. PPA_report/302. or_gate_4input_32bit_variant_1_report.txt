@@ -1,0 +1,20 @@
+PPA Report for or_gate_4input_32bit.v (Module: or_gate_4input_32bit)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 32
+FF Count: 0
+IO Count: 160
+Cell Count: 454
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+End-to-End Path Delay: 6.339 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 4.548 W

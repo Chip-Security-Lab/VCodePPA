@@ -1,0 +1,21 @@
+PPA Report for 2020. piecewise_lin.sv (Module: piecewise_lin)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 111
+FF Count: 0
+IO Count: 128
+Cell Count: 536
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+End-to-End Path Delay: 8.438 ns
+Detected Clock Signals: None
+
+POWER METRICS:
+-------------
+Total Power Consumption: 28.441 W

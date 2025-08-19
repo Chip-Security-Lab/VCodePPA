@@ -1,0 +1,1 @@
+Demultiplexer with parity bit calculation

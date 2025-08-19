@@ -1,0 +1,1 @@
+Masked vector event accumulator

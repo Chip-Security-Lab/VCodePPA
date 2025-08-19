@@ -1,0 +1,20 @@
+PPA Report for int_ctrl_timestamp.v (Module: int_ctrl_timestamp)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 3
+FF Count: 68
+IO Count: 21
+Cell Count: 107
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 757.58 MHz
+Reg-to-Reg Critical Path Delay: 1.184 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.454 W

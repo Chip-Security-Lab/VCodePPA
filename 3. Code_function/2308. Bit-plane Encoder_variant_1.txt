@@ -1,0 +1,1 @@
+Bit-plane encoder for data compression

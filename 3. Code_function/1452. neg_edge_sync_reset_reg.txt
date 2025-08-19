@@ -1,0 +1,1 @@
+16-bit negative-edge register with reset

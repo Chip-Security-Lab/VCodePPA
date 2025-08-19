@@ -1,0 +1,20 @@
+PPA Report for mipi_unipro_error_detector.v (Module: mipi_unipro_error_detector)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 13
+FF Count: 78
+IO Count: 34
+Cell Count: 188
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 440.33 MHz
+Reg-to-Reg Critical Path Delay: 2.080 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

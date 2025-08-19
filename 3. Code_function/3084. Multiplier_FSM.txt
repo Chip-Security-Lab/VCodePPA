@@ -1,0 +1,1 @@
+Sequential binary multiplication state machine

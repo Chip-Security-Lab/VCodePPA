@@ -1,0 +1,20 @@
+PPA Report for q_format_converter_15_to_31_pipelined.v (Module: q_format_converter_15_to_31_pipelined)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 1
+FF Count: 17
+IO Count: 52
+Cell Count: 112
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 284.09 MHz
+Reg-to-Reg Critical Path Delay: 2.190 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.468 W

@@ -1,0 +1,1 @@
+Pipelined lockable data shadow register

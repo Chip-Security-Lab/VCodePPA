@@ -1,0 +1,20 @@
+PPA Report for freq_div_square.v (Module: freq_div_square)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 24
+FF Count: 35
+IO Count: 19
+Cell Count: 139
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 272.51 MHz
+Reg-to-Reg Critical Path Delay: 3.152 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.937 W

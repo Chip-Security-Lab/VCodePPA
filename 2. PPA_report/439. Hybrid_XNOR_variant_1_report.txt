@@ -1,0 +1,21 @@
+PPA Report for Hybrid_XNOR.v (Module: Hybrid_XNOR)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 12
+FF Count: 12
+IO Count: 26
+Cell Count: 91
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1058.20 MHz
+End-to-End Path Delay: 4.755 ns
+Reg-to-Reg Critical Path Delay: 0.826 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

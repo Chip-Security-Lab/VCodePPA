@@ -1,0 +1,20 @@
+PPA Report for equality_priority_comp
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 19
+FF Count: 14
+IO Count: 24
+Cell Count: 102
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 931.97 MHz
+Reg-to-Reg Critical Path Delay: 0.883 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

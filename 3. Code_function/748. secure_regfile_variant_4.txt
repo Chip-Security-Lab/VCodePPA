@@ -1,0 +1,1 @@
+Domain-protected register file access

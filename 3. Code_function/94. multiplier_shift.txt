@@ -1,0 +1,1 @@
+Shift-and-add binary multiplier

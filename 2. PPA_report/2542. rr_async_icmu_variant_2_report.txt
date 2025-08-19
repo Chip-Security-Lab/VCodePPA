@@ -1,0 +1,20 @@
+PPA Report for rr_sync_valid_ready.v (Module: rr_sync_valid_ready)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 18
+FF Count: 35
+IO Count: 23
+Cell Count: 105
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 424.09 MHz
+Reg-to-Reg Critical Path Delay: 2.213 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.455 W

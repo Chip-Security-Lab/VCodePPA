@@ -1,0 +1,20 @@
+PPA Report for power_efficient_shifter.v (Module: power_efficient_shifter)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 12
+FF Count: 36
+IO Count: 21
+Cell Count: 111
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 992.06 MHz
+Reg-to-Reg Critical Path Delay: 0.858 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.454 W

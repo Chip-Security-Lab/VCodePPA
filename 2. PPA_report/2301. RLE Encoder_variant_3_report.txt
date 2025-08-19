@@ -1,0 +1,20 @@
+PPA Report for rle_encoder.v (Module: rle_encoder)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 15
+FF Count: 42
+IO Count: 28
+Cell Count: 115
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 435.35 MHz
+Reg-to-Reg Critical Path Delay: 2.018 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

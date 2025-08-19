@@ -1,0 +1,1 @@
+Parameterized pattern sequence detector

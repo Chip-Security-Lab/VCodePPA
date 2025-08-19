@@ -1,0 +1,20 @@
+PPA Report for ram_based_ring.v (Module: ram_based_ring)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 0
+FF Count: 32
+IO Count: 18
+Cell Count: 60
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1055.97 MHz
+Reg-to-Reg Critical Path Delay: 0.828 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.455 W

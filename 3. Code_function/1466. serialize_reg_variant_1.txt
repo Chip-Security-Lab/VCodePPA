@@ -1,0 +1,1 @@
+Four-stage pipelined serializer register

@@ -1,0 +1,20 @@
+PPA Report for QSPI_Quad_Mode.v (Module: QSPI_Quad_Mode)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 13
+FF Count: 79
+IO Count: 42
+Cell Count: 163
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 145.69 MHz
+Reg-to-Reg Critical Path Delay: 6.280 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.460 W

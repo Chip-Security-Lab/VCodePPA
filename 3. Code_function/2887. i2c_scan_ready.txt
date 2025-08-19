@@ -1,0 +1,1 @@
+I2C scan chain boundary controller

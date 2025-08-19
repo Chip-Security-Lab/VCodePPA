@@ -1,0 +1,20 @@
+PPA Report for low_power_sync_ram
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 846
+FF Count: 2056
+IO Count: 28
+Cell Count: 3420
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 483.56 MHz
+Reg-to-Reg Critical Path Delay: 1.876 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.465 W

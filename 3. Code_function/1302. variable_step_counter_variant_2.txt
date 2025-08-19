@@ -1,0 +1,1 @@
+Rotating counter with variable step

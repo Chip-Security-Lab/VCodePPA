@@ -1,0 +1,20 @@
+PPA Report for cam_debug.v (Module: cam_debug)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 754
+FF Count: 1152
+IO Count: 129
+Cell Count: 2364
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 373.13 MHz
+Reg-to-Reg Critical Path Delay: 2.472 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.496 W

@@ -1,0 +1,20 @@
+PPA Report for latch_dff.v (Module: latch_dff)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 2
+FF Count: 2
+IO Count: 4
+Cell Count: 21
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 104.78 MHz
+Reg-to-Reg Critical Path Delay: 7.390 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

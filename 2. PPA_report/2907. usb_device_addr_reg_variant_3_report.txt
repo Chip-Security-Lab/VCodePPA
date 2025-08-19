@@ -1,0 +1,20 @@
+PPA Report for usb_device_addr_reg.v (Module: usb_device_addr_reg)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 28
+FF Count: 49
+IO Count: 72
+Cell Count: 216
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 602.77 MHz
+Reg-to-Reg Critical Path Delay: 1.444 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.461 W

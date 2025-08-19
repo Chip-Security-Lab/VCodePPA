@@ -1,0 +1,1 @@
+Shift-right with optional sign-extension

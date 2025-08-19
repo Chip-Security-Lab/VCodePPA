@@ -1,0 +1,20 @@
+PPA Report for activity_clock_gate.v (Module: activity_clock_gate)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 12
+FF Count: 30
+IO Count: 21
+Cell Count: 111
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A
+End-to-End Path Delay: 5.017 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 1.003 W

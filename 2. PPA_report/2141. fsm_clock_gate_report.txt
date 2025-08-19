@@ -1,0 +1,20 @@
+PPA Report for fsm_clock_gate
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 2
+FF Count: 1
+IO Count: 5
+Cell Count: 20
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 187.13 MHz
+Reg-to-Reg Critical Path Delay: 4.644 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.775 W

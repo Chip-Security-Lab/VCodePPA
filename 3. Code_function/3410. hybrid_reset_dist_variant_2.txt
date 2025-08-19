@@ -1,0 +1,1 @@
+Configurable hybrid reset signal generator

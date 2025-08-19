@@ -1,0 +1,1 @@
+Configurable 32-bit data rearrangement circuit

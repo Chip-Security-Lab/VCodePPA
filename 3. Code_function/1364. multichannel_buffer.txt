@@ -1,0 +1,1 @@
+Multichannel buffer with selectable access

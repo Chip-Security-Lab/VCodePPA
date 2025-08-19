@@ -1,0 +1,20 @@
+PPA Report for deadband_generator.v (Module: deadband_generator)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 47
+FF Count: 52
+IO Count: 24
+Cell Count: 208
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 459.14 MHz
+Reg-to-Reg Critical Path Delay: 1.896 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

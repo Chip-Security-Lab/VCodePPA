@@ -1,0 +1,20 @@
+PPA Report for AsyncSetLatch.v (Module: AsyncSetLatch)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 0
+FF Count: 16
+IO Count: 18
+Cell Count: 58
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1064.96 MHz
+Reg-to-Reg Critical Path Delay: 0.806 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

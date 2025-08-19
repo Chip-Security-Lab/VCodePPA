@@ -1,0 +1,20 @@
+PPA Report for basic_clock_gen.v (Module: basic_clock_gen)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 2
+FF Count: 0
+IO Count: 2
+Cell Count: 6
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+End-to-End Path Delay: 4.960 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.681 W

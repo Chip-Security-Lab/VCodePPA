@@ -1,0 +1,20 @@
+PPA Report for with.v (Module: with)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 4633
+FF Count: 2155
+IO Count: 67
+Cell Count: 7706
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 252.02 MHz
+Reg-to-Reg Critical Path Delay: 3.700 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.539 W

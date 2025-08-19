@@ -1,0 +1,1 @@
+Compares value within specified bounds.

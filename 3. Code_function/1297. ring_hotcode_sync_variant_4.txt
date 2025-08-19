@@ -1,0 +1,1 @@
+4-bit rotating hot-code counter

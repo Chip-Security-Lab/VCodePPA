@@ -1,0 +1,20 @@
+PPA Report for multi_cycle_sync_ram.v (Module: multi_cycle_sync_ram)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 847
+FF Count: 2058
+IO Count: 27
+Cell Count: 3422
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 506.33 MHz
+Reg-to-Reg Critical Path Delay: 1.656 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.460 W

@@ -1,0 +1,1 @@
+Multi-mode QSPI data receiver

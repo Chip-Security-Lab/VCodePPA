@@ -1,0 +1,1 @@
+TMDS encoding for video transmission

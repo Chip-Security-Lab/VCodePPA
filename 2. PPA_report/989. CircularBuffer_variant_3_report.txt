@@ -1,0 +1,20 @@
+PPA Report for CircularBuffer.v (Module: CircularBuffer)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 15
+FF Count: 41
+IO Count: 5
+Cell Count: 75
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 662.69 MHz
+Reg-to-Reg Critical Path Delay: 1.284 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

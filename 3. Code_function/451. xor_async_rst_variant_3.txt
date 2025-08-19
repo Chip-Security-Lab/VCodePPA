@@ -1,0 +1,1 @@
+Pipelined XOR with async reset

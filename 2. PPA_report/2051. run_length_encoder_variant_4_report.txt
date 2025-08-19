@@ -1,0 +1,20 @@
+PPA Report for run_length_encoder.v (Module: run_length_encoder)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 11
+FF Count: 19
+IO Count: 14
+Cell Count: 58
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 497.76 MHz
+Reg-to-Reg Critical Path Delay: 1.787 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

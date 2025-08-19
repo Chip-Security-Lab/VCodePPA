@@ -1,0 +1,1 @@
+Data width adapter with sign-extension

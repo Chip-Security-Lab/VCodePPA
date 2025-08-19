@@ -1,0 +1,20 @@
+PPA Report for 3017. mipi_rffe_controller.sv (Module: mipi_rffe_controller)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 19
+FF Count: 11
+IO Count: 32
+Cell Count: 130
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 583.43 MHz
+Longest Path Delay: 1.455 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

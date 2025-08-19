@@ -1,0 +1,20 @@
+PPA Report for QoSBridge.v (Module: QoSBridge)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 60
+FF Count: 162
+IO Count: 70
+Cell Count: 387
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 530.50 MHz
+Reg-to-Reg Critical Path Delay: 1.701 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.487 W

@@ -1,0 +1,1 @@
+Pipelined resettable counter with handshaking

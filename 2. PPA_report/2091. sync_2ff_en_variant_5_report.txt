@@ -1,0 +1,20 @@
+PPA Report for sync_2ff_en_pipeline.v (Module: sync_2ff_en_pipeline)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 1
+FF Count: 27
+IO Count: 20
+Cell Count: 73
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 976.56 MHz
+Reg-to-Reg Critical Path Delay: 0.906 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

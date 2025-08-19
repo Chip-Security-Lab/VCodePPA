@@ -1,0 +1,20 @@
+PPA Report for sipo_register.v (Module: sipo_register)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 1
+FF Count: 7
+IO Count: 20
+Cell Count: 40
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1102.54 MHz
+Reg-to-Reg Critical Path Delay: 0.770 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

@@ -1,0 +1,1 @@
+Filtered multi-channel reset detector

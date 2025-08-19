@@ -1,0 +1,20 @@
+PPA Report for counter_shift_load.v (Module: counter_shift_load)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 3
+FF Count: 14
+IO Count: 11
+Cell Count: 48
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 657.46 MHz
+Reg-to-Reg Critical Path Delay: 1.391 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

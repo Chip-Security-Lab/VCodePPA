@@ -1,0 +1,20 @@
+PPA Report for spi_master_basic
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 18
+FF Count: 24
+IO Count: 24
+Cell Count: 97
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 471.70 MHz
+Reg-to-Reg Critical Path Delay: 1.849 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

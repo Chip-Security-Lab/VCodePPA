@@ -1,0 +1,1 @@
+Element-wise subtraction of 4-bit arrays

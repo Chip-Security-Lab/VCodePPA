@@ -1,0 +1,1 @@
+Pipelined multi-mode QSPI interface

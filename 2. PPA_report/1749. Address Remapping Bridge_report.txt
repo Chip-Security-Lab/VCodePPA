@@ -1,0 +1,22 @@
+PPA Report for 1749. Address Remapping Bridge.sv (Module: remap_bridge)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 14
+FF Count: 67
+IO Count: 136
+Cell Count: 363
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 672.49 MHz
+End-to-End Path Delay: N/A (No valid path found) ns
+Reg-to-Reg Critical Path Delay: 1.117 ns
+Detected Clock Signals: clk
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.473 W

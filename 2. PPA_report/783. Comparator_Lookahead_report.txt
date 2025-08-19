@@ -1,0 +1,20 @@
+PPA Report for Comparator_Lookahead
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 25
+FF Count: 0
+IO Count: 65
+Cell Count: 223
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+End-to-End Path Delay: 6.785 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 1.466 W

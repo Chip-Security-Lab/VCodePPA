@@ -1,0 +1,1 @@
+Synchronous divider with handshaking protocol

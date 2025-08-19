@@ -1,0 +1,20 @@
+PPA Report for chirp_generator
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 48
+FF Count: 48
+IO Count: 50
+Cell Count: 265
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 411.35 MHz
+Reg-to-Reg Critical Path Delay: 2.202 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.459 W

@@ -1,0 +1,20 @@
+PPA Report for wallace_multiplier_4x4.v (Module: wallace_multiplier_4x4)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 16
+FF Count: 0
+IO Count: 16
+Cell Count: 51
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+End-to-End Path Delay: 6.194 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 3.589 W

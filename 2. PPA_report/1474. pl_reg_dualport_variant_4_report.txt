@@ -1,0 +1,20 @@
+PPA Report for pl_reg_dualport.v (Module: pl_reg_dualport)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 10
+FF Count: 34
+IO Count: 54
+Cell Count: 184
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 816.33 MHz
+Reg-to-Reg Critical Path Delay: 1.025 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.460 W

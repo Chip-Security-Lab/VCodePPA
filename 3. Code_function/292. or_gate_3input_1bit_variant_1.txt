@@ -1,0 +1,1 @@
+Parameterized three-input OR gate

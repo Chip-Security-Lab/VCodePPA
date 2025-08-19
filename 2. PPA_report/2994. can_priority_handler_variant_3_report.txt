@@ -1,0 +1,20 @@
+PPA Report for can_priority_handler.v (Module: can_priority_handler)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 68
+FF Count: 53
+IO Count: 55
+Cell Count: 304
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 254.07 MHz
+Reg-to-Reg Critical Path Delay: 3.729 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.457 W

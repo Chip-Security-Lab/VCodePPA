@@ -1,0 +1,20 @@
+PPA Report for dct_compressor.v (Module: dct_compressor)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 7
+FF Count: 21
+IO Count: 28
+Cell Count: 85
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 597.01 MHz
+Reg-to-Reg Critical Path Delay: 1.415 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

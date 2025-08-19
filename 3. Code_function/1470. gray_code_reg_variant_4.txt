@@ -1,0 +1,1 @@
+Binary-to-gray handshake converter circuit

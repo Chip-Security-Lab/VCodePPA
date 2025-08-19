@@ -1,0 +1,20 @@
+PPA Report for UART_MultiChannel.v (Module: UART_MultiChannel)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 7
+FF Count: 18
+IO Count: 18
+Cell Count: 64
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 753.58 MHz
+Reg-to-Reg Critical Path Delay: 1.208 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

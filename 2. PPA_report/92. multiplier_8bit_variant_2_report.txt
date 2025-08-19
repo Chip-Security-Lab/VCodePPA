@@ -1,0 +1,20 @@
+PPA Report for multiplier_8bit.v (Module: multiplier_8bit)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 77
+FF Count: 70
+IO Count: 37
+Cell Count: 253
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 361.93 MHz
+Reg-to-Reg Critical Path Delay: 2.557 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

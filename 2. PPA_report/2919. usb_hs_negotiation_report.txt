@@ -1,0 +1,20 @@
+PPA Report for usb_hs_negotiation
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 19
+FF Count: 19
+IO Count: 13
+Cell Count: 65
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 436.11 MHz
+Reg-to-Reg Critical Path Delay: 2.102 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.451 W

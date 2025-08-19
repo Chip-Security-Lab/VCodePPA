@@ -1,0 +1,20 @@
+PPA Report for excess_n_to_binary.v (Module: excess_n_to_binary)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 7
+FF Count: 27
+IO Count: 20
+Cell Count: 82
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 741.29 MHz
+Reg-to-Reg Critical Path Delay: 1.212 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.454 W

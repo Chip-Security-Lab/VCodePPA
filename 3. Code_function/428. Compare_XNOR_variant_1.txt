@@ -1,0 +1,1 @@
+8-bit equality comparator circuit

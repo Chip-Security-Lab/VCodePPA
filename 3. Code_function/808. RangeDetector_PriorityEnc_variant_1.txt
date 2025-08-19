@@ -1,0 +1,1 @@
+Zone detector with priority encoder

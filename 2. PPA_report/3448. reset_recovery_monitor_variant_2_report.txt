@@ -1,0 +1,20 @@
+PPA Report for reset_recovery_monitor.v (Module: reset_recovery_monitor)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 5
+FF Count: 11
+IO Count: 3
+Cell Count: 28
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 907.44 MHz
+Reg-to-Reg Critical Path Delay: 0.899 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

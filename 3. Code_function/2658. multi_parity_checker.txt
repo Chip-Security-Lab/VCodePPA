@@ -1,0 +1,1 @@
+Configurable multi-mode parity calculator

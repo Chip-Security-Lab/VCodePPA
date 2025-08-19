@@ -1,0 +1,1 @@
+Compares multiple operands for equality

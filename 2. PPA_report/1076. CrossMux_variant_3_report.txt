@@ -1,0 +1,20 @@
+PPA Report for CrossMux.v (Module: CrossMux)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 9
+FF Count: 20
+IO Count: 47
+Cell Count: 155
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1009.08 MHz
+Reg-to-Reg Critical Path Delay: 0.854 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.456 W

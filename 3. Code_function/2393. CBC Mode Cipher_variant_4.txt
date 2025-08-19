@@ -1,0 +1,1 @@
+Pipelined CBC encryption/decryption circuit

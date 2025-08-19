@@ -1,0 +1,1 @@
+Secure ROM with key validation

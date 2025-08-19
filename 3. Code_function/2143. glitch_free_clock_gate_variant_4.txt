@@ -1,0 +1,1 @@
+AXI-Stream controlled clock gating

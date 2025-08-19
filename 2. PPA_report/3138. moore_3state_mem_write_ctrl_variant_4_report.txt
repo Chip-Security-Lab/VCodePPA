@@ -1,0 +1,20 @@
+PPA Report for moore_3state_mem_write_ctrl_pipeline.v (Module: moore_3state_mem_write_ctrl_pipeline)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 6
+FF Count: 11
+IO Count: 8
+Cell Count: 39
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 736.92 MHz
+Reg-to-Reg Critical Path Delay: 1.212 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

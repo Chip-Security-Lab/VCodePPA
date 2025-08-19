@@ -1,0 +1,20 @@
+PPA Report for SecurityBridge.v (Module: SecurityBridge)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 5
+FF Count: 61
+IO Count: 23
+Cell Count: 134
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 884.17 MHz
+Reg-to-Reg Critical Path Delay: 0.984 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

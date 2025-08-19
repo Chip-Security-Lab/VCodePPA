@@ -1,0 +1,1 @@
+Pipelined data capture snapshot buffer

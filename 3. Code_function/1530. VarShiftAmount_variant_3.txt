@@ -1,0 +1,1 @@
+Pipelined variable-length bidirectional shifter

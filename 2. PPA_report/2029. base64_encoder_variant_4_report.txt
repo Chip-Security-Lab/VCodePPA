@@ -1,0 +1,20 @@
+PPA Report for base64_encoder_axi4lite.v (Module: base64_encoder_axi4lite)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 25
+FF Count: 60
+IO Count: 79
+Cell Count: 260
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 800.64 MHz
+Reg-to-Reg Critical Path Delay: 0.993 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.468 W

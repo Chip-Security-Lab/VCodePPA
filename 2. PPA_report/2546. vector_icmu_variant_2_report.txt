@@ -1,0 +1,20 @@
+PPA Report for vector_icmu.v (Module: vector_icmu)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 101
+FF Count: 102
+IO Count: 169
+Cell Count: 584
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 405.02 MHz
+Reg-to-Reg Critical Path Delay: 2.273 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.474 W

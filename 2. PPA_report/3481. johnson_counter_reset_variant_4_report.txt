@@ -1,0 +1,20 @@
+PPA Report for johnson_counter_reset.v (Module: johnson_counter_reset)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 1
+FF Count: 9
+IO Count: 11
+Cell Count: 29
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 984.25 MHz
+Reg-to-Reg Critical Path Delay: 0.863 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

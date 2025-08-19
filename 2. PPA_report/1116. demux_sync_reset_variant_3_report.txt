@@ -1,0 +1,21 @@
+PPA Report for demux_valid_ready.v (Module: demux_valid_ready)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 4
+FF Count: 5
+IO Count: 13
+Cell Count: 42
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 960.61 MHz
+End-to-End Path Delay: 4.335 ns
+Reg-to-Reg Critical Path Delay: 0.819 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

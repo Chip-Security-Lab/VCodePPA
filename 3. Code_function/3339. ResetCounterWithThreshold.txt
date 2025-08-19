@@ -1,0 +1,1 @@
+Reset detector with counter threshold

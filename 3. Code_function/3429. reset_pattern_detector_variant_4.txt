@@ -1,0 +1,1 @@
+Detects 10101010 pattern in signal.

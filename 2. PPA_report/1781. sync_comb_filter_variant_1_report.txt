@@ -1,0 +1,20 @@
+PPA Report for sync_comb_filter.v (Module: sync_comb_filter)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 31
+FF Count: 44
+IO Count: 27
+Cell Count: 145
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 744.60 MHz
+Reg-to-Reg Critical Path Delay: 1.148 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.458 W

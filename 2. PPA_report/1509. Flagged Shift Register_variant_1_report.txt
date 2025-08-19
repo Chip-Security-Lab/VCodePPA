@@ -1,0 +1,20 @@
+PPA Report for flagged_shift_reg.v (Module: flagged_shift_reg)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 10
+FF Count: 12
+IO Count: 8
+Cell Count: 48
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 634.52 MHz
+Reg-to-Reg Critical Path Delay: 1.298 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

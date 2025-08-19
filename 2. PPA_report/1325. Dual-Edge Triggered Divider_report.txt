@@ -1,0 +1,20 @@
+PPA Report for Dual-Edge Triggered Divider
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 5
+FF Count: 6
+IO Count: 3
+Cell Count: 23
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 242.60 MHz
+Reg-to-Reg Critical Path Delay: 3.422 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 1.102 W

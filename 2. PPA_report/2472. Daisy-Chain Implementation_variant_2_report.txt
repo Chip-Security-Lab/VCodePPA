@@ -1,0 +1,21 @@
+PPA Report for daisy_chain_intr_ctrl.v (Module: daisy_chain_intr_ctrl)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 15
+FF Count: 15
+IO Count: 13
+Cell Count: 67
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 605.69 MHz
+End-to-End Path Delay: 5.178 ns
+Reg-to-Reg Critical Path Delay: 1.521 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

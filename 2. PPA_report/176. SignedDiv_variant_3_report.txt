@@ -1,0 +1,20 @@
+PPA Report for SignedDiv.v (Module: SignedDiv)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 59
+FF Count: 84
+IO Count: 26
+Cell Count: 265
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 369.96 MHz
+Reg-to-Reg Critical Path Delay: 2.525 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.459 W

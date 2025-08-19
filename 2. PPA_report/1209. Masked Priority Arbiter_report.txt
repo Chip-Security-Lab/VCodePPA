@@ -1,0 +1,20 @@
+PPA Report for Masked Priority Arbiter
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 5
+FF Count: 4
+IO Count: 14
+Cell Count: 47
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 344.35 MHz
+Reg-to-Reg Critical Path Delay: 2.204 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

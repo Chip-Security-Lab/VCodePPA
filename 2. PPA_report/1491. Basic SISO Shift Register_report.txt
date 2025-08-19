@@ -1,0 +1,20 @@
+PPA Report for Basic SISO Shift Register
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 0
+FF Count: 8
+IO Count: 4
+Cell Count: 21
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1112.35 MHz
+Reg-to-Reg Critical Path Delay: 0.780 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.451 W

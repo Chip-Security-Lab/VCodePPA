@@ -1,0 +1,1 @@
+Pattern-detecting state machine with pipeline.

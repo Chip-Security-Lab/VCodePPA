@@ -1,0 +1,1 @@
+Multichannel configurable timer with flags

@@ -1,0 +1,20 @@
+PPA Report for shadow_reg_ring
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 19
+FF Count: 32
+IO Count: 18
+Cell Count: 107
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 491.88 MHz
+Reg-to-Reg Critical Path Delay: 1.789 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.454 W

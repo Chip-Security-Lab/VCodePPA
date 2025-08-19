@@ -1,0 +1,1 @@
+Inverts lower byte, keeps upper

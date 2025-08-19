@@ -1,0 +1,21 @@
+PPA Report for error_diffusion.v (Module: error_diffusion)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 13
+FF Count: 20
+IO Count: 18
+Cell Count: 83
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 722.02 MHz
+End-to-End Path Delay: 4.892 ns
+Reg-to-Reg Critical Path Delay: 1.121 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

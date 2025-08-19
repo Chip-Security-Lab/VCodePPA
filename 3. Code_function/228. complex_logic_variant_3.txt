@@ -1,0 +1,1 @@
+Parallel Boolean and adder operations

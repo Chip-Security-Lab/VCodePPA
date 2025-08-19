@@ -1,0 +1,1 @@
+Pipelined universal data shift register

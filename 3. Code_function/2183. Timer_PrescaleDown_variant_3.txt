@@ -1,0 +1,1 @@
+Prescaled countdown timer with reset

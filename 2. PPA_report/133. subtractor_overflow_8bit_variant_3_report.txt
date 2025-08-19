@@ -1,0 +1,20 @@
+PPA Report for subtractor_overflow_8bit.v (Module: subtractor_overflow_8bit)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 9
+FF Count: 34
+IO Count: 27
+Cell Count: 113
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 502.26 MHz
+Reg-to-Reg Critical Path Delay: 1.788 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.456 W

@@ -1,0 +1,21 @@
+PPA Report for shift_chain_buf.v (Module: shift_chain_buf)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 6
+FF Count: 51
+IO Count: 50
+Cell Count: 143
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 832.64 MHz
+End-to-End Path Delay: 4.799 ns
+Reg-to-Reg Critical Path Delay: 0.919 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.466 W

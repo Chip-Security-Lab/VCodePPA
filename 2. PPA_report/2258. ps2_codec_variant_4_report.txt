@@ -1,0 +1,20 @@
+PPA Report for ps2_codec.v (Module: ps2_codec)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 2
+FF Count: 23
+IO Count: 11
+Cell Count: 44
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 284.62 MHz
+Reg-to-Reg Critical Path Delay: 3.094 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.702 W

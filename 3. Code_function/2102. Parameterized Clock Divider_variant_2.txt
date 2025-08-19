@@ -1,0 +1,1 @@
+Pipelined parameterizable clock frequency divider

@@ -1,0 +1,1 @@
+Parameterized mask AND operation controller

@@ -1,0 +1,20 @@
+PPA Report for gamma_correction_codec.v (Module: gamma_correction_codec)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 6
+FF Count: 0
+IO Count: 22
+Cell Count: 67
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 349.25 MHz
+Reg-to-Reg Critical Path Delay: 2.646 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.457 W

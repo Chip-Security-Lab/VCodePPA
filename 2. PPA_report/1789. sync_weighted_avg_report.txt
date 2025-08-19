@@ -1,0 +1,20 @@
+PPA Report for sync_weighted_avg
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 197
+FF Count: 48
+IO Count: 50
+Cell Count: 448
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 71.93 MHz
+Reg-to-Reg Critical Path Delay: 14.044 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.467 W

@@ -1,0 +1,1 @@
+NRZI encoder/decoder with bit validation

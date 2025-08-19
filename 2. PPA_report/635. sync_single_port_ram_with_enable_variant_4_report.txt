@@ -1,0 +1,20 @@
+PPA Report for sync_single_port_ram_with_enable.v (Module: sync_single_port_ram_with_enable)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 6
+FF Count: 27
+IO Count: 28
+Cell Count: 111
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 632.51 MHz
+Reg-to-Reg Critical Path Delay: 1.338 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.454 W

@@ -1,0 +1,20 @@
+PPA Report for fsm_controlled_shifter.v (Module: fsm_controlled_shifter)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 31
+FF Count: 152
+IO Count: 75
+Cell Count: 362
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 573.72 MHz
+Reg-to-Reg Critical Path Delay: 1.534 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.464 W

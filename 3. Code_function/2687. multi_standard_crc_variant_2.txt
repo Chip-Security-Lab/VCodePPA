@@ -1,0 +1,1 @@
+Multi-standard CRC calculation module

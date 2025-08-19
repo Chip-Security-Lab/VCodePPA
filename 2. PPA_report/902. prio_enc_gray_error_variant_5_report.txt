@@ -1,0 +1,20 @@
+PPA Report for prio_enc_gray_error.v (Module: prio_enc_gray_error)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 4
+FF Count: 0
+IO Count: 12
+Cell Count: 34
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+End-to-End Path Delay: 5.356 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 1.054 W

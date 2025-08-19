@@ -1,0 +1,1 @@
+Bytewise CRC16 calculation circuit

@@ -1,0 +1,1 @@
+Pipelined loadable counter with reset

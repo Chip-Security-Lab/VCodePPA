@@ -1,0 +1,20 @@
+PPA Report for temp_controller
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 22
+FF Count: 2
+IO Count: 21
+Cell Count: 110
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1112.35 MHz
+Reg-to-Reg Critical Path Delay: 0.780 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

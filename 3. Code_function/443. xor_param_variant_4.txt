@@ -1,0 +1,1 @@
+Parameterized XOR with Brent-Kung structure

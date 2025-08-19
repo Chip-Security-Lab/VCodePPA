@@ -1,0 +1,20 @@
+PPA Report for fractional_n_div.v (Module: fractional_n_div)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 8
+FF Count: 25
+IO Count: 3
+Cell Count: 47
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 293.44 MHz
+Reg-to-Reg Critical Path Delay: 3.145 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.694 W

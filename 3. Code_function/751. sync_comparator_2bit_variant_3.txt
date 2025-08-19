@@ -1,0 +1,1 @@
+Two-bit synchronous comparator with handshaking

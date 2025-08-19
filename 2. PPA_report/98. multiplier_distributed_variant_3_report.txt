@@ -1,0 +1,20 @@
+PPA Report for multiplier_distributed.v (Module: multiplier_distributed)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 22
+FF Count: 48
+IO Count: 21
+Cell Count: 129
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 800.64 MHz
+Reg-to-Reg Critical Path Delay: 1.061 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.456 W

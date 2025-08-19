@@ -1,0 +1,1 @@
+Synchronous bidirectional shift register

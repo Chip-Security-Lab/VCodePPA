@@ -1,0 +1,20 @@
+PPA Report for quadrature_sine.v (Module: quadrature_sine)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 6
+FF Count: 9
+IO Count: 21
+Cell Count: 52
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 541.42 MHz
+Reg-to-Reg Critical Path Delay: 1.650 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.463 W

@@ -1,0 +1,20 @@
+PPA Report for odd_div_clk_gen.v (Module: odd_div_clk_gen)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 24
+FF Count: 36
+IO Count: 3
+Cell Count: 106
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 297.38 MHz
+Reg-to-Reg Critical Path Delay: 3.081 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 1.293 W

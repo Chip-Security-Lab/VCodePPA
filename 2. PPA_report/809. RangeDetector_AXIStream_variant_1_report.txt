@@ -1,0 +1,20 @@
+PPA Report for RangeDetector_AXIStream.v (Module: RangeDetector_AXIStream)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 22
+FF Count: 30
+IO Count: 36
+Cell Count: 155
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 971.82 MHz
+Reg-to-Reg Critical Path Delay: 0.858 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.454 W

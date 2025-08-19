@@ -1,0 +1,1 @@
+CRC calculation with configurable parameters

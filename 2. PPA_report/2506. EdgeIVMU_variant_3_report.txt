@@ -1,0 +1,20 @@
+PPA Report for EdgeIVMU_pipelined.v (Module: EdgeIVMU_pipelined)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 9
+FF Count: 25
+IO Count: 43
+Cell Count: 104
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 682.59 MHz
+Reg-to-Reg Critical Path Delay: 1.280 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.463 W

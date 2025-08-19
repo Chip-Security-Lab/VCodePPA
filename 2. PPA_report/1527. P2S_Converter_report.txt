@@ -1,0 +1,20 @@
+PPA Report for P2S_Converter
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 7
+FF Count: 13
+IO Count: 11
+Cell Count: 56
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 821.02 MHz
+Reg-to-Reg Critical Path Delay: 1.016 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

@@ -1,0 +1,1 @@
+Configurable 3-bit inverter with parameters

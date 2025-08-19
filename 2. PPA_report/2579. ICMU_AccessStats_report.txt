@@ -1,0 +1,20 @@
+PPA Report for ICMU_AccessStats
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 22
+FF Count: 136
+IO Count: 130
+Cell Count: 438
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 461.04 MHz
+Reg-to-Reg Critical Path Delay: 1.761 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.482 W

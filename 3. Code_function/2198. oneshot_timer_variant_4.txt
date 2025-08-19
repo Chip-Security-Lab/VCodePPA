@@ -1,0 +1,1 @@
+Pipelined programmable timer pulse generator

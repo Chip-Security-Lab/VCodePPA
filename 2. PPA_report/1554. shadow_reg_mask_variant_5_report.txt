@@ -1,0 +1,20 @@
+PPA Report for shadow_reg_mask.v (Module: shadow_reg_mask)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 32
+FF Count: 64
+IO Count: 98
+Cell Count: 330
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1165.50 MHz
+Reg-to-Reg Critical Path Delay: 0.721 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.465 W

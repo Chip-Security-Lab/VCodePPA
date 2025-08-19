@@ -1,0 +1,1 @@
+Parallel-load left shift register

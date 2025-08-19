@@ -1,0 +1,1 @@
+Registered pipelined NOT gate circuit

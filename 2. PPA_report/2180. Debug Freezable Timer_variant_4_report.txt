@@ -1,0 +1,21 @@
+PPA Report for debug_timer.v (Module: debug_timer)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 35
+FF Count: 17
+IO Count: 37
+Cell Count: 136
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 342.35 MHz
+End-to-End Path Delay: 5.800 ns
+Reg-to-Reg Critical Path Delay: 2.611 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

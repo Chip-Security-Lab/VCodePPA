@@ -1,0 +1,21 @@
+PPA Report for PartialNOT_valid_ready.v (Module: PartialNOT_valid_ready)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 11
+FF Count: 17
+IO Count: 38
+Cell Count: 110
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 591.02 MHz
+End-to-End Path Delay: 5.106 ns
+Reg-to-Reg Critical Path Delay: 1.416 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

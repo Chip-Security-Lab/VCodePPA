@@ -1,0 +1,1 @@
+SPI-APB protocol bridge interface

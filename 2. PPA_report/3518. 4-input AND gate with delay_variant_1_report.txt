@@ -1,0 +1,20 @@
+PPA Report for divider_newton_raphson.v (Module: divider_newton_raphson)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 173
+FF Count: 61
+IO Count: 36
+Cell Count: 363
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 291.97 MHz
+Reg-to-Reg Critical Path Delay: 3.228 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.454 W

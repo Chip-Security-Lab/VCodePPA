@@ -1,0 +1,20 @@
+PPA Report for rc6_rotate_core.v (Module: rc6_rotate_core)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 100
+FF Count: 64
+IO Count: 71
+Cell Count: 338
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 760.46 MHz
+Reg-to-Reg Critical Path Delay: 1.122 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.506 W

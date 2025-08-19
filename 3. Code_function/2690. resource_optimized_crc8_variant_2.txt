@@ -1,0 +1,1 @@
+CRC-8 with optimized resource usage

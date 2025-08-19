@@ -1,0 +1,20 @@
+PPA Report for open_ended_range_detector.v (Module: open_ended_range_detector)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 14
+FF Count: 26
+IO Count: 28
+Cell Count: 141
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 801.92 MHz
+Reg-to-Reg Critical Path Delay: 1.101 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

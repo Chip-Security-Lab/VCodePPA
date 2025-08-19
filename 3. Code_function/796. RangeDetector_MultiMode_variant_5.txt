@@ -1,0 +1,1 @@
+Multi-mode pipelined threshold comparator

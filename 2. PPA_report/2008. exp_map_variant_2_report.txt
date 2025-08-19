@@ -1,0 +1,20 @@
+PPA Report for exp_map.v (Module: exp_map)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 41
+FF Count: 0
+IO Count: 32
+Cell Count: 119
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+End-to-End Path Delay: 6.667 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.746 W

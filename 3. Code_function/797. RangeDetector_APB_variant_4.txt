@@ -1,0 +1,1 @@
+APB configurable threshold range detector

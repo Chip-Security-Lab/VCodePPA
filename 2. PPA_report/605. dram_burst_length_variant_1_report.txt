@@ -1,0 +1,20 @@
+PPA Report for dram_burst_length.v (Module: dram_burst_length)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 6
+FF Count: 13
+IO Count: 10
+Cell Count: 43
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 706.21 MHz
+Reg-to-Reg Critical Path Delay: 1.279 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.454 W

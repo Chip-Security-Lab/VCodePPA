@@ -1,0 +1,20 @@
+PPA Report for interrupt_timer.v (Module: interrupt_timer)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 13
+FF Count: 34
+IO Count: 68
+Cell Count: 197
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 645.16 MHz
+Reg-to-Reg Critical Path Delay: 1.363 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.478 W

@@ -1,0 +1,1 @@
+XOR sequential handshaking data processor

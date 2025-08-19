@@ -1,0 +1,21 @@
+PPA Report for xor_difference_detector.v (Module: xor_difference_detector)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 40
+FF Count: 16
+IO Count: 56
+Cell Count: 193
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 625.39 MHz
+End-to-End Path Delay: 4.537 ns
+Reg-to-Reg Critical Path Delay: 1.333 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.470 W

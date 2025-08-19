@@ -1,0 +1,1 @@
+Configurable range bounds detector circuit

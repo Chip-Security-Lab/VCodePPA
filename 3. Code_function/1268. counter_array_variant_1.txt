@@ -1,0 +1,1 @@
+Multiple synchronized counters with reset

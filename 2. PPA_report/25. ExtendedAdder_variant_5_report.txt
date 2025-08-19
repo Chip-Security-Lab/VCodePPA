@@ -1,0 +1,21 @@
+PPA Report for Adder_3.v (Module: Adder_3)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 7
+FF Count: 6
+IO Count: 19
+Cell Count: 62
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1383.13 MHz
+End-to-End Path Delay: 5.074 ns
+Reg-to-Reg Critical Path Delay: 0.604 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

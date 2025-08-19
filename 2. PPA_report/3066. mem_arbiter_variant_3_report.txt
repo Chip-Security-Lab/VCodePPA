@@ -1,0 +1,21 @@
+PPA Report for mem_arbiter.v (Module: mem_arbiter)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 18
+FF Count: 2
+IO Count: 76
+Cell Count: 215
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1184.83 MHz
+End-to-End Path Delay: 4.008 ns
+Reg-to-Reg Critical Path Delay: 0.726 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.471 W

@@ -1,0 +1,1 @@
+Serial CRC8 polynomial calculator

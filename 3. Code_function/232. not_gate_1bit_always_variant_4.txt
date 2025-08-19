@@ -1,0 +1,1 @@
+Registered NOT gate with reset

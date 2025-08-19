@@ -1,0 +1,20 @@
+PPA Report for ITRC_Group.v (Module: ITRC_Group)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 2
+FF Count: 1
+IO Count: 8
+Cell Count: 28
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 179.59 MHz
+Reg-to-Reg Critical Path Delay: 1.771 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.451 W

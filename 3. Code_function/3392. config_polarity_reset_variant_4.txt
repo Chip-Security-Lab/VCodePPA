@@ -1,0 +1,1 @@
+Polarity-configurable multi-channel reset controller

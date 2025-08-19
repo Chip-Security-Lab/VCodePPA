@@ -1,0 +1,1 @@
+Pipelined quadruple RAM with registers

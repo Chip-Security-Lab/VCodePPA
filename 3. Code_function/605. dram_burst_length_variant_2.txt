@@ -1,0 +1,1 @@
+Configurable burst length counter

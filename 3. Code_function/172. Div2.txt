@@ -1,0 +1,1 @@
+Binary division with shift-subtract algorithm

@@ -1,0 +1,21 @@
+PPA Report for priority_shifter_axi_stream.v (Module: priority_shifter_axi_stream)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 42
+FF Count: 33
+IO Count: 55
+Cell Count: 214
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 907.44 MHz
+End-to-End Path Delay: 3.799 ns
+Reg-to-Reg Critical Path Delay: 0.822 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.459 W

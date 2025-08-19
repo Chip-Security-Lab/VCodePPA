@@ -1,0 +1,20 @@
+PPA Report for ring_hotcode_sync.v (Module: ring_hotcode_sync)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 5
+FF Count: 10
+IO Count: 8
+Cell Count: 34
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 292.31 MHz
+Reg-to-Reg Critical Path Delay: 3.111 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 1.094 W

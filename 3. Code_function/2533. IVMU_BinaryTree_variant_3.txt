@@ -1,0 +1,1 @@
+Signed 4x4 Baugh-Wooley multiplier

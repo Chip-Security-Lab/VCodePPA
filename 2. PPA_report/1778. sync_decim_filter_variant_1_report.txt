@@ -1,0 +1,20 @@
+PPA Report for sync_decim_filter.v (Module: sync_decim_filter)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 21
+FF Count: 21
+IO Count: 20
+Cell Count: 94
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 716.33 MHz
+Reg-to-Reg Critical Path Delay: 1.207 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

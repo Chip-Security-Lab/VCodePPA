@@ -1,0 +1,20 @@
+PPA Report for brent_kung_adder.v (Module: brent_kung_adder)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 14
+FF Count: 36
+IO Count: 16
+Cell Count: 99
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 844.59 MHz
+Reg-to-Reg Critical Path Delay: 1.036 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.454 W

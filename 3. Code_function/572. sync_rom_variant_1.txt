@@ -1,0 +1,1 @@
+Synchronous ROM with handshaking protocol

@@ -1,0 +1,1 @@
+Hamming error correction and counting

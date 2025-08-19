@@ -1,0 +1,20 @@
+PPA Report for param_crossbar.v (Module: param_crossbar)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 32
+FF Count: 32
+IO Count: 75
+Cell Count: 227
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 357.07 MHz
+Reg-to-Reg Critical Path Delay: 2.133 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.483 W

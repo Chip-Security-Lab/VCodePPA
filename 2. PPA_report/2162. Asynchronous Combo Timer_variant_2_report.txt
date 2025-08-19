@@ -1,0 +1,20 @@
+PPA Report for async_combo_timer.v (Module: async_combo_timer)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 9
+FF Count: 18
+IO Count: 36
+Cell Count: 114
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 591.72 MHz
+Reg-to-Reg Critical Path Delay: 1.390 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.459 W

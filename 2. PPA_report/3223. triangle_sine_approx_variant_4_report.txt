@@ -1,0 +1,20 @@
+PPA Report for triangle_sine_approx.v (Module: triangle_sine_approx)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 16
+FF Count: 44
+IO Count: 10
+Cell Count: 87
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 622.67 MHz
+Reg-to-Reg Critical Path Delay: 1.387 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

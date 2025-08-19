@@ -1,0 +1,20 @@
+PPA Report for speed_optimized_crc32.v (Module: speed_optimized_crc32)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 26
+FF Count: 34
+IO Count: 41
+Cell Count: 128
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 528.54 MHz
+Reg-to-Reg Critical Path Delay: 1.754 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.475 W

@@ -1,0 +1,1 @@
+Multi-stage clock domain crossing synchronizer

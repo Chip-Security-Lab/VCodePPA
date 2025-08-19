@@ -1,0 +1,1 @@
+Active-low range detector circuit

@@ -1,0 +1,1 @@
+XOR decoder with barrel shifter

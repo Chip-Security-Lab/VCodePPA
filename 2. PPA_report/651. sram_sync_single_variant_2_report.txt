@@ -1,0 +1,20 @@
+PPA Report for sram_sync_single.v (Module: sram_sync_single)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 61
+FF Count: 160
+IO Count: 40
+Cell Count: 338
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 825.76 MHz
+Reg-to-Reg Critical Path Delay: 1.007 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.457 W

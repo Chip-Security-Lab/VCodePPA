@@ -1,0 +1,1 @@
+Configurable counter generating periodic signals

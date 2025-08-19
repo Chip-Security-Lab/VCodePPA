@@ -1,0 +1,20 @@
+PPA Report for random_number_generator.v (Module: random_number_generator)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 14
+FF Count: 34
+IO Count: 28
+Cell Count: 110
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 616.14 MHz
+Reg-to-Reg Critical Path Delay: 1.316 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

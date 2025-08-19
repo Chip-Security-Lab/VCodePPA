@@ -1,0 +1,20 @@
+PPA Report for shift_cond_rst_pipelined.v (Module: shift_cond_rst_pipelined)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 4
+FF Count: 36
+IO Count: 20
+Cell Count: 90
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 664.89 MHz
+Reg-to-Reg Critical Path Delay: 1.360 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.454 W

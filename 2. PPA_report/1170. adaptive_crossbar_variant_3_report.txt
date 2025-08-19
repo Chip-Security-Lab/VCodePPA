@@ -1,0 +1,20 @@
+PPA Report for adaptive_crossbar.v (Module: adaptive_crossbar)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 141
+FF Count: 249
+IO Count: 177
+Cell Count: 779
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 489.96 MHz
+Reg-to-Reg Critical Path Delay: 1.763 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.478 W

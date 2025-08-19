@@ -1,0 +1,1 @@
+Synchronized 8-bit AND operation

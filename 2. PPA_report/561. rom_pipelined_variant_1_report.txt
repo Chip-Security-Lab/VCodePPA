@@ -1,0 +1,20 @@
+PPA Report for rom_pipelined.v (Module: rom_pipelined)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 0
+FF Count: 18
+IO Count: 19
+Cell Count: 69
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 801.92 MHz
+Reg-to-Reg Critical Path Delay: 0.732 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.456 W

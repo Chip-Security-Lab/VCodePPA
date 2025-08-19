@@ -1,0 +1,22 @@
+PPA Report for 2547. nested_icmu.sv (Module: nested_icmu)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 556
+FF Count: 52
+IO Count: 174
+Cell Count: 1190
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 239.98 MHz
+End-to-End Path Delay: N/A (No valid path found) ns
+Reg-to-Reg Critical Path Delay: 3.970 ns
+Detected Clock Signals: clk
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.461 W

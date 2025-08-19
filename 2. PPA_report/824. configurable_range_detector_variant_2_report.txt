@@ -1,0 +1,20 @@
+PPA Report for configurable_range_detector.v (Module: configurable_range_detector)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 18
+FF Count: 51
+IO Count: 53
+Cell Count: 248
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 881.83 MHz
+Reg-to-Reg Critical Path Delay: 0.981 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

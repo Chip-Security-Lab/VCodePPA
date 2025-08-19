@@ -1,0 +1,20 @@
+PPA Report for shift_log_right.v (Module: shift_log_right)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 6
+FF Count: 14
+IO Count: 18
+Cell Count: 64
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 712.25 MHz
+Reg-to-Reg Critical Path Delay: 1.224 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

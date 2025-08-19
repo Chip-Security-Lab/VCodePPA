@@ -1,0 +1,20 @@
+PPA Report for crc32_ethernet.v (Module: crc32_ethernet)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 42
+FF Count: 126
+IO Count: 67
+Cell Count: 316
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 551.57 MHz
+Reg-to-Reg Critical Path Delay: 1.515 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.489 W

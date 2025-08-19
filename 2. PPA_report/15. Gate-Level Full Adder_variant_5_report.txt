@@ -1,0 +1,20 @@
+PPA Report for gate_level_adder_top.v (Module: gate_level_adder_top)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 6
+FF Count: 17
+IO Count: 7
+Cell Count: 43
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1012.15 MHz
+Reg-to-Reg Critical Path Delay: 0.843 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

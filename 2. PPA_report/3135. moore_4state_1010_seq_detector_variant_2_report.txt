@@ -1,0 +1,21 @@
+PPA Report for moore_4state_1010_seq_detector.v (Module: moore_4state_1010_seq_detector)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 2
+FF Count: 4
+IO Count: 6
+Cell Count: 24
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1027.75 MHz
+End-to-End Path Delay: 4.438 ns
+Reg-to-Reg Critical Path Delay: 0.853 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.451 W

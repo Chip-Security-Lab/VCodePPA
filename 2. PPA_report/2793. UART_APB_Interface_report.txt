@@ -1,0 +1,22 @@
+PPA Report for 2793. UART_APB_Interface.sv (Module: UART_APB_Interface)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 22
+FF Count: 51
+IO Count: 60
+Cell Count: 187
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 247.95 MHz
+End-to-End Path Delay: N/A (No valid path found) ns
+Reg-to-Reg Critical Path Delay: 3.333 ns
+Detected Clock Signals: clk
+
+POWER METRICS:
+-------------
+Total Power Consumption: 1.572 W

@@ -1,0 +1,1 @@
+Synchronous parameterized down counter

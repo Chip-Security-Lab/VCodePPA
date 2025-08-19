@@ -1,0 +1,1 @@
+Synchronizes reset signal with polarity

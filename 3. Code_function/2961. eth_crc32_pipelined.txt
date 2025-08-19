@@ -1,0 +1,1 @@
+Pipelined Ethernet CRC32 calculator

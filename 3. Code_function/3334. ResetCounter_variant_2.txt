@@ -1,0 +1,1 @@
+Counts reset signal falling edges

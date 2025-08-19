@@ -1,0 +1,1 @@
+Synchronized clock divider with reset

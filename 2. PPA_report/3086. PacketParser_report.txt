@@ -1,0 +1,20 @@
+PPA Report for 3086. PacketParser.sv (Module: PacketParser)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 53
+FF Count: 71
+IO Count: 44
+Cell Count: 206
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 542.01 MHz
+Longest Path Delay: 1.573 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.465 W

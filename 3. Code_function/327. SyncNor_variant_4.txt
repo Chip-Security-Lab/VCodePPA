@@ -1,0 +1,1 @@
+Pipelined synchronized NOR with validation

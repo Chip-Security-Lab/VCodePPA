@@ -1,0 +1,1 @@
+Pipelined adder and XOR circuit

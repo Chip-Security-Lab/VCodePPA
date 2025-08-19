@@ -1,0 +1,1 @@
+Detects first high bit position

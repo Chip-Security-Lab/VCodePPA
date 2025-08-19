@@ -1,0 +1,20 @@
+PPA Report for rng_rom_5_pipeline.v (Module: rng_rom_5_pipeline)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 9
+FF Count: 36
+IO Count: 12
+Cell Count: 72
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 935.45 MHz
+Reg-to-Reg Critical Path Delay: 0.936 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.458 W

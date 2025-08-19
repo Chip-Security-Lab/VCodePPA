@@ -1,0 +1,20 @@
+PPA Report for RangeDetector_StateHold.v (Module: RangeDetector_StateHold)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 10
+FF Count: 23
+IO Count: 19
+Cell Count: 103
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 268.09 MHz
+Reg-to-Reg Critical Path Delay: 3.349 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.869 W

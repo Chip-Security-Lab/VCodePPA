@@ -1,0 +1,1 @@
+Barrel-shifted ROM with address mapping

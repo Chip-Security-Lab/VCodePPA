@@ -1,0 +1,1 @@
+Synchronous BCD-to-seven-segment decoder

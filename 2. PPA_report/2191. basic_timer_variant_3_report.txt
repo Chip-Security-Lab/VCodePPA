@@ -1,0 +1,20 @@
+PPA Report for basic_timer.v (Module: basic_timer)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 83
+FF Count: 104
+IO Count: 36
+Cell Count: 325
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 511.51 MHz
+Reg-to-Reg Critical Path Delay: 1.776 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

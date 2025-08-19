@@ -1,0 +1,20 @@
+PPA Report for axi_dram_ctrl.v (Module: axi_dram_ctrl)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 138
+FF Count: 453
+IO Count: 134
+Cell Count: 953
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 516.80 MHz
+Reg-to-Reg Critical Path Delay: 1.756 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.542 W

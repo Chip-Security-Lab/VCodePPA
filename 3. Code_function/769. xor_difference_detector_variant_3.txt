@@ -1,0 +1,1 @@
+Detects bit differences with Hamming

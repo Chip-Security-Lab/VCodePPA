@@ -1,0 +1,22 @@
+PPA Report for 962. neg_edge_shifter.sv (Module: neg_edge_shifter)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 1
+FF Count: 6
+IO Count: 9
+Cell Count: 25
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1029.87 MHz
+End-to-End Path Delay: N/A (No valid path found) ns
+Reg-to-Reg Critical Path Delay: 0.838 ns
+Detected Clock Signals: neg_clk
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

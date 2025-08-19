@@ -1,0 +1,20 @@
+PPA Report for StageEnabledShifter.v (Module: StageEnabledShifter)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 4
+FF Count: 25
+IO Count: 18
+Cell Count: 75
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 996.02 MHz
+Reg-to-Reg Critical Path Delay: 0.853 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.456 W

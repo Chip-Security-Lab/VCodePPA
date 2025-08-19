@@ -1,0 +1,20 @@
+PPA Report for endian_swap_axi4lite.v (Module: endian_swap_axi4lite)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 42
+FF Count: 145
+IO Count: 92
+Cell Count: 387
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 609.01 MHz
+Reg-to-Reg Critical Path Delay: 1.377 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.468 W

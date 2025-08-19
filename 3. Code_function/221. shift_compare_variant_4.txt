@@ -1,0 +1,1 @@
+Pipelined shift and comparison circuit

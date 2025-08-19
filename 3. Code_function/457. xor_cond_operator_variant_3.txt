@@ -1,0 +1,1 @@
+Parameterized XOR operation with buffering

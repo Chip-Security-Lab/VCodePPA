@@ -1,0 +1,20 @@
+PPA Report for tdp_ram_pipelined.v (Module: tdp_ram_pipelined)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 1237
+FF Count: 594
+IO Count: 52
+Cell Count: 2395
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 215.84 MHz
+Reg-to-Reg Critical Path Delay: 4.340 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.478 W

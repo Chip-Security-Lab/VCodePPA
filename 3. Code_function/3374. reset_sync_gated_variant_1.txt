@@ -1,0 +1,1 @@
+Gated reset synchronizer with pipeline

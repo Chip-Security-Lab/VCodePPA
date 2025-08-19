@@ -1,0 +1,20 @@
+PPA Report for subtractor_axi_lite.v (Module: subtractor_axi_lite)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 15
+FF Count: 24
+IO Count: 60
+Cell Count: 145
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 343.18 MHz
+Reg-to-Reg Critical Path Delay: 3.241 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 1.970 W

@@ -1,0 +1,1 @@
+Pipelined clock-domain crossing parity calculator

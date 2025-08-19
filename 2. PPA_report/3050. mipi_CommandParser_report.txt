@@ -1,0 +1,20 @@
+PPA Report for 3050. mipi_CommandParser.sv (Module: MIPI_CommandParser)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 13
+FF Count: 25
+IO Count: 28
+Cell Count: 95
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 610.87 MHz
+Longest Path Delay: 1.406 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

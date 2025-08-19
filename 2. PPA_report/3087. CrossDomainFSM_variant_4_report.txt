@@ -1,0 +1,20 @@
+PPA Report for CrossDomainFSM_AXI.v (Module: CrossDomainFSM_AXI)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 6
+FF Count: 8
+IO Count: 8
+Cell Count: 36
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 305.68 MHz
+Reg-to-Reg Critical Path Delay: 3.208 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.908 W

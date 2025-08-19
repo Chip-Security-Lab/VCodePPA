@@ -1,0 +1,20 @@
+PPA Report for TriNor.v (Module: TriNor)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 82
+FF Count: 54
+IO Count: 35
+Cell Count: 229
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 473.48 MHz
+Reg-to-Reg Critical Path Delay: 1.922 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

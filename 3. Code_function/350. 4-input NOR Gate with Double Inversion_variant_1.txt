@@ -1,0 +1,1 @@
+Pipelined four-input NOR gate

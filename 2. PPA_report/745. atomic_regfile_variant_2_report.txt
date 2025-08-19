@@ -1,0 +1,20 @@
+PPA Report for atomic_regfile_pipeline.v (Module: atomic_regfile_pipeline)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 108
+FF Count: 138
+IO Count: 198
+Cell Count: 759
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 484.97 MHz
+Reg-to-Reg Critical Path Delay: 1.786 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.489 W

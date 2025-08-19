@@ -1,0 +1,1 @@
+Pipelined clock gater during sleep

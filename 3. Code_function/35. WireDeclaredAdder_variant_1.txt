@@ -1,0 +1,1 @@
+Pipelined carry-lookahead 8-bit adder

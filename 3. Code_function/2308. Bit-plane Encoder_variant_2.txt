@@ -1,0 +1,1 @@
+Bit-plane extraction and serialization

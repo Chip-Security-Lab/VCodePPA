@@ -1,0 +1,1 @@
+Pipelined sync word detector/extractor

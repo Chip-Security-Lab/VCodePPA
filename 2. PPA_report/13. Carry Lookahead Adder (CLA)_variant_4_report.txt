@@ -1,0 +1,20 @@
+PPA Report for han_carlson_adder.v (Module: han_carlson_adder)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 4
+FF Count: 0
+IO Count: 14
+Cell Count: 38
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+End-to-End Path Delay: 5.367 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 2.094 W

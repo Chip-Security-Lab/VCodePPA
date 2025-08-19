@@ -1,0 +1,1 @@
+Clocked XNOR with byte inputs

@@ -1,0 +1,20 @@
+PPA Report for shadow_reg_hier.v (Module: shadow_reg_hier)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 3
+FF Count: 34
+IO Count: 38
+Cell Count: 120
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 928.51 MHz
+Reg-to-Reg Critical Path Delay: 0.852 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

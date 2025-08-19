@@ -1,0 +1,20 @@
+PPA Report for hamming_onehot_sm.v (Module: hamming_onehot_sm)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 8
+FF Count: 12
+IO Count: 15
+Cell Count: 54
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 862.81 MHz
+Reg-to-Reg Critical Path Delay: 0.921 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

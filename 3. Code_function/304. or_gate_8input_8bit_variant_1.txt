@@ -1,0 +1,1 @@
+Pipelined 8-input 8-bit OR gate

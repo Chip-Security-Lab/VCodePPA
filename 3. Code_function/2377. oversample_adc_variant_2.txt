@@ -1,0 +1,1 @@
+1-bit oversampled ADC with AXI-Stream

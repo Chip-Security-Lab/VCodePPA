@@ -1,0 +1,20 @@
+PPA Report for can_bit_stuffer.v (Module: can_bit_stuffer)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 8
+FF Count: 17
+IO Count: 8
+Cell Count: 56
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 485.37 MHz
+Reg-to-Reg Critical Path Delay: 3.062 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.701 W

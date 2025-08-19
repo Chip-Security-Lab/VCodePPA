@@ -1,0 +1,20 @@
+PPA Report for parameterized_type_comp.v (Module: parameterized_type_comp)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 68
+FF Count: 4
+IO Count: 70
+Cell Count: 317
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 150.86 MHz
+Reg-to-Reg Critical Path Delay: 3.662 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.456 W

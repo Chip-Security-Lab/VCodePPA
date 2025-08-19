@@ -1,0 +1,1 @@
+Directional pipelined priority encoder

@@ -1,0 +1,20 @@
+PPA Report for TriStateOR.v (Module: TriStateOR)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 10
+FF Count: 34
+IO Count: 27
+Cell Count: 113
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 793.02 MHz
+Reg-to-Reg Critical Path Delay: 1.133 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

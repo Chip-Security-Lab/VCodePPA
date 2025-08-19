@@ -1,0 +1,21 @@
+PPA Report for sleep_mode_clock_gate.v (Module: sleep_mode_clock_gate)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 3
+FF Count: 7
+IO Count: 5
+Cell Count: 26
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 884.17 MHz
+End-to-End Path Delay: 4.536 ns
+Reg-to-Reg Critical Path Delay: 0.998 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.454 W

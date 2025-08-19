@@ -1,0 +1,20 @@
+PPA Report for jittered_clock_rng.v (Module: jittered_clock_rng)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 32
+FF Count: 25
+IO Count: 26
+Cell Count: 121
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 270.97 MHz
+Reg-to-Reg Critical Path Delay: 3.273 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 5.396 W

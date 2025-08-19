@@ -1,0 +1,1 @@
+SPI receive-only data interface

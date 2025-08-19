@@ -1,0 +1,20 @@
+PPA Report for prio_enc_function.v (Module: prio_enc_function)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 19
+FF Count: 0
+IO Count: 44
+Cell Count: 133
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+End-to-End Path Delay: 5.856 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 4.995 W

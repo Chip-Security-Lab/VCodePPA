@@ -1,0 +1,1 @@
+Enabled clock-gated 4-bit register

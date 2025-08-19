@@ -1,0 +1,1 @@
+Nonlinear quantizer using squared LUT

@@ -1,0 +1,1 @@
+Sigma-delta PWM modulator circuit

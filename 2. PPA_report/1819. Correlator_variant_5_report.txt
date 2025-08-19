@@ -1,0 +1,20 @@
+PPA Report for Correlator.v (Module: Correlator)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 53
+FF Count: 41
+IO Count: 21
+Cell Count: 154
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 547.95 MHz
+Reg-to-Reg Critical Path Delay: 1.683 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.461 W

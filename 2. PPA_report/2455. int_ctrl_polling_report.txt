@@ -1,0 +1,20 @@
+PPA Report for int_ctrl_polling
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 4
+FF Count: 4
+IO Count: 14
+Cell Count: 48
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 925.93 MHz
+Reg-to-Reg Critical Path Delay: 0.947 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.455 W

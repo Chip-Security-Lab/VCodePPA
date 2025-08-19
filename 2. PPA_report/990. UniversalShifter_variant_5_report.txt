@@ -1,0 +1,20 @@
+PPA Report for UniversalShifter.v (Module: UniversalShifter)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 9
+FF Count: 46
+IO Count: 23
+Cell Count: 109
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 611.25 MHz
+Reg-to-Reg Critical Path Delay: 1.491 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.456 W

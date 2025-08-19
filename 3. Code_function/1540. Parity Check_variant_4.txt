@@ -1,0 +1,1 @@
+Parity-checked three-stage data pipeline

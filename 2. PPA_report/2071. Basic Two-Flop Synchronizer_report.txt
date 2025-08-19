@@ -1,0 +1,20 @@
+PPA Report for Basic Two-Flop Synchronizer
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 1
+FF Count: 16
+IO Count: 18
+Cell Count: 58
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 256.61 MHz
+Reg-to-Reg Critical Path Delay: 3.197 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 2.021 W

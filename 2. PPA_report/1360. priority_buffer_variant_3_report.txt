@@ -1,0 +1,20 @@
+PPA Report for priority_buffer.v (Module: priority_buffer)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 9
+FF Count: 37
+IO Count: 38
+Cell Count: 146
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 348.04 MHz
+Reg-to-Reg Critical Path Delay: 3.330 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 3.053 W

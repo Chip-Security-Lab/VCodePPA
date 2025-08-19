@@ -1,0 +1,22 @@
+PPA Report for 720. Parity Register File.sv (Module: parity_regfile)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 111
+FF Count: 272
+IO Count: 44
+Cell Count: 537
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1077.59 MHz
+End-to-End Path Delay: 6.389 ns
+Reg-to-Reg Critical Path Delay: 0.809 ns
+Detected Clock Signals: clk
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.459 W

@@ -1,0 +1,20 @@
+PPA Report for shadow_reg_split_ctrl.v (Module: shadow_reg_split_ctrl)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 2
+FF Count: 70
+IO Count: 29
+Cell Count: 136
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 814.33 MHz
+Reg-to-Reg Critical Path Delay: 0.950 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.454 W

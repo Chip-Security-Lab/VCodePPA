@@ -1,0 +1,1 @@
+Separates even/odd bits from input

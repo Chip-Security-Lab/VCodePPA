@@ -1,0 +1,22 @@
+PPA Report for 1404. D Flip-Flop with Enable.sv (Module: d_ff_enable)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 0
+FF Count: 1
+IO Count: 4
+Cell Count: 14
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 429.92 MHz
+End-to-End Path Delay: N/A (No valid path found) ns
+Reg-to-Reg Critical Path Delay: 1.626 ns
+Detected Clock Signals: clock
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.451 W

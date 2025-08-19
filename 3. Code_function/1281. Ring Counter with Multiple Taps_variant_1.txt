@@ -1,0 +1,1 @@
+Tapped ring counter with outputs

@@ -1,0 +1,20 @@
+PPA Report for mipi_cphy_serializer.v (Module: mipi_cphy_serializer)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 14
+FF Count: 23
+IO Count: 23
+Cell Count: 106
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 853.24 MHz
+Reg-to-Reg Critical Path Delay: 1.036 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.454 W

@@ -1,0 +1,20 @@
+PPA Report for add_signed_divide.v (Module: add_signed_divide)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 83
+FF Count: 61
+IO Count: 52
+Cell Count: 282
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 165.15 MHz
+Reg-to-Reg Critical Path Delay: 5.876 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.465 W

@@ -1,0 +1,20 @@
+PPA Report for and_gate_2bit.v (Module: and_gate_2bit)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 4
+FF Count: 8
+IO Count: 8
+Cell Count: 36
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 780.03 MHz
+Reg-to-Reg Critical Path Delay: 1.078 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

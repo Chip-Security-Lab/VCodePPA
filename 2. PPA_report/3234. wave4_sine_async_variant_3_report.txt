@@ -1,0 +1,20 @@
+PPA Report for wave4_sine_pipelined.v (Module: wave4_sine_pipelined)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 1
+FF Count: 12
+IO Count: 17
+Cell Count: 50
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1243.78 MHz
+Reg-to-Reg Critical Path Delay: 0.685 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

@@ -1,0 +1,20 @@
+PPA Report for prescaler_timer
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 78
+FF Count: 34
+IO Count: 23
+Cell Count: 207
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 403.39 MHz
+Reg-to-Reg Critical Path Delay: 2.290 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

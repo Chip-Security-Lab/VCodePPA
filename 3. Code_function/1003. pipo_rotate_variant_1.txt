@@ -1,0 +1,1 @@
+Parallel-input parallel-output rotatable register

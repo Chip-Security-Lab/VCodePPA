@@ -1,0 +1,1 @@
+Dual shift with LSB subtraction

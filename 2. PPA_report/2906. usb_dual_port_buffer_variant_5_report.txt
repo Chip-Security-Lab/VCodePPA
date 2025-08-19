@@ -1,0 +1,20 @@
+PPA Report for usb_dual_port_buffer.v (Module: usb_dual_port_buffer)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 10
+FF Count: 52
+IO Count: 54
+Cell Count: 204
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 210.83 MHz
+Reg-to-Reg Critical Path Delay: 3.708 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 22.891 W

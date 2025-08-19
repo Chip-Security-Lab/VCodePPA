@@ -1,0 +1,20 @@
+PPA Report for ArithShift.v (Module: ArithShift)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 6
+FF Count: 19
+IO Count: 13
+Cell Count: 53
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 658.76 MHz
+Reg-to-Reg Critical Path Delay: 1.384 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.457 W

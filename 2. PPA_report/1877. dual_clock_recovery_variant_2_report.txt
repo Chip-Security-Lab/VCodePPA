@@ -1,0 +1,20 @@
+PPA Report for dual_clock_recovery_pipelined.v (Module: dual_clock_recovery_pipelined)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 4
+FF Count: 48
+IO Count: 22
+Cell Count: 104
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 299.67 MHz
+Reg-to-Reg Critical Path Delay: 1.316 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.454 W

@@ -1,0 +1,1 @@
+SPI-configurable reset detection controller

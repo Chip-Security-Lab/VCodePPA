@@ -1,0 +1,20 @@
+PPA Report for one_hot_comparator.v (Module: one_hot_comparator)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 18
+FF Count: 37
+IO Count: 29
+Cell Count: 125
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 699.79 MHz
+Reg-to-Reg Critical Path Delay: 1.281 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.455 W

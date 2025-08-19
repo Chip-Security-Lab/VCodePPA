@@ -1,0 +1,20 @@
+PPA Report for en_rst_shifter.v (Module: en_rst_shifter)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 4
+FF Count: 17
+IO Count: 10
+Cell Count: 46
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1072.96 MHz
+Reg-to-Reg Critical Path Delay: 0.800 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.454 W

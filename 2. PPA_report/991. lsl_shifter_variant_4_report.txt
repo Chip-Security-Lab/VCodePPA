@@ -1,0 +1,21 @@
+PPA Report for lsl_shifter_axi_stream.v (Module: lsl_shifter_axi_stream)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 15
+FF Count: 18
+IO Count: 25
+Cell Count: 95
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 661.81 MHz
+End-to-End Path Delay: 5.147 ns
+Reg-to-Reg Critical Path Delay: 1.240 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.453 W

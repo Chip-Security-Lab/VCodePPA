@@ -1,0 +1,20 @@
+PPA Report for ring_counter_bidirectional.v (Module: ring_counter_bidirectional)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 3
+FF Count: 17
+IO Count: 7
+Cell Count: 37
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 938.97 MHz
+Reg-to-Reg Critical Path Delay: 0.928 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.454 W

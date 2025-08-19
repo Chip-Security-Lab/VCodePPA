@@ -1,0 +1,20 @@
+PPA Report for jkff.v (Module: jkff)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 4
+FF Count: 14
+IO Count: 7
+Cell Count: 39
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 1028.81 MHz
+Reg-to-Reg Critical Path Delay: 0.817 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

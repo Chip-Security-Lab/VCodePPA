@@ -1,0 +1,1 @@
+Four-stage double-buffered data pipeline

@@ -1,0 +1,20 @@
+PPA Report for Multiplier5.v (Module: Multiplier5)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 72
+FF Count: 35
+IO Count: 36
+Cell Count: 209
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 348.80 MHz
+Reg-to-Reg Critical Path Delay: 2.663 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

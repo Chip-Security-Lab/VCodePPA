@@ -1,0 +1,20 @@
+PPA Report for borrow_subtractor.v (Module: borrow_subtractor)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 8
+FF Count: 0
+IO Count: 25
+Cell Count: 68
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A
+End-to-End Path Delay: 6.130 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 4.500 W

@@ -1,0 +1,1 @@
+Asynchronous single-bit FIFO shift register

@@ -1,0 +1,1 @@
+Pipelined parity-enhanced data latch

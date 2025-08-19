@@ -1,0 +1,1 @@
+Voltage-based brownout reset detector

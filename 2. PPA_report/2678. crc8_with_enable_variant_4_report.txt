@@ -1,0 +1,20 @@
+PPA Report for crc8_with_handshake.v (Module: crc8_with_handshake)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 11
+FF Count: 10
+IO Count: 21
+Cell Count: 68
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 577.70 MHz
+Reg-to-Reg Critical Path Delay: 1.551 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.454 W

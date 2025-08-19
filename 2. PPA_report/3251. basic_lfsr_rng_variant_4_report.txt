@@ -1,0 +1,19 @@
+PPA Report for basic_lfsr_rng_axi4lite.v (Module: basic_lfsr_rng_axi4lite)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 35
+FF Count: 30
+IO Count: 40
+Cell Count: 150
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+
+POWER METRICS:
+-------------
+Total Power Consumption: 3.257 W

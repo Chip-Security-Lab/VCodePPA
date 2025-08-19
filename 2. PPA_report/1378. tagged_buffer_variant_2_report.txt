@@ -1,0 +1,21 @@
+PPA Report for tagged_buffer.v (Module: tagged_buffer)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 26
+FF Count: 66
+IO Count: 46
+Cell Count: 191
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 564.33 MHz
+End-to-End Path Delay: 5.431 ns
+Reg-to-Reg Critical Path Delay: 1.532 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.454 W

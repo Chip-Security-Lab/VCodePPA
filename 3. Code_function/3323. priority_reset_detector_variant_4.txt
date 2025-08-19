@@ -1,0 +1,1 @@
+Prioritized reset detection controller

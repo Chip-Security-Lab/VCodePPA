@@ -1,0 +1,1 @@
+LIFO stack with push/pop

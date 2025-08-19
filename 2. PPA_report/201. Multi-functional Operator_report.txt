@@ -1,0 +1,20 @@
+PPA Report for Multi-functional Operator
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 177
+FF Count: 0
+IO Count: 35
+Cell Count: 309
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+End-to-End Path Delay: 11.466 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 9.604 W

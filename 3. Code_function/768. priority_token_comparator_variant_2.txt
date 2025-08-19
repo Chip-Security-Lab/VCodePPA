@@ -1,0 +1,1 @@
+Token comparator with priority encoding

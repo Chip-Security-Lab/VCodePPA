@@ -1,0 +1,20 @@
+PPA Report for TokenBucketArbiter.v (Module: TokenBucketArbiter)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 48
+FF Count: 36
+IO Count: 10
+Cell Count: 119
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 412.47 MHz
+Reg-to-Reg Critical Path Delay: 3.048 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 1.611 W

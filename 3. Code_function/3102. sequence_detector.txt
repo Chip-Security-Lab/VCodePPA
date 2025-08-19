@@ -1,0 +1,1 @@
+Detects "101" bit pattern sequence

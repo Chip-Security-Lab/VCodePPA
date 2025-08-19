@@ -1,0 +1,21 @@
+PPA Report for tcam.v (Module: tcam)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 4335
+FF Count: 4096
+IO Count: 168
+Cell Count: 10751
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 272.18 MHz
+End-to-End Path Delay: 11.442 ns
+Reg-to-Reg Critical Path Delay: 5.031 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.492 W

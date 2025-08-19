@@ -1,0 +1,20 @@
+PPA Report for shift_cascade.v (Module: shift_cascade)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 31
+FF Count: 78
+IO Count: 18
+Cell Count: 167
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 877.19 MHz
+Reg-to-Reg Critical Path Delay: 0.931 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.456 W

@@ -1,0 +1,1 @@
+Ring-based shift register counter

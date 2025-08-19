@@ -1,0 +1,20 @@
+PPA Report for int_ctrl_fifo.v (Module: int_ctrl_fifo)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 21
+FF Count: 46
+IO Count: 23
+Cell Count: 136
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 589.28 MHz
+Reg-to-Reg Critical Path Delay: 1.549 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.454 W

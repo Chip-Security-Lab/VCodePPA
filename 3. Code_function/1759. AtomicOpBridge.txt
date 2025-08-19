@@ -1,0 +1,1 @@
+Atomic register with bitwise operations

@@ -1,0 +1,20 @@
+PPA Report for i2c_clock_stretch_master.v (Module: i2c_clock_stretch_master)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 15
+FF Count: 19
+IO Count: 16
+Cell Count: 71
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 902.53 MHz
+Reg-to-Reg Critical Path Delay: 0.903 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.451 W

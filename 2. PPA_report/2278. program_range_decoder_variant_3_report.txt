@@ -1,0 +1,21 @@
+PPA Report for program_range_decoder.v (Module: program_range_decoder)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 27
+FF Count: 37
+IO Count: 31
+Cell Count: 176
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 699.79 MHz
+End-to-End Path Delay: 5.044 ns
+Reg-to-Reg Critical Path Delay: 1.283 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

@@ -1,0 +1,1 @@
+Pipelined toggle with unused multiplier

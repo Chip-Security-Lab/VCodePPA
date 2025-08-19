@@ -1,0 +1,20 @@
+PPA Report for priority_encoder_pipelined.v (Module: priority_encoder_pipelined)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 14
+FF Count: 33
+IO Count: 14
+Cell Count: 89
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 911.58 MHz
+Reg-to-Reg Critical Path Delay: 0.888 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

@@ -1,0 +1,1 @@
+Pipelined threshold crossing edge detector

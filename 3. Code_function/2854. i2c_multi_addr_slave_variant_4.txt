@@ -1,0 +1,1 @@
+I2C slave with AXI4-Lite interface

@@ -1,0 +1,1 @@
+Booth multiplier for 8-bit inputs

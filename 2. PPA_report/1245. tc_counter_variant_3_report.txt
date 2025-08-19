@@ -1,0 +1,21 @@
+PPA Report for tc_counter.v (Module: tc_counter)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 7
+FF Count: 16
+IO Count: 12
+Cell Count: 49
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 651.89 MHz
+End-to-End Path Delay: 5.458 ns
+Reg-to-Reg Critical Path Delay: 1.341 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.454 W

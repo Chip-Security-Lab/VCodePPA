@@ -1,0 +1,20 @@
+PPA Report for adaptive_quant.v (Module: adaptive_quant)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 689
+FF Count: 0
+IO Count: 72
+Cell Count: 1073
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+End-to-End Path Delay: 9.949 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 23.474 W

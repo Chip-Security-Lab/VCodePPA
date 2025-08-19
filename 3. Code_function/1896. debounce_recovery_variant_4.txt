@@ -1,0 +1,1 @@
+Debounces noisy input signal cleanly

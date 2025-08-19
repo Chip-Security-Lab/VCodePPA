@@ -1,0 +1,1 @@
+Buffered clock frequency divider

@@ -1,0 +1,20 @@
+PPA Report for eth_mac_tx.v (Module: eth_mac_tx)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 30
+FF Count: 14
+IO Count: 76
+Cell Count: 259
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 422.65 MHz
+Reg-to-Reg Critical Path Delay: 2.218 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.460 W

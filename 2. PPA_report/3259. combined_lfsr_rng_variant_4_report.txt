@@ -1,0 +1,20 @@
+PPA Report for combined_lfsr_rng.v (Module: combined_lfsr_rng)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 7
+FF Count: 149
+IO Count: 34
+Cell Count: 198
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 975.61 MHz
+Reg-to-Reg Critical Path Delay: 0.820 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.515 W

@@ -1,0 +1,20 @@
+PPA Report for module.v (Module: module)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 5
+FF Count: 15
+IO Count: 14
+Cell Count: 51
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 752.45 MHz
+Reg-to-Reg Critical Path Delay: 1.045 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

@@ -1,0 +1,1 @@
+Bidirectional bit rotator with carry

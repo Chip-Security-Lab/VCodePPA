@@ -1,0 +1,20 @@
+PPA Report for conditional_regfile_pipeline.v (Module: conditional_regfile_pipeline)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 304
+FF Count: 692
+IO Count: 108
+Cell Count: 1419
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 384.32 MHz
+Reg-to-Reg Critical Path Delay: 2.408 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.488 W

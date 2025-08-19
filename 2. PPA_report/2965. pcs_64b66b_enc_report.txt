@@ -1,0 +1,20 @@
+PPA Report for 2965. pcs_64b66b_enc.sv (Module: pcs_64b66b_enc)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 12
+FF Count: 59
+IO Count: 78
+Cell Count: 176
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 823.05 MHz
+Longest Path Delay: 1.075 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.485 W

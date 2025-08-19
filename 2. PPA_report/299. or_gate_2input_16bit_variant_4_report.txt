@@ -1,0 +1,19 @@
+PPA Report for cla_adder_16bit_axi.v (Module: cla_adder_16bit_axi)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 66
+FF Count: 80
+IO Count: 74
+Cell Count: 301
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: N/A (Combinational logic)
+
+POWER METRICS:
+-------------
+Total Power Consumption: 5.714 W

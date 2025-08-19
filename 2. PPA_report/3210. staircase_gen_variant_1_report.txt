@@ -1,0 +1,20 @@
+PPA Report for staircase_gen.v (Module: staircase_gen)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 14
+FF Count: 21
+IO Count: 18
+Cell Count: 81
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 425.17 MHz
+Reg-to-Reg Critical Path Delay: 2.222 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.455 W

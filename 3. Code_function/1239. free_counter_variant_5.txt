@@ -1,0 +1,1 @@
+8-bit counter with terminal count

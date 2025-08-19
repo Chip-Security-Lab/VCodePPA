@@ -1,0 +1,1 @@
+Scannable flip-flop with handshaking protocol

@@ -1,0 +1,1 @@
+Low-power 4-bit Hamming encoder

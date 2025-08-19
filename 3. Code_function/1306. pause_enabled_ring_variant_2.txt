@@ -1,0 +1,1 @@
+Pausable rotating 4-bit ring counter

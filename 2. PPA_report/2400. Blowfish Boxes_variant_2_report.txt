@@ -1,0 +1,20 @@
+PPA Report for blowfish_boxes.v (Module: blowfish_boxes)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 1079
+FF Count: 1473
+IO Count: 173
+Cell Count: 3092
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 346.02 MHz
+Reg-to-Reg Critical Path Delay: 2.671 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.495 W

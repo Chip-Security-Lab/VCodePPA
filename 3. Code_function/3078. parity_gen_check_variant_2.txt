@@ -1,0 +1,1 @@
+Parity generator and error checker

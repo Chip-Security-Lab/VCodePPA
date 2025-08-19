@@ -1,0 +1,1 @@
+Configurable asynchronous-to-synchronous signal converter

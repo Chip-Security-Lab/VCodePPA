@@ -1,0 +1,20 @@
+PPA Report for MemMappedITRC.v (Module: MemMappedITRC)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 64
+FF Count: 145
+IO Count: 33
+Cell Count: 319
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 821.02 MHz
+Reg-to-Reg Critical Path Delay: 1.068 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.455 W

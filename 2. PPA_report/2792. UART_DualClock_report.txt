@@ -1,0 +1,22 @@
+PPA Report for 2792. UART_DualClock.sv (Module: UART_DualClock)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 4
+FF Count: 5
+IO Count: 7
+Cell Count: 29
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 629.33 MHz
+End-to-End Path Delay: N/A (No valid path found) ns
+Reg-to-Reg Critical Path Delay: 1.453 ns
+Detected Clock Signals: tx_clk rx_clk
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.451 W

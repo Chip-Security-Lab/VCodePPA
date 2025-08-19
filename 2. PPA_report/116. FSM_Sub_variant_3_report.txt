@@ -1,0 +1,20 @@
+PPA Report for FSM_Sub_Pipelined.v (Module: FSM_Sub_Pipelined)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 9
+FF Count: 35
+IO Count: 28
+Cell Count: 116
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 674.76 MHz
+Reg-to-Reg Critical Path Delay: 1.305 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.456 W

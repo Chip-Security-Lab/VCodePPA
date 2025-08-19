@@ -1,0 +1,20 @@
+PPA Report for peak_detection_recovery.v (Module: peak_detection_recovery)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 12
+FF Count: 41
+IO Count: 23
+Cell Count: 122
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 486.14 MHz
+Reg-to-Reg Critical Path Delay: 1.756 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

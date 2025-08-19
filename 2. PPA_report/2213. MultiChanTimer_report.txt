@@ -1,0 +1,20 @@
+PPA Report for MultiChanTimer
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 32
+FF Count: 32
+IO Count: 10
+Cell Count: 100
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 538.50 MHz
+Reg-to-Reg Critical Path Delay: 1.682 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.452 W

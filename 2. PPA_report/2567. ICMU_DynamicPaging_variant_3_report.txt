@@ -1,0 +1,20 @@
+PPA Report for PageStorage.v (Module: PageStorage)
+==========================================
+
+FPGA Device: xcku3p-ffva676-2-e (UltraScale+ 16nm Technology)
+
+AREA METRICS:
+------------
+LUT Count: 36
+FF Count: 160
+IO Count: 67
+Cell Count: 337
+
+PERFORMANCE METRICS:
+-------------------
+Maximum Clock Frequency: 968.99 MHz
+Reg-to-Reg Critical Path Delay: 0.913 ns
+
+POWER METRICS:
+-------------
+Total Power Consumption: 0.476 W
